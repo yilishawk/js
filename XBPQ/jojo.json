@@ -29,7 +29,7 @@
 "搜索链接":"href=\"&&\"",
 "搜索副标题":"<span>&&</span>",
 //"搜索后缀":"/detail/",
-"嗅探词":"OSS2#.m3u8#.mp4#.flv#.mp3#.m4a",
+"嗅探词":"x-oss-signature-version#.m3u8#.mp4#.flv#.mp3#.m4a",
 "过滤词":"51.la#cnzz.com#baidu.com#bilibili.com",
 "播放请求头":"",
 "免嗅":"0",
