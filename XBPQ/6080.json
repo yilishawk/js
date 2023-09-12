@@ -26,7 +26,7 @@
 	"简介": " vod_content\"><span>&&</span>",
 	"嗅探词": ".m3u8#m3u8?#.mp4#mp4?#ixigua#.czspp#.flv#.mp3#.m4a#?item/video#is_play_url=1#play/?#qianpailive",
 	"线路数组": "module-tab-item tab-item&&</div>",
-	"线路标题": "data-dropdown-value=\"&&\">[不要:在线观看#极速-01]",
+	"线路标题": "data-dropdown-value=\"&&\">[不包含:在线观看#极速-01]",
 	"播放数组": "module-blocklist scroll-box scroll-box-y&&</div>",
 	"播放列表": "<a&&</a>",
 	"播放标题": "<span>&&</span>",
