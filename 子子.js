@@ -1,6 +1,6 @@
 var rule{
             title: '子子影院',
-            host: 'http://ziziyy1.com/',
+            host: 'http://ziziyy5.com/',
             url: '/fyclass',
             searchUrl: 'http://119.29.15.48:12334/ssszz.php?top=10&q=**',
             searchable: 2,//是否启用全局搜索,
