@@ -23,7 +23,6 @@
     "播放标题":"title=*>&&<",
     "播放列表":"<a&&/a>",
     "播放链接":"href=\"&&\"",
-    "播放链接前缀":"https://www.nmddd.com/",
     "嗅探词":".kohsocialapp.qq.com#.toutiaovod.com#video_mp4#m3u8?#.m3u8#.mp4?#.flv#.mp3#.m4a",
     "过滤词":"51.la#cnzz.com#baidu.com#bilibili.com",
     "播放请求头":"User-Agent$123",
