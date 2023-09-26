@@ -4,7 +4,7 @@
     //"主页url":"https://往往影视.com/",
     "主页url":"https://www.oftens.top",
     "二次截取":"评分排序&&<div id=\"page\">",
-    "数组":"<li&&</div>",
+    "数组":"<a&&</div>",
     "图片":"data-original=\"&&\"",
     "标题":"title=\"&&\"",
     "链接":"href=\"&&\"",
