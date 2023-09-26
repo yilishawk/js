@@ -24,13 +24,6 @@
     "播放链接":"href=\"&&\"",
     "分类url":"https://www.oftens.top/oftensshow/{cateId}-{area}-------{catePg}---{year}.html",
     "分类":"电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman",
-    //"类型":"dianying--动作片$dzp#喜剧片$zjp#爱情片$aqp#科幻片$khp#恐怖片$75#剧情片$76#战争片$19||Tv--大陆剧$neidi#港剧教$11#韩剧$34#日本精品无码$50#乱伦$223",
-    //"类型": "动作片&喜剧片&爱情片&科幻片&恐怖片&剧情片&战争片&惊悚片&奇幻片&动画片||国产剧&港台泰&日韩剧&欧美剧",
-    //"类型值": "dongzuopian&xijupian&aiqingpian&kehuanpian&kongbupian&juqingpian&zhanzhengpian&jingsongpian&qihuanpian&donghuapian||guochanju&gangtaiju&rihanju&oumeiju",
-    //"地区": "内地&香港&美国&韩国||大陆&香港&美国&韩国",
-    //"地区值": "大陆&香港&美国&韩国||内地&香港&美国&韩国",
-    //"时间": "2023&2022&2021&2020||2023&2022&2021&2020",
-    //"时间值": "2023&2022&2021&2020||2023&2022&2021&2020",
  "筛选":{
 "dianshiju":[
   {"key":"cateId","name":"类型","value":[
