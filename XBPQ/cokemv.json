@@ -37,5 +37,5 @@
     "嗅探词":".m3u8#.mp4#.flv#.mp3#.m4a",
     "过滤词":"51.la#cnzz.com#baidu.com#bilibili.com",
     "播放请求头":"User-Agent$123",
-    "免嗅":"0"
+    "免嗅":"1"
 }
