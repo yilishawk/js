@@ -32,7 +32,7 @@
 "分类值":"国产&美剧",
     "嗅探词":"alicloudccp.com#hls.syrme.top#.m3u8?#.mp4#.flv#.mp3#.m4a",
     "播放请求头":"User-Agent$123",
-    "免嗅":"1",
+    "免嗅":"0",
 "分类url":"https://jojo.bdys.top/video/{cateId}?page={catePg}&size=18",
 "筛选":{
 "电影":[
