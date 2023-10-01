@@ -1,7 +1,7 @@
 {
 "站名":"骚火影视",
-"主页url":"https://jojo.bdys.top",
-//"发布页":"",
+"主页url":"https://jiohub.top/",
+"host":"hls.syrme.top",
 //"请求头":"Mozilla/5.0 (iPhone; CPU iPhone OS 15_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/98.0.4758.85 Mobile/15E148 Safari/604.1",
 "二次截取":"<div class=\"content-rigth\">&&<div class=\"content-lift\">",
 "数组":"<a&&</a>",
@@ -33,7 +33,7 @@
     "嗅探词":"alicloudccp.com#hls.syrme.top#.m3u8?#.mp4#.flv#.mp3#.m4a",
     "播放请求头":"User-Agent$123",
     "免嗅":"0",
-"分类url":"https://jojo.bdys.top/video/{cateId}?page={catePg}&size=18",
+"分类url":"https://jiohub.top/video/{cateId}?page={catePg}&size=18",
 "筛选":{
 "电影":[
 {
