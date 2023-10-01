@@ -3,7 +3,7 @@
     "站名": "cokemv",
     "首页": "电影",
     //"主页url": "https://cokemv.org/xgapp.php/v3/video?tid=",
-   //"请求头": "User-Agent$okhttp/3.12.0",
+     "请求头": "User-Agent$okhttp/3.12.0",
     "分类": "电影&电视剧&综艺&动漫",
     "分类值": "1&2&4&3",
     "分类url": "https://cokemv.org/xgapp.php/v3/video?tid={cateId}&class={class}&area={area}&pg={catePg}",
@@ -32,10 +32,10 @@
     "播放二次截取": "",
     "播放列表": "表&&表",
     "播放标题": "题&&题",
-    "播放链接": "链&&链"
+    "播放链接": "链&&链",
     //"跳转播放链接": "url\"*\"&&\"",
-    //"嗅探词":"m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
-    //"过滤词":"51.la#cnzz.com#baidu.com#bilibili.com",
-    //"播放请求头":"",
-    //"免嗅":"0"
+    "嗅探词":".m3u8#.mp4#.flv#.mp3#.m4a",
+    "过滤词":"51.la#cnzz.com#baidu.com#bilibili.com",
+    "播放请求头":"User-Agent$123",
+    "免嗅":"0"
 }
