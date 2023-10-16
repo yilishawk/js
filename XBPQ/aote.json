@@ -1,7 +1,7 @@
 {
 "站名":"奥特",
-"主页url":"https://auete.art/",
-//发布页https://haozhansou.com/
+"主页url":"https://haozhansou.com/",
+//发布页https://auete.site/
 "二次截取":"<div class=\"picture_list_container\">&&<ul class=\"pagination mb-3 justify-content-center flex-wrap\">",
 "数组":"<li&&</div>",
 "图片":"src=\"&&\"[替换:/img.php?url=>>空]",
