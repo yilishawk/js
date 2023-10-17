@@ -18,7 +18,7 @@
 "播放列表":"<li&&</li>",
 "播放标题":"title=\"&&\"",
 "播放链接":"href=\"&&\"",
-"搜索url":"https://haozhansou.com/auete2so.php?searchword={wd}&limit=500",
+"搜索url":"http://www.aueteys.com/auete2so.php?searchword={wd}",
 "搜索模式":"1",
 "搜索二次截取":"<ul class=\"list-unstyled threadlist mb-0\">&&id=\"footer\">",
 "搜索数组":"<a&&</li>",
