@@ -13,7 +13,7 @@ var rule={
         ]
     },
     //searchUrl:'/page/fypage?s=**',
-    searchUrl:'/xssearch?q=**&limit=500',
+    searchUrl:'/xssearch?q=**',
     searchable:2,
     filterable:0,
     headers:{
