@@ -1,7 +1,7 @@
 var rule={
     title:'厂长资源',
-    //host:'https://www.czzy.site',
-    host:'https://www.cz0101.com',
+    //host:'https://www.cz01.vip/',
+    host:'https://cz01.pw/',
     hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});HOST = jsp.pdfh(html,"h3&&a&&href")',
     url:'/fyclass/page/fypage',
     filterable:0,//是否启用分类筛选,
