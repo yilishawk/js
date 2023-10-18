@@ -33,7 +33,7 @@
 "嗅探词": ".m3u8?pid=#hls.syrme.top/v1/#https://cn-beijing-data.aliyundrive.net#.m3u8#.mp4#.flv#stariverpan#.m4a#data.aliyundrive.net",
 "过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
     //"播放请求头":"User-Agent$123",
-    "免嗅":"0",
+    //"免嗅":"0",
 "分类url":"https://jiohub.top/video/{cateId}?page={catePg}&size=18",
 "筛选":{
 "电影":[
