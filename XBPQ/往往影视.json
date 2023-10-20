@@ -33,7 +33,7 @@
     "嗅探词":"data.aliyundrive.net#shortv.cdp.qq.com#.m3u8#.mp4#.flv#.mp3#.m4a",
     "过滤词":"51.la#cnzz.com#baidu.com#bilibili.com",
     "播放请求头":"User-Agent$123",
-    "免嗅":"0",
+    "免嗅":"1",
  "筛选":{
 "dianshiju":[
   {"key":"cateId","name":"类型","value":[
