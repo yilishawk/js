@@ -28,7 +28,7 @@
     "线路标题": "\"&&\"",
     "播放数组": "\"url\":&&,[替换:\">>链表题#$>>题链#\\#>>链表表题]",
     "播放二次截取": "",
-    "播放列表": "表&&表[替换:kemi>>https://km.imayday.cn/player/analysis.php?v=kemi#SMD>>https://bfq.imayday.cn/player/analysis.php?v=SMD]",
+    "播放列表": "表&&表[替换:kemi>>https://km.imayday.cn/player/analysis.php?v=kemi#SMD>>https://bfq.imayday.cn/player/analysis.php?v=SMD#km>>https://bfq.imayday.cn/player/?url=km]",
     "播放标题": "题&&题",
     "播放链接": "链&&链",
     //"播放链接前缀": "parse_api\":\"&&\"",
