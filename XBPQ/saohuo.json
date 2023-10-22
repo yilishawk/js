@@ -2,7 +2,7 @@
 "站名":"骚火影视",
 "主页url":"https://saohuo.vip/",
 //"发布页":"http://shapp.us/",
-"倒序播放": "0",
+"倒序播放": "1",
 "请求头":"Mozilla/5.0 (iPhone; CPU iPhone OS 15_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/98.0.4758.85 Mobile/15E148 Safari/604.1",
 //"二次截取":"id=\"contents\">&&id=\"aapages\">",
 "数组":"<div class=\"v_img\">&&/div>",
