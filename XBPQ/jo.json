@@ -8,7 +8,7 @@
 "副标题": "class=\"item-speed\">&&</p>",
 "链接": "href=\"&&\"",
 "播放数组": "<div class=\"share-item-copy\">&&</div>",
-//"播放链接": ".btn-down&&a&&href",
+"播放链接": "href=\"&&\"+/folder/6537bfc17de527d25fd04d61b246cc8b6a5496b1",
 
 //"播放链接":"href=\"&&\"",
 "嗅探词": "hls.syrme.top#aliyundrive.net#cn-beijing-data.aliyundrive.net#alicloudccp.com#srcurity-token",
