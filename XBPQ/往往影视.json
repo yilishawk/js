@@ -4,7 +4,7 @@
     //"主页url":"https://往往影视.com/",
     "请求头":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
     "主页url":"https://www.oftens.top",
-    "二次截取":"评分排序&&<div id=\"page\">",
+    "二次截取":"评分排序&&id=\"page\">",
     "数组":"<a&&</div>",
     "图片":"data-original=\"&&\"",
     "标题":"title=\"&&\"",
