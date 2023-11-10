@@ -31,8 +31,8 @@
 "过滤词":"51.la#cnzz.com#baidu.com#bilibili.com",
 "播放请求头":"User-Agent$123",
 //"免嗅":"0",
-"分类":"国产剧&电影&欧美剧&韩剧",
-"分类值":"domestic-drama&new-movie&american-drama&korean-drama",
+"分类":"电视剧&电影&欧美剧&韩剧",
+"分类值":"tv-drama&new-movie&american-drama&korean-drama",
 "分类url":"https://www.subaibaiys.com/{cateId}/page/{catePg}",
 "筛选":{
 "1":[
