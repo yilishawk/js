@@ -2,7 +2,7 @@
     "作者": "",
     "站名": "51追剧",
     //"首页": "电影",
-     "请求头": "User-Agent$okhttp/3.12.0",
+     //"请求头": "User-Agent$okhttp/3.12.0",
     "分类": "电影&电视剧&综艺&动漫",
     "分类值": "1&2&4&3",
     "分类url": "https://www.fw11.vip/api.php/app/video?tid={cateId}&pg={catePg}",
