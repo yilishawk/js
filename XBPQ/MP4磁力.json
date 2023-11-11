@@ -15,7 +15,7 @@
 "副标题":"rate badge\">&&</span>",
 "搜索url":"https://www.mp4us.com/search/{wd}-{pg}.html",
 "搜索模式": "1",
-"搜索二次截取": "<div id=\"list_all\">&&<div class=\"text-center\">",
+"搜索二次截取": "<div id=\"list_all\">&&</div>",
 "搜索数组": "<li>&&</a>",
 "搜索图片": "data-original=\"&&\"",
 "搜索标题": "alt=\"《&&》\"",
