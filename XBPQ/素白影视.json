@@ -2,6 +2,7 @@
 "站名":"素白白影视",
 "主页url":"https://www.subaibaiys.com/",
 //发布页https://subaibai.vip/
+ "请求头":"Referer$https://www.subaibaiys.com/",
 "二次截取":"<ul>&&<div class=\"pagenavi_txt\">",
 "数组":"<li&&</a>",
 "图片":"data-original=\"&&\"",
