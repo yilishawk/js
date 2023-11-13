@@ -1,6 +1,6 @@
 {
 "站名":"厂长影视",
-"主页url":"https://cz01.pw/",
+"主页url":"https://www.czzy88.com/",
 //发布页https://www.czzy.site/https://www.cz01.vip/
 "验证":"滑动验证",
 "请求头": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
@@ -21,7 +21,7 @@
 "播放标题":">&&<",
 "播放链接":"href=\"&&\"",
 //"搜索url": "/index.php?m=vod-search;post;wd={wd}&search=",
-"搜索url":"https://cz01.pw/?s={wd}&limit=500",
+"搜索url":"https://www.czzy88.com/?s={wd}&limit=500",
 "搜索模式":"1",
 "搜索二次截取":"<div class=\"bt_img mi_ne_kd search_list\">&&<div class=\"pagenavi_txt\">",
 "搜索数组":"<li&&</a>",
@@ -36,6 +36,6 @@
 "免嗅":"0",
 "分类":"最新电影&电影&国产剧&连续剧",
 "分类值":"zuixindianying&movie_bt/movie_bt_series/dyy&gcj&dsj",
-"分类url":"https://cz01.pw/{cateId}/page/{catePg}",
+"分类url":"https://www.czzy88.com/{cateId}/page/{catePg}",
  "筛选":"0"
 }
