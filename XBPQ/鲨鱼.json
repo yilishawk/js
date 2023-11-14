@@ -25,7 +25,7 @@
 "搜索链接": "href=\"&&\"",
 "搜索链接前缀": "",
 "线路二次截取":"id=\"tv-res-choose\"&&</ul>+页面全屏",
-"线路数组":"<li&&</li>[替换:爱奇艺>>爱奇云#腾讯>>腾讯云#优酷>>优酷云]",
+"线路数组":"<li&&</li>[替换:爱奇艺>>爱奇云#腾讯>>腾讯云#优酷>>优酷云#芒果TV(优先手机端)>>mgyun]",
 "线路标题":"\">&&</a>",
 "播放二次截取":"页面全屏&&如遇播放失败请[替换:am-tab-panel am-fade am-in am-active>>am-btn-group play-source-group#am-dropdown am-dropdown-up>>am-btn-group play-source-group#am-tab-panel am-fade tv-res am-scrollable-vertical>>am-btn-group play-source-group#am-tab-panel am-fade am-in am-active am-scrollable-vertical>>am-btn-group play-source-group]",
 "播放数组":"div class=\"am-btn-group play-source-group\"&&</div>[替换:<button>>我#</button>>>你]",
