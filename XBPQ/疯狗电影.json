@@ -5,9 +5,7 @@
     "站名":"疯狗影视",
       // "发布页":"www.fabudy.com", 
     "主页url":"https://m.fenggoudy3.com/",
-    
-    "简介":"【4K版影音天堂App】下载地址tvbox.vip公众号：影音天堂。+该站点无剧情介绍，暂时无法提供简介…",
-        
+  
     "数组":"<li class=\"col-xs-4\">&&/span>",
     
     "标题":"alt=\"&&\"",
@@ -23,7 +21,10 @@
     "线路数组":"glyphicon glyphicon-facetime-video ff-text\">&&</div>[不包含:极速]",
     
     "线路标题":"</span>&&</h2>",
-    
+    "影片类型": "年份：&&</dd>",
+    "导演": "导演：&&</dd>",
+    "主演": "主演：&&</dd>",
+     "简介": "tab-pane fade vod-nav-content\">&&</div>",
     "播放数组":"<ul class=\"list-unstyled row&&</ul>",
     
     "播放标题":">&&<",
