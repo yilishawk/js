@@ -1,8 +1,9 @@
 {
 "站名":"素白白影视",
 "主页url":"https://www.subaibaiys.com/",
+"Cookie":"__51vcke__JkC3MdljYqnA6RwM=b78034fc-81e5-50b0-901d-fb0e2e867c8b; __51vuft__JkC3MdljYqnA6RwM=1681798519148; myannoun=1; Hm_lvt_1e486798fa22a371daf12107dc56f374=1699677703,1700900378; __51uvsct__JkC3MdljYqnA6RwM=14; PHPSESSID=m1b8cdk7fb77t82f5jopq3f2ja; wordpress_logged_in_3eba096b078f0a37442e539506ddc5ea=mimang%7C1702113455%7Cr6nhbkN1EIQqtFppLmQ7bVWtyGt0pAOMU3DA8UkBKpy%7C18dd0c796a2f1b46cb227f41403d1e34af86cb3bee1b1ecdcc5d52cfa5f90fba; wpdiscuz_nonce_3eba096b078f0a37442e539506ddc5ea=32d1b93a6c; __vtins__JkC3MdljYqnA6RwM=%7B%22sid%22%3A%20%22e27c71f5-c2ea-5fc3-9436-75e7b80c05c6%22%2C%20%22vd%22%3A%206%2C%20%22stt%22%3A%20230218%2C%20%22dr%22%3A%2076333%2C%20%22expires%22%3A%201700905660183%2C%20%22ct%22%3A%201700903860183%7D; Hm_lpvt_1e486798fa22a371daf12107dc56f374=1700903862",
 //发布页https://subaibai.vip/
- "请求头":"Referer$https://www.subaibaiys.com/",
+ "请求头":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
 "二次截取":"<ul>&&<div class=\"pagenavi_txt\">",
 "数组":"<li&&</a>",
 "图片":"data-original=\"&&\"",
