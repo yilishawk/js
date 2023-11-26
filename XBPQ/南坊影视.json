@@ -1,13 +1,13 @@
 {
-        "站名": "南坊影视",
-        "主页url": "https://www.nfapp.fun/appto/v1/home/cateData?id=1",
-        "请求头": "User-Agent$Dart/2.10 (dart:io)",
+        "站名": "爱看影视",
+        "主页url": "http://152.136.162.128:487/appto/v1/home/cateData?id=1",
+        "请求头": "User-Agent$Dart/2.19 (dart:io)",
         "二次截取": "\"data\"*[&&]",
         "数组": "{&&}",
-        "图片": "\"vod_pic\"*\"&&\"[替换:mac>>http]",
+        "图片": "\"vod_pic\"*\"&&\"",
         "标题": "\"vod_name\"*\"&&\"",
         "副标题": "\"vod_remarks\"*\"&&\"",
-        "链接": "https://www.nfapp.fun/appto/v1/vod/getVod?id=+\"vod_id\":&&,+&__platform=android&__ic=mssY6U737YHaGX4OjrBG8dnK8QrSnWRVo24nsmBF3LCxbm6oI23agJvbenxkbUneTU7oe4X%2F0N2hN%2BPw%2FxQiIVH%2BG7P4Yx0pESg0pQuc6PET1TqEiszTGAj%2Bay0GAXU1FlfHtuzo8zyrK1KkerSdLQ%3D%3D",
+        "链接": "http://152.136.162.128:487/addons/apptov4/app.php/v1/vod/getVod?id=+\"vod_id\":&&,+_platform=android&__ic=lqGGz9NM4aHVoD8jSoFFcmfeQ0zcjkG0a6dOiCPe4lHMGzMEigPzyXuhccQRZf6D75pAyu5qXZa8Woq50p8Xvf11kZq38Yk6UAkKR0nWIPWyUN%2BrL68%2FTxsj%2Fs%2F%2Bdvz3d9mhjzeyYUyI71OEzzkEnw%3D%3D",
         "线路数组": "\"player_info\":{&&}",
         "线路标题": "\"show\"*\"&&\"",
         "导演": "vod_director\"*\"&&\"",
@@ -18,9 +18,10 @@
         "播放列表": "{&&}",
         "跳转播放链接": "\"url\"*\"&&\"",
         "播放标题": "\"name\"*\"&&\"",
-        "跳转解析": "默认$空#主线[A]$http://110.42.2.247:880/analysis/json/?uid=2497&my=bgkmoqsuwBDILMPQU2&format=json&url=#主线[B]$https://daina.hk//api//?key=41b637ec6192036e0c35960addd26615&url=#主线[C]$https://wpjx.chanchuan.top/znjsonapi.php?url=#主线[D]$https://sp.huihuidns.cn//api//?key=aTRZhPX8ESjgWVdwDR&url=",
+        "跳转解析": "默认$http://api.xiaomaomi.tv//api//?key=7c0a5cb3972cd036ec85a0a7b1dbdb62&url=#独家4K$http://121.205.88.143:22222//api//?key=pdTdPuI1eeJoDdnEK5&url=#秒播③$https://htp.behds.cn//json//qp2023//jmznjson.php?url=",
         "播放链接": "解析+\"url\"*\"&&\"",
-        "搜索url": "https://www.nfapp.fun/appto/v1/vod/getVodSearch?wd={wd}&page=1&type",
-        "分类url": "https://www.nfapp.fun/appto/v1/vod/getLists?area={area}&lang={lang}&year={year}&type_id={cateId}&area=&order=time&type_name=&page={catePg}&pageSize=21;;u0t",
-        "分类": "电影$2#电视剧$1#综艺$4#动漫$3"
+        "搜索url": "http://152.136.162.128:487/addons/apptov4/app.php/v1/vod/getVodSearch?wd={wd}&page=1&type",
+        "搜索模式": "1",
+        "分类url": "http://152.136.162.128:487/addons/apptov4/app.php/v1/vod/getLists?area=&lang=&year=&order=time&type_id={cateId}&type_name=&page={catePg}&pageSize=21;;u0",
+        "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
       }
