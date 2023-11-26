@@ -30,7 +30,7 @@
     "播放标题":">&&<",
     
     "播放列表":"<a&&/a>",
-    
+     "播放请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
     "分类url":"https://m.fenggoudy3.com/list-select-id-{cateId}-type-{class}-area-{area}-year-{year}-star--state--order-addtime-p-{catePg}.html;;akd0",
     
     "分类":"电影$1#电视剧$2#综艺$3#动漫$4"}
