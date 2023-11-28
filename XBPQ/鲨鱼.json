@@ -42,6 +42,7 @@
 //"过滤词":"url=#?v=https",
 //"播放请求头":"",
 //"免嗅":"0",
+"播放请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
 "分类":"电影$movie#电视剧$tv#综艺$variety",
 "分类url":"https://www.m4411.com/{cateId}.html?cat={class}&area={area}&year={year}&act=&rank=rankhot&pageno={catePg}"
 }
