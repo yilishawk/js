@@ -1,141 +1,26 @@
 {
-"站名":"素白白影视",
-"主页url":"https://www.subaibaiys.com/",
-"Cookie":"__51vcke__JkC3MdljYqnA6RwM=b78034fc-81e5-50b0-901d-fb0e2e867c8b; __51vuft__JkC3MdljYqnA6RwM=1681798519148; myannoun=1; Hm_lvt_1e486798fa22a371daf12107dc56f374=1699677703,1700900378; __51uvsct__JkC3MdljYqnA6RwM=14; PHPSESSID=m1b8cdk7fb77t82f5jopq3f2ja; wordpress_logged_in_3eba096b078f0a37442e539506ddc5ea=mimang%7C1702113455%7Cr6nhbkN1EIQqtFppLmQ7bVWtyGt0pAOMU3DA8UkBKpy%7C18dd0c796a2f1b46cb227f41403d1e34af86cb3bee1b1ecdcc5d52cfa5f90fba; wpdiscuz_nonce_3eba096b078f0a37442e539506ddc5ea=32d1b93a6c; __vtins__JkC3MdljYqnA6RwM=%7B%22sid%22%3A%20%22e27c71f5-c2ea-5fc3-9436-75e7b80c05c6%22%2C%20%22vd%22%3A%206%2C%20%22stt%22%3A%20230218%2C%20%22dr%22%3A%2076333%2C%20%22expires%22%3A%201700905660183%2C%20%22ct%22%3A%201700903860183%7D; Hm_lpvt_1e486798fa22a371daf12107dc56f374=1700903862",
-//发布页https://subaibai.vip/
- "请求头":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
-"二次截取":"<ul>&&<div class=\"pagenavi_txt\">",
-"数组":"<li&&</a>",
-"图片":"data-original=\"&&\"",
-"标题":"alt=\"&&\"",
-"链接":"href=\"&&\"",
-"副标题":"<span>&&</span>",
-"线路数组":"<div class=\"mi_paly_box\">&&</div>",
-"线路标题":"<span>&&</span>",
-"播放数组":"<div class=\"paly_list_btn\">&&</div>",
-"状态":"上映：&&</li>",
-"导演":"导演：&&</li>",
-"主演":"主演：&&</li>",
-"简介":"<div class=\"yp_context\">&&</p>",
-"播放列表":"<a&&/a>",
-"播放标题":">&&<",
-"播放链接":"href=\"&&\"",
-"搜索url":"/page/1?s={wd}",
-"搜索模式":"1",
-//"搜索二次截取":"<div class=\"bt_img mi_ne_kd search_list\">&&<div class=\"pagenavi_txt\">",
-"搜索数组":"<li>&&</a>",
-"搜索图片":"data-original=\"&&\"",
-"搜索标题":"alt=\"&&\"",
-"搜索链接":"href=\"&&\"",
-"搜索副标题":"<span>&&</span>",
-//"搜索后缀":"/detail/",
-"嗅探词":"wangchuanxin.top#.m3u8#.mp4#.flv#.mp3#.m4a",
-"过滤词":"51.la#cnzz.com#baidu.com#bilibili.com",
-"播放请求头":"User-Agent$123",
-//"免嗅":"0",
-"分类":"电视剧&电影&欧美剧&韩剧",
-"分类值":"tv-drama&new-movie&american-drama&korean-drama",
-"分类url":"https://www.subaibaiys.com/{cateId}/page/{catePg}",
-"筛选":{
-"1":[
-{
-"key":"cateId",
-"name":"类型",
-"value":[
-{"n":"全部","v":"1"},
-{"n":"动作片","v":"5"},
-{"n":"喜剧片","v":"6"},
-{"n":"爱情片","v":"7"},
-{"n":"科幻片","v":"8"},
-{"n":"恐怖片","v":"9"},
-{"n":"剧情片","v":"10"},
-{"n":"战争片","v":"11"},
-{"n":"奇幻片","v":"16"},
-{"n":"惊悚片","v":"17"},
-{"n":"动画片","v":"18"},
-{"n":"悬疑片","v":"19"},
-{"n":"犯罪片","v":"20"},
-{"n":"记录片","v":"21"},
-{"n":"音乐片","v":"22"}
-]
-},
-{
-"key":"by",
-"name":"排序",
-"value":[
-{"n":"时间","v":"time"},
-{"n":"人气","v":"hits"},
-{"n":"评分","v":"score"}
-]
-}
-],
-"2":[
-{
-"key":"cateId",
-"name":"类型",
-"value":[
-{"n":"全部","v":"2"},
-{"n":"大陆","v":"12"},
-{"n":"港剧","v":"13"},
-{"n":"韩剧","v":"14"},
-{"n":"美剧","v":"15"},
-{"n":"日剧","v":"24"},
-{"n":"台剧","v":"25"},
-{"n":"泰剧","v":"26"}
-]
-},
-{
-"key":"by",
-"name":"排序",
-"value":[
-{"n":"时间","v":"time"},
-{"n":"人气","v":"hits"},
-{"n":"评分","v":"score"}
-]
-}
-],
-"3":[
-{
-"key":"cateId",
-"name":"类型",
-"value":[
-{"n":"全部","v":"3"},
-{"n":"大陆综艺","v":"28"},
-{"n":"港台综艺","v":"29"},
-{"n":"日韩综艺","v":"30"},
-{"n":"欧美综艺","v":"31"}
-]
-},
-{
-"key":"by",
-"name":"排序",
-"value":[
-{"n":"时间","v":"time"},
-{"n":"人气","v":"hits"},
-{"n":"评分","v":"score"}
-]
-}
-],
-"4":[
-{
-"key":"cateId",
-"name":"类型",
-"value":[
-{"n":"全部","v":"4"},
-{"n":"国产动漫","v":"32"},
-{"n":"日本动漫","v":"33"},
-{"n":"其他动漫","v":"35"}
-]
-},
-{
-"key":"by",
-"name":"排序",
-"value":[
-{"n":"时间","v":"time"},
-{"n":"人气","v":"hits"},
-{"n":"评分","v":"score"}
-]
-}
-]
-}
+
+  "站名": "素白白影视",
+  "主页url": "https://www.subaibaiys.com",
+  "请求头":"Referer$https://www.subaibaiys.com/#Cookie$__51vcke__JkC3MdljYqnA6RwM=dc651fb5-c227-59f1-bb47-f9fa6f7ac8b0; __51vuft__JkC3MdljYqnA6RwM=1689856812283; myannoun=1; __51uvsct__JkC3MdljYqnA6RwM=3; Hm_lvt_1e486798fa22a371daf12107dc56f374=1690021969,1692584241; wpdiscuz_nonce_3eba096b078f0a37442e539506ddc5ea=6e04c4f360; esc_search_captcha=1; result=40; __vtins__JkC3MdljYqnA6RwM=%7B%22sid%22%3A%20%221e0edb96-98b2-5866-8147-e5ccea838ce3%22%2C%20%22vd%22%3A%205%2C%20%22stt%22%3A%201973422%2C%20%22dr%22%3A%2012475%2C%20%22expires%22%3A%201692588014577%2C%20%22ct%22%3A%201692586214577%7D; Hm_lpvt_1e486798fa22a371daf12107dc56f374=1692586215",
+  "分类": "电影&电视剧&热门电影&高分电影&动漫电影&香港经典电影&国产剧&欧美剧&韩剧&动漫剧",
+  "分类值": "new-movie&tv-drama&hot-month&high-movie&cartoon-movie&hongkong-movie&domestic-drama&american-drama&korean-drama&anime-drama",
+  "分类url": "https://www.subaibaiys.com/{cateId}/page/{catePg};;aks2",
+  "数组": "<li>&&</li>",
+  "副标题": "class=\"jidi\"><span>&&</span>",
+  "搜索模式": "1",
+  "搜索url": "https://www.subaibaiys.com/?s={wd}",
+  "影片年代": "年份：&&</li>",
+  "影片地区": "地区：&&</li>",
+  "影片类型": "类型：&&</li>",
+  "导演": "导演：&&</li>",
+  "主演": "主演：&&</li>",
+  "嗅探词":".m3u8#.mp4#/m3/",
+  "简介": "yp_context\">&&</p>",
+  "线路数组": "mi_paly_box\">&&</div>",
+  "线路标题": "ypxingq_t\">&&<span>[替换:在线播放>>素白线路]",
+  "播放数组": "<div class=\"paly_list_btn\">&&</div>",
+  "播放列表": "<a&&/a>",
+  "播放标题": ">&&<[替换:立即播放>>空]",
+  "播放链接": "href=\"&&\""
 }
