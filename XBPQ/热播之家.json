@@ -33,7 +33,7 @@
 "播放请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
 "免嗅":"0",
 "分类":"国产剧$13#电影$1#电视剧$2#综艺$3",
-"分类url":"https://rebozj.pro/show/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+"分类url":"https://rebozj.pro/show/{cateId}-{area}--{class}-----{catePg}---{year}.html;;akv",
 "筛选":{
 "1":[
 {
