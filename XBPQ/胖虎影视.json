@@ -3,7 +3,7 @@
 	"站名": "胖虎影视",
 	"主页url": "https://physkan.com/",
 	//"发布页": "https://www.cdnkan.top/",
-    "分类": "电视剧$2#电影$1#综艺$3#动漫$4#bilibili$20#",
+    "分类": "电视剧$2#电影$1#综艺$3#动漫$4",
 
 	"分类url": "https://physkan.com/vodshow/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
                 "二次截取": "评分排序&&<div id=\"page\">",
