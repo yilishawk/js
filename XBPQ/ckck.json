@@ -1,10 +1,10 @@
 {
-  "作者": "心魔",
+  "作者": "凯哥",
   "站名": "ckck",
   "主页url": "https://www.03yy.co/",
   "发布": "https://www.ckck.me/",
   
-  "分类": "电影$1#剧集$2#动漫$3#综艺$4#",
+  "分类": "国产剧$13#电影$1#剧集$2#动漫$3#综艺$4#",
   
   "分类url": "https://www.03yy.co/search.php?page={catePg}&searchtype=5&order=time&tid={cateId}&year={year}&area={area}",
   "数组": "<div class=\"m-pic-l pic-height-a\">&&</div>",
