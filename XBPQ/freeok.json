@@ -6,8 +6,7 @@
   
   "分类": "电影$1#剧集$2#动漫$3#综艺$4#",
   
-  "分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-  
+  "分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}--{class}-----{catePg}---{year}.html",
   "数组": "<a&&class=\"module-poster-item-title\"",
   "副标题": "title\">&&</div>",
   
