@@ -29,9 +29,9 @@
 "搜索链接":"",
 "搜索副标题":"",
 "搜索后缀":"/voddetail/",
-"嗅探词":"125.72.230.142#.mp4?#.m3u8#.mp4#.flv#.mp3#.m4a",
-"过滤词":"51.la#cnzz.com#baidu.com#bilibili.com",
-"播放请求头":"",
+//"嗅探词":"125.72.230.142#.mp4?#.m3u8#.mp4#.flv#.mp3#.m4a",
+//"过滤词":"51.la#cnzz.com#baidu.com#bilibili.com",
+"播放请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
 //"免嗅":"1",
 "分类":"电视剧$2#电影$1#美剧$美剧#韩剧$韩剧",
 "分类url":"https://www.mervod.com/vodshow/{cateId}-{area}--{class}-----{catePg}---.html"
