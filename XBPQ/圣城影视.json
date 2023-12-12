@@ -22,13 +22,14 @@
 	"导演": "导演：&&</p>",
 	"主演": "主演：&&</p>",
 	"简介": "video-text\">&&</div>",
-	"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
+	"嗅探词":"jxjson.sc1080.top#.m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
 	"线路数组": "\"module-tab-item tab-item\"&&</div>",
 	"线路标题": "<span>&&</span>",
 	"播放数组": "\"module-blocklist\"&&</div>",
 	"播放列表": "a&&</a>",
 	"播放标题":"",
 	"播放链接": "href=\"&&\"",
+	"播放请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
 	"筛选": {
 		"1": [
 			{
