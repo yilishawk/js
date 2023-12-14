@@ -34,7 +34,7 @@
 "二次跳转播放链接":"https://data.m3u8.in/api.php?url=+Url = \"&&\"+&sign=+Sign = \"&&\"+&form=+From = \"&&\"",
 "三次跳转播放链接":"url\":\"&&\"",
 //"嗅探词":"125.72.230.142#.mp4?#.m3u8#.mp4#.flv#.mp3#.m4a",
-"过滤词":"data.m3u8.in#51.la#cnzz.com#baidu.com#bilibili.com",
+//"过滤词":"data.m3u8.in#51.la#cnzz.com#baidu.com#bilibili.com",
 //"播放请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
 //"免嗅":"1",
 "分类":"电视剧$2#电影$1#美剧$美剧#韩剧$韩剧",
