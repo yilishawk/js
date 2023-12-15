@@ -30,9 +30,9 @@
     "播放链接":"href=\"&&\"",
     "分类url":"https://www.nkvod.com/show/{cateId}--------{catePg}---{year}.html",
     "分类":"国产剧$13#电影$1#电视剧$2#综艺$3#动漫$4",
-    "嗅探词":"adsmind.ugdting.com#.mp4#.m3u8#.mp4?#.m4a",
-    //"过滤词":"51.la#cnzz.com#baidu.com#bilibili.com",
-    //"播放请求头":"User-Agent$123",
+    "嗅探词":"adsmind.ugdting.com#.mp4?#.m3u8#.mp4?#.m4a",
+    "过滤词":"op.m3u8zy.fun#51.la#cnzz.com#baidu.com#bilibili.com",
+    "播放请求头":"User-Agent$123",
     //"免嗅":"1",
  "筛选":{
 "2":[
