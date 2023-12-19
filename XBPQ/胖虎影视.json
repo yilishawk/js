@@ -31,6 +31,8 @@
 	"播放列表": "",
 	"播放标题":"",
 	"播放链接": "href=\"&&\"",
+  "跳转播放链接数组":"<div class=\"player-box\">&&</script>",
+  "跳转播放链接":"\"url\":\"&&\"",
   "播放请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
   "筛选":{
 "1":[
