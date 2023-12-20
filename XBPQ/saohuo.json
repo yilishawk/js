@@ -21,9 +21,9 @@
 "播放列表":"<a&&</a>",
 "播放标题":"title=\"&&\"",
 "播放链接":"href=\"&&\"",
-"跳转播放链接":"<iframe src=\"&&\"",
-"二次跳转播放链接":"https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
-"三次跳转播放链接":"\"url\"*\"&&\"",
+//"跳转播放链接":"<iframe src=\"&&\"",
+//"二次跳转播放链接":"https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
+//"三次跳转播放链接":"\"url\"*\"&&\"",
 "搜索url":"https://saohuo.vip/search.php?searchword={wd}&limit=500",
 //https://saohuo.vip/search.php?page={catePg}&searchword={wd}&searchtype=
 "搜索模式":"1",
