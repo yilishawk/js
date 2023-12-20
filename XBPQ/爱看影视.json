@@ -25,6 +25,9 @@
         "播放数组": "module-play-list-base\">&&</div>",
         "播放标题": "<span>&&</span>",
         "播放列表": "<a&&</a>",
+        "跳转播放链接数组":"<div class=\"module module-player\">&&</script>",
+        "跳转播放链接":"https://jx3.xn--1lq90i13mxk5bolhm8k.xn--fiqs8s/player/ec.php?code=ak&if=1&url=+url\":\"&&\"",
+        "二次跳转播放链接":"\"url\":\"&&\"",
         "分类url": "https://www.3ayy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;a",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
       }
