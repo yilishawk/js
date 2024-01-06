@@ -12,7 +12,7 @@
   "标题": "vod_name\"*\"&&\"",
   "副标题": "vod_remarks\"*\"&&\"",
   "链接": "https://leshizyapi.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,",
-  "搜索url": "https://kuaikanzy.net/index.php/ajax/suggest?mid=1&wd={wd}&limit=500",
+  "搜索url": "https://leshizyapi.com//api.php/provide/vod?ac=detail&wd={wd}",
   "搜索模式": "1",
   "搜索二次截取": "list\":[&&]",
   "搜索数组": "{&&}",
