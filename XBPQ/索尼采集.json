@@ -16,7 +16,7 @@
   "搜索模式": "0",
   "搜索二次截取": "list\":[&&]",
   "搜索数组": "{&&}",
-  "搜索图片": "pic\"*\"&&\"",
+  "搜索图片": "pic\"\"&&\"",
   "搜索标题": "name\":\"&&\"",
   "搜索副标题": "vod_remarks\"*\"&&\"",
   "搜索链接": "https://suoniapi.com/api.php/provide/vod/?ac=list&ac=detail&ids=+id\":&&,",
