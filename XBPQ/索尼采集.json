@@ -14,7 +14,7 @@
   "链接": "https://suoniapi.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,",
   "搜索url": "https://suonizy.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=500",
   "搜索模式": "0",
-  "搜索二次截取": "list\":[&&]",
+  "搜索二次截取": "\"list\":[&&]",
   "搜索数组": "{&&}",
   "搜索图片": "pic\"\"&&\"",
   "搜索标题": "name\":\"&&\"",
