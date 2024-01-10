@@ -32,7 +32,7 @@
     "播放标题": "题&&题",
     "跳转解析": "柒月$https://jiexi.xn--654a.cc/home/api?type=ys&uid=12199190&key=adeilprsLPSU034578&url=#柒月②号$https://ff.imayday.cn/api/?key=R0f1mwIXkH3nx1pv8W&url=#腾讯$http://qyy.imayday.cn/json.php?url=#爱奇艺$http://qyy.imayday.cn/json.php?url=#优酷$http://qyy.imayday.cn/json.php?url=",
     "播放链接": "解析+链&&链",
-     "跳转播放链接": "\"url\"*\"&&\"",
+     //"跳转播放链接": "\"url\"*\"&&\"",
     //"播放链接前缀": "parse_api\":\"&&\"",
     "嗅探词":"data.aliyundrive.net#.m3u8#.mp4#.flv#.mp3#.m4a",
     "过滤词":"51.la#cnzz.com#baidu.com#bilibili.com",
