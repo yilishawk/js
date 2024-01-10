@@ -3,6 +3,7 @@
     "站名": "柒月影视",
     //"首页": "电影",
      "请求头": "User-Agent$okhttp/3.12.0",
+     //fabuhttps://www.iptv.cc//api.php/v1.vod
     "分类": "电影&电视剧",
     "分类值": "1&2",
     "分类url": "https://www.9day.cc/api.php/app/video?tid={cateId}&class={class}&area={area}&pg={catePg}",
