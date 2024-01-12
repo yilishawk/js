@@ -17,7 +17,7 @@
     "线路标题":"🌸荷城茶秀接口🌸+>&&</a>[替换:（失效快）>>空#高清>>空#资源>>空#（>>共#）>>集]",
     "跳转播放链接数组":"<div class=\"ewave-player__video embed-responsive embed-responsive-16by9 clearfix\">&&</script>",
     "跳转播放链接":"https://player.gfvod.com/m3u8.php?url=+\"url\"*\"&&\"",
-    "二次跳转播放链接":"https://player.gfvod.com/API.php;post;url=+\"url\":\"&&\"",
+    "二次跳转播放链接":"https://player.gfvod.com/API.php;post;url=+\"url\"*\"&&\"",
     "三次跳转播放链接":"\"url\"*\"&&\"",
     "分类url":" https://gfvod.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html;;akm0",
     
