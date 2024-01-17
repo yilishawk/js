@@ -9,7 +9,7 @@
   "分类url": "https://gimy.ai/cat/{cateId}-{area}-------{catePg}---{year}.html",
   "二次截取": "<ul class=\"clearfix\"&&<div class=\"g2_pc_list_down\"",
   "数组": "<li&&</a>",
-  "副标题": ""note text-bg-r\">&&</span>",
+  "副标题": "note text-bg-r\">&&</span>",
   
   "搜索模式": "0",
   "搜索url": "/index.php/ajax/suggest?mid=1&wd={wd}&limit=500",
