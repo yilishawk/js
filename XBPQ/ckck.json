@@ -2,14 +2,16 @@
   "作者": "凯哥",
   "站名": "ckck",
   "主页url": "https://www.03yy.co/",
-  "发布": "https://www.ckck.me/",
+  //"发布": "https://www.ckck.me/",
   
   "分类": "国产剧$13#电影$1#剧集$2#动漫$3#综艺$4#",
   
-  "分类url": "https://www.03yy.co/search.php?page={catePg}&searchtype=5&order=time&tid={cateId}&year={year}&area={area}",
+  "分类url": "https://www.03yy.co/search.php?page={catePg}&searchtype=5&order=time&tid={cateId}&area={area}&year={year}",
   "数组": "<div class=\"m-pic-l pic-height-a\">&&</div>",
   "副标题": "<span>&&</span>",
-  
+  "图片": "src=\"&&\"",
+  "标题": "title=\"&&\"",
+  "链接": "href=\"&&\"",
   "搜索模式": "1",
   "搜索url": "https://www.03yy.co/search.php?searchword={wd}",
   "搜索数组": "<div class=\"m-pic-l pic-height-a\">&&</div>",
