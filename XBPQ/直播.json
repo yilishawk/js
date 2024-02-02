@@ -28,7 +28,7 @@
   //"线路数组": "\"vod_play_from\":&&,",
   //"线路标题": "\"&&\"",
   "播放数组": "<div class=\"xinhao_list\">&&</div>",
-  //"播放二次截取": "",
+  "播放二次截取": "<div class=\"body_box\">&&<script",
   "播放列表": "<a&&</a>",
   "播放标题": ">&&</span>",
   //"跳转解析": "APP线$https://danmu.ibaopian.com/player/analysis.php?v=#三路$https://danmu.ibaopian.com/player/analysis.php?v=#左岸$https://danmu.ibaopian.com/player/analysis.php?v=#优酷$https://danmu.ibaopian.com/player/analysis.php?v=",
