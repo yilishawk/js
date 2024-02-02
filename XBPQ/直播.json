@@ -6,7 +6,7 @@
   "分类": "央视&卫视&香港",
   "分类值": "10096&10097&10098",
   "分类url": "https://www.xhzb.tw/tv-list-{cateId}.html",
-  "数组二次截取": "<div class=\"body_right\">&&<div class=\"foot\">",
+  "二次截取": "<div class=\"body_right\">&&<div class=\"foot\">",
   "数组": "<div class=\"right_tv_move\">&&</a>",
   "图片": "src=\"&&\"",
   "标题": "right_tv_name\">&&</div>",
