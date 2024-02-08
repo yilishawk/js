@@ -28,9 +28,9 @@
   "播放列表": "<li>&&</li>",
   "播放标题": ">&&</a>",
   "播放链接": "href=\"&&\"",
-  //"跳转播放链接数组": "<div id=\"zanpiancms_player\">&&</script>",
-  //"跳转播放链接": "https://gimy.ai/jcplayer/?url=+url\":\"&&\"",
-  //"二次跳转播放链接": "var playurl= '&&'",
+  "跳转播放链接数组": "<div id=\"zanpiancms_player\">&&</script>",
+  "跳转播放链接": "https://gimy.ai/jcplayer/?url=+url\":\"&&\"",
+  "二次跳转播放链接": "var playurl= '&&'",
   "播放请求头":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36",
   "筛选":{
 "1":[
