@@ -4,6 +4,7 @@
   "首页": "https://www.xhzb.tw/",
   "请求头": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
   "分类": "央视&卫视&香港",
+  "直接播放": "1",
   "分类值": "10096&10097&10098",
   "分类url": "https://www.xhzb.tw/tv-list-{cateId}.html",
   "二次截取": "<div class=\"body_right\">&&<div class=\"foot\">",
