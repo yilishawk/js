@@ -32,9 +32,9 @@
     "播放标题": "<span>&&</span>",
     "播放链接": "href=\"&&\"",
     //"免嗅":"1",
-  "跳转播放链接数组": "<div class=\"player-box-main\">&&</script>",
-  "跳转播放链接": "https://www.freeok.vip/okplayer/?url=+url\":\"&&\"",
-  "播放请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+  //"跳转播放链接数组": "<div class=\"player-box-main\">&&</script>",
+  //"跳转播放链接": "https://www.freeok.vip/okplayer/?url=+url\":\"&&\"",
+  //"播放请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
   "筛选":{
 "1":[
   {"key":"class","name":"剧情","value":[
