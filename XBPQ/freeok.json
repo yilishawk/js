@@ -7,7 +7,7 @@
   "分类": "国产剧$6#电影$1#剧集$2#动漫$3#综艺$4#",
   
   "分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-  "二次截取": "<div class=\"module-items module-poster-items-base&&<div id=\"page\">",
+  "二次截取": "<div class=\"module-main module-page&&<div id=\"page\">",
 	"图片": "data-original=\"&&\"",
 	"标题": "title=\"&&\"",
 	"链接": "href=\"&&\"",
