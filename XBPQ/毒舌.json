@@ -8,8 +8,8 @@
   "分类": "电视剧$2#电影$1#动漫$3#综艺$4#",
   
   "分类url": "https://www.dushe5.app/show/{cateId}-{class}-{area}-{lang}-{year}-3-{catePg}.html",
-  //"二次截取": "<div class=\"module-main module-page&&<div id=\"page\">",
-  "数组": "<div class=\"module-item\">&&</a>",
+  "二次截取": "<div class=\"module-box-inner\">&&<div class=\"pagenation-box fs-margin-section\">",
+  "数组": "<a&&<div class=\"v-item-footer\">",
   "图片前缀": "https://res.vukfnqr.com",
   "图片": "data-original=\"&&\"",
   "标题": "title=\"&&\"",
