@@ -3,7 +3,7 @@
   "站名": "FREEOK",
   "主页url": "https://gimy.is/",
   "发布": "",
-  
+  "头部集合": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#Referer$https://v.ikanbot.com/#Cookie$_ga=GA1.1.21502284.1688868246;ipLoc=CN$_ga_N3406N2K5E=GS1.1.1690337735.8.1.1690337888.0.0.0",
   "分类": "国产剧$13#电影$1#剧集$2#动漫$3#综艺$4#",
   
   "分类url": "https://gimy.ai/cat/{cateId}-{area}-------{catePg}---{year}.html",
@@ -28,9 +28,10 @@
   "播放列表": "<li>&&</li>",
   "播放标题": ">&&</a>",
   "播放链接": "href=\"&&\"",
-  //"跳转播放链接数组": "<div id=\"zanpiancms_player\">&&</script>",
-  //"跳转播放链接": "https://gimy.ai/jcplayer/?url=+url\":\"&&\"",
-  //"二次跳转播放链接": "var playurl= '&&'",
+  "跳转播放链接数组": "<div id=\"zanpiancms_player\">&&</script>",
+  "跳转播放链接": "url\":\"&&\"",
+  "跳转解析": "特清線路 ᴴᴰ$https://gimy.ai/jcplayer/?url=#美剧线路2$https://www.erting.net//ALI_jiexi//ali_jiexi.php?url=",
+  "二次跳转播放链接": "var playurl= '&&'",
   "播放请求头":"User-Agent$123",
   "筛选":{
 "1":[
