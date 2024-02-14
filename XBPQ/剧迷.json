@@ -23,7 +23,8 @@
   "简介": "description\" content=\"&&\">",
   "线路数组":"<div class=\"playlist-mobile playlist layout-box clearfix\">&&/div>",
   "线路标题":"20px;\">&&<",
-  "嗅探词":"cdn.json.icu#aikuwudiwenjianjia#.mp4#.m3u8?#.mp4#freeok.mp4#/obj/",
+  "嗅探词":"videocut-upload-sz.oss-cn-shenzhen.aliyuncs.com#.mp4#.m3u8#.mp4#freeok.mp4#/obj/",
+  "过滤词":"cdn.json.icu#aikuwudiwenjianjia",
   "播放数组": "<ul class=\"clearfix fade in active\"&&</ul>",
   "播放列表": "<li>&&</li>",
   "播放标题": ">&&</a>",
@@ -31,7 +32,7 @@
   "跳转播放链接数组": "<div id=\"zanpiancms_player\">&&</script>",
   "跳转播放链接": "url\":\"&&\"",
   "跳转解析": "特清線路 ᴴᴰ$https://gimy.ai/jcplayer/?url=#美剧线路2$https://www.erting.net//ALI_jiexi//ali_jiexi.php?url=",
-  "二次跳转播放链接": "var playurl= '&&'",
+  //"二次跳转播放链接": "var playurl= '&&'",
   "播放请求头":"User-Agent$123",
   "筛选":{
 "1":[
