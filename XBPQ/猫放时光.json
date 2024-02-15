@@ -36,6 +36,6 @@
 "过滤词":"data.m3u8.in#51.la#cnzz.com#baidu.com#bilibili.com",
 "播放请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
 //"免嗅":"1",
-"分类":"电视剧$2#电影$1#美剧$美剧#韩剧$韩剧",
+"分类":"电视剧$2#电影$1#综艺$4#动漫$3",
 "分类url":"https://www.mervod.com/vodtype/{cateId}-{catePg}.html"
 }
