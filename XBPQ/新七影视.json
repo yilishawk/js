@@ -1,0 +1,59 @@
+{
+    "作者":"凯哥",
+    "站名":"98影视",
+"头部集合": "User-Agent$Mozilla/5.0 (Linux; Android 9; ASUS_X00TD; Flow) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/359.0.0.288 Mobile Safari/537.36#Host$www.7xdy.com#referer$http://www.7xdy.com/#Cookie$mobileRedirected=true; recente=%5B%7B%22vod_name%22%3A%22%E6%AC%A2%E4%B9%90%E5%AE%B6%E9%95%BF%E7%BE%A4%22%2C%22vod_url%22%3A%22http%3A%2F%2Fwww.7xdy.com%2Fguochanju%2Fhuanlejiachangqun%2Fplay-0-1.html%22%2C%22vod_part%22%3A%22%E7%AC%AC02%E9%9B%86%22%7D%5D",
+    "主页url":"http://www.7xdy.com/",
+    "二次截取":"",
+    "数组":"lazyload&&</a>",
+    "图片":"data-original=\"&&\"",
+    "标题":"title=\"&&\"",
+    "链接":"href=\"&&\"",
+    "简介":"detail-sketch\">&&</span>",
+    "导演":"导演：&&</p>",
+    "主演":"主演：&&</p>",
+    "影片年代":"年份：&&</p>",
+    "影片状态":"状态：&&</p>",
+    "搜索url":"//search.php;post;searchword={wd}",
+    "搜索模式":"1",
+    "搜索二次截取":"<ul class=\"stui-vodlist__media col-pd clearfix\">&&<ul class=\"stui-page text-center cleafix\">",
+    "搜索数组":"lazyload&&</a>",
+    "搜索图片":"data-original=\"&&\"",
+    "搜索标题":"title=\"&&\"",
+    "搜索链接":"href=\"&&\"",
+    //"搜索后缀":"/oftensdetail/",
+    "线路数组":"<div class=\"stui-pannel__head bottom-line active clearfix\">&&</div>",
+    "线路标题":"/statics/icon/icon_26.png\"/>&&</h3>[替换:优酷视频>>悠悠视频#奇艺视频>>琪琪视频#腾讯视频>>迅雷视频#西瓜视频>>南瓜视频#芒果视频>>果果视频]",
+    "播放数组":"<ul class=\"stui-content__playlist playlink clearfix column8\">&&</ul>",
+    "播放标题":"title=\"&&\"",
+    "播放列表":"<li&&</li>",
+    "播放链接":"href=\"&&\"",
+    "分类url":"http://www.7xdy.com/{cateId}/index{catePg}.html[firstPage=http://www.7xdy.com/{cateId}/index.html]",
+    "分类":"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman",
+    "嗅探词":"m3u8?pt#.mp4?dis#.mp4?arange#.mp4?#.m3u8?#.m3u8#.mp4#.m3u8?#.mp4?#.m4a",
+    "过滤词":"51.la#cnzz.com#baidu.com#bilibili.com",
+    "播放请求头":"Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36",
+    //"免嗅":"0",
+ "筛选":{
+"dianshiju":[
+  {"key":"cateId","name":"类型","value":[
+  {"n":"全部","v":"dianshiju"},
+  {"n":"国产剧","v":"guocanju"},
+  {"n":"港台剧","v":"gangtaiju"},
+  {"n":"日韩剧","v":"rihanju"},
+  {"n":"欧美剧","v":"oumeiju"}]}
+  ],
+  
+"dianying":[
+  {"key":"cateId","name":"类型","value":[
+{"n":"全部","v":"dianyingpian"},
+{"n":"动作片","v":"dongzuopian"},
+{"n":"喜剧片","v":"xijupian"},
+{"n":"爱情片","v":"aiqingpian"},
+{"n":"科幻片","v":"kehuanpian"},
+{"n":"恐怖片","v":"kongbupian"},
+{"n":"剧情片","v":"juqingpian"},
+{"n":"战争片","v":"zhanzhengpian"},
+{"n":"动画片","v":"dinghuapian"}]}]
+  
+}
+}
