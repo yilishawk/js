@@ -18,8 +18,8 @@
   
   "搜索模式": "1",
   "搜索url": "https://www.dushe5.app/search?k={wd}",
-  "搜索二次截取": "<div class=\"search-result-list fs-margin-section\">&&<div id=\"units_footer\"",
-  "搜索数组": "<a&&</a>",
+  "搜索二次截取": "<div class=\"search-result-list fs-margin-section\">&&</a>",
+  "搜索数组": "<a&&<div class=\"search-result-item-main\">",
   "搜索图片": "data-original=\"&&\"",
   "搜索图片前缀": "https://res.vukfnqr.com/",
   "搜索标题": "title=\"&&\"",
