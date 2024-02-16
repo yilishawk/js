@@ -28,7 +28,7 @@
 "搜索url":"https://m.ystao.com/search.php;post;searchword={wd}",
 "搜索模式":"1",
 "搜索二次截取":"<ul class=\"stui-vodlist__media col-pd clearfix\">&&导演",
-"搜索数组":"<li&&</a>[替换:dz>Movie/dzp#jq>Movie/jqp#kb>Movie/kbp#kh>Movie/khp#aq>Movie/aqp#js>Movie/jsp#zz>Movie/zzp#Tvb>Tv/tvbgj]",
+"搜索数组":"<li&&</a>[替换:dz>Movie/dzp#jq>Movie/jqp#kb>Movie/kbp#kh>Movie/khp#aq>Movie/aqp#js>Movie/jsp#zz>Movie/zzp#Tvb>Tv/tvbgj#neidi>Tv/neidi]",
 "搜索图片":"data-original=\"&&\"",
 "搜索标题":"title=\"&&\"",
 "搜索链接":"https://auete.pro/+href=\"&&/player",
