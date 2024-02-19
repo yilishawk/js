@@ -2,12 +2,12 @@
 {
   "作者": "kaige",
   "站名": "毒舌",
-  "主页url": "https://www.dushe5.app/",
+  "主页url": "https://www.keke6.app/",
   "发布": "",
   
   "分类": "电视剧$2#电影$1#动漫$3#综艺$4#",
   
-  "分类url": "https://www.dushe5.app/show/{cateId}-{class}-{area}-{lang}-{year}-3-{catePg}.html",
+  "分类url": "https://www.keke6.app/show/{cateId}-{class}-{area}-{lang}-{year}-3-{catePg}.html",
   //"二次截取": "<div class=\"module-box-inner\">&&<div class=\"pagenation-box fs-margin-section\">",
   "数组": "<div class=\"module-item\">&&</a>",
   "图片前缀": "https://res.vukfnqr.com/",
@@ -17,7 +17,7 @@
   //"副标题": "<span>&&</span>",
   
   "搜索模式": "1",
-  "搜索url": "https://www.dushe5.app/search?k={wd}",
+  "搜索url": "https://www.keke6.app/search?k={wd}",
   "搜索二次截取": "<div class=\"search-result-list fs-margin-section\">&&</a>",
   "搜索数组": "<a&&<div class=\"search-result-item-main\">",
   "搜索图片": "data-original=\"&&\"",
