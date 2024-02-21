@@ -36,9 +36,9 @@
     "播放链接": "解析+链&&链",
      "跳转播放链接": "url\":\"&&\"",
     //"播放链接前缀": "https",
-    "嗅探词":"m3u8?Expires#list.aliyundrive.net#.m3u8#.mp4#.flv#.mp3#.m4a",
-    "过滤词":"51.la#cnzz.com#baidu.com#bilibili.com",
-    "播放请求头":"User-Agent$123",
+    //"嗅探词":"m3u8?Expires#list.aliyundrive.net#.m3u8#.mp4#.flv#.mp3#.m4a",
+    //"过滤词":"51.la#cnzz.com#baidu.com#bilibili.com",
+    "播放请求头":"User-Agent$Lavf/58.12.100",
     //"免嗅":"1",
      "筛选":{
 "1":[
