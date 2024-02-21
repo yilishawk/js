@@ -14,7 +14,7 @@
     "链接":"href=\"&&\"",
     "搜索url":"https://m.xiangdao.me/index.php?m=vod-search&wd={wd}",
     "搜索二次截取":"<ul class=\"ulPicTxt clearfix\"&&</li>",
-    "搜索数组":"<li>&&</a>",
+    "搜索数组":"<li>&&主演",
     "搜索标题":"<span class=\"sTit\">&&</span>",
     "搜索副标题":"sStyle\">&&</span>",
     "搜索图片":"data-src=\"&&\"",
