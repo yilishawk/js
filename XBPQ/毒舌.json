@@ -8,11 +8,11 @@
   "分类": "电视剧$2#电影$1#动漫$3#综艺$4#",
   
   "分类url": "https://www.keke6.app/show/{cateId}-{class}-{area}-{lang}-{year}-3-{catePg}.html",
-  "二次截取": "div class=\"module-box module-v-box\">&&<div class=\"pagenation-box fs-margin-section\">",
-  "数组": "<a&&</a>",
-  "图片": "https://res.vukfnqr.com+data-original=\"&&\"",
-  "标题": "title=\"&&\"",
-  "链接": "href=\"&&\"",
+  //"二次截取": "div class=\"module-box module-v-box\">&&<div class=\"pagenation-box fs-margin-section\">",
+  //"数组": "<a&&</a>",
+  //"图片": "https://res.vukfnqr.com+data-original=\"&&\"",
+  //"标题": "title=\"&&\"",
+  //"链接": "href=\"&&\"",
   //"副标题": "<span>&&</span>",
   
   "搜索模式": "1",
