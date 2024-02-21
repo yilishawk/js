@@ -15,7 +15,7 @@
     "链接": "http://xiutan.shiyifacai.com/zuoan/api.php/app/video_detail?id=+vod_id\":&&,",
     "搜索url": "http://xiutan.shiyifacai.com/zuoan/api.php/app/search?text={wd}",
     "搜索模式": "1",
-    "搜索二次截取": "list\":[&&]",
+    "搜索二次截取": "list\"*[&&]",
     "搜索数组": "{&&}",
     "搜索图片": "vod_pic\"*\"&&\"",
     "搜索标题": "vod_name\"*\"&&\"",
