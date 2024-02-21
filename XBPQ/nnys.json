@@ -12,7 +12,7 @@
     "副标题":"<span>&&<em>",
     "图片":"data-echo=\"&&\"",
     "链接":"href=\"&&\"",
-    "搜索url":"https://v.nmvod.cn/index.php?m=vod-search;post;wd={wd}",
+    "搜索url":"https://m.xiangdao.me/index.php?m=vod-search&wd={wd}",
     "搜索二次截取":"<ul class=\"ulPicTxt clearfix\"&&</li>",
     "搜索数组":"<li>&&</a>",
     "搜索标题":"<span class=\"sTit\">&&</span>",
