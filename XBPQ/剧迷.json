@@ -29,10 +29,9 @@
   "播放列表": "<li>&&</li>",
   "播放标题": ">&&</a>",
   "播放链接": "href=\"&&\"",
-  //"跳转播放链接数组": "<div id=\"zanpiancms_player\">&&</script>",
-  //"跳转播放链接": "解析+url\":\"&&\"",
-  //"跳转解析": "特清線路 ᴴᴰ$https://gimy.ai/jcplayer/?url=#美剧线路2$https://www.erting.net//ALI_jiexi//ali_jiexi.php?url=",
-  //"二次跳转播放链接": "var playurl= '&&'",
+  "跳转播放链接数组": "<div id=\"zanpiancms_player\">&&</script>",
+  "跳转播放链接": "https://gimy.ai/jcplayer/?url=+url\":\"&&\"",
+  "二次跳转播放链接": "var playurl= '&&'",
   "播放请求头":"User-Agent$123",
   "筛选":{
 "1":[
