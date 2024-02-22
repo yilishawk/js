@@ -23,7 +23,7 @@
   "简介": "description\" content=\"&&\">",
   "线路数组":"<div class=\"playlist-mobile playlist layout-box clearfix\">&&/div>",
   "线路标题":"20px;\">&&<",
-  "嗅探词":"videocut-upload-sz.oss-cn-shenzhen.aliyuncs.com#.m3u8?#.m3u8#.mp4#freeok.mp4#/obj/",
+  //"嗅探词":"videocut-upload-sz.oss-cn-shenzhen.aliyuncs.com#.m3u8?#.m3u8#.mp4#freeok.mp4#/obj/",
   //"过滤词":"cdn.json.icu#aikuwudiwenjianjia",
   "播放数组": "<ul class=\"clearfix fade in active\"&&</ul>",
   "播放列表": "<li>&&</li>",
