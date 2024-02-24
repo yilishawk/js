@@ -33,4 +33,4 @@
 	"跳转播放链接": "https://jx.2025w.com/videojx/seven/seven.php?url=+url\":\"&&\"",
 	"二次跳转播放链接":"https://jx.2025w.com/videojx/seven/API.php;post;url=+url\": \"&&\"}",
     "三次跳转播放链接":"\"url\"*\"&&\"",
-	"播放请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"}
+	"播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"}
