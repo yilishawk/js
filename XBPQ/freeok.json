@@ -31,9 +31,9 @@
     "播放列表": "<a&&</a>",
     "播放标题": "<span>&&</span>",
     "播放链接": "href=\"&&\"",
-    "免嗅":"1",
-  "跳转播放链接数组": "<div class=\"player-box-main\">&&</script>",
-  "跳转播放链接": "https://www.freeok.vip/okplayer/?url=+url\":\"&&\"",
+    "免嗅":"0",
+  //"跳转播放链接数组": "<div class=\"player-box-main\">&&</script>",
+  //"跳转播放链接": "https://www.freeok.vip/okplayer/?url=+url\":\"&&\"",
   "播放请求头":"Mozilla/5.0 (Linux; Android 10; LYA-AL00; HMSCore 6.4.0.312; GMSCore 20.15.16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 HuaweiBrowser/11.0.4.300 Mobile Safari/537.36#authority$www.freeok.vip#Host$v9.douyinvod.com#",
   "筛选":{
 "1":[
