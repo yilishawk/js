@@ -3,7 +3,7 @@
   "站名": "ckck",
   "主页url": "https://www.03yy.co/",
   //"发布": "https://www.ckck.me/",
- "头部集合": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#authority$www.03yy.co#referer$https://www.03yy.co/#Cookie$__ancc_token=xvvdgxwVD+a5zBhHik0IUw==; PHPSESSID=bpt7c4lm08601fs3i50ngc8v0i", 
+ "头部集合": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#authority$www.03yy.co#referer$https://www.03yy.co/#Cookie$__ancc_token=+Yu+xk7kY6MiC1pHLYWLoA==; PHPSESSID=oa14f7evf52929anc7d1dk98o3", 
  "分类": "国产剧$13#电影$1#剧集$2#动漫$3#综艺$4#",
   "分类url": "https://www.03yy.co/search.php?page={catePg}&searchtype=5&order=time&tid={cateId}&area={area}&year={year}",
   //"二次截取": "<div class=\"Pic-list\">&&<div class=\"page-next\">",
