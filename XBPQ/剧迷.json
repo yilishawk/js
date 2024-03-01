@@ -47,7 +47,7 @@
   "dtDescR": "",
   "dtFromNode": "//*[@class='playlist-mobile playlist layout-box clearfix']/li/div",
   "dtFromName": "/text()",
-  "dtUrlNode": "//*[@class='playlist-mobile playlist layout-box clearfix']/ul",
+  "dtUrlNode": "//ul[contains(@class,'clearfix fade in active')]",
   "dtUrlSubNode": "/li/a",
   "dtUrlId": "/@href",
   "dtUrlIdR": "/(S+).html",
