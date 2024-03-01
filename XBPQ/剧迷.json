@@ -25,7 +25,7 @@
   "cateVodIdR": "/(\\w+).html",
   "cateVodImg": "/@data-original",
   "cateVodMark": "/span[2]/text()",
-  "dtUrl": "https://gimy.is/{vid}",
+  "dtUrl": "https://www.gimy.is/vod/{vid}.html",
   "dtNode": "//body",
   "dtName": "//*[@class='details-info p-0']/h1/text()",
   "dtNameR": "",
