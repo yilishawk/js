@@ -26,8 +26,8 @@
   "cateVodImg": "/@data-original",
   "cateVodMark": "/span[2]/text()",
   "dtUrl": "https://gimy.is/{vid}.html",
-  "dtNode": "//div[@class='container']",
-  "dtName": "//div[@class='myui-content__thumb']/a/@title",
+  "dtNode": "//*[contains(@class,'gico')]",
+  "dtName": "/text()",
   "dtNameR": "",
   "dtImg": "//div[@class='myui-content__thumb']/a/img/@data-original",
   "dtImgR": "\\S+(http\\S+)",
@@ -45,11 +45,11 @@
   "dtDirectorR": "",
   "dtDesc": "//div[contains(@class,'col-pd')]/p/text()",
   "dtDescR": "",
-  "dtFromNode": "//div[@class='myui-panel_hd']/div/h3/text()[2]",
+  "dtFromNode": "//*[contains(@class,'gico')]",
   "dtFromName": "/text()",
-  "dtUrlNode": "//ul[contains(@class,'myui-content__list')]",
+  "dtUrlNode": "//*[@class='clearfix fade in active']",
   "dtUrlSubNode": "/li/a",
-  "dtUrlId": "@href",
+  "dtUrlId": "/@href",
   "dtUrlIdR": "/(\\S+).html",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
@@ -64,7 +64,7 @@
   "scVodImgR": "\\S+(http\\S+)",
   "scVodMark": "//span[contains(@class, 'pic-text')]/text()",
   "filter": {
-    "movies": [
+    "1": [
       {
         "key": "cateId",
         "name": "分类",
@@ -75,35 +75,35 @@
           },
           {
             "n": "劇情片",
-            "v": "13"
+            "v": "11"
           },
           {
             "n": "動作片",
-            "v": "action"
+            "v": "6"
           },
           {
             "n": "科幻片",
-            "v": "scifi"
+            "v": "9"
           },
           {
             "n": "喜劇片",
-            "v": "comedymovie"
+            "v": "7"
           },
           {
             "n": "愛情片",
-            "v": "romance"
+            "v": "8"
           },
           {
             "n": "戰爭片",
-            "v": "war"
+            "v": "12"
           },
           {
             "n": "恐怖片",
-            "v": "horror"
+            "v": "10"
           },
           {
             "n": "動畫電影",
-            "v": "animation"
+            "v": "24"
           }
         ]
       },
@@ -222,7 +222,7 @@
         ]
       }
     ],
-    "tvseries": [
+    "2": [
       {
         "key": "cateId",
         "name": "分类",
@@ -233,35 +233,35 @@
           },
           {
             "n": "陸劇",
-            "v": "cn"
+            "v": "13"
           },
           {
             "n": "韓劇",
-            "v": "kr"
+            "v": "20"
           },
           {
             "n": "美劇",
-            "v": "us"
+            "v": "16"
           },
           {
             "n": "日劇",
-            "v": "jp"
+            "v": "15"
           },
           {
             "n": "台劇",
-            "v": "tw"
+            "v": "14"
           },
           {
             "n": "港劇",
-            "v": "hks"
+            "v": "21"
           },
           {
             "n": "海外劇",
-            "v": "ot"
+            "v": "31"
           },
           {
             "n": "紀錄片",
-            "v": "documentary"
+            "v": "22"
           }
         ]
       },
