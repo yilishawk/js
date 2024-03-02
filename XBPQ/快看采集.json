@@ -5,7 +5,7 @@
   "请求头": "User-Agent$Mozilla/5.0 (iPad; CPU OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1#Referer$http://www.tvyb03.com/",
   "分类": "国产剧&喜剧片&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧",
   "分类值": "38&25&33&27&30&35&22&50&39&43&62",
-  "分类url": "https://kuaikan-api.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}",
+  "分类url": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/?ac=list&ac=detail&t={cateId}&pg={catePg}",
   "数组二次截取": "list\":[&&]",
   "数组": "{&&}",
   "图片": "vod_pic\"*\"&&\"",
