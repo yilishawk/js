@@ -2,7 +2,7 @@
     "作者": "",
     "站名": "小苹果",
     //"首页": "电影",
-     "请求头": "User-Agent$okhttp/4.9.1",
+     "请求头": "User-Agent$okhttp/4.9.1#Host$ht.grelighting.cn#token$uy87htNY9qSQYHjkGZhNPTspd9V9L9bvANhvCH/PYAi2NEfeAnAC4eHhfxpSxHnhUyE5WXw8ZTJ2eLNYIC8uK0mG/kcWfwQHc1X5EWmQWbD4rrAyF3rKysdcSXp2pG+tVSYe4V1dSIlZkaRoJ84YTOeSvA==",
     "分类": "电影&电视剧&综艺&动漫",
     "分类值": "1&2&3&4",
     "分类url": "http://ht.grelighting.cn/api.php/v2.vod/androidfilter?page={catePg}&type={cateId}&area={area}&year={year}&class={class}",
