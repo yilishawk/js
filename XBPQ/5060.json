@@ -1,0 +1,43 @@
+{
+  "作者": "kaige",
+  "站名": "5060",
+  "主页url": "https://5060w.cc/",
+  "发布": "",
+  //"头部集合": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#authority$www.freeok.vip#referer$https://www.freeok.vip/okplayer/?url=#Cookie$mx_style=white; cf_clearance=u55RPwbtLX.RXqwZkmUQKZImbvYJ.KnfuP578UzqR_A-1708059456-1.0-AS/L78J6Eqx+4x/peh4c7BzTgTQKhyT6gEJCf3lsR7l5RerBDwMbsC/thSX0X3xJKm76MHAZpNyMEGoIP2JX+vw=; showBtn=true",
+  "分类": "电视剧$6#电影$12#短句$25#综艺$3",
+  "分类url": "https://5060w.cc/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+  //"二次截取": "按评分排序&&<div id=\"page\">",
+   "数组": "lazyload&&</a>",
+	
+   "图片": "data-original=\"&&\"",
+	
+  "标题": "title=\"&&\"",
+	
+  "链接": "href=\"&&\"",
+  
+   "副标题": "pic-text text-right\">&&</span>",
+  
+  "搜索模式": "1",
+  "搜索url": "/search/-------------.html?wd={wd}",
+  "搜索数组": "lazyload&&</a>",
+  "搜索副标题": "pic-text text-right\">&&</span>",
+  
+  "影片年代": "",
+  "影片类型": "",
+  "导演": "",
+  "主演": "",
+  "简介": "简介：&&</a>",
+  "线路二次截取":"<ul class=\"nav nav-tabs pull-right\">&&</ol>",
+  "线路数组":"<li>&&</li>",
+  "线路标题":"tab\">&&</a>",
+  "嗅探词":"?okvip.mp4#tos-cn-i-siecs4i2o7#.mp4#.m3u8#.mp4#freeok.mp4#/obj/",
+  "播放数组": "<ul class=\"stui-content__playlist clearfix\"&&</ul>",
+    "播放列表": "<li&&</li>",
+    "播放标题": ">&&</a>",
+    "播放链接": "href=\"&&\"",
+    //"免嗅":"1",
+  "跳转播放链接数组": "<div class=\"stui-player__video clearfix\">&&</script>",
+  "跳转播放链接": "https://zl.2025w.com/liuli/?url=+url\":\"&&\"",
+"二次跳转播放链接": "url: \"&&\"",
+  "播放请求头":"Mozilla/5.0 (Linux; Android 10; LYA-AL00; HMSCore 6.4.0.312; GMSCore 20.15.16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 HuaweiBrowser/11.0.4.300 Mobile Safari/537.36#authority$www.freeok.vip#Host$v9.douyinvod.com#"
+}
