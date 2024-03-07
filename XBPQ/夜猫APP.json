@@ -5,7 +5,7 @@
      "请求头": "User-Agent$okhttp/4.1.0",
     "分类": "电影&电视剧&综艺&动漫",
     "分类值": "1&2&3&4",
-    "分类url": "http://106.52.244.241/api.php/app/video?tid={cateId}&class={class}&area={area}&lang={lang}&year={year}&limit=18&pg={catePg}",
+    "分类url": "http://106.52.244.241/api.php/app/video?tid={cateId}&class=&area={area}&lang={lang}&year={year}&limit=18&pg={catePg}",
     "数组二次截取": "list\":[&&]",
     "数组": "{&&}",
     "图片": "vod_pic\"*\"&&\"",
