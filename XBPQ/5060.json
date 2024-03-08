@@ -30,14 +30,14 @@
   "线路二次截取":"<ul class=\"nav nav-tabs pull-right\">&&</ul>",
   "线路数组":"<li>&&</li>",
   "线路标题":"tab\">&&</a>",
-  "嗅探词":".m3u8?#tos-cn-i-siecs4i2o7#.mp4#.m3u8#.mp4#freeok.mp4#/obj/",
+  //"嗅探词":".m3u8#tos-cn-i-siecs4i2o7#.mp4#.m3u8#.mp4#freeok.mp4#/obj/",
   "播放数组": "<ul class=\"stui-content__playlist clearfix\"&&</ul>",
     "播放列表": "<li&&</li>",
     "播放标题": ">&&</a>",
     "播放链接": "href=\"&&\"",
     //"免嗅":"0",
-  "跳转播放链接数组": "<div class=\"stui-player__video clearfix\">&&</script>",
-  "跳转播放链接": "https://zl.2025w.com/liuli/?url=+\"url\":\"&&\"",
-  "二次跳转播放链接": "url*\"&&\"",
+  //"跳转播放链接数组": "<div class=\"stui-player__video clearfix\">&&</script>",
+  //"跳转播放链接": "https://zl.2025w.com/liuli/?url=+\"url\":\"&&\"",
+  //"二次跳转播放链接": "url*\"&&\"",
   "播放请求头":"Mozilla/5.0 (Linux; Android 10; LYA-AL00; HMSCore 6.4.0.312; GMSCore 20.15.16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 HuaweiBrowser/11.0.4.300 Mobile Safari/537.36#authority$www.freeok.vip#Host$v9.douyinvod.com#"
 }
