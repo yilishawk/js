@@ -23,9 +23,9 @@ var rule = {
     class_name:'精选&电视剧&电影&综艺&动漫&少儿&纪录片',
     class_url:'choice&tv&movie&variety&cartoon&child&doco',
     limit:20,
-    // play_parse:true,
+     play_parse:true,
     // 手动调用解析请求json的url,此lazy不方便
-    lazy:'js:input="http://119.91.123.253:2345/Api/yun.php?url="+input.split("?")[0];log(input);let html=JSON.parse(request(input));log(html);input=html.url||input',
+    //lazy:'js:input="http://119.91.123.253:2345/Api/yun.php?url="+input.split("?")[0];log(input);let html=JSON.parse(request(input));log(html);input=html.url||input',
     推荐:'.list_item;img&&alt;img&&src;a&&Text;a&&data-float',
     一级:'.list_item;img&&alt;img&&src;a&&Text;a&&data-float',
     // 二级:{is_json:1,"title":"data.title;data.moviecategory[0]+data.moviecategory[1]","img":"data.cdncover","desc":"data.area[0];data.director[0]","content":"data.description","tabs":"data.playlink_sites;data.playlinksdetail.#idv.quality","lists":"data.playlinksdetail.#idv.default_url"},
