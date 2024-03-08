@@ -34,8 +34,8 @@
   "播放数组": "<ul class=\"stui-content__playlist clearfix\"&&</ul>",
     "播放列表": "<li&&</li>",
     "播放标题": ">&&</a>",
-    "播放链接": "href=\"&&\""
-    //"免嗅":"0",
+    "播放链接": "href=\"&&\"",
+    "免嗅":"0"
   //"跳转播放链接数组": "<div class=\"stui-player__video clearfix\">&&</script>",
   //"跳转播放链接": "https://zl.2025w.com/liuli/?url=+\"url\":\"&&\"",
   //"二次跳转播放链接": "url*\"&&\"",
