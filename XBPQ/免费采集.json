@@ -2,7 +2,7 @@
   "作者": "凯哥",
   "站名": "免费资源采集",
   //"首页": "电影",
-  "头部集合": "User-Agent$okhttp/4.1.0",
+  "头部集合": "User-Agent$Mozilla/5.0 (Linux; Android 13; SM-A037U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 uacq#authority$api.zeqaht.com#Referer$https://api.zeqaht.com/#Cookie$PHPSESSID=c08gd1c9a3b24e1qjnjbc73igm",
   "分类": "国产剧&短句&喜剧片&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧",
   "分类值": "14&42&22&26&36&25&30&23&69&15&16&62",
   "分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}",
@@ -33,8 +33,8 @@
   "播放标题": "题&&题",
   "播放链接": "链&&链",
   //"跳转播放链接": "url*'&&'",
-  //"嗅探词": ".m3u8",
-  "倒序播放": "0"
+  "嗅探词": ".m3u8",
+  //"倒序播放": "0"
   //"播放请求头":"User-Agent$Mozilla/5.0 (Linux; Android 13; SM-A037U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36  uacq#authority$ppvod01.6g9ba6.com",
-  //"免嗅": "0"
+  "免嗅": "0"
 }
