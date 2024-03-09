@@ -1,0 +1,46 @@
+{
+  "作者": "kaige",
+  "站名": "5060",
+  "主页url": "http://m.whbax.cn/",
+  "发布": "",
+  //"头部集合": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#authority$www.freeok.vip#referer$https://www.freeok.vip/okplayer/?url=#Cookie$mx_style=white; cf_clearance=u55RPwbtLX.RXqwZkmUQKZImbvYJ.KnfuP578UzqR_A-1708059456-1.0-AS/L78J6Eqx+4x/peh4c7BzTgTQKhyT6gEJCf3lsR7l5RerBDwMbsC/thSX0X3xJKm76MHAZpNyMEGoIP2JX+vw=; showBtn=true",
+  "分类": "国产剧$17#电视剧$2#电影$1#短句$25#综艺$3",
+  "分类url": "http://m.whbax.cn/index.php/home/vod/type-id-{cateId}-mcid-{class}-area-{area}-year-{year}-letter--order--picm-1-p-{catePg}",
+
+  "二次截取": "<ul class=\"pic-list\"&&<div id=\"page\">",
+   "数组": "<li&&</a>",
+	
+   "图片": "data-original=\"&&\"",
+	
+  "标题": "title=\"&&\"",
+	
+  "链接": "href=\"&&\"",
+  
+   "副标题": "titles\">&&</span>",
+  
+  "搜索模式": "1",
+  "搜索url": "http://m.whbax.cn/index.php?s=/home/search/vod&q={wd}",
+  "搜索二次截取": "data\":[&&]",
+  "搜索数组": "{&&}",
+  "搜索副标题": "vod_title\":\"&&\"",
+  "搜索图片": "vod_pic\":\"&&\"",
+  "搜索标题": "vod_name\":\"&&\"",	
+  "搜索链接": "http://m.whbax.cn/vod/+vod_id\":&&,",
+  "影片年代": "",
+  "影片类型": "",
+  "导演": "",
+  "主演": "",
+  "简介": "简介：&&</p>",
+  "线路二次截取":"<ul class=\"play-nav min-play-nav visible-xs\">&&</ul>",
+  "线路数组":"<li&&</li>",
+  "线路标题":"name\">&&</em>",
+ // "嗅探词":"?okvip.mp4#tos-cn-i-siecs4i2o7#.mp4#.m3u8#.mp4#freeok.mp4#/obj/",
+  "播放数组": "<div class=\"play-list clearfix\">&&</ul>",
+    "播放列表": "<li&&</li>",
+    "播放标题": ">&&<span",
+    "播放链接": "href=\"&&\"",
+    //"免嗅":"1",
+  "跳转播放链接数组": "<div id=\"zanpiancms_player\"&&</script>",
+  "跳转播放链接": "url\":\"&&\""
+  //"播放请求头":"Mozilla/5.0 (Linux; Android 10; LYA-AL00; HMSCore 6.4.0.312; GMSCore 20.15.16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 HuaweiBrowser/11.0.4.300 Mobile Safari/537.36#authority$www.freeok.vip#Host$v9.douyinvod.com#"
+}
