@@ -32,9 +32,9 @@
   "播放列表": "表&&表",
   "播放标题": "题&&题",
   "播放链接": "链&&链",
-  "跳转播放链接": "url*'&&'",
+  //"跳转播放链接": "url*'&&'",
   "嗅探词": ".m3u8",
   "倒序播放": "0",
   "播放请求头":"User-Agent$Mozilla/5.0 (Linux; Android 13; SM-A037U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36  uacq#authority$ppvod01.6g9ba6.com#origin$http://m.whbax.cn",
-  "免嗅": "0"
+  //"免嗅": "0"
 }
