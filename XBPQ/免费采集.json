@@ -2,7 +2,7 @@
   "作者": "凯哥",
   "站名": "免费资源采集",
   //"首页": "电影",
-  "头部集合": "User-Agent$Mozilla/5.0 (Linux; Android 13; SM-A037U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 uacq#Host$m.whbax.cn#Referer$http://m.whbax.cn#Cookie$PHPSESSID=8066529e3884646eb8caf37f7d577e46; zanpiancms_search_wd=%7Bvideo%3A%5B%7B%22name%22%3A%22qw%22%2C%22url%22%3A%22/search/qw.html%22%7D%2C%7B%22name%22%3A%22%u5357%u6765%u5317%u5F80%22%2C%22url%22%3A%22/vod/30281.html%22%7D%5D%7D; zanpian_playlog=%7B%22id_31589%22%3A%7B%22log_vid%22%3A31589%2C%22log_sid%22%3A1%2C%22log_pid%22%3A16%2C%22log_urlname%22%3A%2216%22%2C%22log_maxnum%22%3A16%2C%22log_addtime%22%3A1709979669%7D%7D",
+  "头部集合": "User-Agent$okhttp/4.1.0",
   "分类": "国产剧&短句&喜剧片&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧",
   "分类值": "14&42&22&26&36&25&30&23&69&15&16&62",
   "分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}",
