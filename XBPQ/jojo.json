@@ -34,7 +34,7 @@
 "过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
  //"播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36#Origin$https://jiohub.top#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad",
 //"免嗅":"0",
-"分类url":"https://pan.syrme.top/v1/api/video/jojo/type/tag?type={cateId}&page={catePg}&size=24;post;",
+"分类url":"https://pan.syrme.top/v1/api/video/jojo/type/tag?type={cateId}&page={catePg}&size=24",
 "筛选":{
 "电影":[
 {
