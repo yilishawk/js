@@ -1,0 +1,68 @@
+{
+"站名":"短句",
+//"主页url":"https://jiohub.top/",
+"头部集合":"User-Agent$okhttp/3.13.11#authority$catbox.n13.club",
+"二次截取":"list\": [&&]",
+"数组":"{&&}",
+"图片":"vod_pic\": \"&&\"",
+"标题":"vod_name\": \"&&\"",
+"链接":"https://catbox.n13.club/duanju5.php?ac=detail&ids=+vod_id\": \"&&\"",
+//"线路二次截取":"<ul class=\"from_list\">&&</ul>",
+"线路数组":"vod_play_from\": &&,",
+"线路标题":"\"&&\"[替换:公众号木鱼黑科技>>王雨]",
+"播放数组": "vod_play_url\":&&,[替换:\">>链表题#$>>题链#\\#>>链表表题]",
+"年份":"vod_year\": \"&&\"",
+"地区":"vod_area\": \"&&\"",
+"主演":"主演：&&</p>",
+"简介":"detail-sketch hide\">&&</span>",
+  "播放列表": "表&&表",
+  "播放标题": "题&&题",
+  "播放链接": "链&&链",
+"搜索url":"https://catbox.n13.club/duanju5.php?wd={wd}&ac=detail&quick=false",
+"搜索模式":"1",
+"搜索二次截取":"list\": [&&]",
+"搜索数组":"{&&}",
+"搜索图片":"vod_pic\": \"&&\"",
+"搜索标题":"vod_name\": \"&&\"",
+"搜索链接":"https://catbox.n13.club/duanju5.php?ac=detail&ids=+vod_id\": \"&&\"",
+"搜索副标题":"<span>&&</span>",
+"分类":"穿越&重生&虐恋&甜宠&逆袭",
+"分类值":"chuanyue&chongsheng&nuelian&tianchong&nixi",
+"嗅探词": ".mp4",
+"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
+ //"播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36#Origin$https://jiohub.top#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad",
+//"免嗅":"0",
+"分类url":"https://catbox.n13.club/duanju5.php?ac=detail&filter=true&t=/vodtype/{cateId}.html&pg={catePg}&ext=e30=",
+"筛选":{
+"电影":[
+{
+"key":"class",
+"name":"类型",
+"value":[
+{"n":"全部","v":"?"},
+{"n":"喜剧","v":"/喜剧?"},
+{"n":"爱情","v":"/爱情?"},
+{"n":"恐怖","v":"/恐怖?"},
+{"n":"动作","v":"/动作?"},
+{"n":"科幻","v":"/科幻?"},
+{"n":"犯罪","v":"/犯罪?"},
+{"n":"动画","v":"/动画?"},
+{"n":"剧情","v":"/剧情?"}
+]
+}
+],
+"2":[
+{
+"key":"cateId",
+"name":"类型",
+"value":[
+{"n":"全部","v":"2"},
+{"n":"大陆","v":"20"},
+{"n":"TVB","v":"21"},
+{"n":"韩剧","v":"22"},
+{"n":"美剧","v":"23"}
+]
+}
+]
+}
+}
