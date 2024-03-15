@@ -30,9 +30,11 @@
     "播放链接":"href=\"&&\"",
     "分类url":"https://www.nkvod.com/show/{cateId}--------{catePg}---{year}.html",
     "分类":"国产剧$13#电影$1#电视剧$2#综艺$3#动漫$4",
-    "嗅探词":".mp4?dis#aiku.m3u8#122.228.8.29#tc.qq.com#.m3u8?#.mp4?#.m4a",
+    "嗅探词":".mp4?dis#.mp4#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
     "过滤词":"mgtv.com#?url#op.m3u8zy.fun#51.la#cnzz.com#baidu.com#bilibili.com",
-    "播放请求头":"User-Agent$Mozilla/5.0 (Linux；； Android 13；； 23054RA19C Build/TP1A.220624.014；； wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.116 Mobile Safari/537.36#Origin$https://t1.qlplayer.cyou#",
+    "跳转播放链接数组": "<div class=\"player-box-main\">&&</script>",
+    "跳转播放链接": "https://jx.m3u8zy.top/player/ez.php?code=nkvod&if=1&url=+url\":\"&&\"",
+    //"播放请求头":"User-Agent$Mozilla/5.0 (Linux；； Android 13；； 23054RA19C Build/TP1A.220624.014；； wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.116 Mobile Safari/537.36#Origin$https://t1.qlplayer.cyou#",
     //"免嗅":"1",
  "筛选":{
 "2":[
