@@ -1,7 +1,7 @@
 {
     "作者":"凯哥",
     "站名":"耐看点播",
-    "请求头":"手机",
+"头部集合": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36#authority$www.nkvod.com#Cookie$__51uvsct__KJMtcNsXuPxlk2Cr=1; __51vcke__KJMtcNsXuPxlk2Cr=feddd5a5-7c1d-53a3-86be-8807aa0d637f; __51vuft__KJMtcNsXuPxlk2Cr=1710490958104; mx_style=white; showBtn=true; PHPSESSID=6469g7mkontt6kcfftuqas960b; mac_history_mxpro=%5B%7B%22vod_name%22%3A%22%E5%AE%A3%E6%AD%A6%E9%97%A8%22%2C%22vod_url%22%3A%22https%3A%2F%2Fwww.nkvod.com%2Fplay%2F179299-5-1.html%22%2C%22vod_part%22%3A%22%E7%AC%AC01%E9%9B%86%22%7D%5D; __vtins__KJMtcNsXuPxlk2Cr=%7B%22sid%22%3A%20%224b8698cf-9180-5f43-8f4f-8fd40ae020da%22%2C%20%22vd%22%3A%2013%2C%20%22stt%22%3A%20977328%2C%20%22dr%22%3A%2051583%2C%20%22expires%22%3A%201710493735363%2C%20%22ct%22%3A%201710491935363%7D",
     "主页url":"https://www.nkvod.com",
     "二次截取":"<div class=\"module-items module-poster-items-base&&id=\"page\">",
     "数组":"<a&&no-referrer",
@@ -35,7 +35,7 @@
     "跳转播放链接数组": "<div class=\"player-box-main\">&&</script>",
     "跳转播放链接": "https://jx.m3u8zy.top/player/ez.php?code=nkvod&if=1&url=+url\":\"&&\"",
     "播放请求头":"User-Agent$Mozilla/5.0 (Linux；； Android 13；； 23054RA19C Build/TP1A.220624.014；； wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.116 Mobile Safari/537.36#",
-    "免嗅":"1",
+    "免嗅":"0",
  "筛选":{
 "2":[
   {"key":"cateId","name":"类型","value":[
