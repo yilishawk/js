@@ -26,7 +26,7 @@
 	"导演": "导演：&&</div>",
 	"主演": "主演：&&</div>",
 	"简介": "剧情：&&</span>",
-	"嗅探词": "v3.douyinvod.com#.m3u8#m3u8?#.mp4#mp4?#ixigua#.czspp#.flv#.mp3#.m4a#?item/video#is_play_url=1#play/?#qianpailive",
+	"嗅探词": "?6080.mp4#.m3u8#m3u8?",
 	"线路数组": "module-tab-item tab-item&&</div>[不包含:夸克4K]",
 	"线路标题": "<span>&&</span>",
 	"播放数组": "module-blocklist scroll-box scroll-box-y&&</div>",
@@ -34,7 +34,7 @@
 	"播放标题": "<span>&&</span>",
 	"播放链接": "href=\"&&\"",
     "跳转播放链接数组":"<div class=\"player-box-main\">&&</script>",
-    "跳转播放链接":"https://jiexi.xn--1lq90i13mxk5bolhm8k.xn--fiqs8s/player/ec.php?code=ak&if=1&url=+url\":\"&&\"",
+    "跳转播放链接":"url\":\"&&\"[替换:5280>>https://jiexi.xn--1lq90i13mxk5bolhm8k.xn--fiqs8s/player/ec.php?code=zj&if=1&url=5280]",
 	"分类url": "https://www.80yy3.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
 	"分类": "电影$1#剧集$2#综艺$3#动漫$4#",
 	"筛选": {
