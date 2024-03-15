@@ -24,7 +24,7 @@
 //"跳转播放链接":"<iframe src=\"&&\"",
 //"二次跳转播放链接":"https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
 //"三次跳转播放链接":"\"url\"*\"&&\"",
-"搜索url":"https://saohuo.tv/search.php?searchword={wd}",
+"搜索url":"https://saohuo.tv/search.php?searchword={wd}&submit",
 //https://saohuo.vip/search.php?page={catePg}&searchword={wd}&searchtype=
 "搜索模式":"1",
 //"搜索二次截取":"<ul class=\"v_list\">&&</ul>",
