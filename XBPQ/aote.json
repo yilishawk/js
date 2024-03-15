@@ -26,7 +26,7 @@
 "搜索标题":"title=\"&&\"",
 "搜索链接":"https://auete.pro/Tv/neidi/+href=\"/vod&&.html",
 "搜索后缀":"",
-"嗅探词":"adsmind.ugdtimg.com#.mp4?#m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+"嗅探词":".m3u8?vkey#adsmind.ugdtimg.com#.mp4?#m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
 "过滤词":"51.la#cnzz.com#baidu.com#bilibili.com",
 "播放请求头":"User-Agent$123",
 "免嗅":"0",
