@@ -3,7 +3,7 @@
 "站名":"电视盒子",
 //发布页https://www.fygame.top//
 "主页url":"http://m.tv7box.com/",
-"请求头":"Mozilla/5.0 (Linux; Android 13; 22041216C Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/104.0.5112.97 Mobile Safari/537.36",
+"头部集合": "User-Agent$Mozilla/5.0 (Linux; Android 13; SM-A037U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36  uacq#Host$m.tv7box.com#Referer$http://m.tv7box.com/#Cookie$ff-record=a%3A1%3A%7Bs%3A8%3A%221-168897%22%3Bs%3A3%3A%221-1%22%3B%7D",
 "cookie":"",
 "热门推荐":"1",
 "二次截取":"<ul class=\"list-unstyled vod-item-img ff-img-140\">&&<ul class=\"pager\">",
