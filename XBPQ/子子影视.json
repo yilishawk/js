@@ -1,0 +1,61 @@
+{
+  "作者": "kaige",
+  "站名": "FREEOK",
+  "主页url": "https://ziziys.com/",
+  "头部集合": "User-Agent$Mozilla/5.0 (Linux; Android 13; SM-A037U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 uacq#authority$ziziys.com#Referer$https://ziziys.com/",
+  "分类": "国产剧$13#战争电影$26#剧集$2#动漫$3#综艺$4",
+  "分类url": "https://ziziys.com/list/{cateId}-{catePg}.html",
+  //"二次截取": "按评分排序&&<div id=\"page\">",
+   "数组": "<div class=\"module-item-pic\">&&</div>",
+  "图片": "data-src=\"&&\"",
+  "标题": "title=\"&&\"",
+  "链接": "href=\"&&\"",
+  "搜索模式": "1",
+  "搜索url": "https://ziziys.com/vsearch/--.html?wd={wd}",
+  "搜索数组": "<div class=\"module-item-pic\">&&</div>",
+  "搜索图片": "data-src=\"&&\"",
+  "搜索标题": "title=\"&&\"",
+  "搜索链接": "href=\"&&\"",
+  "影片年代": "",
+  "影片类型": "",
+  "导演": "",
+  "主演": "",
+  "简介": "剧情：&&</span>",
+  "线路数组":"<div class=\"module-tab-item tab-item\"&&</div>",
+  "线路标题":"<span>&&</small>",
+  "嗅探词":"?okvip.mp4#tos-cn-i-siecs4i2o7#.mp4#.m3u8#.mp4#freeok.mp4#/obj/",
+  "播放数组": "<div class=\"module-list&&</div>",
+    "播放列表": "<a&&</a>",
+    "播放标题": "<span>&&</span>",
+    "播放链接": "href=\"&&\"",
+    //"免嗅":"1",
+  "跳转播放链接数组": "<div class=\"player-wrapper\">&&</div>",
+  "跳转播放链接": "src=\"&&\"",
+  "二次跳转播放链接": "url\":\"&&\"",
+  "播放请求头":"Mozilla/5.0 (Linux; Android 10; LYA-AL00; HMSCore 6.4.0.312; GMSCore 20.15.16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 HuaweiBrowser/11.0.4.300 Mobile Safari/537.36",
+"筛选":{
+"26":[
+{
+"key":"cateId",
+"name":"类型",
+"value":[
+{"n":"全部","v":""},
+{"n":"动作片","v":"6"},
+{"n":"喜剧片","v":"8"},
+{"n":"爱情片","v":"9"},
+{"n":"科幻片","v":"33"},
+{"n":"恐怖片","v":"24"},
+{"n":"剧情片","v":"7"},
+{"n":"惊悚片","v":"10"},
+{"n":"动画片","v":"23"},
+{"n":"悬疑片","v":"12"}
+]}],
+"13":[
+{
+"key":"cateId",
+"name":"类型",
+"value":[
+{"n":"全部","v":""},
+{"n":"美剧","v":"14"},
+{"n":"韩剧","v":"15"}]}]}
+}
