@@ -17,7 +17,7 @@
     "搜索url":"http://www.9kdy.com/search.php;post;searchword={wd}",
     "搜索模式":"1",
     "搜索二次截取":"<ul class=\"stui-vodlist__media col-pd clearfix\">&&<ul class=\"stui-page text-center cleafix\">",
-    "搜索数组":"lazyload&&</a>",
+    "搜索数组":"<li&&</li>",
     "搜索图片":"data-original=\"&&\"",
     "搜索标题":"title=\"&&\"",
     "搜索链接":"href=\"&&\"",
