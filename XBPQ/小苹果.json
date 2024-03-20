@@ -2,7 +2,7 @@
     "作者": "",
     "站名": "小苹果",
     //"首页": "电影",
-     //"请求头": "User-Agent$okhttp/4.9.1#Host$tipu.xjqxz.top",
+     "请求头": "User-Agent$okhttp/4.9.1#Host$ht.grelighting.cn#token$uy87htNY9qSQYHjkGZhNPTspd9V9L9bvANhvCH/PYAi2NEfeAnAC4eHhfxpSxHnhUyE5WXw8ZTJ2eLNYIC8uK0mG/kcWfwQHc1X5EWmQWbD4rrAyF3rKysdcSXp2pG+tVSYe4V1dSIlZkaRoJ84YTOeSvA==",
     "分类": "电影&电视剧&综艺&动漫",
     "分类值": "1&2&3&4",
     "分类url": "http://ht.grelighting.cn/api.php/v2.vod/androidfilter?page={catePg}&type={cateId}&area={area}&year={year}&class={class}",
@@ -33,7 +33,7 @@
     //"跳转播放链接": "url\":\"&&\"",
     //"嗅探词":"data.aliyundrive.net#.m3u8#.mp4#.flv#.mp3#.m4a",
     "过滤词":"51.la#cnzz.com#baidu.com#bilibili.com",
-    "播放请求头":"User-Agent$Mozilla/5.0 (Linux; Android 13; SM-A037U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 uacq#Host$c.xpgtv.net#Cookie$token:VUwNkACFmz5oYXEJaga+NpYgGbKh2lZVg917tH64We42WF0ajRdVgtJk8t9EUFS+BiIyBffFa4MPMJkOZRBjYvI+GW8kx3+xMlRecaZuECdb/2EGHFR1gCj9w3q7YVB+zf4uFyMQO9bo7EMaUClW6K3LMm8JnjeOsirsMvGDaD/8WiZFcH8uR0sgcvRuQLPbUz/J2H3I3YY=",
+    "播放请求头":"User-Agent$com.github.tvbox.osc.base.App/20231105-0923 (Linux;Android 13) ExoPlayerLib/2.14.2",
     //"免嗅":"0",
      "筛选":{
 "1":[
