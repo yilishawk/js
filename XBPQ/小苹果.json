@@ -2,7 +2,7 @@
     "作者": "",
     "站名": "小苹果",
     //"首页": "电影",
-     "请求头": "User-Agent$okhttp/4.9.1",
+     "请求头": "User-Agent$okhttp/4.9.1#user_id$XPGBOX#token2$XFxIummRrngadHB4TCzeUaleebTX10Vl/ftCvGLPeI5tN2Y/liZ5tY5e4t8=#version$XPGBOX com.phoenix.tv1.3.3",
     "分类": "电影&电视剧&综艺&动漫",
     "分类值": "1&2&3&4",
     "分类url": "http://ht.grelighting.cn/api.php/v2.vod/androidfilter?page={catePg}&type={cateId}&area={area}&year={year}&class={class}",
@@ -33,7 +33,7 @@
     //"跳转播放链接": "url\":\"&&\"",
     //"嗅探词":".m3u8#.mp4#.flv#.mp3#.m4a",
     //"过滤词":"51.la#cnzz.com#baidu.com#bilibili.com",
-    "播放请求头":"User-Agent$com.github.tvbox.osc.base.App/20231105-0923 (Linux;Android 13) ExoPlayerLib/2.14.2#Host$185.130.226.52#token$uy87htNY9qSQYHjkGZhNPTspd9V9L9bvANhvCH/PYAi2NEfeAnAC4eHhfxpSxHnhUyE5WXw8ZTJ2eLNYIC8uK0mG/kcWfwQHc1X5EWmQWbD4rrAyF3rKysdcSXp2pG+tVSYe4V1dSIlZkaRoJ84YTOeSvA==",
+    "播放请求头":"User-Agent$com.github.tvbox.osc.base.App/20231105-0923 (Linux;Android 13) ExoPlayerLib/2.14.2#user_id$XPGBOX#token2$XFxIummRrngadHB4TCzeUaleebTX10Vl/ftCvGLPeI5tN2Y/liZ5tY5e4t8=",
     //"免嗅":"0",
      "筛选":{
 "1":[
