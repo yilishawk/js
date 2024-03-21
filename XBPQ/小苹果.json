@@ -33,7 +33,7 @@
     //"跳转播放链接": "url\":\"&&\"",
     //"嗅探词":".m3u8#.mp4#.flv#.mp3#.m4a",
     //"过滤词":"51.la#cnzz.com#baidu.com#bilibili.com",
-    "播放请求头":"User-Agent$Mozilla/5.0 (Linux；； Android 13；； 23054RA19C Build/TP1A.220624.014；； wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/122.0.6261.64 Mobile Safari/537.36",
+    "播放请求头":"User-Agent$User-Agent$com.github.tvbox.osc.base.App/20231105-0923 (Linux;Android 13) ExoPlayerLib/2.14.2#Host$ht.grelighting.cn#token$uy87htNY9qSQYHjkGZhNPTspd9V9L9bvANhvCH/PYAi2NEfeAnAC4eHhfxpSxHnhUyE5WXw8ZTJ2eLNYIC8uK0mG/kcWfwQHc1X5EWmQWbD4rrAyF3rKysdcSXp2pG+tVSYe4V1dSIlZkaRoJ84YTOeSvA==",
     //"免嗅":"0",
      "筛选":{
 "1":[
