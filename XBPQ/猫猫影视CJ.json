@@ -30,7 +30,7 @@
 	"嗅探词":".m3u8?vkey#.m3u8?#.mp4#.m3u8#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
 	"线路二次截取": "<div class=\"fjcon\">&&</div>",
 	"线路数组": "<a&&/a>[排序:官方1080>官方480]",
-	"线路标题": "fjtab cur\">&&<",
+	"线路标题": ">&&<",
 	"播放数组": "<ul class=\"xjn_ul play-list\">&&</ul>",
 	"播放列表": "<li&&</li>",
 	"播放标题":">&&</a>",
