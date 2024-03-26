@@ -9,7 +9,7 @@
 	"链接": "href=\"&&\"",
     "搜索模式":"1",
     "搜索url":"http://www.doubiekan.cn/index.php?s=home-search-vod&limit=10&q={wd}",
-    "搜索二次截取": "data\"*[&&]",
+    "搜索二次截取": "data\"*[&&info",
     "搜索数组": "{&&}",
     "搜索标题": "name\"*\"&&\"",
     "搜索副标题": "title\"*\"&&\"",
