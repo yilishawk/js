@@ -13,6 +13,13 @@
     "影片类型":"<div class=\"module-info-tag\">&&立即播放",
     "导演":"导演：&&</div>",
     "主演":"主演：&&</div>",
+    "线路二次截取": "<ul class=\"dropdown-menu\"&&</ul>",
+	"线路数组": "<li>&&</li>",
+	"线路标题": "tab\">&&</a>",
+	"播放数组": "<ul class=\"clearfix fade&&</ul>",
+	"播放列表": "<li>&&</li>",
+	"播放标题":">&&</a>",
+	"播放链接": "href=\"&&\"",
     "分类":"电影$1#连续剧$2#综艺$3#动漫$4",
     "播放请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
     "分类url":"http://www.doubiekan.cn/index.php?s=vod-type-id-{cateId}-mcid-74-area-{area}-year-{year}-letter--order--picm-1-p-{catePg}"}
