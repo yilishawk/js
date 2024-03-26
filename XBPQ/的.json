@@ -1,7 +1,7 @@
 {
     "主页url":"http://www.doubiekan.cn",
     //https://www.jugege.me
-    "二次截取": "id=\"content\">&&<div class=\"v-page clearfix\">",
+    "二次截取": "<ul class=\"clearfix\"&&<div class=\"v-page clearfix\">",
 	"数组": "<li&&</a>",
 	"副标题": "note text-bg-r\">&&</span>",
 	"图片": "data-original=\"&&\"",
