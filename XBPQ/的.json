@@ -7,7 +7,7 @@
 	"图片": "data-original=\"&&\"",
 	"标题": "title=\"&&\"",
 	"链接": "href=\"&&\"",
-    "搜索模式":"1",
+    "搜索模式":"0",
     "搜索url":"http://www.doubiekan.cn/index.php?s=home-search-vod&limit=10&q={wd}",
     "搜索二次截取": "data\": [&&info",
     "搜索数组": "{&&}",
