@@ -2,7 +2,7 @@
     "主页url":"http://www.doubiekan.cn",
     //https://www.jugege.me
     "二次截取": "<div class=\"box-video-list\">&&<div class=\"box-page clearfix ajax-page\"",
-	"数组": "<li&&</a>",
+	"数组": "loading&&<div class=\"title\">",
 	"副标题": "note text-bg-r\">&&</span>",
 	"图片": "data-original=\"&&\"",
 	"标题": "title=\"&&\"",
