@@ -1,11 +1,14 @@
 {
-    "主页url":"https://www.jugege.cc/",
+    "主页url":"http://www.doubiekan.cn",
     //https://www.jugege.me
-    "副标题":"pic-text text-right\">&&</b>",
-    
+    "二次截取": "id=\"content\">&&<div class=\"v-page clearfix\">",
+	"数组": "<li&&</a>",
+	"副标题": "note text-bg-r\">&&</span>",
+	"图片": "data-original=\"&&\"",
+	"标题": "title=\"&&\"",
+	"链接": "href=\"&&\"",
     "搜索模式":"1",
     "搜索url":"https://www.jugege.cc/vodsearch/{wd}-------------.html",
-    "图片":"data-original=\"&&\"",
     "嗅探词":"huoshanvod.com#.mp4#m3u8#.m3u8#/tos/",
     "影片类型":"<div class=\"module-info-tag\">&&立即播放",
     "导演":"导演：&&</div>",
