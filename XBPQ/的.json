@@ -2,7 +2,7 @@
     "主页url":"http://www.doubiekan.cn",
     //https://www.jugege.me
     "二次截取": "按评分&&<div class=\"box-page clearfix ajax-page\"",
-	"数组": "<li class=\"col-md-2&&<div class=\"title\">",
+	"数组": "<li class=\"col-md-2&&</a>",
 	"副标题": "note text-bg-r\">&&</span>",
 	"图片": "data-original=\"&&\"",
 	"标题": "title=\"&&\"",
@@ -22,4 +22,4 @@
 	"播放链接": "href=\"&&\"",
     "分类":"电影$1#连续剧$2#综艺$3#动漫$4",
     "播放请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
-    "分类url":"http://www.doubiekan.cn/index.php?s=vod-type-id-{cateId}-mcid-74-area-{area}-year-{year}-letter--order--picm-1-p-{catePg}"}
+    "分类url":"http://www.doubiekan.cn/index.php?s=vod-type-id-{cateId}-area-{area}-year-{year}-letter--order--picm-1-p-{catePg}"}
