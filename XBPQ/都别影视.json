@@ -30,8 +30,6 @@
 	"播放列表": "<li>&&</li>",
 	"播放标题":">&&</a>",
 	"播放链接": "href=\"&&\"",
-    //"跳转播放链接数组": "id=\"cms_play\">&&</div>",
-	//"跳转播放链接": "apiurl\":\"&&\"+url\":\"&&\"",
     "分类":"国产剧$15#电影$1#连续剧$2#综艺$3#动漫$4",
     "播放请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
     "分类url":"http://www.doubiekan.cn/index.php?s=vod-type-id-{cateId}-mcid--area--year-{year}-letter--order-addtime-picm-1-p-{catePg}",
