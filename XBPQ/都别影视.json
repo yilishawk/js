@@ -7,7 +7,7 @@
 	"图片": "data-original=\"&&\"",
 	"标题": "title=\"&&\"",
 	"链接": "href=\"&&\"",
-    "搜索模式":"0",
+    "搜索模式":"1",
     //"搜索url":"/search/;post;wd={wd}",
     //"搜索二次截取": "搜索关键词&&<div class=\"col-md-3 col-sm-12 box-main-side hidden-sm hidden-xs\">",
     //"搜索数组": "<div class=\"details-info-min col-md-12 col-sm-12 col-xs-12 clearfix news-box-txt p-0\">&&</div>",
@@ -15,10 +15,7 @@
     //"搜索图片": "data-original=\"&&\"",
     //"搜索链接": "href=\"&&\"",
     "搜索url":"/index.php?s=home-search-vod&limit=10&q={wd}",
-    
-  "jspic": "pic",
-  "jsname": "vod_name",
-  "jsid": "vod_url",
+
     "嗅探词":".m3u8?vkey#.m3u8",
     "影片类型":"<div class=\"module-info-tag\">&&</li>",
     "简介": "details-content-default\">&&</span>",
