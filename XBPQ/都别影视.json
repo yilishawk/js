@@ -14,7 +14,8 @@
     //"搜索标题": "title=\"&&\"",
     //"搜索图片": "data-original=\"&&\"",
     //"搜索链接": "href=\"&&\"",
-    "搜索url":"/index.php?s=home-search-vod&q={wd}&limit=500",
+    "搜索url":"/index.php?s=home-search-vod&limit=10&q={wd}",
+    
   "jspic": "pic",
   "jsname": "vod_name",
   "jsid": "vod_url",
