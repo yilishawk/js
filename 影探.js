@@ -50,7 +50,7 @@ var rule = {
                 if (jData.code == 1) {
                     return jData.data.url
                 } else {
-                    return 'http://43.154.104.152:1234/jhapi/cs.php?url=' + url.split('=')[1]
+                    return 'http://110.42.2.247:8001/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url=' + url.split('=')[1]
                 }
             }
             if (/,/.test(input)) {
