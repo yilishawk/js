@@ -34,7 +34,7 @@
     "跳转播放链接": "url\": \"&&\"",
     //"嗅探词":"data.aliyundrive.net#.m3u8#.mp4#.flv#.mp3#.m4a",
     "过滤词":"51.la#cnzz.com#baidu.com#bilibili.com",
-    "播放请求头":"User-Agent$Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36  uacq"
-    //"免嗅":"0",
+    "播放请求头":"User-Agent$Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36  uacq",
+    "免嗅":"0"
    
 }
