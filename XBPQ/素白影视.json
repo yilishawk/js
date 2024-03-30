@@ -2,7 +2,7 @@
 
   "站名": "素白白影视",
   "主页url": "https://www.subaibaiys.com",
-  "头部集合": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36#authority$www.subaibaiys.com#referer$https://www.subaibaiys.com/#Cookie$__51vcke__JkC3MdljYqnA6RwM=b692543f-5836-5275-9055-7e4c7c32901b; __51vuft__JkC3MdljYqnA6RwM=1707798509730; myannoun=1; __51uvsct__JkC3MdljYqnA6RwM=2; __vtins__JkC3MdljYqnA6RwM=%7B%22sid%22%3A%20%2224ac1e82-b4ef-5caa-9fcd-8639e0f8a0da%22%2C%20%22vd%22%3A%208%2C%20%22stt%22%3A%20494207%2C%20%22dr%22%3A%20407313%2C%20%22expires%22%3A%201708943244578%2C%20%22ct%22%3A%201708941444578%7D",
+  "头部集合": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36#authority$www.subaibaiys.com#referer$https://www.subaibaiys.com/#Cookie$myannoun=1; __51uvsct__JkC3MdljYqnA6RwM=1; __51vcke__JkC3MdljYqnA6RwM=e4c3a9ec-7ee0-5812-9ae3-eff591abbf9c; __51vuft__JkC3MdljYqnA6RwM=1711767430201; esc_search_captcha=1; result=85; wordpress_test_cookie=WP+Cookie+check; PHPSESSID=lst4p4gii590pormpl8e12j1b2; __vtins__JkC3MdljYqnA6RwM=%7B%22sid%22%3A%20%22232f4443-47a7-500f-ad53-8cc0cc245e34%22%2C%20%22vd%22%3A%204%2C%20%22stt%22%3A%20555682%2C%20%22dr%22%3A%20353871%2C%20%22expires%22%3A%201711769785883%2C%20%22ct%22%3A%201711767985883%7D",
   "分类": "电影&电视剧&热门电影&高分电影&动漫电影&香港经典电影&国产剧&欧美剧&韩剧&动漫剧",
   "分类值": "new-movie&tv-drama&hot-month&high-movie&cartoon-movie&hongkong-movie&domestic-drama&american-drama&korean-drama&anime-drama",
   "分类url": "https://www.subaibaiys.com/{cateId}/page/{catePg};;aks2",
