@@ -16,7 +16,7 @@
 "主演":"主演：&&</div>",
 "简介":"style=\"line-height: 20px;\">&&</div>",
 "播放列表":"<a&&</a>",
-"播放标题":"<span>&&</span>",
+"播放标题":"<span>&&</span>[替换:腾讯>>腾腾#优酷>>悠悠#爱奇艺>>琪琪#芒果>>茫茫]",
 "播放链接":"href=\"&&\"",
 //"跳转播放链接数组":"<div class=\"player-box-main\">&&<div class=\"module-adslist  ads_w\">",
 //"跳转播放链接":"url\":\"&&\"[替换:NBY>>https://p.orangek.org/player/ec.php?code=qw&if=1&url=NBY#https:>>https://110.42.2.247:9090/player/?url=https:]",
@@ -32,7 +32,7 @@
 "嗅探词":".mp4?dis#.m3u8#.mp3#.m4a",
 "过滤词":"51.la#cnzz.com#baidu.com#bilibili.com",
 "播放请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
-"免嗅":"0",
+"免嗅":"1",//1不用解析
 "分类":"电视剧$2#电影$1#综艺$3",
 "分类url":"https://ork.ink/show/{cateId}--time-{class}-----{catePg}---{year}.html"
 }
