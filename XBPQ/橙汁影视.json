@@ -33,7 +33,7 @@
 "嗅探词":"getM3u8?#.m3u8#.mp4?dis_k#.m3u8?vkey",
 "过滤词":"51.la#cnzz.com#baidu.com#bilibili.com",
 "播放请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
-"免嗅":"0",//0不用解析出现官网标识修改线路
+"免嗅":"1",//0不用解析出现官网标识修改线路
 "分类":"电视剧$2#电影$1#综艺$3#短剧$42",
 "分类url":"https://ork.ink/show/{cateId}--time-{class}-----{catePg}---{year}.html"
 }
