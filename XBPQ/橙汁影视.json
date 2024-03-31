@@ -32,7 +32,7 @@
 "嗅探词":".mp4?dis#.m3u8#.mp3#.m4a",
 "过滤词":"51.la#cnzz.com#baidu.com#bilibili.com",
 "播放请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
-"强制解析":"1",
+"免嗅":"1",
 "分类":"电视剧$2#电影$1#综艺$3",
 "分类url":"https://ork.ink/show/{cateId}--time-{class}-----{catePg}---{year}.html"
 }
