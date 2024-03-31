@@ -3,7 +3,7 @@
 "主页url":"https://ork.ink/",
 //发布页https://orangek.org/
 "头部集合": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#authority$ork.ink",
-"数组":"lazyload&&<div class=\"module-item-pic\">",
+"数组":"<div class=\"module-item-pic\">&&</a>",
 "图片":"data-original=\"&&\"",
 "标题":"alt=\"&&\"",
 "链接":"href=\"&&\"",
