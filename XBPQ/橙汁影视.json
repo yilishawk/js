@@ -3,11 +3,11 @@
 "主页url":"https://ork.ink/",
 //发布页https://orangek.org/
 "头部集合": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#authority$ork.ink",
-"数组":"<div class=\"module-item-pic\">&&</a>",
+"二次截取":"<div class=\"module-items module-poster-items-base \">&&</a>",
+"数组":"lazyload&&</div>",
 "图片":"data-original=\"&&\"",
 "标题":"alt=\"&&\"",
 "链接":"href=\"&&\"",
-"副标题":"module-item-note\">&&</div>",
 "线路二次截取":"id=\"y-playList\">&&<div class=\"shortcuts-mobile-overlay\">",
 "线路数组":"<div class=\"module-tab-item tab-item\"&&</div>",
 "线路标题":"<span>&&</span>[替换:腾讯>>腾腾#优酷>>悠悠#爱奇艺>>琪琪#芒果>>茫茫]",
