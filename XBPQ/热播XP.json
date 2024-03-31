@@ -52,7 +52,7 @@
       "dtFromNameR": "",
       "dtUrlNode": "//*[@class='stui-content__playlist sort-list maxheight clearfix']",
       "dtUrlSubNode": "/li/a",
-      "dtUrlId": "@href",
+      "dtUrlId": "/@href",
       "dtUrlIdR": "",
       "dtUrlName": "/text()",
       "dtUrlNameR": "",
