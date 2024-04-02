@@ -13,7 +13,7 @@
   "标题": "title=\"&&\"",
   "链接": "href=\"&&\"",
   "搜索模式": "1",
-  "搜索url": "https://www.03yy.co/search.php?searchword={wd}",
+  "搜索url": "  https://www.03yy.co/search.php?page={pg}&searchword={wd}&searchtype=",
   "搜索数组": "<div class=\"m-pic-l pic-height-a\">&&</div>",
   "搜索副标题": "<span>&&</span>",
   
