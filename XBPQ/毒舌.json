@@ -2,15 +2,14 @@
 {
   "作者": "kaige",
   "站名": "毒舌",
-  "主页url": "https://vres.a357899.cn/",
   "发布": "",
   
   "分类": "电视剧$2#电影$1#动漫$3#综艺$4#",
   
   "分类url": "https://www.keke6.app/show/{cateId}-{class}-{area}-{lang}-{year}-3-{catePg}.html",
-  "二次截取": "div class=\"module-box module-v-box\">&&<div class=\"pagenation-box fs-margin-section\">",
+  "二次截取": "div class=\"module-box module-v-box\">&&<div class=\"pagenation-box fs-margin-section\">[替换:www.keke6.app>>vres.a357899.cn]",
   "数组": "<a&&</a>",
-  "图片": "data-original=\"&&\"",
+  "图片": "data-original=\"&&\"[替换:www.keke6.app>>vres.a357899.cn]",
   //"图片前缀": "https://vres.a357899.cn/",
   "标题": "title=\"&&\"",
   "链接": "href=\"&&\"",
