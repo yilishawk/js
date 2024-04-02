@@ -11,6 +11,7 @@
   "二次截取": "div class=\"module-box module-v-box\">&&<div class=\"pagenation-box fs-margin-section\">",
   "数组": "<a&&</a>",
   "图片": "data-original=\"&&\"",
+  "图片前缀": "https://vres.a357899.cn/",
   "标题": "title=\"&&\"",
   "链接": "href=\"&&\"",
   "副标题": "<span>&&</span>",
