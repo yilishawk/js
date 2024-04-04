@@ -49,7 +49,7 @@
   "dtFromName": "/text()",
   "dtUrlNode": "//ul[contains(@class,'clearfix fade in active')]",
   "dtUrlSubNode": "/li/a",
-  "dtUrlId": "/@href",
+  "dtUrlId": "@href",
   "dtUrlIdR": "/(S+).html",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
