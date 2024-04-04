@@ -50,7 +50,7 @@
       "dtFromNode": "//*[@class='stui-vodlist__head']/h4",
       "dtFromName": "/text()",
       "dtFromNameR": "",
-      "dtUrlNode": "//ul[contains(@class,'stui-content__playlist sort-list maxheight clearfix')]",
+      "dtUrlNode": "//*[@class='stui-content__playlist sort-list maxheight clearfix']",
       "dtUrlSubNode": "/li/a",
       "dtUrlId": "/@href",
       "dtUrlIdR": "/(S+).html",
