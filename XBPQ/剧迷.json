@@ -19,7 +19,7 @@
   "homeVodImg": "/@data-original",
   "homeVodMark": "/span[2]/text()",
   "cateUrl": "https://gimy.is/cat/{cateId}-{area}-------{catePg}---{year}.html",
-  "cateVodNode": "//*[@class='box-video-list']/li/a",
+  "cateVodNode": "//*[@class='box-video-list']//li/a",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
   "cateVodIdR": "",
