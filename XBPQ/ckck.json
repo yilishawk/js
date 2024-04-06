@@ -4,7 +4,7 @@
   "主页url": "https://www.03yy.co/",
   //"发布": "https://www.ckck.me/",
  "头部集合": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Cookie$PHPSESSID=4r48o1vg24fnl51bag0f1jrqg1", 
- "分类": "国产剧$13#喜剧电影$10#剧集$2#动漫$3#综艺$4#",
+ "分类": "国产剧$13#喜剧电影$10#短剧$48#综艺$4#",
   "分类url": "https://www.03yy.co/type/index{cateId}-{catePg}.html",
   //"二次截取": "<div class=\"Pic-list\">&&<div class=\"page-next\">",
   "数组": "<div class=\"m-pic-l pic-height-a\">&&</div>",
@@ -32,9 +32,9 @@
   "播放数组": "",
   "播放请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
   "筛选":{
-"1":[
+"10":[
   {"key":"cateId","name":"类型","value":[
-  {"n":"全部","v":"1"},
+  {"n":"全部","v":"10"},
   {"n":"动作片","v":"5"},
   {"n":"爱情片","v":"6"},
   {"n":"科幻片","v":"7"},
@@ -83,9 +83,9 @@
   {"n":"人气","v":"hits"},
   {"n":"评分","v":"douban"}]}],
   
-"2":[
+"13":[
   {"key":"cateId","name":"类型","value":[
-  {"n":"全部","v":"2"},
+  {"n":"全部","v":"13"},
   {"n":"国产剧","v":"13"},
   {"n":"港台剧","v":"14"},
   {"n":"日韩剧","v":"26"},
