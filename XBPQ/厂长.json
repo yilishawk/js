@@ -1,6 +1,6 @@
 {
 "站名":"厂长影视",
-//"主页url":"https://www.czzy88.com/",
+"主页url":"https://www.czzy88.com/",
 //发布页https://www.czzy.site/https://www.cz01.vip/
 "验证":"滑动验证",
 "请求头": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
@@ -20,8 +20,8 @@
 "播放列表":"<a&&/a>",
 "播放标题":">&&<",
 "播放链接":"href=\"&&\"",
-"搜索url": "https://yandex.com/search/touch?text={wd}czzy88&lr=10591",
- "搜索请求头": "User-Agent$Mozilla/5.0 (Linux; Android 13; SM-A037U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 uacq#Referer$https://passport.yandex.com/#Cookie$yuidss=8305970961712028978; yandexuid=8305970961712028978; i=s0ySDSQ/RN2zv2iVg4ZQ2DXOqEM1qhI45qpD5CAglmpA9zVnz3x24T08LPvB3mEXSAtXvWyiiL34NkakNB7vyAk2qcc=; receive-cookie-deprecation=1; yandex_gid=10591; yashr=3114830051712028978; KIykI=1; bltsr=1; my=YwA=; spravka=dD0xNzEyMzk2NDgyO2k9MjQwZTozNWU6OTU0OjFjMDA6NzAzZToxMjcxOjc4OjY5M2E7RD00MkVFQzY2MURBRkNDOUE1MTJDRkM5Q0QxOEMwOUFGNTJFNkREMEM3Q0JDQTI2QkY5NUNGMDNFNTg0MTNBMjk0NTg2MDk4N0I4MjE1Qzk1N0QzRUZCNEFFNzEwMUFEMEM1MUI4NDhFODg5M0RGOTJFQjA4OURBRDZDQTM0REI0NTY2N0RGOTVCMkVFQURGODRFRDBBQzFCNjI4O3U9MTcxMjM5NjQ4MjA1NzQ2MTI4MjtoPTU2MWEwNTRhODgxODUxYjMyZWFlNWQxZmJhZjc0MGFj; is_gdpr_b=CJWjDxDl9AEoAg==; is_gdpr=0; bh=EkEiR29vZ2xlIENocm9tZSI7dj0iMTEyIiwgIkNocm9taXVtIjt2PSIxMTIiLCAiTm90PUE/QnJhbmQiO3Y9IjI0IhoFIng4NiIiECIxMjMuMC42MzEyLjEwNSIqAj8xMgIiIjoJIkFuZHJvaWQiQggiMTAuMC4wIkoEIjY0IlJcIkdvb2dsZSBDaHJvbWUiO3Y9IjEyMy4wLjYzMTIuMTA1IiwgIk5vdDpBLUJyYW5kIjt2PSI4LjAuMC4wIiwgIkNocm9taXVtIjt2PSIxMjMuMC42MzEyLjEwNSJaAj8w; Session_id=3:1712472874.5.0.1712472874781:xi8C3M1RM6EAzDIJXgMOJA:52.1.2:1|1967825121.0.2.0:3.3:1712472874|11:10180118.392830.u1DjsXaCARuj3XPwFTP664TBlN0; sessionid2=3:1712472874.5.0.1712472874781:xi8C3M1RM6EAzDIJXgMOJA:52.1.2:1|1967825121.0.2.0:3.3:1712472874|11:10180118.392830.fakesign0000000000000000000; yp=4294967295.skin.s#1714620978.ygu.1#2027758066.pcs.0#1712633850.szm.1:1440x900:1440x739#1715071374.csc.1#2027832874.udn.cDo4MjQzODMyMTRAcXEuY29t; ys=udn.cDo4MjQzODMyMTRAcXEuY29t; L=XgZUYUMAdG4IQ39CBVR8ak9fSlQEQX9zW2FyA3BjX3VQCjBFXQYtJA==.1712472874.15672.337691.5cc2cf43def5f5cf5b5ef5819f7154a6; yandex_login=824383214@qq.com; sessar=1.1188.CiC1MDV4X3csyhu1ukVXjQK0SdcComTiMruqOP0mC0k26w.as6k2mfDOIn1jBL4pykAOO6FDSP_76vzgi1CB3iOjEo; _yasc=dw2QP/GBJ1fqUGATVMN8qpz+fZ7UzsT/R6KH/0HiK33uSZ3CjZpYca6qvcW6RMwFkXGRzFPjaU/+trSAIDiSG99BJdw=",
+"搜索url": "https://cn.bing.com/search?q={wd}czzy88&FPIG=C048985DE9C84650BBC515F10F1AF60F&first=10&FORM=PERE&cc=tw",
+ "搜索请求头": "User-Agent$Mozilla/5.0 (Linux; Android 13; SM-A037U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 uacq",
 //"搜索url":"https://www.czzy88.com/?s={wd}&limit=500",
   "搜索数组": "<div class=\"VanillaReact OrganicTitle OrganicTitle_multiline Typo Typo_text_l organic__title-wrapper\"&&</h2>",
   "搜索标题":"role=\"text\">&&》[替换:</b>>>空<b>>>空]",
