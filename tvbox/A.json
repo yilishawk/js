@@ -8,7 +8,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/秒播影视cj.json"
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/秒播影视cj.json"
     },
         {
       "key": "csp_XBPQ_柒月影视",
@@ -18,7 +18,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/柒月影视.json"
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/柒月影视.json"
     },
             {
       "key": "csp_XBPQ_4K影视",
@@ -28,7 +28,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/4kmv.json"
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/4kmv.json"
     },
                    {
       "key": "csp_XBPQ_影视大全",
@@ -38,7 +38,7 @@
       "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
-      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/影视大全.json"
+      "ext":"https://bitbucket.org/yilishawk/js/raw/master/XBPQ/影视大全.json"
     },
     {"key":"csp_AppTT",
     "name":"萌米影视",
@@ -66,7 +66,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/白票影视.json"
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/白票影视.json"
     },
                   {
       "key": "csp_XBPQ_98影视",
@@ -76,7 +76,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/98%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/98%E5%BD%B1%E8%A7%86.json"
     },
        {
       "key": "csp_XBPQ_黑狐影视",
@@ -86,7 +86,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/黑狐影视.json"
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/黑狐影视.json"
     },
                 {
       "key": "csp_XBPQ_剧圈圈",
@@ -96,7 +96,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/剧圈圈.json"
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/剧圈圈.json"
     },
      {
       "key": "csp_XBPQ_天龙影视",
@@ -106,7 +106,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/天龙影视.json"
+      "ext":"https://bitbucket.org/yilishawk/js/raw/master/XBPQ/天龙影视.json"
     },
                    {
       "key": "csp_XBPQ_猫猫影视CJ",
@@ -116,7 +116,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/猫猫影视CJ.json"
+      "ext":"https://bitbucket.org/yilishawk/js/raw/master/XBPQ/猫猫影视CJ.json"
     },
                   {
       "key": "csp_XBPQ_黑狐采集",
@@ -126,7 +126,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/黑狐采集.json"},
+      "ext":"https://bitbucket.org/yilishawk/js/raw/master/XBPQ/黑狐采集.json"},
                           {
       "key": "官网资源",
       "name": "官网(采集)",
@@ -151,7 +151,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/金鱼影视.json"
+      "ext":"https://bitbucket.org/yilishawk/js/raw/master/XBPQ/金鱼影视.json"
     },
                    {
       "key": "csp_XBPQ_即看影视",
@@ -161,7 +161,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/即看影视.json"
+      "ext":"https://bitbucket.org/yilishawk/js/raw/master/XBPQ/即看影视.json"
     },
            {
       "key": "csp_XBPQ_短剧",
@@ -171,7 +171,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/短剧.json"
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/短剧.json"
     }, 
     {"key":"csp_NanGua",
     "name":"南瓜影视",
@@ -189,7 +189,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/jar/bdys"},
+    "jar":"https://bitbucket.org/yilishawk/js/raw/master/jar/bdys"},
         {"key":"短剧",
     "name":"王雨看短剧",
     "type":3,
@@ -216,7 +216,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/两个BT.json"},
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/两个BT.json"},
     {
       "key": "csp_XBPQ_TVB",
       "name": "TVB",
@@ -225,7 +225,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/TVB%E4%BA%91%E6%92%AD.json"
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/TVB%E4%BA%91%E6%92%AD.json"
     },
               {
       "key": "csp_XBPQ_子子影视",
@@ -235,7 +235,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/子子影视.json"
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/子子影视.json"
     },
                   {
       "key": "csp_XBPQ_臭蛋影视",
@@ -245,7 +245,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/臭蛋影视.json"
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/臭蛋影视.json"
     },
               {
       "key": "csp_XBPQ_80",
@@ -255,17 +255,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/80yy.json"
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/80yy.json"
     },
            {
       "key": "dr_ cz",
       "name": "厂长资源",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/lib/drpy2.min.js",
+      "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/厂长资源.js"
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/厂长资源.js"
     },
       {
       "key": "csp_XBPQ_烧火影视",
@@ -275,7 +275,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/saohuo.json"
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/saohuo.json"
     },
         {
       "key": "csp_XBPQ_ 奥特影视",
@@ -285,7 +285,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/aote.json"
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/aote.json"
     },
                 {
       "key": "csp_XBPQ_爱看影视",
@@ -295,7 +295,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/爱看影视.json"
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/爱看影视.json"
     },
             {
       "key": "csp_XBPQ_电视盒子",
@@ -305,7 +305,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/电视盒子.json"
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/电视盒子.json"
     },
     {
       "key": "csp_XBPQ_达达龟",
@@ -315,7 +315,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/达达龟.json"
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/达达龟.json"
     },
 
         {
@@ -326,18 +326,18 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/剧哥哥.json"},
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/剧哥哥.json"},
     {
       "key": "drpy_js_xb6v",
       "name": "6V磁力JS",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/lib/drpy2.min.js",
+      "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
       "playerType":"1",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "timeout":30,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/6v.js"
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/6v.js"
     },
     {
       "key": "csp_XBPQ_MP4",
@@ -347,7 +347,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/MP4磁力.json"
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/MP4磁力.json"
     },
         {
       "key": "csp_XBPQ_电影天堂",
@@ -357,7 +357,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/电影天堂磁力.json"
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/电影天堂磁力.json"
     },
     {"key":"csp_WoGG",
     "name":"玩偶哥哥",
@@ -700,5 +700,5 @@
    "ads":["iqiyi.hbuioo.com","vip.ffzyad.com","wan.51img1.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd","mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"],
    "wallpaper": "https://api.likepoems.com/img/bing",
   //"spider": "https://agit.ai/mimang/momo/src/branch/master/Yoursmile10.5.jar;md5;30A6D0E99DE3B7FEB1B8A03370516B57"
-  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/jar/Yoursmile240402;md5;9E4D052BF6549D36B3E6E94F670BA1B9"
+  "spider": "https://bitbucket.org/yilishawk/js/raw/master/jar/Yoursmile240402;md5;9E4D052BF6549D36B3E6E94F670BA1B9"
 }
