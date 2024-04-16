@@ -26,11 +26,11 @@
 "主演": "<h2>演员</h2>&&<div id=\"info",
 "简介": "<p>&&</p>",
 
-"播放二次截取": "id=\'playernotice&&<div class=\"sheader\">[替换:class=\'ajax_mode\'>>>videourls:你我\"name\":1集,\"链洁\":\\&mvsource=0\"和他tables:]",
+"播放二次截取": "id=\'playernotice&&<div class=\"sheader\">[替换:class=\'ajax_mode\'>>>videourls:你我\"name\":1,\"链洁\":\\&mvsource=0\"和他tables:]",
 "播放数组": "videourls:&&tables:[替换:url\":>>链洁\":\\&ep=#}>>\\&source=0\"和他#{>>你我]",
 "列表二次截取": "",
 "播放列表": "你我&&和他",
-"播放标题": "name\":&&,",
+"播放标题": "第+name\":&&,+集",
 "播放链接": "链洁\":&&\"",
 "播放链接前缀": "https://www.4kvm.org/artplayer?id=+data-id=\"&&\"",
 "播放链接后缀": "",
