@@ -50,7 +50,7 @@
 "搜索链接前缀": "",
 
 "分类url": "https://www.4kvm.org/{cateId}/page/{catePg}",
-"分类": "电影$movies#美剧$classify/meiju#国产剧$classify/guochan#韩剧$classify/hanju#番剧$classify/fanju",
+"分类": "国产剧$classify/guochan#电影$movies#美剧$classify/meiju#韩剧$classify/hanju#番剧$classify/fanju",
 "分类二次截取": "",
 "分类数组": "",
 "分类标题": "",
