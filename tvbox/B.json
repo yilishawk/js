@@ -2,7 +2,7 @@
   "sites": [
        {
       "key": "csp_XBPQ_秒播影视cj",
-      "name": "秒播影视cj",
+      "name": "秒播影视采集",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
