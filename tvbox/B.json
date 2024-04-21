@@ -20,6 +20,16 @@
       "quickSearch": 1,
       "ext":"https://cdn.jsdelivr.net/gh/yilishawk/js/XBPQ/360采集.json"
     },
+	  {
+      "key": "csp_XBPQ_热播",
+      "name": "热播之家",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/yilishawk/js/XBPQ/热播.json"
+    },
                {
       "key": "dr_ cz",
       "name": "厂长资源",
