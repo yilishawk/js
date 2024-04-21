@@ -79,6 +79,16 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/白票影视.json"
     },
+           {
+      "key": "csp_XBPQ_猫派对",
+      "name": "猫派对",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/猫派对.json"
+    },
                   {
       "key": "csp_XBPQ_98影视",
       "name": "98影视",
@@ -132,7 +142,7 @@
       "key": "官网资源",
       "name": "官网(采集)",
       "type": 1,
-      "playUrl": "json:https://json.84jia.com/home/api?type=ys&uid=8096440&key=cepwyzACGJPQSTVX04&url=",
+      "playUrl": "https://jx.jsonplayer.com/player/?url=",
       "api": "http://anltv.cn/api.php/provide/vod/",
       "searchable":1,
       "quickSearch": 1,
