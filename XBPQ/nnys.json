@@ -26,7 +26,7 @@
     "播放标题":"title=*>&&<",
     "播放列表":"<a&&/a>",
     	"跳转播放链接数组":"<div class=\"detailPosterIntro globalPadding clearfix\"&&</script>[替换:#>>']",
-    "跳转播放链接":"https://api.cnmcom.com/webcloud/nmm.php?url=+$&&'",
+    "跳转播放链接":"https://api.cnmcom.com/webcloud/api/anmm.php?url=+$&&'",
     "二次跳转播放链接":"src = 'ht&&'",
     "三次跳转播放链接":"<video src=\"&&\"",
     "播放请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
