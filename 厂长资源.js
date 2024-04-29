@@ -70,7 +70,7 @@ var rule={
 		"lists": ".paly_list_btn:eq(#id) a"
 	},
 	搜索:'.search_list&&ul&&li;*;*;*;*',
-	搜索:`js:
+	//搜索:`js:
 	var html = request(input);
 	var d=[];
 	if (html.indexOf('|')>0){
