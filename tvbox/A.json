@@ -31,14 +31,14 @@
       "ext":"https://bitbucket.org/yilishawk/js/raw/master/XBPQ/360采集.json"
     },
                {
-      "key": "dr_ cz",
+      "key": "csp_XBPQ_ cz",
       "name": "厂长资源",
       "type": 3,
-      "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/厂长资源.js"
+      "filterable": 1,
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/厂长.json"
     },
         {
       "key": "csp_XBPQ_柒月影视",
