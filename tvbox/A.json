@@ -10,6 +10,36 @@
       "filterable": 1,
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/秒播影视cj.json"
     },
+                        {
+      "key": "csp_XBPQ_白票影视",
+      "name": "白票影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/白票影视.json"
+    },
+                             {
+      "key": "csp_XBPQ_360采集",
+      "name": "360采集",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/360采集.json"
+    },
+               {
+      "key": "csp_XBPQ_ cz",
+      "name": "厂长资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/厂长.json"
+    },
         {
       "key": "csp_XBPQ_柒月影视",
       "name": "柒月┃App",
@@ -40,15 +70,6 @@
       "quickSearch": 1,
       "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/影视大全.json"
     },
-    {"key":"csp_AppTT",
-    "name":"萌米影视",
-    "type":3,
-    "api":"csp_AppTT",
-    "playerType":2,
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc="},
         {
 	"key": "酷看",
 	"name": "酷看┃App",
@@ -58,15 +79,15 @@
 	"quickSearch": 1,
 	"changeable": 1
 		},
-                    {
-      "key": "csp_XBPQ_白票影视",
-      "name": "白票影视",
+           {
+      "key": "csp_XBPQ_猫派对",
+      "name": "猫派对",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/白票影视.json"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/猫派对.json"
     },
                   {
       "key": "csp_XBPQ_98影视",
@@ -108,17 +129,27 @@
       "filterable": 1,
       "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/天龙影视.json"
     },
-                   {
-      "key": "csp_XBPQ_猫猫影视CJ",
-      "name": "猫猫影视CJ",
+            {
+      "key": "csp_XBPQ_兄弟影视",
+      "name": "兄弟影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/猫猫影视CJ.json"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/兄弟影视.json"
     },
-                  {
+            {
+      "key": "csp_XBPQ_追影",
+      "name": "追影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/追影.json"
+    },
+         {
       "key": "csp_XBPQ_黑狐采集",
       "name": "黑狐采集",
       "type": 3,
@@ -131,7 +162,7 @@
       "key": "官网资源",
       "name": "官网(采集)",
       "type": 1,
-      "playUrl": "json:https://json.84jia.com/home/api?type=ys&uid=8096440&key=cepwyzACGJPQSTVX04&url=",
+      "playUrl": "https://jx.jsonplayer.com/player/?url=",
       "api": "http://anltv.cn/api.php/provide/vod/",
       "searchable":1,
       "quickSearch": 1,
@@ -256,16 +287,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/80yy.json"
-    },
-           {
-      "key": "dr_ cz",
-      "name": "厂长资源",
-      "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yilishawk/js/master/厂长资源.js"
     },
       {
       "key": "csp_XBPQ_烧火影视",
