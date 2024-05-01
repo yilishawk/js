@@ -1,0 +1,33 @@
+{
+  "作者": "心魔",
+  "站名": "TV云播",
+  "主页url": "http://vip.zhuiying.cyou/",
+  "热门": "",
+  //发布页https://app2.zhuiying.cyou//
+  "分类": "电视剧$1#电影$2#动漫$4#综艺$3#",
+  
+  "分类url": "http://vip.zhuiying.cyou/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+  "二次截取": "按评分排序&&<div id=\"page\">",
+  "数组": "<a&&no-referrer[替换:play>>detail#/sid/1/nid/1>>空]",
+  "副标题": "module-item-note\">&&</div>",
+  "搜索url": "http://vip.zhuiying.cyou/index.php/vod/search.html?wd={wd}",
+  "搜索二次截取": "<div class=\"module-main module-page\">&&<div class=\"fixedGroup\">",
+    "搜索模式": "1",
+    "搜索数组": "<a&&no-referrer",
+  "影片年代": "",
+  "影片类型": "",
+  "导演": "",
+  "主演": "",
+  "简介": "style=\"line-height: 20px;\"><p>&&</p>",
+  
+  "线路数组": "<div class=\"module-tab-item tab-item\"&&</div>",
+	"线路标题": "<span>&&</span>",
+	"播放数组": "",
+	"播放列表": "",
+	"播放标题":"",
+	"播放链接": "href=\"&&\"",
+  "跳转播放链接数组":"<div class=\"player-box-main\">&&</script>[替换:seven>>http://vip.zhuiying.cyou/zajx/?url=#lzm3u8>>http://122.114.252.230:599/player/?url=#CL4K>>http://vip.zhuiying.cyou/fyjx/?url=]",
+"跳转播放链接":"from\":\"&&\"+url\":\"&&\"",
+//"二次跳转播放链接":"<video src=\"&&\"",
+  "嗅探词":"cdn.rfzy.lol:4433#.m3u8?vkey#122.114.252.230:597#.m3u8#.mp4"
+}
