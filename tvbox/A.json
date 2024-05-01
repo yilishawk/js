@@ -129,6 +129,26 @@
       "filterable": 1,
       "ext":"https://bitbucket.org/yilishawk/js/raw/master/XBPQ/天龙影视.json"
     },
+            {
+      "key": "csp_XBPQ_兄弟影视",
+      "name": "兄弟影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/兄弟影视.json"
+    },
+            {
+      "key": "csp_XBPQ_追影",
+      "name": "追影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/追影.json"
+    },
          {
       "key": "csp_XBPQ_黑狐采集",
       "name": "黑狐采集",
