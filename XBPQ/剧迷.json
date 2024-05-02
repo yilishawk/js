@@ -18,7 +18,7 @@
   "homeVodIdR": "/vod/(\\w+).html",
   "homeVodImg": "/@data-original",
   "homeVodMark": "/span[2]/text()",
-  "cateUrl": "https://gimy.is/cat/2{cateId}--------{catePg}---.html",
+  "cateUrl": "https://gimy.is/cat/{cateId}--------{catePg}---.html",
   "cateVodNode": "//*[@id='content']/li/a",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
