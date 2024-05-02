@@ -1,6 +1,6 @@
 {
   "author": "Tangsan99999",
-  "ua": "Mozilla/5.0 (Linux; Android 13; SM-A037U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 uacq",
+  //"ua": "Mozilla/5.0 (Linux; Android 13; SM-A037U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 uacq",
   "homeUrl": "https://gimy.is/",
   "dcVipFlag": "true",
   "pCfgJs": "https://gimy.is/static/js/playerconfig.js",
@@ -19,7 +19,7 @@
   "homeVodImg": "/@data-original",
   "homeVodMark": "/span[2]/text()",
   "cateUrl": "https://gimy.is/cat/{cateId}-{area}-------{catePg}---{year}.html",
-  "cateVodNode": "//*[@class='box-video-list']//li/a",
+  "cateVodNode": "//*[@class='clearfix']/li/a",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
   "cateVodIdR": "/vod/(\\w+).html",
