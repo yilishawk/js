@@ -1,7 +1,7 @@
 {
   "作者": "凯哥",
   "站名": "两个BT",
-  "主页url": "https://www.bttwo.net/",
+  "主页url": "https://www.bttwoo.com/",
   //"发布页": "https://www.bttwo.vip/",
   
   "分类": "电影$new-movie#国产剧$zgjun#美剧$meiju#日韩剧$jpsrtv",
@@ -13,7 +13,7 @@
   "图片": "",
   
   "搜索模式": "1",
-  "搜索url": "https://www.bttwo.net/xsssearch?q=",
+  "搜索url": "https://www.bttwoo.com/xsssearch?q=",
   "搜索二次截取": "<ul>&&</li>",
   "搜索数组": "<li>&&</a>",
   "搜索副标题": "",
