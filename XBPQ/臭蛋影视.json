@@ -32,9 +32,9 @@
 	"播放列表": "<a&&</a>",
 	"播放标题": "<span>&&</span>",
 	"播放链接": "href=\"&&\"",
-	"跳转播放链接数组":"<div class=\"player-box-main\">&&</script>",
-    "跳转播放链接":"https://bfq.cddys.me/haopengyou/?url=+\"url\":\"&&\"",
-    "二次跳转播放链接":"https://bfq.cddys.me/haopengyou/API.php;post;url=+url\": \"&&\"+&time=+time\": \"&&\"+&key=+key\": \"&&\"",
-    "三次跳转播放链接":"\"url\"*\"&&\"",
+	//"跳转播放链接数组":"<div class=\"player-box-main\">&&</script>",
+    //"跳转播放链接":"https://bfq.cddys.me/haopengyou/?url=+\"url\":\"&&\"",
+    //"二次跳转播放链接":"https://bfq.cddys.me/haopengyou/API.php;post;url=+url\": \"&&\"+&time=+time\": \"&&\"+&key=+key\": \"&&\"",
+    //"三次跳转播放链接":"\"url\"*\"&&\"",
 	"分类url": "https://www.cddys.me/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
 	"分类": "电影$1#剧集$2#综艺$3#动漫$4#"}
