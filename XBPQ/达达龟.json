@@ -39,7 +39,7 @@
 "播放请求头":"",
 //"免嗅":"0",
 "分类":"电影$1#电视剧$2#综艺$3",
-"分类url":"https://www.ddgys.com/vodtype/{cateId}-{catePg}.html",
+"分类url":"https://www.ddgys.com/vodshow/{cateId}--------{catePg}---.html",
  "筛选":{
 "dianshiju":[
   {"key":"cateId","name":"类型","value":[
