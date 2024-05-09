@@ -28,6 +28,6 @@
 	"播放链接": "href=\"&&\"",
   "跳转播放链接数组":"<div class=\"player-box-main\">&&</script>[替换:seven>>http://vip.zhuiying.cyou/zajx/?url=#lzm3u8>>http://122.114.252.230:599/player/analysis.php?v=#CL4K>>http://vip.zhuiying.cyou/fyjx/?url=]",
 "跳转播放链接":"from\":\"&&\"+url\":\"&&\"",
-"二次跳转播放链接":"https://1+https://1&&\"",
-  "嗅探词":"cdn.rfzy.lol:4433#.m3u8?vkey#122.114.252.230:597#.m3u8#.mp4"
+"二次跳转播放链接":"https://1+https://1&&\""
+  //"嗅探词":"cdn.rfzy.lol:4433#.m3u8?vkey#122.114.252.230:597#.m3u8#.mp4"
 }
