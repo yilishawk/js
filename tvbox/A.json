@@ -1,5 +1,15 @@
 {
   "sites": [
+                     {
+      "key": "csp_XBPQ_全看影视",
+      "name": "全看影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/全看影视"
+    },
        {
       "key": "csp_XBPQ_秒播影视cj",
       "name": "秒播影视cj",
@@ -30,6 +40,16 @@
       "quickSearch": 1,
       "ext":"https://bitbucket.org/yilishawk/js/raw/master/XBPQ/360采集.json"
     },
+           {
+      "key": "csp_XBPQ_黑狐影视",
+      "name": "黑狐影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/黑狐影视.json"
+    },
                {
       "key": "csp_XBPQ_ cz",
       "name": "厂长资源",
@@ -39,16 +59,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/厂长.json"
-    },
-                   {
-      "key": "csp_XBPQ_全看影视",
-      "name": "全看影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/全看影视"
     },
                        {
       "key": "csp_XBPQ_华人影院",
@@ -70,6 +80,15 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/4kmv.json"
     },
+             {
+      "key": "csp_XBPQ_黑狐采集",
+      "name": "黑狐采集",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":"https://bitbucket.org/yilishawk/js/raw/master/XBPQ/黑狐采集.json"},
         {
 	"key": "酷看",
 	"name": "酷看┃App",
@@ -89,15 +108,15 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/98%E5%BD%B1%E8%A7%86.json"
     },
-       {
-      "key": "csp_XBPQ_黑狐影视",
-      "name": "黑狐影视",
+                  {
+      "key": "csp_XBPQ_子子影视",
+      "name": "子子影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/黑狐影视.json"
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/子子影视.json"
     },
                 {
       "key": "csp_XBPQ_剧圈圈",
@@ -139,15 +158,6 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/追影.json"
     },
-         {
-      "key": "csp_XBPQ_黑狐采集",
-      "name": "黑狐采集",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext":"https://bitbucket.org/yilishawk/js/raw/master/XBPQ/黑狐采集.json"},
                {
       "key": "csp_XBPQ_金鱼影视",
       "name": "金鱼影视",
@@ -204,16 +214,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/TVB%E4%BA%91%E6%92%AD.json"
-    },
-              {
-      "key": "csp_XBPQ_子子影视",
-      "name": "子子影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/子子影视.json"
     },
                   {
       "key": "csp_XBPQ_臭蛋影视",
