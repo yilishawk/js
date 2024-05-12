@@ -24,7 +24,7 @@
     "搜索链接":"href=\"&&\"",
     //"搜索后缀":"/oftensdetail/",
     "线路数组":"<div class=\"stui-pannel__head clearfix\">&&</div>",
-    "线路标题":"title\">&&</h3>[排序:猫猫秒播源1>秒播①源>移动①播放源>联通①播放源>电信③播放源>腾讯播放源>猫猫秒播源1]",
+    "线路标题":"title\">&&</h3>",
     "播放数组":"<ul class=\"stui-content__playlist clearfix\">&&</ul>",
     "播放标题":">&&</a>",
     "播放列表":"<li >&&</li>",
