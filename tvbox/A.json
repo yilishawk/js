@@ -1,15 +1,5 @@
 {
   "sites": [
-                     {
-      "key": "csp_XBPQ_全看影视",
-      "name": "全看影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/全看影视"
-    },
        {
       "key": "csp_XBPQ_秒播影视cj",
       "name": "秒播影视cj",
@@ -234,6 +224,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/saohuo.json"
+    },
+                         {
+      "key": "csp_XBPQ_全看影视",
+      "name": "全看影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/全看影视"
     },
         {
       "key": "csp_XBPQ_ 奥特影视",
