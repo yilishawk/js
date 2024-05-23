@@ -30,6 +30,16 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/黑狐影视.json"
     },
+                             {
+      "key": "csp_XBPQ_全看影视",
+      "name": "全看影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/全看影视"
+    },
                {
       "key": "csp_XBPQ_ cz",
       "name": "厂长资源",
@@ -148,16 +158,6 @@
       "filterable": 1,
       "ext":"https://bitbucket.org/yilishawk/js/raw/master/XBPQ/金鱼影视.json"
     },
-                   {
-      "key": "csp_XBPQ_即看影视",
-      "name": "即看影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext":"https://bitbucket.org/yilishawk/js/raw/master/XBPQ/即看影视.json"
-    },
            {
       "key": "csp_XBPQ_短剧",
       "name": "短剧",
@@ -224,16 +224,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/saohuo.json"
-    },
-                         {
-      "key": "csp_XBPQ_全看影视",
-      "name": "全看影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/全看影视"
     },
         {
       "key": "csp_XBPQ_ 奥特影视",
