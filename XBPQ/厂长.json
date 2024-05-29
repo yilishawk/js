@@ -2,7 +2,7 @@
 "站名":"厂长影视",
 "主页url":"https://www.czys.top/",
 //发布页https://www.czzy.site/https://www.cz01.vip/
-//"验证":"滑动验证",
+"验证":"人机验证",
 "头部集合": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 GLS/100.10.9939.100#Host$m.91dyk.com#Referer$https://www.czys.top/#Priority$u=0, i#Cookie$myannoun=1",
 "二次截取":"<div class=\"bt_img mi_ne_kd mrb\">&&<div class=\"pagenavi_txt\">",
 "数组":"<li>&&</div>",
