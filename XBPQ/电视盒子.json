@@ -2,7 +2,7 @@
 "作者":"凯哥",
 "站名":"电视盒子",
 //发布页https://www.fygame.top//
-"主页url":"http://m.tv7box.com/",
+"主页url":"http://m.5itvbox.com/",
 "头部集合": "User-Agent$Mozilla/5.0 (Linux; Android 13; SM-A037U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36  uacq#Host$m.tv7box.com#Referer$http://m.tv7box.com/#Cookie$ff-record=a%3A1%3A%7Bs%3A8%3A%221-168897%22%3Bs%3A3%3A%221-1%22%3B%7D",
 "cookie":"",
 "热门推荐":"1",
@@ -14,7 +14,7 @@
 "链接前缀":"",
 "链接后缀":"",
 //"副标题":"",
-"搜索url": "http://m.tv7box.com/vod-search-wd-{wd}-p-1.html",
+"搜索url": "http://m.5itvbox.com/vod-search-wd-{wd}-p-1.html",
 "搜索模式": "1",
 "搜索二次截取": "<ul class=\"list-unstyled vod-item-img ff-img-140\">&&<div class=\"clearfix ff-clearfix\">",
 "搜索数组": "<li&&</a>",
@@ -42,7 +42,7 @@
 //"免嗅":"1"
 "倒序播放": "0",
 "分类":"电影$1#电视剧$2#综艺$4",
-"分类url":"http://m.tv7box.com/list-select-id-{cateId}-type-{class}-area-{area}-year-{year}-star--state--order-addtime-p-{catePg}.html",
+"分类url":"http://m.5itvbox.com/list-select-id-{cateId}-type-{class}-area-{area}-year-{year}-star--state--order-addtime-p-{catePg}.html",
   "筛选":{
 "1":[
   {"key":"class","name":"剧情","value":[
