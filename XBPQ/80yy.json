@@ -14,7 +14,7 @@
 	"副标题": "",
     "搜索url": "https://www.92kyy.com/index.php/rss/index.xml?wd={wd}",
     "搜索模式": "1",
-    //"搜索二次截取": "\"list\":[&&]",
+    "搜索二次截取": "url&&</rss>",
     "搜索数组": "<item>&&</item>",
     "搜索标题": "<title>&&</title>",
     //"搜索图片": "\"pic\":\"&&\"",
