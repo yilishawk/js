@@ -35,6 +35,6 @@
   //"跳转播放链接": "url*'&&'",
   "嗅探词": ".m3u8",
   "倒序": "0",
-  "播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Origin$www.whbax.cn#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad",
+  "播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Origin$https://m.ruituka.com#Cookie$https_waf_cookie=7f200ff3-136c-496b43790b15c9d58c50f5a2d8653196d98b",
   "免嗅": "0"
 }
