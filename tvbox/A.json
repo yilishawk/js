@@ -1,14 +1,14 @@
 {
   "sites": [
        {
-      "key": "csp_XBPQ_秒播影视cj",
-      "name": "秒播影视cj",
+      "key": "csp_XBPQ_电影先生",
+      "name": "电影先生",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/秒播影视cj.json"
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/电影先生.json"
     },
                  {
       "key": "csp_XBPQ_黑狐采集",
