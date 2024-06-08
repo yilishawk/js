@@ -1,0 +1,14 @@
+{
+				"分类url": "https://dianyi.ng/pianku-{cateId}-{area}-------{catePg}---{year}.html",
+				"简介": "class=\"video-info-item video-info-content vod_content\">&&</span>",
+				"搜索url": "/search--------------.html?wd={wd}",
+	                        "搜索模式": "1",
+				"搜索数组": "<div class=\"module-item-pic\">&&</div>",
+				"图片": "src=\"&&\"",
+				"搜索标题": "title=\"&&\"",
+				"线路数组": "<div class=\"module-tab-item tab-item\"&&</div>[替换:DI节点>>非凡#AN节点>>量子#YI节点>>暴风#FD节点>>快看#SU节点>>索尼#HD节点>>1080高清#AQ节点>>新浪#UK节点>>U酷#DB节点>>百度]",
+				"线路标题": "<span>&&</span>[排序:非凡>量子>暴风>快看>索尼>1080高清>新浪>U酷>百度]",
+				"播放数组": "<div class=\"scroll-content\">&&</div>",
+				"播放标题": "<span>&&</span>",
+				"分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"
+			}
