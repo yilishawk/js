@@ -287,6 +287,16 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/剧哥哥.json"},
+                     {
+      "key": "csp_XBPQ_电视直播",
+      "name": "电视直播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":"https://bitbucket.org/yilishawk/js/raw/master/XBPQ/电视直播.json"
+    },
     {
       "key": "drpy_js_xb6v",
       "name": "6V磁力JS",
