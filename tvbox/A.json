@@ -1,7 +1,7 @@
 {
   "sites": [
            {
-      "key": "csp_XBPQ_华为采集",
+      "key": "csp_XBPQ_飞刀采集",
       "name": "飞刀影视",
       "type": 3,
       "api": "csp_XBPQ",
