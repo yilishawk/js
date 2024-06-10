@@ -466,7 +466,7 @@
  {
 		"name": "西瓜",
 		"type": 1,
-		"url": "http://119.91.123.253:2345/Api/yun.php?url=",
+		"url": "http://json.xn--cerrw216dja891if19b.xn--fiqs8s/?url=",
 		"ext": {
 			"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"],
       "header": {
