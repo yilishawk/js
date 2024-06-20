@@ -32,9 +32,6 @@
 	"播放列表": "<li&&</li>",
 	"播放标题": ">&&</a>",
 	"播放链接": "href=\"&&\"",
-   "跳转播放链接数组":"<script type=\"text/javascript\">&&</script>",
-    "跳转解析":"BTJSON-推荐$https://m.centos.chat/player/ec.php?from=suxun&code=qw&if=1&url=#线路一$https://m.centos.chat/player/ec.php?from=bilfun&code=qw&if=1&url=#线路二$https://m.centos.chat/player/ec.php?from=bilfun&code=qw&if=1&url=#QQ$https://m.centos.chat/player/ec.php?from=weisuan&code=qw&if=1&url=",
-    "跳转播放链接":"解析+url\":\"&&\"",
 	"分类url": "https://bilfun.com/bilfunshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
 	"分类": "电影$1#剧集$2#综艺$3#动漫$4#",
 	"筛选": {
