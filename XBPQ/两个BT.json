@@ -7,11 +7,11 @@
   "分类": "电影$new-movie#国产剧$zgjun#美剧$meiju#日韩剧$jpsrtv",
   
   "分类url": "https://www.bttwo.com/{cateId}/page/{catePg}",
-  
-  "数组": "",
-  "副标题": "",
-  "图片": "",
-  
+  "二次截取": "<div class=\"bt_img mi_ne_kd mrb\">&&<div class=\"pagenavi_txt\">",
+  "数组": "<li>&&</div>",
+  "副标题": "<span>&&</span>",
+  "图片": "data-original=\"&&\"",
+  "标题": "alt=\"&&\"",
   "搜索模式": "1",
   "搜索url": "https://www.bttwoo.com/xsssearch?q=",
   "搜索二次截取": "<ul>&&</li>",
