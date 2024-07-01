@@ -12,7 +12,7 @@
   "图片": "data-original=\"&&\"",
   "标题": "alt=\"&&\"",
   "搜索模式": "1",
-  "搜索url": "https://www.bttwoo.com/xsssearch?q=",
+  "搜索url": "/xssssearch?q={wd}",
   "搜索二次截取": "<ul>&&</li>",
   "搜索数组": "<li>&&</a>",
   "搜索副标题": "",
