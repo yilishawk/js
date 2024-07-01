@@ -3,9 +3,8 @@
   "站名": "两个BT",
   "主页url": "https://www.bttwoo.com/",
   //"发布页": "https://www.bttwo.vip/",
-  
-  "分类": "电影$new-movie#国产剧$zgjun#美剧$meiju#日韩剧$jpsrtv",
-  
+  "分类": "国产剧&电影&美剧&日韩&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧&短剧",
+  "分类值": "zgjun&new-movie&meiju&jpsrtv&12&9&6&34&16&14&15&28",
   "分类url": "https://www.bttwo.com/{cateId}/page/{catePg}",
   "二次截取": "<div class=\"bt_img mi_ne_kd mrb\">&&<div class=\"pagenavi_txt\">",
   "数组": "<li>&&</div>",
