@@ -201,14 +201,14 @@
       "ext":"https://bitbucket.org/yilishawk/js/raw/master/XBPQ/金鱼影视.json"
     },
            {
-      "key": "csp_XBPQ_短剧",
-      "name": "短剧",
+      "key": "csp_XBPQ_华人影院",
+      "name": "华人影院",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/短剧.json"
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/华人影院.json"
     }, 
         {"key":"csp_XBPQ_哔嘀",
     "name":"哔嘀影视",
