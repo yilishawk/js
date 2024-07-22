@@ -1,15 +1,5 @@
 {
   "sites": [
-           {
-      "key": "csp_XBPQ_飞刀采集",
-      "name": "飞刀影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/飞刀采集.json"
-    },
          {
       "key": "csp_XBPQ_华为采集",
       "name": "华为影视",
