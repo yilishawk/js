@@ -2,7 +2,7 @@
   "作者": "凯哥",
   "站名": "采集",
   //"首页": "电影",
-  "头部集合": "User-Agent$Mozilla/5.0 (iPad; CPU OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1#authority$heimuer.tv#referer$https://heimuer.tv/",
+  //"头部集合": "User-Agent$Mozilla/5.0 (iPad; CPU OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1#authority$heimuer.tv#referer$https://heimuer.tv/",
   "分类": "国产剧&短剧&喜剧片&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧",
   "分类值": "13&64&10&23&12&34&25&7&38&30&14&15",
   "分类url": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}",
@@ -32,8 +32,8 @@
   "播放列表": "表&&表",
   "播放标题": "题&&题",
   "播放链接": "链&&链",
-  "播放链接": "链&&链+?sku=NzU0ZmFmMjRlZjcwYzViODM3NjQwZDViOWE3MThhOWMwZTY1YjY4ODE5YTI0N2Vi&p=2&sign=516e13d6671fad9d2404ad0d4eb39f05",
-   "播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Origin$https://player.heimuer.tv#Cookie$sku=NzU0ZmFmMjRlZjcwYzViODM3NjQwZDViOWE3MThhOWMwZTY1YjY4ODE5YTI0N2Vi",
+  "播放链接": "链&&链",
+   //"播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Origin$https://player.heimuer.tv#Cookie$sku=NzU0ZmFmMjRlZjcwYzViODM3NjQwZDViOWE3MThhOWMwZTY1YjY4ODE5YTI0N2Vi",
   "嗅探词": ".m3u8#.mp4#video_mp4#feiyunNB.mp4#.mp4#cdn.123pan.cn#huoshanvod.com"
   //"倒序播放": "0",
   //"免嗅": "0"
