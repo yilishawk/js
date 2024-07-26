@@ -29,5 +29,6 @@
   //"跳转播放链接数组":"<div class=\"player-box\">&&</script>",
   //"跳转播放链接":"https://123.57.224.250/player/ec.php?code=qw&from=+from\":\"&&\"+&if=1&url=+url\":\"&&\"",
 //"二次跳转播放链接":"<video src=\"&&\"",
-  "嗅探词":".mp4?dis#video.php?r#.m3u8?#.m3u8#.mp4"
+  "嗅探词":".m3u8?#.m3u8#.mp4",
+    "过滤词":"jx.xdys.vip#xdad.m3u8"
 }
