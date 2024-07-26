@@ -2,7 +2,7 @@
     "作者":"凯哥",
     "站名":"98影视",
     "发布页":"https://www.91qkw.cc/",
-    "头部集合": "User-Agent$Mozilla/5.0 (Linux; Android 13; SM-A037U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36  uacq#accept$text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7#Cookie$1every_24h_tips=true",
+    "头部集合": "User-Agent$Mozilla/5.0 (Linux; Android 13; SM-A037U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36  uacq#accept$text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7#Cookie$1every_24h_tips=true#cache-control$max-age=0#sec-fetch-site$same-origin",
     "主页url":"https://m.qkw2.cc/",
     //"二次截取":"<ul class=\"list_tab_img\"&&<div class\"ui-vpages\">",
     "数组":"lazyload&&</a>",
