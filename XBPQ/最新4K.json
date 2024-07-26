@@ -2,7 +2,7 @@
     "作者":"凯哥",
     "站名":"最新4K",
     //发布页https://www.3840.ee/
-    //"请求头":"Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36",
+  "头部集合": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 GLS/100.10.9939.10#accept$text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7#Cookie$popupShown=yes; recente=%5B%7B%22vod_name%22%3A%22%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E8%A5%BF%E8%A1%8C%22%2C%22vod_url%22%3A%22https%3A%2F%2Fwww.1080.ee%2Fvodplay%2F132317-1-1.html%22%2C%22vod_part%22%3A%22%E7%AC%AC01%E9%9B%86%22%7D%5D#Host$www.ppxys.vip#Connection$keep-alive#origin$https://play.brovod.com#referer$https://www.1080.ee/",
     "主页url":"https://www.1080.ee/",
     //"二次截取":"<ul class=\"hl-vod-list clearfix\">&&<ul class=\"hl-page-wrap hl-text-center cleafix\">",
     "数组":"lazyload&&</a>",
