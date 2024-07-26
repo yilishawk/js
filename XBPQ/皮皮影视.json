@@ -5,7 +5,7 @@
   "热门": "",
   //发布页http://www.pipixia.vip/
   "分类": "电影$2#剧集$1#动漫$3#综艺$4#",
-  
+  "头部集合": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 GLS/100.10.9939.10#accept$text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7#Cookie$mx_style=white; showBtn=true#Host$www.ppxys.vip#Proxy-Connection$keep-alive",
   "分类url": "http://www.ppxys.vip/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
   "二次截取": "按评分排序&&<div id=\"page\">",
   "数组": "<a&&no-referrer",
