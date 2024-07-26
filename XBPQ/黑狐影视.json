@@ -1,6 +1,6 @@
 {
 			    "站名": "黑狐影院",
-				"主页url": "http://fagmn.com",
+				"主页url": "https://heihu.tv/",
 				"发布页": "heihu.info https://heihu.tv/",
 				"数组": "class=\"stui-vodlist__box\"&&</a",
 				"图片": "data-original=\"&&\"",
@@ -9,7 +9,7 @@
 				"嗅探词": ".m3u8?vkey#.m3u8#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
 				//"过滤词": "/hls/#php",
 				"副标题": "<span class=\"pic-text text-right\">&&</span>",
-				"搜索url": "http://fagmn.com/search.php;post;searchword={wd}",
+				"搜索url": "https://heihu.tv/search.php;post;searchword={wd}",
 				"搜索模式": "1",
 				"搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>",
 				"搜索图片": "data-original=\"&&\"",
@@ -32,5 +32,5 @@
                 "二次跳转播放链接":"mp4url=\"&&\"",
 				//"免嗅": "0",
 				"分类": "电影$1#电视剧$2#动漫$3#综艺$4",
-				"分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
+				"分类url": "https://heihu.tv/list/{cateId}_{catePg}.html?order=time"
 			}
