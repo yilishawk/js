@@ -1,6 +1,7 @@
 {
     "作者":"凯哥",
     "站名":"最新4K",
+    //发布页https://www.3840.ee/
     //"请求头":"Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36",
     "主页url":"https://www.1080.ee/",
     //"二次截取":"<ul class=\"hl-vod-list clearfix\">&&<ul class=\"hl-page-wrap hl-text-center cleafix\">",
@@ -20,7 +21,7 @@
     "线路标题":"iconfontplay2\">&&</h3>",
     "播放数组":"<ul class=\"stui-content__playlist clearfix\">&&</ul>",
     "播放标题":">&&</a>",
-    "播放列表":"<li>&&</li>",
+    "播放列表":"<li >&&</li>",
     "播放链接":"href=\"&&\"",
     "分类url":"https://www.1080.ee/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
     "分类":"电视剧$2#电影$1#综艺$20#动漫$3",
