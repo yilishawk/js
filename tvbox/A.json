@@ -30,7 +30,7 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/电影先生.json"
     },
-{"key":"csp_Jpys","name":"金牌","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_Jpys","name":"金牌","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar": "https://gitcode.net/u013726710/js/-/raw/master/fh.jar"},
 {"key":"csp_LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_Ikanbot","name":"Ikanbot","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://v.aikanbot.com"},
            {
