@@ -27,13 +27,13 @@
   "线路二次截取": "\"list\":[&&]",
   "线路数组": "\"vod_play_from\":&&,",
   "线路标题": "\"&&\"",
-  "播放数组": "vod_play_url\":&&,[替换:\">>链表题#$>>题链#\\#>>链表表题]",
+  "播放数组": "vod_play_url\":&&,[替换:\">>链表题#$>>题链#\\#>>链表表题#m3u8.heimuertv.com>>mycj-m3u8.hmrvideo.com]",
   "播放二次截取": "",
-  "播放列表": "表&&表[替换:m3u8.heimuertv.com>>mycj-m3u8.hmrvideo.com]",
+  "播放列表": "表&&表",
   "播放标题": "题&&题",
   "播放链接": "链&&链",
   //"跳转解析": "https://player.heimuer.tv/index.html?url=",
-  "播放请求头":"User-Agent$Mozilla/5.0 (Linux；； Android 14；； 23054RA19C Build/UP1A.231005.007；； wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/126.0.6478.186 Mobile Safari/537.36#Origin$https://www.tzqjdy.com#Referer$https://www.tzqjdy.com/#Cookie$mx_style=white; showBtn=true",
+   "播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 GLS/100.10.9939.100#Origin$https://www.tzqjdy.com#Referer$https://www.tzqjdy.com/#Cookie$mx_style=white; showBtn=true",
   "嗅探词": ".m3u8#.mp4#video_mp4#feiyunNB.mp4#.mp4#cdn.123pan.cn#huoshanvod.com"
   //"倒序播放": "0",
   //"免嗅": "0"
