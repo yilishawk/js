@@ -1,0 +1,28 @@
+var rule = {
+  title: '',
+  host: 'https://m.qkw1.cc/',
+  url: '/type/fyclass-fypage.html',
+  searchUrl: '/search/-------------.html?wd=**&submit=',
+  searchable: 2,
+  quickSearch: 0,
+  filterable: 0,
+  headers: {
+    'User-Agent': 'MOBILE_UA',
+  },
+  class_parse: '.stui-header__menu.clearfix li;a&&Text;a&&href;/(\\d+).html',
+  play_parse: true,
+  lazy: "js:\n  let html = request(input);\n  let hconf = html.match(/r player_.*?=(.*?)</)[1];\n  let json = JSON5.parse(hconf);\n  let url = json.url;\n  if (json.encrypt == '1') {\n    url = unescape(url);\n  } else if (json.encrypt == '2') {\n    url = unescape(base64Decode(url));\n  }\n  if (/\\.(m3u8|mp4|m4a|mp3)/.test(url)) {\n    input = {\n      parse: 0,\n      jx: 0,\n      url: url,\n    };\n  } else {\n    input = url && url.startsWith('http') && tellIsJx(url) ? {parse:0,jx:1,url:url}:input;\n  }",
+  limit: 6,
+  double: true,
+  推荐: 'ul.stui-vodlist.tab-pane;li;a&&title;a&&data-original;.pic-text&&Text;a&&href',
+  一级: 'ul.stui-vodlist.clearfix li;a&&title;a&&data-original;.pic-text&&Text;a&&href',
+  二级: {
+    title: '.stui-content__thumb .pic&&title;.stui-content__detail p.data:eq(3) a:eq(0)&&Text',
+    img: '.stui-content__thumb .lazyload&&data-original',
+    desc: '.stui-content__detail p.data:eq(0)&&Text;.stui-content__detail p.data:eq(3) a:eq(2)&&Text;.stui-content__detail p.data:eq(3) a:eq(1)&&Text;.stui-content__detail p.data:eq(1)&&Text;.stui-content__detail p.data:eq(2)&&Text',
+    content: '.stui-content__detail p.desc.hidden-xs&&Text',
+    tabs: '.stui-pannel__head.clearfix;.title&&Text',
+    lists: '.stui-content__playlist.clearfix:eq(#id) li',
+  },
+  搜索: '.stui-vodlist.clearfix li;a&&title;.lazyload&&data-original;.pic-text&&Text;a&&href;.detail&&Text',
+}
