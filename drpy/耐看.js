@@ -1,7 +1,7 @@
 var rule = {
 	title:'南柯电影网',
 	模板:'mxpro',
-	host:'https://nkvod.com/',
+	host:'https://nkvlog.us/',
     hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});HOST = jsp.pdfh(html,".enter-maomi&&a&&href");log(HOST);',
 	url:'/show/fyfilter.html',
   searchUrl: '/rss/sm.index.xml?wd=**',
