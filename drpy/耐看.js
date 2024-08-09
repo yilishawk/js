@@ -1,7 +1,7 @@
 var rule = {
   title: '',
-  host: 'https://www.aikanys.vip/',
-  hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});HOST = jsp.pdfh(html,".links li:eq(0) a&&href");log(HOST);',
+	host:'https://nkvlog.us/',
+    hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});HOST = jsp.pdfh(html,".enter-maomi&&a&&href");log(HOST);',
   url: '/vodtype/fyclass-fypage/',
   searchUrl: '/rss/sm.index.xml?wd=**',
   searchable: 1,
