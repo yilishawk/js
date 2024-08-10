@@ -1,0 +1,21 @@
+var rule = {
+  title: '直播',
+  host: 'http://video.qd.sdu.edu.cn/',
+  url: '/vod-show?tags=fyclass&page=fypage',
+  //searchUrl: '/vodsearch/**----------fypage---/',
+class_name:'直播',
+class_url:'0_4',
+  searchable: 2,
+  quickSearch: 0,
+  filterable: 0,
+  headers: {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.61 Chrome/126.0.6478.61 Not/A)Brand/8 Safari/537.36',
+  },
+  play_parse: true,
+  lazy: "js:\n  let html = request(input);\n  let hconf = html.match(/r player_.*?=(.*?)</)[1];\n  let json = JSON5.parse(hconf);\n  let url = json.url;\n  if (json.encrypt == '1') {\n    url = unescape(url);\n  } else if (json.encrypt == '2') {\n    url = unescape(base64Decode(url));\n  }\n  if (/\\.(m3u8|mp4|m4a|mp3)/.test(url)) {\n    input = {\n      parse: 0,\n      jx: 0,\n      url: url,\n    };\n  } else {\n    input = url && url.startsWith('http') ul.vodlist&& tellIsJx(url) ? {parse:0,jx:1,url:url}:input;\n  }",
+  limit: 6,
+  double: true,
+  一级: 'body .el-col.el-col-55;img&&alt;img&&src;.pic_text&&Text;a&&href',
+  二级: '*',
+  搜索: '*',
+}
