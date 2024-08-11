@@ -1,6 +1,8 @@
 var rule = {
     title: '哔嘀影视',
     host: 'https://www.yjys02.com/',
+    //host: 'https://www.bdys.me/',
+    //hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});HOST = jsp.pdfh(html,"body h4:eq(0) p:eq(0)&&Text");log(HOST);',
     // url: '/s/all/fypage?type=fyclass',
 	url: '/s/all/fypage?type=fyclassfyfilter',
 	filter_url:'&{{fl.area}}&{{fl.year}}&{{fl.by}}',
