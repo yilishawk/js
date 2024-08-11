@@ -1,4 +1,3 @@
-// 发布页 https://www.bdys.me/
 var rule = {
     title: '哔嘀影视',
     host: 'https://www.yjys02.com/',
@@ -26,7 +25,7 @@ var rule = {
     	"img":".col-md-auto img&&src",
     	"desc":";;;.mb-md-2:eq(3)&&Text;.mb-md-2:eq(1)&&Text",
     	"content":"#synopsis .card-body&&Text",
-    	"tabs":".card-header:eq(1) h3",
+    	"tabs":".card.mt-3 .card-header.py-2:eq(0) h3",
     	"lists":"#play-list:eq(#id) a"
 	},
     搜索:'.row-cards .row-0;.d-inline-block&&title;img&&src;.d-inline-block&&Text;a&&href',
