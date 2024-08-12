@@ -3,7 +3,7 @@ var rule = {
   host: 'https://subaibai.vip',
   hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});HOST = jsp.pdfh(html,".link&&a&&href");log(HOST);',
   url: '/fyclass/page/fypage',
-  searchUrl: '/vodsearch/**----------fypage---.html',
+  searchUrl: 'https://www.subaibaiys.com/?s=**',
   searchable: 2,
   quickSearch: 0,
   filterable: 0,
@@ -31,5 +31,5 @@ class_url:'domestic-drama&new-movie&tv-drama&hot-month&high-movie&cartoon-movie&
     // 辅助嗅探规则
     isVideo:"http((?!http).){26,}\\.(wangchuanxin.top|m3u8|mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3|wma)",
   },
-  搜索: 'body .module-item;.module-card-item-title&&Text;.lazyload&&data-original;.module-item-note&&Text;a&&href;.module-info-item-content&&Text',
-}
+  搜索: 'body .bt_img.mi_ne_kd.search_list;img&&alt;img&&data-original;.jidi&&Text;a&&href;.module-info-item-content&&Text',
+  }
