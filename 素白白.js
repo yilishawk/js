@@ -31,5 +31,5 @@ class_url:'domestic-drama&new-movie&tv-drama&hot-month&high-movie&cartoon-movie&
     // 辅助嗅探规则
     isVideo:"http((?!http).){26,}\\.(wangchuanxin.top|m3u8|mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3|wma)",
   },
-  搜索: 'body .bt_img.mi_ne_kd.search_list;img&&alt;img&&data-original;.jidi&&Text;a&&href;.module-info-item-content&&Text',
+  搜索: '.search_list&&ul&&li;img&&alt;img&&data-original;.jidi&&Text;a&&href;.module-info-item-content&&Text',
   }
