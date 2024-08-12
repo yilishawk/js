@@ -1,6 +1,6 @@
 {
 "站名": "4K影院",
-"主页url": "https://www.4kvm.org",
+"主页url": "https://www.4kvm.org/",
 //https://www.pipiysb.com/
 "请求头": "",
 "头部集合": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
@@ -11,7 +11,7 @@
 "图片代理": "0",
 "二次截取": "",
 "数组": "<div class=\"poster\">&&<div class=\"texto\">",
-"图片": "src=\"https://gimg3.baidu.com/gimg/app=2028&#038;src=&&\"",
+"图片": "src=www.4kvm.org/&&\"",
 "标题": "alt=\"&&\"",
 "副标题": "<div class=\"update\">&&</div>",
 "链接": "href=\"&&\"",
