@@ -31,5 +31,5 @@ class_url:'zgjun&new-movie&meiju&jpsrtv',
     // 辅助嗅探规则
     isVideo:"http((?!http).){26,}\\.(wangchuanxin.top|m3u8|mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3|wma)",
   },
-  搜索: '.search_list:not(:matches(情色))&&ul&&li;img&&alt;img&&data-original;.jidi&&Text;a&&href;.module-info-item-content&&Text',
+  搜索: '.search_list&&ul&&li:not(:matches(情色));img&&alt;img&&data-original;.jidi&&Text;a&&href;.module-info-item-content&&Text',
 }
