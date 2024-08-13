@@ -19,9 +19,9 @@ var rule = {
   //cate_exclude:'国产剧|午夜剧场|wuyejuchang|xiezhen|伦理片|写真',
   推荐: 'ul.myui-vodlist.clearfix;li;a&&title;a&&data-original;.pic-text&&Text;a&&href',
   double: true,
-  一级: '.myui-vodlist li;a&&title;a&&data-original;.pic-text&&Text;a&&href',
+  一级: '.myui-vodlist li:not(:contains(伦理片));a&&title;a&&data-original;.pic-text&&Text;a&&href',
   二级: {
-    title: '.myui-content__detail .title&&Text;.myui-content__detail p.data&&Text',
+    title: '.myui-content__detail .title&&Text;.myui-content__detail p:not(:contains(主播)).data&&Text',
     img: '.myui-content__thumb .lazyload&&data-original',
     desc: '.myui-content__detail p:eq(0)&&Text;.myui-content__detail p:eq(1)&&Text;.myui-content__detail p:eq(2)&&Text',
     content: '.content&&Text',
