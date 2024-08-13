@@ -10,10 +10,10 @@ var rule = {
   headers: {
     'User-Agent': 'MOBILE_UA',
   },
-class_name:'国产剧&电影&&欧美剧&港台剧',
+class_name:'国产剧&电影&欧美剧&港台剧',
 class_url:'zgjun&new-movie&meiju&jpsrtv',
   play_parse: true,
-  lazy: '',
+lazy: "js:\n  let html = request(input);\n  let hconf = html.match(/r player_.*?=(.*?)</)[1];\n  let json = JSON5.parse(hconf);\n  let url = json.url;\n  if (json.encrypt == '1') {\n    url = unescape(url);\n  } else if (json.encrypt == '2') {\n    url = unescape(base64Decode(url));\n  }\n  if (/\\.(m3u8|mp4|m4a|mp3)/.test(url)) {\n    input = {\n      parse: 0,\n      jx: 0,\n      url: url,\n    };\n  } else {\n    input = url && url.startsWith('http') && tellIsJx(url) ? {parse:0,jx:1,url:url}:input;\n  }",
   limit: 6,
   //图片来源:'@Referer=https://www.subaibaiys.com/@User-Agent=MOBILE_UA',
   推荐: '.bt_img ul;li;img&&alt;.lazy&&data-original;.hdinfo&&Text;a&&href',
