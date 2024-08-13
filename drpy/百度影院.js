@@ -21,7 +21,7 @@ var rule = {
   double: true,
   一级: '.myui-vodlist li;a&&title;a&&data-original;.pic-text&&Text;a&&href',
   二级: {
-    title: '.myui-content__detail .title&&Text;.myui-content__detail p.data:not(伦理片)&&Text',
+    title: '.myui-content__detail .title&&Text;.myui-content__detail p.data&&Text',
     img: '.myui-content__thumb .lazyload&&data-original',
     desc: '.myui-content__detail p:eq(0)&&Text;.myui-content__detail p:eq(1)&&Text;.myui-content__detail p:eq(2)&&Text',
     content: '.content&&Text',
