@@ -28,5 +28,5 @@ var rule = {
     tabs: '.nav-tabs:eq(0) li',
     lists: '.myui-content__list:eq(#id) li',
   },
-  搜索: '#searchList li;a&&title;.lazyload&&data-original;.text-muted&&Text;a&&href;.text-muted:eq(-1)&&Text',
+  搜索: '#searchList li:not(:contains(伦理片));a&&title;.lazyload&&data-original;.text-muted&&Text;a&&href;.text-muted:eq(-1)&&Text',
 }
