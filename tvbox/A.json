@@ -62,6 +62,16 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/全看影视"
     },
+                       {
+      "key": "dr_ 追剧影视",
+      "name": "追剧影视",
+      "type": 3,
+      "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/freeok.js"
+    },
     {
       "key": "dr_ 柯南影视",
       "name": "柯南影视",
