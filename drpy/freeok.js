@@ -15,7 +15,7 @@ var rule={
 		1:{cateId:'1'},
 		2:{cateId:'2'}
 	},
-	searchUrl:'/index.php?m=vod-search&wd=**',
+	searchUrl:'/search/**-------------.html',
 	searchable:2,//是否启用全局搜索,
     headers:{
         'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.61 Chrome/126.0.6478.61 Not/A)Brand/8 Safari/537.36',
