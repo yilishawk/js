@@ -11,8 +11,8 @@ var rule = {
   headers: {
     'User-Agent': 'MOBILE_UA',
   },
-  class_name:'电影&电视剧&综艺',
-   class_url:'dianying/dongzuopian&dianshiju/guochanju&zongyiyule/daluzongyi',
+  class_name:'电影&电视剧&动漫&综艺',
+   class_url:'dianying/dongzuopian&dianshiju/guochanju&3&4',
   play_parse: true,
   lazy: '',
   limit: 6,
@@ -28,5 +28,5 @@ var rule = {
     tabs: '.nav-tabs:eq(0) li',
     lists: '.myui-content__list:eq(#id) li',
   },
-  搜索: 'body:not(:matches(主播)) #searchList:not(:matches(写真)) li:not(:matches(伦理片));a&&title;.lazyload&&data-original;.text-muted&&Text;a&&href;.text-muted:eq(2)&&Text',
+  搜索: 'body #searchList li:not(:matches(伦理片|写真|主播|vip));a&&title;.lazyload&&data-original;.text-muted&&Text;a&&href;.text-muted:eq(2)&&Text',
 }
