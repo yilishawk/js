@@ -27,6 +27,9 @@ var rule = {
     tabs: '.ewave-playlist-tab .swiper-wrapper li',
     lists: '.ewave-playlist-sort-content.playlist:eq(#id) li',
   },
+      sniffer:1,
+    // 辅助嗅探规则
+    isVideo:"http((?!http).){26,}\\.(tvcms.akanhd.com|media-hbsjz-fy-person.|m3u8|mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3|wma)",
   		搜索:`js:
 		pdfh = jsp.pdfh, pdfa = jsp.pdfa, pd = jsp.pd;
 		let d = [];
