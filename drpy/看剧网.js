@@ -27,5 +27,18 @@ lazy: "js:\n  let html = request(input);\n  let hconf = html.match(/r player_.*?
     tabs: '.stui-pannel__head.bottom-line:eq(0) h3',
     lists: '.stui-pannel-box .stui-pannel_bd.col-pd.clearfix:eq(#id) li',
   },
+      //是否启用辅助嗅探: 1,0
+    sniffer:1,
+    // 辅助嗅探规则
+    isVideo:"http((?!http).){26,}\\.(m3u8|mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3|wma)",
+    // 辅助嗅探规则js写法
+    isVideo:`js:
+    log(input);
+    if(/m3u8/.test(input)){
+    input = true
+    }else{
+    input = false
+    }
+    `,
   搜索: '.stui-vodlist__media.col-pd.clearfix li;a&&title;.lazyload&&data-original;.pic-text.text-right&&Text;a&&href',
 }
