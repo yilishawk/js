@@ -36,7 +36,7 @@
 "简介":"剧情简介：&&</span>",
 "播放列表": "我&&你[替换:1080p>>空]",
 "播放标题": "data-name=\"&&\"",
-"播放链接":"https://110.42.2.247:9090/player/?url=+data-oriurl=\"&&\"",
+"播放链接":"https://line1.favnow.com/?uid=89&token=mui&v=+data-url=\"&&\"",
 "播放链接前缀":"",
 	//"跳转播放链接数组":"<div class=\"player-wrapper\">&&</script>",
     //"跳转播放链接":"addan='&&'",
