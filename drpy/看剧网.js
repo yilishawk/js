@@ -18,7 +18,7 @@ lazy: "js:\n  let html = request(input);\n  let hconf = html.match(/r player_.*?
   limit: 6,
   	    sniffer:1,
     // 辅助嗅探规则
-    isVideo:"http((?!http).){26,}\\.(api.chtcar.com|pcvideoaliyun.titan.mgtv.com|m3u8|mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3|wma)"
+    isVideo:"http((?!http).){26,}\\.(api.chtcar.com|pcvideoaliyun.titan.mgtv.com|m3u8|mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3|wma)",
   //cate_exclude:'国产剧|午夜剧场|wuyejuchang|xiezhen|伦理片|写真',
   推荐: 'ul.stui-vodlist.clearfix;li;a&&title;a&&data-original;.pic-text&&Text;a&&href',
   double: true,
