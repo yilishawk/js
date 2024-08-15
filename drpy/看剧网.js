@@ -25,7 +25,7 @@ lazy: "js:\n  let html = request(input);\n  let hconf = html.match(/r player_.*?
     desc: '.stui-content__detail p:eq(0)&&Text;.stui-content__detail p:eq(3)&&a:eq(3)&&Text;.stui-content__detail p:eq(3)&&a:eq(2)&&Text',
     content: '.stui-content__detail p:eq()&&span:eq(1)&&Text',
     tabs: '.stui-pannel__head.bottom-line:eq(0) h3',
-    lists: '.stui-pannel-box .stui-content__playlist.playlink.clearfix:eq(#id) li',
+    lists: '.stui-pannel-box .stui-pannel_bd col-pd.clearfix:eq(#id) li',
   },
   搜索: '.stui-vodlist__media.col-pd.clearfix li;a&&title;.lazyload&&data-original;.pic-text.text-right&&Text;a&&href',
 }
