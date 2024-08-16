@@ -15,11 +15,11 @@ var rule = {
    //class_url:'dianying/dongzuopian&dianshiju/guochanju&3&4',
   play_parse: true,
   tab_rename:{'奇艺视频':'琪琪云','优酷视频':'悠悠云','芒果视频':'果果云','腾讯视频':'腾腾云'},
-lazy: "js:\n  let html = request(input);\n  let hconf = html.match(/r player_.*?=(.*?)</)[1];\n  let json = JSON5.parse(hconf);\n  let url = json.url;\n  if (json.encrypt == '1') {\n    url = unescape(url);\n  } else if (json.encrypt == '2') {\n    url = unescape(base64Decode(url));\n  }\n  if (/\\.(com/v2/m3u8?pt|pcvideoaliyun.titan.mgtv.com|m3u8|mp4|m4a|mp3)/.test(url)) {\n    input = {\n      parse: 0,\n      jx: 0,\n      url: url,\n    };\n  } else {\n    input = url && url.startsWith('http') && tellIsJx(url) ? {parse:0,jx:1,url:url}:input;\n  }",
+//lazy: "js:\n  let html = request(input);\n  let hconf = html.match(/r player_.*?=(.*?)</)[1];\n  let json = JSON5.parse(hconf);\n  let url = json.url;\n  if (json.encrypt == '1') {\n    url = unescape(url);\n  } else if (json.encrypt == '2') {\n    url = unescape(base64Decode(url));\n  }\n  if (/\\.(com/v2/m3u8?pt|pcvideoaliyun.titan.mgtv.com|m3u8|mp4|m4a|mp3)/.test(url)) {\n    input = {\n      parse: 0,\n      jx: 0,\n      url: url,\n    };\n  } else {\n    input = url && url.startsWith('http') && tellIsJx(url) ? {parse:0,jx:1,url:url}:input;\n  }",
   limit: 6,
-  	    //sniffer:1,
-    // 辅助嗅探规则
-    //isVideo:"http((?!http).){26,}\\.(api.chtcar.com|pcvideoaliyun.titan.mgtv.com|m3u8|mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3|wma)",
+  	    sniffer:1,
+    //辅助嗅探规则
+    isVideo:"http((?!http).){26,}\\.(com/v2/m3u8?pt=m3u8|pcvideoaliyun.titan.mgtv.com|m3u8|mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3|wma)",
   //cate_exclude:'国产剧|午夜剧场|wuyejuchang|xiezhen|伦理片|写真',
   推荐: 'ul.stui-vodlist.clearfix;li;a&&title;a&&data-original;.pic-text&&Text;a&&href',
   double: true,
