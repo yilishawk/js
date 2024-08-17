@@ -33,7 +33,7 @@
   "播放标题": "题&&题",
   "播放链接": "链&&链",
   //"跳转解析": "https://player.heimuer.tv/index.html?url=",
-   "播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 GLS/100.10.9939.100#Origin$https://www.tzqjdy.com#Referer$https://www.tzqjdy.com/#Cookie$mx_style=white; showBtn=true",
+   "播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 GLS/100.10.9939.100",
   "嗅探词": ".m3u8#.mp4#video_mp4#feiyunNB.mp4#.mp4#cdn.123pan.cn#huoshanvod.com"
   //"倒序播放": "0",
   //"免嗅": "0"
