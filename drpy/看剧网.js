@@ -1,6 +1,6 @@
 var rule = {
   title: '',
-  host: 'http://wenhi.com/',
+  host: 'http://www.kanjuba.tv',
   url: '/fyclass/indexfypage.html[/fyclass/index.html]',
   searchUrl: '/search.php?page=fypage&searchword=**&searchtype=',
   searchable: 0,
@@ -8,6 +8,9 @@ var rule = {
   filterable: 0,
   headers: {
     'User-Agent': 'Mozilla/5.0 (Linux; Android 13; SM-A536E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 uacq',
+    'referer': 'www.kanjuba.tv',
+    'Host': 'www.kanjuba.tv',
+    'sec-ch-ua-platform': 'iOS',
     'Cookie': 'recente2024=%5B%7B%22vod_name%22%3A%22%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E8%A5%BF%E8%A1%8C%22%2C%22vod_url%22%3A%22http%3A%2F%2Fwenhi.com%2Fguochan%2Ftangchaoguishiluzhixixing%2Fplay-0-0.html%22%2C%22vod_part%22%3A%22%E7%AC%AC01%E9%9B%86%22%7D%2C%7B%22vod_name%22%3A%22%E5%9B%9B%E6%B5%B7%E9%87%8D%E6%98%8E%22%2C%22vod_url%22%3A%22http%3A%2F%2Fwenhi.com%2Fguochan%2Fsihaizhongming%2Fplay-1-2.html%22%2C%22vod_part%22%3A%22%E7%AC%AC03%E9%9B%86%22%7D%2C%7B%22vod_name%22%3A%22%E5%B0%8F%E5%A4%AB%E5%A6%BB2024%22%2C%22vod_url%22%3A%22http%3A%2F%2Fwenhi.com%2Fguochan%2Fxiaofuqi2024%2Fplay-0-0.html%22%2C%22vod_part%22%3A%22%E7%AC%AC01%E9%9B%86%22%7D%2C%7B%22vod_name%22%3A%22%E4%BB%99%E5%B8%9D%E5%BD%92%E6%9D%A5%E5%BD%93%E8%B5%98%E5%A9%BF%22%2C%22vod_url%22%3A%22http%3A%2F%2Fwenhi.com%2Fguochan%2Fxiandiguilaidangzhuixu%2Fplay-0-2.html%22%2C%22vod_part%22%3A%22%E7%AC%AC03%E9%9B%86%22%7D%2C%7B%22vod_name%22%3A%22%E5%B9%B8%E7%A6%8F%E8%8D%89%22%2C%22vod_url%22%3A%22http%3A%2F%2Fwenhi.com%2Fguochan%2Fxingfucao%2Fplay-1-0.html%22%2C%22vod_part%22%3A%22%E7%AC%AC01%E9%9B%86%22%7D%5D; PHPSESSID=np5on3n30n0gugklfd2kpruut6',
   },
    class_parse: 'ul.type-slide.clearfix li;a&&Text;a&&href;.*/(.*?)/index.html',
