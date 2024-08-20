@@ -23,6 +23,16 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/看剧网.json"
     },
+               {
+      "key": "csp_XBPQ_黑狐影视",
+      "name": "黑狐影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/黑狐影视.json"
+    },
             {
       "key": "dr_ 两个BT",
       "name": "两个BT",
@@ -120,16 +130,6 @@
     "quickSearch":1,
     "filterable":1,
     "ext":"https://bitbucket.org/yilishawk/js/raw/master/XBPQ/哔嘀影视.json"},
-           {
-      "key": "csp_XBPQ_黑狐影视",
-      "name": "黑狐影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/黑狐影视.json"
-    },
                                  {
       "key": "csp_XBPQ_最新4K",
       "name": "最新4K",
