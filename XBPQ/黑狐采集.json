@@ -2,7 +2,7 @@
   "作者": "凯哥",
   "站名": "采集",
   //"首页": "电影",
-  "请求头": "User-Agent$okhttp/5.0.0-alpha.14#host$json.heimuer.xyz#accept-encoding$gzip",
+  "头部集合": "User-Agent$okhttp/5.0.0-alpha.14#host$json.heimuer.xyz#accept-encoding$gzip",
   "分类": "国产剧&短剧&喜剧片&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧",
   "分类值": "13&64&10&23&12&34&25&7&38&30&14&15",
   "分类url": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}",
