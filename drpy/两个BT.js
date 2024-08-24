@@ -1,7 +1,7 @@
 var rule = {
   title: '',
-  host: 'https://www.bttwoo.com/',
-  //hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});HOST = jsp.pdfh(html,".link&&a&&href");log(HOST);',
+  host: 'https://bttwo.vip/',
+  hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});HOST = jsp.pdfh(html,"body&&li:eq(0)&&a&&href");log(HOST);',
   url: '/fyclass/page/fypage',
   searchUrl: '/xssssearch?q=**',
   searchable: 2,
