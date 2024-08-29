@@ -2,7 +2,6 @@
   "作者": "心魔",
   "站名": "TV云播",
  "主页url": "https://www.ddkk.tv/",
-//https://159i.pw/
   "直接播放": "0",
 "头部集合":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.61 Chrome/126.0.6478.61 Not/A)Brand/8 Safari/537.36#accept$text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7#cookie$cf_clearance=JhJgmMXJwO4V3ch3ZZy2QBGJLoX1FqI2kvcRUAfVrDI-1717390511-1.0.1.1-xeyCWlQ8_ezjB2qLCb345s34Sv.6hWZDPa1j4hR3lqbXpn1VrBEf1iKlh3U7NWl8Rmu1.eTYoGWNc9lai7_gJQ; PHPSESSID=v6a7dbjlm1kr9ak8ji0dl3e8e5; history=%5B%7B%22name%22%3A%22%E6%96%B0%E7%94%9F%22%2C%22pic%22%3A%22https%3A%2F%2Fimg2.doubanio.com%2Fview%2Fphoto%2Fs_ratio_poster%2Fpublic%2Fp2907845241.jpeg%22%2C%22link%22%3A%22%2Fplay%2F131790-9-1.html%22%2C%22part%22%3A%22%E7%AC%AC01%E9%9B%86%22%7D%2C%7B%22name%22%3A%22%E8%BE%B9%E6%B0%B4%E5%BE%80%E4%BA%8B%22%2C%22pic%22%3A%22https%3A%2F%2Fimg.lzzyimg.com%2Fupload%2Fvod%2F20240816-1%2Fab2e4c9bd445c931652bb5624b0b0811.jpg%22%2C%22link%22%3A%22%2Fplay%2F267586-4-1.html%22%2C%22part%22%3A%221%22%7D%2C%7B%22name%22%3A%22%E5%9C%A8%E9%AD%94%E7%8E%8B%E5%9F%8E%E8%AF%B4%E6%99%9A%E5%AE%89%22%2C%22pic%22%3A%22https%3A%2F%2Fpic.rmb.bdstatic.com%2Fbjh%2Fuser%2F119d83edf8894522770a0817656b36f5.jpeg%22%2C%22link%22%3A%22%2Fplay%2F125388-5-9.html%22%2C%22part%22%3A%22%22%7D%5D",
   "分类": "电视剧&电影&综艺&短剧",
@@ -36,5 +35,5 @@
 //"二次跳转播放链接":"$&&$",
   "免嗅": "0",
  "过滤词":"obj#m3u8?BT",
-  "嗅探词":"139.com#.m3u8#.m3u8?#..mp4?#.mp4"
+  "嗅探词":"xhscdn.com#.m3u8?pkey#139.com#.m3u8#.m3u8?#..mp4?#.mp4"
 }
