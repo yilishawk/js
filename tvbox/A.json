@@ -34,6 +34,16 @@
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/黑狐影视.json"
     },
                    {
+      "key": "csp_XBPQ_多多追剧",
+      "name": "多多追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/多多追剧.json"
+    },
+                   {
       "key": "csp_XBPQ_落攻阁影视",
       "name": "落攻阁影视",
       "type": 3,
