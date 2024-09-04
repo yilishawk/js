@@ -1,16 +1,14 @@
-
 {
   "作者": "kaige",
   "站名": "毒舌",
-  "发布": "",
+  //"首页": "https://www.keke6.app/",
   
   "分类": "电视剧$2#电影$1#动漫$3#综艺$4#",
-  
   "分类url": "https://www.keke6.app/show/{cateId}-{class}-{area}-{lang}-{year}-3-{catePg}.html",
-  "二次截取": "div class=\"module-box module-v-box\">&&<div class=\"pagenation-box fs-margin-section\">",
-  "数组": "<a&&</a>",
-  "图片": "https://61.147.93.252:15002+data-original=\"&&\"",
-  //"图片前缀": "https://61.147.93.252:15002",
+ "二次截取": "div class=\"module-box module-v-box\">&&<div class=\"pagenation-box fs-margin-section\">",
+  "数组":"<div class=\"module-item\">&&no-referrer[替换:/vod1>>https://61.147.93.252:15002/vod1]",
+  "图片":"data-original=\"&&\"",
+  //"跳转图片": "https://61.147.93.252:15002",
   "标题": "title=\"&&\"",
   "链接": "href=\"&&\"",
   "副标题": "<span>&&</span>",
@@ -18,9 +16,8 @@
   "搜索模式": "1",
   "搜索url": "https://www.keke6.app/search?k={wd}",
   "搜索二次截取": "<div class=\"search-result-list fs-margin-section\">&&</a>",
-  "搜索数组": "<a&&<div class=\"search-result-item-main\">",
+  "搜索数组": "<a&&<div class=\"search-result-item-main\">[替换:/vod1>>https://61.147.93.252:15002/vod1]",
   "搜索图片": "data-original=\"&&\"",
-  "搜索图片前缀": "https://61.147.93.252:15002",
   "搜索标题": "title=\"&&\"",
   "搜索链接": "href=\"&&\"",
   "影片年代": "detail-info-row-main\">&&</div>",
