@@ -2,11 +2,10 @@
 var rule={
 	title:'厂长资源',
 	// host:'https://czspp.com',
-	host:'https://czzy.top/',
-	//host:'https://www.czzy.site',
+	host:'https://www.czzy.site',
 	//https://cz01.pw
 	//https://cz01.tv重定位到https://www.czz9.com/
-	//hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});HOST = jsp.pdfh(html,".jumbotron&&h2:eq(3)&&li&&a&&href");log(HOST);',
+	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});HOST = jsp.pdfh(html,".jumbotron&&h2:eq(3)&&li&&a&&href");log(HOST);',
 	url:'/fyclassfyfilter',
 	filterable:1,//是否启用分类筛选,
 	filter_url:'{{fl.cateId}}{{fl.class}}{{fl.area}}/page/fypage',
