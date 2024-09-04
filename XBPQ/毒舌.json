@@ -7,7 +7,7 @@
   "分类": "电视剧$2#电影$1#动漫$3#综艺$4#",
   
   "分类url": "https://www.keke6.app/show/{cateId}-{class}-{area}-{lang}-{year}-3-{catePg}.html",
-  "二次截取": "div class=\"module-box module-v-box\">&&<div class=\"pagenation-box fs-margin-section\">[替换:www.keke6.app>>vres.a357899.cn]",
+  "二次截取": "div class=\"module-box module-v-box\">&&<div class=\"pagenation-box fs-margin-section\">",
   "数组": "<a&&</a>",
   "图片": "data-original=\"&&\"",
   "图片前缀": "https://61.147.93.252:15002",
@@ -20,7 +20,7 @@
   "搜索二次截取": "<div class=\"search-result-list fs-margin-section\">&&</a>",
   "搜索数组": "<a&&<div class=\"search-result-item-main\">",
   "搜索图片": "data-original=\"&&\"",
-  "搜索图片前缀": "https://res.vukfnqr.com/",
+  "搜索图片前缀": "https://61.147.93.252:15002",
   "搜索标题": "title=\"&&\"",
   "搜索链接": "href=\"&&\"",
   "影片年代": "detail-info-row-main\">&&</div>",
