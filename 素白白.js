@@ -8,7 +8,9 @@ var rule = {
   quickSearch: 0,
   filterable: 0,
   headers: {
-    'User-Agent': 'okhttp 4.3.12',
+    'User-Agent': 'Mozilla/5.0 (Linux; U; Android 14; zh-cn; 23054RA19C Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.5414.118 Mobile Safari/537.36 XiaoMi/MiuiBrowser/18.1.20130 swan-mibrowser',
+    'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+    'cookie': ' __vtins__JkC3MdljYqnA6RwM=%7B%22sid%22%3A%20%22d04ad72c-64e5-5de8-924d-8197382bc1f6%22%2C%20%22vd%22%3A%201%2C%20%22stt%22%3A%200%2C%20%22dr%22%3A%200%2C%20%22expires%22%3A%201724999620263%2C%20%22ct%22%3A%201724997820263%7D',
   },
 class_name:'国产剧&电影&电视剧&热门电影&高分电影&动漫电影&香港电影&欧美剧&港台剧',
 class_url:'domestic-drama&new-movie&tv-drama&hot-month&high-movie&cartoon-movie&hongkong-movie&american-drama&korean-drama',
