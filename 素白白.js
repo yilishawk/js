@@ -8,7 +8,7 @@ var rule = {
   quickSearch: 0,
   filterable: 0,
   headers: {
-    'User-Agent': 'MOBILE_UA',
+    'User-Agent': 'okhttp 4.3.12',
   },
 class_name:'国产剧&电影&电视剧&热门电影&高分电影&动漫电影&香港电影&欧美剧&港台剧',
 class_url:'domestic-drama&new-movie&tv-drama&hot-month&high-movie&cartoon-movie&hongkong-movie&american-drama&korean-drama',
