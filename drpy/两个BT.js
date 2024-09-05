@@ -29,7 +29,7 @@ lazy: "js:\n  let html = request(input);\n  let hconf = html.match(/r player_.*?
         //是否启用辅助嗅探: 1,0
     sniffer:1,
     // 辅助嗅探规则
-    isVideo:"http((?!http).){26,}\\.(wangchuanxin.top|m3u8|mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3|wma)",
+    isVideo:"http((?!http).){26,}\\.(myvideos.info|wangchuanxin.top|mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3|wma)",
   },
   搜索: '.search_list&&ul&&li:eq(0);img&&alt;img&&data-original;.jidi&&Text;a&&href;.module-info-item-content&&Text',
 }
