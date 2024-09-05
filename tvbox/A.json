@@ -142,14 +142,6 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/电影先生.json"
     },
-        {"key":"csp_XBPQ_哔嘀",
-    "name":"哔嘀影视",
-    "type":3,
-    "api":"https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://bitbucket.org/yilishawk/js/raw/master/drpy/哔嘀影视.js"},
                                  {
       "key": "csp_XBPQ_最新4K",
       "name": "最新4K",
