@@ -5,6 +5,16 @@
 {"key":"csp_TianTian","name":"天天","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ikanbot","name":"Ikanbot","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://v.aikanbot.com"},
                    {
+      "key": "csp_XBPQ_西瓜影视",
+      "name": "西瓜影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/西瓜电影.json"
+    },
+                   {
       "key": "csp_XBPQ_毒蛇影视",
       "name": "毒蛇影视",
       "type": 3,
