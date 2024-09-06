@@ -144,14 +144,14 @@
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/电影先生.json"
     },
                                  {
-      "key": "csp_XBPQ_最新4K",
-      "name": "最新4K",
+      "key": "csp_XBPQ_圣城影视",
+      "name": "圣城影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/最新4K.json"
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/圣城影视.json"
     },
                   {
       "key": "csp_XBPQ_98影视",
