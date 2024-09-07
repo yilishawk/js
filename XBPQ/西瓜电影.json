@@ -5,7 +5,7 @@
 	"数组": "<div class=\"movie-list-item\">&&</a>",
 	"副标题": "movie-rating cor4\">&&</div>",
 	"图片": "data-original=\"&&\"",
-	"标题": "title=\"&&\"",
+	"标题": "title=\"&&影片",
 	"链接": "href=\"&&\"",
         "搜索url":"/index.php/ajax/suggest.html?mid=1&wd={wd}",
     "搜索模式": "0",
