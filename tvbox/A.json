@@ -1,6 +1,35 @@
 {
   "sites": [
-{"key":"csp_Jpys","name":"金牌","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar": "https://gitcode.net/u013726710/js/-/raw/master/fh.jar"},
+                   {
+      "key": "csp_XBPQ_金牌影视",
+      "name": "金牌影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/秒播影视cj.json"
+    },
+                   {
+      "key": "dr_ cz",
+      "name": "厂长资源",
+      "type": 3,
+      "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.js"
+    },
+                       {
+      "key": "dr_ 素白白",
+      "name": "素白白",
+      "type": 3,
+      "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/素白白.js"
+    },
 {"key":"csp_LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_TianTian","name":"天天","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ikanbot","name":"Ikanbot","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://v.aikanbot.com"},
@@ -14,16 +43,6 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/西瓜电影.json"
     },
-                       {
-      "key": "csp_XBPQ_思古影视",
-      "name": "思古影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/思古影视.json"
-    },
                    {
       "key": "csp_XBPQ_毒蛇影视",
       "name": "毒蛇影视",
@@ -33,16 +52,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/%E6%AF%92%E8%88%8C.json"
-    },
-                   {
-      "key": "dr_ 素白白",
-      "name": "素白白",
-      "type": 3,
-      "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/素白白.js"
     },
                {
       "key": "csp_XBPQ_看剧网",
@@ -83,16 +92,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/drpy/两个BT.js"},
-               {
-      "key": "dr_ cz",
-      "name": "厂长资源",
-      "type": 3,
-      "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.js"
-    },
            {
       "key": "csp_XBPQ_农民影视",
       "name": "农民影视",
