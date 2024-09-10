@@ -26,6 +26,7 @@
 	"播放列表": "<li>&&</li>",
 	"播放标题":">&&</a>",
 	"播放链接": "href=\"&&\"",
+      "免嗅": "1",
     "分类":"国产剧$38#电影$20#连续剧$37#综艺$45",
     //"播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
     "分类url":"https://www.a6club.com/index.php/vod/show/id/{cateId}/page/{catePg}/year/{year}.html",
