@@ -1,6 +1,6 @@
 var rule = {
   title: '',
-  host: 'https://m.qkw1.cc/',
+  host: 'https://888.qkw2.cc/',
   url: '/type/fyclass-fypage.html',
   searchUrl: '/search/-------------.html?wd=**&submit=',
   searchable: 2,
