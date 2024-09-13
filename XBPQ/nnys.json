@@ -7,7 +7,7 @@
     "主演":"主演:&&</div>",
     "影片年代":"年代：&&</span>",
     "影片状态":"状态:&&</div>",
-    "二次截取":"<ul class=\"picTxt picTxtA clearfix\">&&</ul>",
+    "二次截取":"<ul class=\"list_01&&<div class=\"page_select\">",
     "数组":"<li>&&</li>",
     "标题":"title=\"&&\"",
     "副标题":"emHot\">&&<em>",
