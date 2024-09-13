@@ -11,14 +11,14 @@
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/全看影视"
     },
              {
-      "key": "csp_XBPQ_农民影视",
+      "key": "dr_农民影视",
       "name": "农民影视",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/nnys.json"
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/农民影视.js"
     },
                    {
       "key": "csp_XBPQ_金牌影视",
