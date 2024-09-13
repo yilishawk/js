@@ -1,5 +1,15 @@
 {
   "sites": [
+                               {
+      "key": "csp_XBPQ_全看影视",
+      "name": "全看影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/全看影视"
+    },
              {
       "key": "csp_XBPQ_农民影视",
       "name": "农民影视",
@@ -112,16 +122,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/子子影视.json"
-    },
-                             {
-      "key": "csp_XBPQ_全看影视",
-      "name": "全看影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/全看影视"
     },
                        {
       "key": "dr_ 追剧影视",
