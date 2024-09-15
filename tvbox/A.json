@@ -34,11 +34,11 @@
       "key": "csp_XBPQ_金牌影视",
       "name": "金牌影视",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/秒播影视cj.json"
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/drpy/金牌影视.js"
     },
                        {
       "key": "dr_ 素白白",
@@ -48,7 +48,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/素白白.js"
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/%E7%B4%A0%E7%99%BD%E7%99%BD.js"
     },
 {"key":"csp_LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_TianTian","name":"天天","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},
