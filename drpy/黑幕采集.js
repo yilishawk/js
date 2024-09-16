@@ -21,7 +21,7 @@ var rule = {
 		7:{cateId:'7'},
 		13:{cateId:'13'},
 		38:{cateId:'38'},
-		27:{cateId:'27'}
+		45:{cateId:'45'}
 	},
   timeout: 5000,
   class_name: '国产剧&动作电影&综艺&短剧',
