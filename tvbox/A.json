@@ -24,11 +24,11 @@
       "key": "csp_XBPQ_金牌影视",
       "name": "金牌影视",
       "type": 3,
-      "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/drpy/金牌影视.js"
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/金牌影视.json"
     },
                        {
       "key": "dr_ 素白白",
