@@ -10,6 +10,16 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/全看影视"
     },
+                                       {
+      "key": "csp_XBPQ_黑狐采集",
+      "name": "黑狐采集",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/黑狐采集.json"
+    },
              {
       "key": "dr_农民影视",
       "name": "农民影视",
@@ -44,16 +54,6 @@
 {"key":"csp_TianTian","name":"天天","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ikanbot","name":"Ikanbot","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://v.aikanbot.com"},
 
-                                   {
-      "key": "csp_XBPQ_黑狐采集",
-      "name": "黑狐采集",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/黑狐采集.json"
-    },
                    {
       "key": "dr__西瓜影视",
       "name": "西瓜影视",
