@@ -27,7 +27,35 @@ var rule = {
     class_url:'38&37&20&45',//静态分类标识拼接
   //class_parse: '.border-shadow&&.movie-list-header;.movie-list-title&&Text;a&&href;.*/(.*?).html',
   play_parse: true,
-  lazy: "js:\n  let html = request(input);\n  let hconf = html.match(/r player_.*?=(.*?)</)[1];\n  let json = JSON5.parse(hconf);\n  let url = json.url;\n  if (json.encrypt == '1') {\n    url = unescape(url);\n  } else if (json.encrypt == '2') {\n    url = unescape(base64Decode(url));\n  }\n  if (/\\.(m3u8|mp4|m4a|mp3)/.test(url)) {\n    input = {\n      parse: 0,\n      jx: 0,\n      url: url,\n    };\n  } else {\n    input = url && url.startsWith('http') && tellIsJx(url) ? {parse:0,jx:1,url:url}:input;\n  }",
+  lazy:`js:
+        var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
+        var url = html.url;
+        if (html.encrypt == '1') {
+            url = unescape(url)
+        } else if (html.encrypt == '2') {
+            url = unescape(base64Decode(url))
+        }
+        if (/\\.m3u8|\\.mp4/.test(url)) {
+            input = {
+                jx: 0,
+                url: url,
+                parse: 0
+            }
+        } else if (/youku|iqiyi|v\\.qq\\.com|pptv|sohu|le\\.com|1905\\.com|mgtv|bilibili|ixigua/.test(url)) {
+            let play_Url = /bilibili/.test(url) ? 'https://pl.a6club.com/player/analysis.php?v=' : 'https://pl.a6club.com/player/analysis.php?v='; // type0的parse
+            input = {
+                jx: 0,
+                url: url,
+                playUrl: play_Url,
+                parse: 1,
+                header: JSON.stringify({
+                    'user-agent': 'Mozilla/5.0',
+                }),
+            }
+        } else {
+            input
+        }
+    `,
   limit: 6,
   double: true,
   推荐: '.movie-list-body.flex;.movie-list-item;.movie-title.txtHide&&Text;.Lazy.br&&data-original;.movie-rating.cor4&&Text;a&&href',
