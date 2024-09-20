@@ -20,6 +20,26 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/黑狐采集.json"
     },
+                                           {
+      "key": "csp_XBPQ_飞秒影视",
+      "name": "飞秒影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/飞秒影视.json"
+    },
+                                           {
+      "key": "csp_XBPQ_麦田影视",
+      "name": "麦田影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/麦田影视.json"
+    },
              {
       "key": "dr_农民影视",
       "name": "农民影视",
@@ -480,27 +500,45 @@
     }
   ],
   "parses": [
+      {
+		"name": "Web聚合",
+		"type": 3,
+		"url": "Web"
+	}, 
     {
 		"name": "Json聚合",
 		"type": 3,
 		"url": "Demo"
 	},
     {
-		"name": "Web聚合",
-		"type": 3,
-		"url": "Web"
-	}, 
- {
-		"name": "西瓜",
-		"type": 1,
-		"url": "http://json.xn--cerrw216dja891if19b.xn--fiqs8s/?url=",
-		"ext": {
-			"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"],
-      "header": {
+      "name": "极速解析",
+      "type": 0,
+      "url": "https://jx.2s0.cn/player/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
           "User-Agent": "okhttp/4.1.0"
         }
-		}   
-	},
+      }
+    },
    {
 		"name": "夜猫",
 		"type": 1,
