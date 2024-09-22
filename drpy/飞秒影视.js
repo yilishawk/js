@@ -2,7 +2,7 @@ var rule = {
   title: '',
   host: 'https://ffys.fun/',
   url: '/vodshow/id/fyfilter.html',
-  searchUrl: '/search/**----------fypage---.html',
+  searchUrl: '/vodsearch.html?wd=**',
   searchable: 2,
   quickSearch: 0,
   filterable: 1,
@@ -20,8 +20,23 @@ var rule = {
 	},
   class_parse: '.navbar-items.swiper-wrapper&&li:gt(0):lt(8);a&&Text;a&&href;.*/(.*?)\.html',
   play_parse: true,
-lazy: "js:\n  let html = request(input);\n  let hconf = html.match(/r player_.*?=(.*?)</)[1];\n  let json = JSON5.parse(hconf);\n  let url = json.url;\n  if (json.encrypt == '1') {\n    url = unescape(url);\n  } else if (json.encrypt == '2') {\n    url = unescape(base64Decode(url));\n  }\n  if (/\\.(m3u8|mp4|m4a|mp3)/.test(url)) {\n    input = {\n      parse: 0,\n      jx: 0,\n      url: url,\n    };\n  } else {\n    input = url && url.startsWith('http') && tellIsJx(url) ? {parse:0,jx:1,url:url}:input;\n  }",
+    lazy:`js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
+    log(html);
+    var url=html.url;
+    if(html.encrypt=='1'){
+    url=unescape(url)
+    }else if(html.encrypt=='2'){
+    url=unescape(base64Decode(url))
+    }
+    if(/hmrvideo|ffzy|cdnlz|rrcdnbf3|playback|lyhuicheng/.test(url)){
+    input={jx:0,url:'https://bfq.nnsvip.cn/player/ec.php?code=cj&if=1&url='+url,parse:1,header:JSON.stringify({'user-agent':'Mozilla/5.0'})}
+    }else if(/qq|iqiyi/.test(url)){
+    input={jx:0,url:'https://jx.m3u8.tv/jiexi/?url='+url,parse:1,header:JSON.stringify({'user-agent':'Mozilla/5.0'})}
+    }else{
+    input
+    }`,
   limit: 6,
+  tab_exclude:'手机线路',
   double: true,
   推荐: '.module-items.module-poster-items-base;body&&a.module-item;a&&title;img&&data-original;.module-item-note&&Text;a&&href',
   一级: '.module-items.module-poster-items-base&&a.module-item;.lazyload&&alt;.lazyload&&data-original;.module-item-note&&Text;a&&href',
@@ -34,5 +49,5 @@ lazy: "js:\n  let html = request(input);\n  let hconf = html.match(/r player_.*?
     lists: '.module-play-list-content:eq(#id) a',
     tab_text: 'div--small&&Text',
   },
-  搜索: '.module-items .module-search-item;a&&title;img&&data-src;.video-serial&&Text;a&&href',
+  搜索: '.module-card-items .module-item;img&&alt;img&&data-original;.module-item-note&&Text;a&&href',
 }
