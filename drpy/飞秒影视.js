@@ -18,9 +18,12 @@ var rule = {
 		23:{cateId:'23'},
 		25:{cateId:'25'}
 	},
-    class_name:'国产剧&电影&电视剧&短剧&综艺',//静态分类名称拼接
+      class_name:'国产剧&电影&电视剧&短剧&综艺',//静态分类名称拼接
     class_url:'34&20&21&25&23',//静态分类标识拼接
   //class_parse: '.navbar-items.swiper-wrapper&&li:gt(0):lt(8);a&&Text;a&&href;.*/(.*?)\.html',
+  tab_remove: ['手机线路'],
+  tab_order:['蓝光①','自建1','黑采','YZ','LZ','FF','BF'],
+  tab_rename:{'BF':'暴风','YZ':'优质','ZL':'自建1','LZ':'量子','FF':'非凡','HME':'黑采'},
   play_parse: true,
     lazy:`js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
     log(html);
@@ -38,7 +41,6 @@ var rule = {
     input
     }`,
   limit: 6,
-  tab_exclude:'手机线路',
   double: true,
   推荐: '.module-items.module-poster-items-base;body&&a.module-item;a&&title;img&&data-original;.module-item-note&&Text;a&&href',
   一级: '.module-items.module-poster-items-base&&a.module-item;.lazyload&&alt;.lazyload&&data-original;.module-item-note&&Text;a&&href',
