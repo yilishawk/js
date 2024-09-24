@@ -62,7 +62,6 @@
     },
 {"key":"csp_LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_TianTian","name":"天天","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Ikanbot","name":"Ikanbot","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://v.aikanbot.com"},
 
                    {
       "key": "dr__西瓜影视",
