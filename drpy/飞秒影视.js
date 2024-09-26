@@ -23,7 +23,7 @@ var rule = {
     class_url:'34&20&21&25&23',//静态分类标识拼接
   //class_parse: '.navbar-items.swiper-wrapper&&li:gt(0):lt(8);a&&Text;a&&href;.*/(.*?)\.html',
   tab_remove: ['手机线路'],
-  tab_order:['MM蓝光','蓝光①','蓝光③','ZL','HME','YZ','LZ','FF','BF'],
+  tab_order:['MM蓝光','蓝光①','蓝光③','ZL','YZ','LZ','FF','BF','HME'],
   tab_rename:{'BF':'暴风','YZ':'优质','ZL':'自建1','LZ':'量子','FF':'非凡','HME':'黑采'},
   play_parse: true,
     lazy:`js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
