@@ -11,8 +11,8 @@
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/全看影视"
     },
                        {
-      "key": "dr__飞秒影视.js",
-      "name": "飞秒影视.js",
+      "key": "dr__飞秒影视",
+      "name": "飞秒影视",
       "type": 3,
       "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
       "searchable": 1,
@@ -20,17 +20,7 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/drpy/飞秒影视.js"
     },
-                                           {
-      "key": "csp_XBPQ_飞秒影视",
-      "name": "飞秒影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/飞秒影视.json"
-    },
-                                           {
+                                   {
       "key": "csp_XBPQ_麦田影视",
       "name": "麦田影视",
       "type": 3,
