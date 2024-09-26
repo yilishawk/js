@@ -26,7 +26,7 @@ var rule = {
   tab_order:['MM蓝光','蓝光①','蓝光③','ZL','YZ','LZ','FF','BF','HME'],
   tab_rename:{'BF':'暴风','YZ':'优质','ZL':'自建1','LZ':'量子','FF':'非凡','HME':'黑采'},
   play_parse: true,
-    lazy:`js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
+    //lazy:`js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
     log(html);
     var url=html.url;
     if(html.encrypt=='1'){
