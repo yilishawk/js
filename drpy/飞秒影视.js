@@ -36,7 +36,7 @@ var rule = {
     }
     if(/hmrvideo|ffzy|cdnlz|rrcdnbf3|playback|lyhuicheng/.test(url)){
     input={jx:0,url:'https://bfq.nnsvip.cn/player/ec.php?code=cj&if=1&url='+url,parse:1,header:JSON.stringify({'user-agent':'Mozilla/5.0'})}
-    }else if(/qq|iqiyi/.test(url)){
+    }else if(/aaa|bbbb/.test(url)){
     input={jx:0,url:'https://jx.m3u8.tv/jiexi/?url='+url,parse:1,header:JSON.stringify({'user-agent':'Mozilla/5.0'})}
     }else{
     input
