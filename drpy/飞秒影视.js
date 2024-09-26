@@ -26,21 +26,7 @@ var rule = {
   tab_order:['MM蓝光','蓝光①','蓝光③','ZL','YZ','LZ','FF','BF','HME'],
   tab_rename:{'BF':'暴风','YZ':'优质','ZL':'自建1','LZ':'量子','FF':'非凡','HME':'黑采'},
   play_parse: true,
-    //lazy:`js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
-    log(html);
-    var url=html.url;
-    if(html.encrypt=='1'){
-    url=unescape(url)
-    }else if(html.encrypt=='2'){
-    url=unescape(base64Decode(url))
-    }
-    if(/hmrvideo|ffzy|cdnlz|rrcdnbf3|playback|lyhuicheng/.test(url)){
-    input={jx:0,url:'https://18.mp8.top/000bofangqi/qushuiyin/?url='+url,parse:1,header:JSON.stringify({'user-agent':'Mozilla/5.0'})}
-    }else if(/aaa|bbbb/.test(url)){
-    input={jx:0,url:'https://jx.m3u8.tv/jiexi/?url='+url,parse:1,header:JSON.stringify({'user-agent':'Mozilla/5.0'})}
-    }else{
-    input
-    }`,
+lazy: "js:\n  let html = request(input);\n  let hconf = html.match(/r player_.*?=(.*?)</)[1];\n  let json = JSON5.parse(hconf);\n  let url = json.url;\n  if (json.encrypt == '1') {\n    url = unescape(url);\n  } else if (json.encrypt == '2') {\n    url = unescape(base64Decode(url));\n  }\n  if (/\\.(m3u8|mp4|m4a|mp3)/.test(url)) {\n    input = {\n      parse: 0,\n      jx: 0,\n      url: url,\n    };\n  } else {\n    input;\n  }",
   limit: 6,
   double: true,
   推荐: '.module-items.module-poster-items-base;body&&a.module-item;a&&title;img&&data-original;.module-item-note&&Text;a&&href',
