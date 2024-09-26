@@ -35,7 +35,7 @@ var rule = {
     url=unescape(base64Decode(url))
     }
     if(/hmrvideo|ffzy|cdnlz|rrcdnbf3|playback|lyhuicheng/.test(url)){
-    input={jx:1,url:'https://api.nnsvip.sbs/?url='+url,parse:1,header:JSON.stringify({'user-agent':'Mozilla/5.0'})}
+    input={jx:0,url:'https://18.mp8.top/000bofangqi/qushuiyin/?url='+url,parse:1,header:JSON.stringify({'user-agent':'Mozilla/5.0'})}
     }else if(/aaa|bbbb/.test(url)){
     input={jx:0,url:'https://jx.m3u8.tv/jiexi/?url='+url,parse:1,header:JSON.stringify({'user-agent':'Mozilla/5.0'})}
     }else{
