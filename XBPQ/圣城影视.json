@@ -7,7 +7,8 @@
     "分类": "电影$1#电视剧$2#综艺$3#动漫$4#bilibli$5#纪录片$6#",
 
 	"分类url": "https://sc1080.top/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}.html",
-	"数组": "module-item-pic&&module-item-text",
+	"二次截取": "<div class=\"module-items\">&&<div id=\"page\">",
+	"数组": "<a&&<div class=\"loading\">",
 	"副标题": "",
 	"图片": "data-src=\"&&\"",
 	"标题": "",
