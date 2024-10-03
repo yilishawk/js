@@ -10,15 +10,15 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/全看影视"
     },
-                 {
-      "key": "dr_农民影视",
-      "name": "农民影视",
+                   {
+      "key": "csp_XBPQ_看剧网",
+      "name": "看剧网",
       "type": 3,
-      "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/drpy/农民影视.js"
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/看剧网.json"
     },
               {
       "key": "dr__飞秒影视",
@@ -74,15 +74,15 @@
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/drpy/西瓜影视.js"
     },
 
-               {
-      "key": "csp_XBPQ_看剧网",
-      "name": "看剧网",
+{
+      "key": "dr_农民影视",
+      "name": "农民影视",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/看剧网.json"
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/drpy/农民影视.js"
     },
                {
       "key": "csp_XBPQ_黑狐影视",
@@ -144,26 +144,6 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/drpy/freeok.js"
     },
-    {
-      "key": "dr_ 柯南影视",
-      "name": "柯南影视",
-      "type": 3,
-      "api": "https://next.forgejo.org/mimamg/lib/raw/branch/master/lib/wk.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/drpy/柯南影视.js"
-    },
-	  	  	      {
-      "key": "dr_ 爱看",
-      "name": "爱看",
-      "type": 3,
-      "api": "https://next.forgejo.org/mimamg/lib/raw/branch/master/lib/wk.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/drpy/爱看影视.js"
-    },
        {
       "key": "csp_XBPQ_电影先生",
       "name": "电影先生",
@@ -224,26 +204,6 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/兄弟影视.json"
     },
-            {
-      "key": "csp_XBPQ_干饭电影",
-      "name": "干饭电影",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/干饭电影.json"
-    },
-               {
-      "key": "csp_XBPQ_金鱼影视",
-      "name": "金鱼影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext":"https://bitbucket.org/yilishawk/js/raw/master/XBPQ/金鱼影视.json"
-    },
     {
       "key": "csp_XBPQ_TVB",
       "name": "TVB",
@@ -293,16 +253,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/aote.json"
-    },
-                {
-      "key": "csp_XBPQ_爱看影视",
-      "name": "爱看影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/爱看影视.json"
     },
             {
       "key": "csp_XBPQ_电视盒子",
