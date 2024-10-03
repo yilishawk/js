@@ -1,7 +1,7 @@
 {
 "作者":"凯哥",
 "站名":"剧白白",
-"主页url":"https://www.ddgys.com/",
+"主页url":"https://www.dadagui.la/",
 //发布页https://dadagui.vip/
 "请求头":"Mozilla/5.0 (Linux; Android 12; CPH2199) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36",
 "cookie":"",
@@ -13,7 +13,7 @@
 "标题":"title=\"&&\"",
 "链接":"href=\"&&\"",
 "副标题":"pic-text text-right\"><b>&&</b>",
-"搜索url":"https://www.ddgys.com/vodsearch/{wd}----------1---.html",
+"搜索url":"https://www.dadagui.la/vodsearch/{wd}----------1---.html",
 "搜索模式": "1",
 "搜索数组": "<div class=\"stui-vodlist__box\">&&</a>",
 "搜索图片": "data-original=\"&&\"",
@@ -39,7 +39,7 @@
 "播放请求头":"",
 //"免嗅":"0",
 "分类":"电影$1#电视剧$2#综艺$3",
-"分类url":"https://www.ddgys.com/vodshow/{cateId}--------{catePg}---.html",
+"分类url":"https://www.dadagui.la/vodshow/{cateId}--------{catePg}---.html",
  "筛选":{
 "dianshiju":[
   {"key":"cateId","name":"类型","value":[
