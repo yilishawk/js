@@ -32,13 +32,23 @@
     },
               {
       "key": "dr__飞秒影视",
-      "name": "飞秒影视",
+      "name": "飞秒影视js",
       "type": 3,
       "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/drpy/飞秒影视.js"
+    },
+                  {
+      "key": "dr__可可影视js",
+      "name": "可可影视js",
+      "type": 3,
+      "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/drpy/可可影视.js"
     },
                                    {
       "key": "csp_XBPQ_麦田影视",
@@ -72,7 +82,7 @@
     },
                        {
       "key": "dr_ 素白白",
-      "name": "素白白",
+      "name": "素白白js",
       "type": 3,
       "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
       "searchable": 1,
@@ -85,7 +95,7 @@
 
                    {
       "key": "dr__西瓜影视",
-      "name": "西瓜影视",
+      "name": "西瓜影视js",
       "type": 3,
       "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
       "searchable": 1,
@@ -96,7 +106,7 @@
 
 {
       "key": "dr_农民影视",
-      "name": "农民影视",
+      "name": "农民影视js",
       "type": 3,
       "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
       "searchable": 1,
@@ -135,7 +145,7 @@
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/drpy/两个BT.js"},
                          {
       "key": "dr_ cz",
-      "name": "厂长资源",
+      "name": "厂长资源js",
       "type": 3,
       "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
       "searchable": 1,
@@ -156,7 +166,7 @@
     },
                        {
       "key": "dr_ 追剧影视",
-      "name": "追剧影视",
+      "name": "追剧影视js",
       "type": 3,
       "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
       "searchable": 1,
