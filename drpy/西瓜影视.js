@@ -42,7 +42,7 @@ var rule = {
                 parse: 0
             }
         } else if (/youku|iqiyi|v\\.qq\\.com|pptv|sohu|le\\.com|1905\\.com|mgtv|bilibili|ixigua/.test(url)) {
-            let play_Url = /bilibili/.test(url) ? 'https://pl.a6club.com/player/analysis.php?v=' : 'https://pl.a6club.com/player/analysis.php?v='; // type0的parse
+            let play_Url = /bilibili/.test(url) ? 'https://pl.a6club.com/player/analysis.php?v=' : 'https://www.ckplayer.vip/jiexi/?url='; // type0的parse
             input = {
                 jx: 0,
                 url: url,
