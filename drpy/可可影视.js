@@ -1,8 +1,8 @@
 var rule = {
   title: '可可影视',
-  //host: 'https://www.keke6.app/',
-  host:'https://dl.dushe02.com/',
-	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":MOBILE_UA}});let src = jsp.pdfh(html,"body&&.section-row:eq(1)&&a&&href");print(src);HOST=src',
+  host: 'https://www.dushe03.com/',
+  //host:'https://dl.dushe02.com/',
+	//hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":MOBILE_UA}});let src = jsp.pdfh(html,"body&&.section-row:eq(1)&&a&&href");print(src);HOST=src',
 	
   url: '/show/fyfilter.html',
   filter_url:'  {{fl.cateId}}-{{fl.class}}-{{fl.area}}-{{fl.lang}}-{{fl.year}}-{{fl.by}}-fypage',
