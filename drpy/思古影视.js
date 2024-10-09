@@ -25,7 +25,36 @@ var rule = {
     class_name:'国产剧&喜剧电影&综艺',//静态分类名称拼接
     class_url:'13&6&3',//静态分类标识拼接
   play_parse: true,
-  lazy: "js:\n  let html = request(input);\n  let hconf = html.match(/r player_.*?=(.*?)</)[1];\n  let json = JSON5.parse(hconf);\n  let url = json.url;\n  if (json.encrypt == '1') {\n    url = unescape(url);\n  } else if (json.encrypt == '2') {\n    url = unescape(base64Decode(url));\n  }\n  if (/\\.(m3u8|mp4|m4a|mp3)/.test(url)) {\n    input = {\n      parse: 0,\n      jx: 0,\n      url: url,\n    };\n  } else {\n    input = url && url.startsWith('http') && tellIsJx(url) ? {parse:0,jx:1,url:url}:input;\n  }",
+      lazy:`js:
+        var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
+        var url = html.url;
+        if (html.encrypt == '1') {
+            url = unescape(url)
+        } else if (html.encrypt == '2') {
+            url = unescape(base64Decode(url))
+        }
+        if (/\\.m3u8|\\.mp4/.test(url)) {
+            input = {
+                jx: 0,
+                url: url,
+                parse: 0
+            }
+        } else if (/NBY|youku|iqiyi|v\\.qq\\.com|pptv|sohu|le\\.com|1905\\.com|mgtv|bilibili|ixigua/.test(url)) {
+            let play_Url = /NBY/.test(url) ? 'https://jx.siguyy5.com/player/analysis.php?v=' : 'https://www.ckplayer.vip/jiexi/?url='; // type0的parse
+            input = {
+                jx: 0,
+                url: url,
+                playUrl: play_Url,
+                parse: 1,
+                header: JSON.stringify({
+                    'user-agent': 'Mozilla/5.0',
+                }),
+            }
+        } else {
+            input
+        }
+    `,
+  //lazy: "js:\n  let html = request(input);\n  let hconf = html.match(/r player_.*?=(.*?)</)[1];\n  let json = JSON5.parse(hconf);\n  let url = json.url;\n  if (json.encrypt == '1') {\n    url = unescape(url);\n  } else if (json.encrypt == '2') {\n    url = unescape(base64Decode(url));\n  }\n  if (/\\.(m3u8|mp4|m4a|mp3)/.test(url)) {\n    input = {\n      parse: 0,\n      jx: 0,\n      url: url,\n    };\n  } else {\n    input = url && url.startsWith('http') && tellIsJx(url) ? {parse:0,jx:1,url:url}:input;\n  }",
   limit: 6,
   double: true,
   推荐: '.vod-list .col-xs-4;.vod-item;h3&&Text;.lazyload&&data-original;.text-row-1&&Text;a&&href',
