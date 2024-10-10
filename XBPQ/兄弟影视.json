@@ -4,9 +4,9 @@
   "主页url": "https://www.brovod.com/",
   "热门": "",
   //发布页https://xdys.vip/
-  "分类": "电影$1#剧集$2#动漫$4#综艺$3#",
+  "分类": "剧集$2#电影$1#短剧$6#综艺$3#",
   
-  "分类url": "https://www.brovod.com/show/{cateId}-{area}-hits-{class}-{lang}----{catePg}---{year}/",
+  "分类url": "https://www.brovod.com/show/{cateId}-{area}--{class}-{lang}----{catePg}---{year}/",
   "二次截取": "下载APP&&<div id=\"page\">",
   "数组": "<a&&no-referrer",
   "副标题": "module-item-note\">&&</div>",
@@ -21,14 +21,14 @@
   "简介": "style=\"line-height: 20px;\"><p>&&</p>",
   
   "线路数组": "<div class=\"module-tab-item tab-item\"&&</div>",
-	"线路标题": "<span>&&</span>",
+	"线路标题": "<span>&&</span>[排序:蓝光2>蓝光1>蓝光3>极速1>极速2>极速3]",
 	"播放数组": "",
 	"播放列表": "",
 	"播放标题":"",
 	"播放链接": "href=\"&&\"",
-  //"跳转播放链接数组":"<div class=\"player-box\">&&</script>",
-  //"跳转播放链接":"https://123.57.224.250/player/ec.php?code=qw&from=+from\":\"&&\"+&if=1&url=+url\":\"&&\"",
+  "跳转播放链接数组":"<div class=\"player-box\">&&</script>",
+  "跳转播放链接":"https://play.brovod.com/?url=+url\":\"&&\"+&next=//www.brovod.com+link_next\":\"&&\"",
 //"二次跳转播放链接":"<video src=\"&&\"",
-  "嗅探词":".m3u8?#.m3u8#.mp4",
-    "过滤词":"jx.xdys.vip#xdad.m3u8"
+  "嗅探词":".m3u8?#.m3u8#mp4",
+    "过滤词":"fxt.m#jx.xdys.vip#xdad.m3u8"
 }
