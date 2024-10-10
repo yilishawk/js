@@ -29,7 +29,7 @@
     "播放列表": "<a&&</a>",
     "播放标题": "<span>&&</span>",
     "播放链接": "href=\"&&\"",
-    "嗅探词":"myvideos.info#.mp4",
+    "嗅探词":"myvideos.info#.mp4#play.vplay.life",
   "跳转播放链接数组": "<div class=\"player-wrapper\">&&</div>",
   "跳转播放链接": "src=\"&&\"",
   "二次跳转播放链接": "url\":\"&&\"",
