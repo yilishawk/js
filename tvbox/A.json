@@ -320,7 +320,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9iaXRidWNrZXQub3JnL3lpbGlzaGF3ay9qcy9yYXcvbWFzdGVyL3piL3pi"
+            "proxy://do=live&type=txt&ext=https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u"
           ]
         }
       ]
