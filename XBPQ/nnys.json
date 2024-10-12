@@ -31,7 +31,7 @@
     "播放列表": "表&&表",
     "播放标题": "题&&题",
     "播放链接": "链&&链[替换:题>>空]",    
-    "播放链接前缀":"https://api.cnmcom.com/webcloud/play/ajx000.php?url=",
+    "播放链接前缀":"https://api.cnmcom.com/webcloud/relay.php?url=",
     "跳转播放链接":"<video src=\"&&\"",
     //"跳转播放链接数组":"id=\"pptv_playpage_box\">&&</script>[替换:\\#>>']",
     //"跳转播放链接":"https://api.cnmcom.com/webcloud/play/ajx000.php?url=+第01集$&&'",
