@@ -30,6 +30,18 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/drpy/农民影视1.js"
     },
+    	        {
+      "key": "xinghe",
+      "name": "星河影视",
+      "type": 1,
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "http://154.21.201.190:666/tvbox/lib/星河.php",
+      "playUrl": "json:http://154.21.201.190:666/tvbox/json/xinghe.php?url=",
+      "categories": [
+              ]
+    },
                        {
       "key": "csp_XBPQ_看剧网",
       "name": "看剧网",
