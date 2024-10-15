@@ -1,8 +1,10 @@
 var rule={
 	title:'农民影视',
-	host:'https://www.wwgz.cn/',
-	//host:'https://www.nmdvd.com/',
-	//hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":MOBILE_UA}});let src = jsp.pdfh(html,"body&&a:eq(0)&&href");print(src);HOST=src',
+	//host:'https://www.wwgz.cn/',
+	host:'https://www.nmdvd.com/',
+	hostJs:`print(HOST);let html=request(HOST,{headers:{"User-Agent":MOBILE_UA}});
+	let src = jsp.pdfh(html,"body&&p:eq(2)&&Text")||jsp.pdfh(html,"body&&p:eq(2)&&Text");
+	if(!src.startsWith('http')){src='https://'+src};print("抓到主页:"+src);HOST=src`,
 	url:'/vod-list-id-fyfilter.html',
 	// /vod-list-id-2-pg-1-order--by-time-class-0-year-2023-letter--area--lang-.html
 	filterable:1,//是否启用分类筛选,
@@ -25,7 +27,7 @@ var rule={
 	searchUrl:'/index.php?m=vod-search&wd=**',
 	searchable:2,//是否启用全局搜索,
 	headers:{//网站的请求头,完整支持所有的,常带ua和cookies
-		'User-Agent': 'MOBILE_UA',
+		'User-Agent': 'Mozilla/5.0 (Linux; Android 13; SM-A536E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 uacq',
 	},
 	// class_parse: '#topnav li:lt(4);a&&Text;a&&href;.*/(.*?).html',
     class_name:'国产剧&电视剧&电影&综艺&动漫&短剧',//静态分类名称拼接
