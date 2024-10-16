@@ -133,8 +133,8 @@
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/drpy/西瓜影视.js"
     },
                            {
-      "key": "dr__西瓜影视",
-      "name": "西瓜影视",
+      "key": "dr__西瓜电影",
+      "name": "西瓜电影",
       "type": 3,
       "api": "XBPQ",
       "searchable": 1,
