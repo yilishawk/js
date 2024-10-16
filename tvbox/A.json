@@ -34,7 +34,7 @@
       "key": "dr_农民影视",
       "name": "农民影视js",
       "type": 3,
-      "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
+      "api": "https://824383214%40qq.com:awxznxg9bs8b8nky@dav.jianguoyun.com/dav/js/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -66,7 +66,7 @@
       "key": "dr_ cz",
       "name": "厂长资源js",
       "type": 3,
-      "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
+      "api": "https://824383214%40qq.com:awxznxg9bs8b8nky@dav.jianguoyun.com/dav/js/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -76,7 +76,7 @@
       "key": "dr_ 素白白",
       "name": "素白白js",
       "type": 3,
-      "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
+      "api": "https://824383214%40qq.com:awxznxg9bs8b8nky@dav.jianguoyun.com/dav/js/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -86,7 +86,7 @@
       "key": "dr__可可影视js",
       "name": "可可影视js",
       "type": 3,
-      "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
+      "api": "https://824383214%40qq.com:awxznxg9bs8b8nky@dav.jianguoyun.com/dav/js/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -126,7 +126,7 @@
       "key": "dr__西瓜影视",
       "name": "西瓜影视js",
       "type": 3,
-      "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
+      "api": "https://824383214%40qq.com:awxznxg9bs8b8nky@dav.jianguoyun.com/dav/js/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -136,7 +136,7 @@
       "key": "dr__飞秒影视",
       "name": "飞秒影视js",
       "type": 3,
-      "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
+      "api": "https://824383214%40qq.com:awxznxg9bs8b8nky@dav.jianguoyun.com/dav/js/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -217,7 +217,7 @@
       "key": "drpy_js_xb6v",
       "name": "6V磁力JS",
       "type": 3,
-      "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
+      "api": "https://824383214%40qq.com:awxznxg9bs8b8nky@dav.jianguoyun.com/dav/js/lib/drpy2.min.js",
       "playerType":"1",
       "searchable": 1,
       "quickSearch": 1,
@@ -635,5 +635,6 @@
    "logo":"https://gh.llkk.cc/https://raw.githubusercontent.com/yilishawk/jar/main/.mmexport1716863558552.gif",
    "spider": "https://gh.llkk.cc/https://raw.githubusercontent.com/yilishawk/js/master/jar/2024926.txt;md5;02FEF3C146642BB9F549DE5C482194C2"
   //"spider": "https://cdn.jsdelivr.net/gh/yilishawk/js/jar/Yoursmile2024926.txt;md5;02FEF3C146642BB9F549DE5C482194C2"
-  //"spider": "https://ghproxy.cn/https://raw.githubusercontent.com/yilishawk/js/master/jar/Yoursmile2024926.txt;md5;02FEF3C146642BB9F549DE5C482194C2"
+  //"spider": //"https://ghproxy.cn/https://raw.githubusercontent.com/yilishawk/js/master/jar/Yoursmile2024926.txt;md5;02FEF3C146642BB9F549DE5C482194C2"
+"spider": "https://824383214%40qq.com:awxznxg9bs8b8nky@dav.jianguoyun.com/dav/tvbox/2024926.txt;md5;02FEF3C146642BB9F549DE5C482194C2"
 }
