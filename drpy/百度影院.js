@@ -1,6 +1,6 @@
 var rule = {
   title: '',
-  host: 'http://cechi7.com/',
+  host: 'http://cechi22.com/',
   编码:'gb2312',
   搜索编码:'gb2312',
   url: '/fyclass/indexfypage.html[/fyclass/index.html]',
