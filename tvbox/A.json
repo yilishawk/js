@@ -132,25 +132,15 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/drpy/西瓜影视.js"
     },
-                          {
-      "key": "dr__哔嘀影视js",
-      "name": "哔嘀影视js无搜索",
+                           {
+      "key": "dr__西瓜影视",
+      "name": "西瓜影视",
       "type": 3,
-      "api": "https://raw.gitmirror.com/yilishawk/js/master/lib/drpy2.min.js",
+      "api": "XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/drpy/哔嘀影视.js"
-    },
-                          {
-      "key": "dr__百度影视js",
-      "name": "百度影视js",
-      "type": 3,
-      "api": "https://raw.gitmirror.com/yilishawk/js/master/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/drpy/百度影视.js"
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/西瓜电影.json"
     },
               {
       "key": "dr__飞秒影视",
