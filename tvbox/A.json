@@ -126,7 +126,7 @@
       "key": "dr__西瓜电影",
       "name": "西瓜电影",
       "type": 3,
-      "api": "XBPQ",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
