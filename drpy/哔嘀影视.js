@@ -1,7 +1,9 @@
 var rule = {
     title: '哔嘀影视',
-    host: 'https://www.bdys.me/',
-    hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});HOST = jsp.pdfh(html,"body h1 a&&href");log(HOST);',
+    host: 'https://www.yjys05.com/',
+    	//hostJs:`print(HOST);let html=request(HOST,{headers:{"User-Agent":MOBILE_UA}});
+	//let src = jsp.pdfh(html,"body&&p:eq(2)&&Text")||jsp.pdfh(html,"body&&p:eq(0)&&Text");
+	//if(!src.startsWith('http')){src='https://'+src};print("抓到主页:"+src);HOST=src`,
     // url: '/s/all/fypage?type=fyclass',
 	url: '/s/all/fypage?type=fyclassfyfilter',
 	filter_url:'&{{fl.area}}&{{fl.year}}&{{fl.by}}',
