@@ -122,16 +122,6 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/宝片影视.json"
     },
-                       {
-      "key": "dr__西瓜影视",
-      "name": "西瓜影视js",
-      "type": 3,
-      "api": "https://raw.gitmirror.com/yilishawk/js/master/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/drpy/西瓜影视.js"
-    },
                            {
       "key": "dr__西瓜电影",
       "name": "西瓜电影",
