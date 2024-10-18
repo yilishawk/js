@@ -34,6 +34,6 @@
 //"跳转播放链接":"+Base64(now=base64decode(\"&&\")",
 //"跳转解析":"https://api.chtcar.com/index/?url=",
   "免嗅": "1",
-  "嗅探词":"v16m-default.akamaized.net#pcvideoaliyun.titan.mgtv.com#m3u8?pt#v16m-default.akamaized.net#.m3u8?#.m3u8#.mp4",
+  "嗅探词":"mp4#m3u8#m3u8?pt#v16m-default.akamaized.net#.m3u8?#.m3u8#.mp4",
   "手动嗅探视频链接过滤词": "linkjump#cn:8005#.html#=http"
 }
