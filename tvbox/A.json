@@ -40,18 +40,6 @@
       "filterable": 1,
       "ext": "https://git.acwing.com/mimang/j/-/raw/master/drpy/百度影院.js"
     },
-    	        {
-      "key": "xinghe",
-      "name": "星河影视",
-      "type": 1,
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "http://154.21.201.190:666/tvbox/lib/星河.php",
-      "playUrl": "json:http://154.21.201.190:666/tvbox/json/xinghe.php?url=",
-      "categories": [
-              ]
-    },
                                  {
       "key": "csp_XBPQ_麦田影视",
       "name": "麦田影视",
