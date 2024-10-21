@@ -153,6 +153,16 @@
       "filterable": 1,
       "ext": "https://git.acwing.com/mimang/j/-/raw/master/XBPQ/多多追剧.json"
     },
+                      {
+      "key": "csp_XBPQ_耐看点播",
+      "name": "耐看点播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://git.acwing.com/mimang/j/-/raw/master/XBPQ/耐看点播.json"
+    },
                   {
       "key": "csp_XBPQ_98影视",
       "name": "98影视",
