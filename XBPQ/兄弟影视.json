@@ -27,7 +27,7 @@
 	"播放标题":"",
 	"播放链接": "href=\"&&\"",
   "跳转播放链接数组":"<div class=\"player-box\">&&</script>",
-  "跳转播放链接":"https://play.brovod.com/?url=+url\":\"&&\"+&next=//www.brovod.com+link_next\":\"&&\"",
+  "跳转播放链接":"https://play.brovod.com/?url=+url\":\"&&\"+&next=//www.brovod.com+link_next\":\"&&\"+&title=+<title>&& -",
 //"二次跳转播放链接":"<video src=\"&&\"",
   "嗅探词":".m3u8?#.m3u8#mp4",
     "过滤词":"fxt.m#jx.xdys.vip#xdad.m3u8",
