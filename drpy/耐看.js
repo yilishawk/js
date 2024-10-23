@@ -1,8 +1,7 @@
-// 搜索验证码 pass发布页https://nkvlog.us/
 var rule = {
 	title:'南柯电影网',
 	模板:'mxpro',
-	host:'https://nkvod.com/',
+	host:'https://nkvlog.com/',
     //host:'https://nkvlog.us/',
     //hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});HOST = jsp.pdfh(html,".enter-maomi&&a&&href");log(HOST);',
 	url:'/show/fyfilter.html',
@@ -21,19 +20,23 @@ var rule = {
 		3:{cateId:'3'},
 		4:{cateId:'4'}
 	},
-	class_parse:'.navbar-items li:gt(1):lt(6);a&&Text;a&&href;/(\\d+).html',
-      推荐: 'body&&.diy-center;.public-list-box.public-pic-b.swiper-slide;a&&title;img&&data-src;.public-list-subtitle&&Text;a&&href',
-       一级: 'div.public-list-box.public-pic-b;a&&title;img&&data-src;.public-list-subtitle&&Text;a&&href',
+  class_name:'国产剧&电影&电视剧&综艺',
+  tab_remove:'失效',
+   class_url:'13&1&2&3',
+      推荐: 'body&&.module-items;a.module-poster-item.module-item;.module-poster-item-title&&Text;img&&data-original;.module-item-note&&Text;a&&href',
+       一级: '.module a.module-poster-item;.module-poster-item-title&&Text;img&&data-original;.module-item-note&&Text;a&&href',
       二级: {
-    title: '.detail-info h3&&Text;.slide-info.hide:eq(0)&&.slide-info-remarks:eq(3)&&a&&Text',
-    img: '.detail-pic&&img&&data-src',
-    desc:  '.slide-info.hide:eq(1)&&Text;.slide-info.hide:eq(4)&&Text;.slide-info.hide:eq(0)&&.slide-info-remarks:eq(1)&&a&&Text;.slide-info.hide:eq(2)&&Text;.slide-info.hide:eq(3)&&Text',
-    content: '.text.cor3&&Text',
-    tabs: '.box-width.cor5 .swiper-wrapper a',
-    lists: 'ul.anthology-list-play.size:eq(#id) li',
+    title: '.module-info-heading h1&&Text;.module-info-tag-link:eq(2)&&a:eq(3)&&Text',
+    img: '.module.module-info&&.module-item-pic&&img&&data-original',
+    desc:  '.module-info-items .module-info-item:eq(6)&&Text;.module-info-item:eq(4)&&Text;.module-info-tag-link:eq(1)&&Text;.module-info-item:eq(1)&&Text;.module-info-item:eq(3)&&Text',
+    content: '.module-info-introduction-content.show-desc&&p&&Text',
+    tabs: '.module-tab-items-box.hisSwiper .module-tab-item span',
+    lists: '.module-play-list-content:eq(#id) a',
   },
-lazy: "js:\n  let html = request(input);\n  let hconf = html.match(/r player_.*?=(.*?)</)[1];\n  let json = JSON5.parse(hconf);\n  let url = json.url;\n  if (json.encrypt == '1') {\n    url = unescape(url);\n  } else if (json.encrypt == '2') {\n    url = unescape(base64Decode(url));\n  }\n  if (/\\.(m3u8|mp4|m4a|mp3)/.test(url)) {\n    input = {\n      parse: 0,\n      jx: 0,\n      url: url,\n    };\n  } else {\n    input = url && url.startsWith('http') && tellIsJx(url) ? {parse:0,jx:1,url:url}:input;\n  }",
-	
+lazy: "js:\n  let html = request(input);\n  let hconf = html.match(/r player_.*?=(.*?)</)[1];\n  let json = JSON5.parse(hconf);\n  let url = json.url;\n  if (json.encrypt == '1') {\n    url = unescape(url);\n  } else if (json.encrypt == '2') {\n    url = unescape(base64Decode(url));\n  }\n  if (/\\.(mp4?|m3u8|mp4|m4a|mp3)/.test(url)) {\n    input = {\n      parse: 0,\n      jx: 0,\n      url: url,\n    };\n  } else {\n    input = url && url.startsWith('http') && tellIsJx(url) ? {parse:0,jx:1,url:url}:input;\n  }",
+	    sniffer:1,
+    // 辅助嗅探规则
+    isVideo:"http((?!http).){26,}\\.(media-ynkm-fy-home|sg.storage.bunnycdn.com|m3u8|mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3|wma)",
   		搜索:`js:
 		pdfh = jsp.pdfh, pdfa = jsp.pdfa, pd = jsp.pd;
 		let d = [];
