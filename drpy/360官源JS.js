@@ -18,6 +18,7 @@ title: '360影视[官]',
     limit: 5,
     multi: 1,
     searchable: 2,
+    tab_order:['qq','qiyi','xigua','imgo','leshi','sohu','bilibili1'],
     play_parse: true,
 lazy:`js:
         var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
