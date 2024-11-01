@@ -371,75 +371,39 @@
 		"type": 3,
 		"url": "Demo"
 	},
-       {
-      "name": "CK解析",
-      "type": 0,
-      "url": "https://www.ckplayer.vip/jiexi/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
-       {
-      "name": "去插播解析",
-      "type": 1,
-      "url": "https://json.nnsvip.cn/home/api?type=ys&uid=3026163&key=aefkortIJPTXZ23456&url=",
-      "ext": {
-        "flag": [
-          "优质",
-          "yz",
-          "暴风",
-          "量子",
-          "非凡",
-          "黑木耳",
-          "优酷",
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
     {
       "name": "极速解析",
       "type": 0,
       "url": "https://jx.2s0.cn/player/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+        {
+      "name": "CK解析",
+      "type": 0,
+      "url": "https://www.ckplayer.vip/jiexi/?url=",
       "ext": {
         "flag": [
           "qq",
@@ -477,9 +441,9 @@
 		}   
 	},
     {
-      "name": "777号线",
+      "name": "夜幕解析",
       "type": 0,
-      "url": "https://110.42.2.247:9090/player/?url=",
+      "url": "https://www.yemu.xyz/v/d.php?url=",
       "ext": {
         "flag": [
           "qq",
