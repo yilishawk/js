@@ -10,7 +10,11 @@
       "filterable": 1,
       "ext": "https://git.acwing.com/mimang/j/-/raw/master/drpy/农民影视.js"
     },
-                                 {
+    {"key":"csp_Jpys","name":"金牌影视","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+     {"key":"瓜子","name":"瓜子影视","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
+         {"key":"csp_LiteApple","name":"小苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"csp_TianTian","name":"天天影视","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},
+     {
       "key": "dr_ cz",
       "name": "厂长资源js",
       "type": 3,
@@ -142,19 +146,6 @@
       "filterable": 1,
       "ext": "https://git.acwing.com/mimang/j/-/raw/master/drpy/飞秒影视.js"
     },
-                   {
-      "key": "csp_XBPQ_金牌影视",
-      "name": "金牌影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://git.acwing.com/mimang/j/-/raw/master/XBPQ/金牌影视.json"
-    },
-    {"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_TianTian","name":"天天","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},
                    {
       "key": "csp_XBPQ_多多追剧",
       "name": "多多追剧",
@@ -645,7 +636,7 @@
    "wallpaper": "https://img.catvod.com/",
    //"wallpaper": "https://api.likepoems.com/img/bing",
    "logo":"https://gh.llkk.cc/https://raw.githubusercontent.com/yilishawk/jar/main/.mmexport1716863558552.gif",
-   "spider": "https://git.acwing.com/mimang/j/-/raw/master/jar/20241023.jar;md5;79C7BCB0B248D21174075BB924870D71"
+   "spider": "https://git.acwing.com/mimang/j/-/raw/master/jar/20241105.jar;md5;22A4EDB787D52D726D0ED84A8589A031"
   //"spider": "https://atomgit.com/mimang/js/raw/master/js/jar/20241023.jar;md5;79C7BCB0B248D21174075BB924870D71"
   //"spider": "https://ghproxy.cn/https://raw.githubusercontent.com/yilishawk/js/master/jar/20241023.jar;md5;79C7BCB0B248D21174075BB924870D71"
 }
