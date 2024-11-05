@@ -1,14 +1,54 @@
 {
   "sites": [
-                               {
-      "key": "csp_XBPQ_麦田影视",
-      "name": "麦田影视",
+      {
+      "key": "dr_农民影视",
+      "name": "农民影视js",
+      "type": 3,
+      "api": "https://git.acwing.com/mimang/j/-/raw/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://git.acwing.com/mimang/j/-/raw/master/drpy/农民影视.js"
+    },
+                                 {
+      "key": "dr_ cz",
+      "name": "厂长资源js",
+      "type": 3,
+      "api": "https://git.acwing.com/mimang/j/-/raw/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://git.acwing.com/mimang/j/-/raw/master/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.js"
+    },
+        {
+      "key": "dr_百度影院",
+      "name": "百度影院js",
+      "type": 3,
+      "api": "https://git.acwing.com/mimang/j/-/raw/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://git.acwing.com/mimang/j/-/raw/master/drpy/百度影院.js"
+    },
+                          {
+      "key": "dr__可可影视js",
+      "name": "可可影视js",
+      "type": 3,
+      "api": "https://git.acwing.com/mimang/j/-/raw/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://git.acwing.com/mimang/j/-/raw/master/drpy/可可影视.js"
+    },
+                                         {
+      "key": "csp_XBPQ_圣城影视",
+      "name": "圣城影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://git.acwing.com/mimang/j/-/raw/master/XBPQ/麦田影视.json"
+      "ext": "https://git.acwing.com/mimang/j/-/raw/master/XBPQ/圣城影视.json"
     },
      
                            {
@@ -51,37 +91,7 @@
       "filterable": 1,
       "ext": "https://git.acwing.com/mimang/j/-/raw/master/XBPQ/黑狐影视.json"
     },
-    {
-      "key": "dr_农民影视",
-      "name": "农民影视js",
-      "type": 3,
-      "api": "https://git.acwing.com/mimang/j/-/raw/master/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://git.acwing.com/mimang/j/-/raw/master/drpy/农民影视.js"
-    },
-        {
-      "key": "dr_百度影院",
-      "name": "百度影院js",
-      "type": 3,
-      "api": "https://git.acwing.com/mimang/j/-/raw/master/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://git.acwing.com/mimang/j/-/raw/master/drpy/百度影院.js"
-    },
 
-                             {
-      "key": "dr_ cz",
-      "name": "厂长资源js",
-      "type": 3,
-      "api": "https://git.acwing.com/mimang/j/-/raw/master/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://git.acwing.com/mimang/j/-/raw/master/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.js"
-    },
                            {
       "key": "dr_ 素白白",
       "name": "素白白js",
@@ -92,16 +102,6 @@
       "filterable": 1,
       "ext": "https://git.acwing.com/mimang/j/-/raw/master/%E7%B4%A0%E7%99%BD%E7%99%BD.js"
     },
-                      {
-      "key": "dr__可可影视js",
-      "name": "可可影视js",
-      "type": 3,
-      "api": "https://git.acwing.com/mimang/j/-/raw/master/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://git.acwing.com/mimang/j/-/raw/master/drpy/可可影视.js"
-    },
             {
       "key": "dr_360官源JS",
       "name": "360官源JS",
@@ -111,16 +111,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://git.acwing.com/mimang/j/-/raw/master/drpy/360官源JS.js"
-    },
-                                     {
-      "key": "csp_XBPQ_圣城影视",
-      "name": "圣城影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://git.acwing.com/mimang/j/-/raw/master/XBPQ/圣城影视.json"
     },
                                    {
       "key": "csp_XBPQ_宝片影视",
