@@ -61,8 +61,9 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
+      "playerType":2,
       "filterable": 1,
-      "ext": "https://git.acwing.com/mimang/j/-/raw/master/XBPQ/77影视.json"
+      "ext": "https://git.acwing.com/mimang/j/-/raw/master/XBPQ/金牌影视.json"
     },
                                         {
       "key": "csp_XBPQ_凯奇影视",
