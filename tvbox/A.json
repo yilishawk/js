@@ -20,7 +20,6 @@
       "filterable": 1,
       "ext": "https://git.acwing.com/mimang/j/-/raw/master/drpy/农民影视.js"
     },
-    {"key":"csp_Jpys","name":"金牌影视","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
      {"key":"瓜子","name":"瓜子影视","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
          {"key":"csp_LiteApple","name":"小苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_TianTian","name":"天天影视","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},
@@ -55,8 +54,8 @@
       "ext": "https://git.acwing.com/mimang/j/-/raw/master/drpy/可可影视.js"
     },
                                     {
-      "key": "csp_XBPQ_77影视",
-      "name": "77影视",
+      "key": "csp_XBPQ_金牌影视",
+      "name": "金牌影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
