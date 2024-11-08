@@ -118,14 +118,14 @@
     },
 
                            {
-      "key": "dr_ 素白白",
-      "name": "素白白js",
+      "key": "csp_XBPQ_素白白",
+      "name": "素白白",
       "type": 3,
-      "api": "https://git.acwing.com/mimang/j/-/raw/master/lib/drpy2.min.js",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://git.acwing.com/mimang/j/-/raw/master/%E7%B4%A0%E7%99%BD%E7%99%BD.js"
+      "ext": "https://git.acwing.com/mimang/j/-/raw/master/XBPQ/素白影视.json"
     },
             {
       "key": "dr_360官源JS",
