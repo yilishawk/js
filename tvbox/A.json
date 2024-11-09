@@ -10,6 +10,16 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/nnys.json"
     },
+                               {
+      "key": "csp_XBPQ_素白白",
+      "name": "素白白",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/素白影视.json"
+    },
                                  {
       "key": "csp_XBPQ_全看影视",
       "name": "全看影视",
@@ -20,20 +30,20 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/全看影视"
     },
+                               {
+      "key": "csp_XBPQ_看剧网",
+      "name": "看剧网",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/看剧网.json"
+    },
     {"key":"csp_ReBo","name":"热播之家","type":3,"api":"csp_ReBo","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://git.acwing.com/mimang/t/-/raw/main/20241105.jar;md5;22A4EDB787D52D726D0ED84A8589A031"},
      {"key":"瓜子","name":"瓜子影视","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://git.acwing.com/mimang/t/-/raw/main/20241105.jar;md5;22A4EDB787D52D726D0ED84A8589A031"},
          {"key":"csp_LiteApple","name":"小苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://git.acwing.com/mimang/t/-/raw/main/20241105.jar;md5;22A4EDB787D52D726D0ED84A8589A031"},
 {"key":"csp_TianTian","name":"天天影视","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://git.acwing.com/mimang/t/-/raw/main/20241105.jar;md5;22A4EDB787D52D726D0ED84A8589A031"},
-     {
-      "key": "dr_ cz",
-      "name": "厂长资源js",
-      "type": 3,
-      "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.js"
-    },
         {
       "key": "dr_百度影院",
       "name": "百度影院js",
@@ -85,17 +95,6 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/圣城影视.json"
     },
-     
-                           {
-      "key": "csp_XBPQ_看剧网",
-      "name": "看剧网",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/看剧网.json"
-    },
                             {
       "key": "csp_XBPQ_端木APP",
       "name": "端木APP",
@@ -115,17 +114,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/黑狐影视.json"
-    },
-
-                           {
-      "key": "csp_XBPQ_素白白",
-      "name": "素白白",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/素白影视.json"
     },
             {
       "key": "dr_360官源JS",
@@ -176,6 +164,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/多多追剧.json"
+    },
+         {
+      "key": "dr_ cz",
+      "name": "厂长资源js",
+      "type": 3,
+      "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.js"
     },
                       {
       "key": "csp_XBPQ_耐看点播",
