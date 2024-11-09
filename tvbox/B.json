@@ -20,10 +20,10 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/全看影视"
     },
-    {"key":"csp_ReBo","name":"热播之家","type":3,"api":"csp_ReBo","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://bitbucket.org/yilishawk/js/raw/master/jar/20241105.jar;md5;22A4EDB787D52D726D0ED84A8589A031"},
-     {"key":"瓜子","name":"瓜子影视","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://bitbucket.org/yilishawk/js/raw/master/jar/20241105.jar;md5;22A4EDB787D52D726D0ED84A8589A031"},
-         {"key":"csp_LiteApple","name":"小苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://bitbucket.org/yilishawk/js/raw/master/jar/20241105.jar;md5;22A4EDB787D52D726D0ED84A8589A031"},
-{"key":"csp_TianTian","name":"天天影视","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://bitbucket.org/yilishawk/js/raw/master/jar/20241105.jar;md5;22A4EDB787D52D726D0ED84A8589A031"},
+    {"key":"csp_ReBo","name":"热播之家","type":3,"api":"csp_ReBo","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://git.acwing.com/mimang/t/-/raw/main/20241105.jar;md5;22A4EDB787D52D726D0ED84A8589A031"},
+     {"key":"瓜子","name":"瓜子影视","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://git.acwing.com/mimang/t/-/raw/main/20241105.jar;md5;22A4EDB787D52D726D0ED84A8589A031"},
+         {"key":"csp_LiteApple","name":"小苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://git.acwing.com/mimang/t/-/raw/main/20241105.jar;md5;22A4EDB787D52D726D0ED84A8589A031"},
+{"key":"csp_TianTian","name":"天天影视","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://git.acwing.com/mimang/t/-/raw/main/20241105.jar;md5;22A4EDB787D52D726D0ED84A8589A031"},
      {
       "key": "dr_ cz",
       "name": "厂长资源js",
