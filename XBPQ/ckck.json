@@ -1,11 +1,11 @@
 {
   "作者": "凯哥",
   "站名": "ckck",
-  "主页url": "https://www.03yy.co/",
+  "主页url": "https://www.03yy.live/",
   //"发布": "https://www.ckck.me/",
  "头部集合": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Cookie$PHPSESSID=4r48o1vg24fnl51bag0f1jrqg1", 
  "分类": "国产剧$13#喜剧电影$10#短剧$48#综艺$4#",
-  "分类url": "https://www.03yy.co/type/index{cateId}-{catePg}.html",
+  "分类url": "https://www.03yy.live/type/index{cateId}-{catePg}.html",
   //"二次截取": "<div class=\"Pic-list\">&&<div class=\"page-next\">",
   "数组": "<div class=\"m-pic-l pic-height-a\">&&</div>",
   "副标题": "<span>&&</span>",
