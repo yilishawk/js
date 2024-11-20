@@ -105,16 +105,6 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/圣城影视.json"
     },
-                            {
-      "key": "csp_XBPQ_端木APP",
-      "name": "端木APP",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/端木APP.json"
-    },
                                  {
       "key": "csp_XBPQ_黑狐影视",
       "name": "黑狐影视",
