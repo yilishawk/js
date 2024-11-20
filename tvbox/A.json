@@ -374,7 +374,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=https://d.kstore.dev/download/12020/xc.txt"
+            "proxy://do=live&type=txt&ext=https://d.kstore.dev/download/12020/md.txt"
           ]
         }
       ]
