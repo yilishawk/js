@@ -60,6 +60,7 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/ckck.json"
     },
+    {"key":"csp_Jpys","name":"🥇金牌","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar": "https://drive.almondcloud.cn/f/oKm1sB/20241122.jar"},
     {"key":"csp_ReBo","name":"热播之家","type":3,"api":"csp_ReBo","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://git.acwing.com/mimang/t/-/raw/main/20241105.jar;md5;22A4EDB787D52D726D0ED84A8589A031"},
      {"key":"瓜子","name":"瓜子影视","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://git.acwing.com/mimang/t/-/raw/main/20241105.jar;md5;22A4EDB787D52D726D0ED84A8589A031"},
          {"key":"csp_LiteApple","name":"小苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://git.acwing.com/mimang/t/-/raw/main/20241105.jar;md5;22A4EDB787D52D726D0ED84A8589A031"},
