@@ -41,7 +41,7 @@
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/看剧网.json"
     },
                                    {
-      "key": "csp_XBPQ_皮皮影视",
+      "key": "dr_皮皮影视",
       "name": "皮皮影视",
       "type": 3,
       "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
@@ -49,6 +49,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/drpy/皮皮影视.js"
+    },
+                                       {
+      "key": "dr_360官源",
+      "name": "360官源",
+      "type": 3,
+      "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/drpy/360官源JS.js"
     },
                                    {
       "key": "csp_XBPQ_ck影视",
