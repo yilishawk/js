@@ -126,14 +126,14 @@
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/黑狐影视.json"
     },
             {
-      "key": "dr_360官源JS",
-      "name": "360官源JS",
+      "key": "csp_XBPQ_yo追剧",
+      "name": "yo追剧",
       "type": 3,
-      "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/drpy/360官源JS.js"
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/yo追剧.json"
     },
                                    {
       "key": "csp_XBPQ_宝片影视",
