@@ -382,15 +382,15 @@
   ],
   "parses": [
       {
-		"name": "Web聚合",
-		"type": 3,
-		"url": "Web"
-	}, 
-    {
 		"name": "Json聚合",
 		"type": 3,
 		"url": "Demo"
 	},
+      {
+		"name": "Web聚合",
+		"type": 3,
+		"url": "Web"
+	}, 
         {
       "name": "4K解析",
       "type": 1,
@@ -398,9 +398,35 @@
       "ext": {
         "flag": [
           "qq",
+          "imgo",
           "腾讯",
           "mgtv",
           "芒果"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+            {
+      "name": "4Kjson",
+      "type": 1,
+      "url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url=",
+      "ext": {
+        "flag": [
+           "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
         ],
         "header": {
           "User-Agent": "okhttp/4.1.0"
