@@ -27,7 +27,7 @@
     //"播放数组":"<div id=\"relay\"&&</ul>",
     //"播放标题":">&&</a>",
     //"播放列表":"<li&&</li>",
-    "播放二次截取":"id=\"pptv_playpage_box\">&&</div>",
+    "播放二次截取":"<div class=\"detailPosterIntro globalPadding clearfix\"&&</script>",
     "播放数组":"mac_url=&&;[替换:'>>链表题#$>>题链#\\#>>链表表题]",
     "播放列表": "表&&表[替换:dqj>>https://api.cnmcom.com/webcloud/relay.php?url=dqj#aqH>>https://api.cnmcom.com/webcloud/m3u8.php?url=aqH]",
     "播放标题": "题&&题",
