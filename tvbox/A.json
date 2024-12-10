@@ -287,75 +287,6 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/电影天堂磁力.json"
     },
-    {"key":"csp_WoGG",
-    "name":"玩偶哥哥",
-    "type":3,
-    "api":"csp_WoGG",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "changeable":0,
-    "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
-        {
-      "key": "YiSo",
-      "name": "易搜",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "Zhaozy",
-      "name": "找资源",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$Yoursmile$$$abcd1234"
-    },
-    {
-      "key": "PanSou",
-      "name": "盘搜",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "UpYun",
-      "name": "UP云搜",
-      "type": 3,
-      "api": "csp_UpYun",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "PanSearch",
-      "name": "盘搜索",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "Dovx",
-      "name": "七夜",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
     {
       "key": "push_agent",
       "name": "推送",
@@ -365,16 +296,6 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "相声小品",
-      "name": "🅱️相声小品",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixs.json"
     }
   ],
  "lives":[{"name":"Yoursmile","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},{"name":"feiyang.allinone","type":0,"url":"http://127.0.0.1:35455/tv.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},{"name":"feiyang.tptv","type":0,"url":"http://127.0.0.1:35455/tptv.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},{"name":"feiyang.bililive","type":0,"url":"http://127.0.0.1:35455/bililive.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},{"name":"feiyang.huyayqk","type":0,"url":"http://127.0.0.1:35455/huyayqk.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},{"name":"feiyang.douyuyqk","type":0,"url":"http://127.0.0.1:35455/douyuyqk.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},{"name":"feiyang.yylunbo","type":0,"url":"http://127.0.0.1:35455/yylunbo.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
