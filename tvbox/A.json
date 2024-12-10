@@ -384,7 +384,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=https://d.kstore.dev/download/12020/md.txt"
+            "proxy://do=live&type=txt&ext=https://fanmingming.com/txt?url=https://gh.aptv.app/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"
           ]
         }
       ]
