@@ -42,5 +42,5 @@ lazy: "js:\n  let html = request(input);\n  let hconf = html.match(/r player_.*?
     lists: '.episode-list:eq(#id) a',
     tab_text: 'span:eq(1)&&Text',
   },
-  搜索: '.search-result-item;img:eq(1)&&alt;img:eq(1)&&data-original;.v-item-bottom span:eq(1)&&Text;a&&href',
+  搜索: '.search-result-list .search-result-item:lt(2);img:eq(1)&&alt;img:eq(1)&&data-original;.v-item-bottom span:eq(1)&&Text;a&&href',
 }
