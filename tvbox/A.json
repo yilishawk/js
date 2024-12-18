@@ -20,6 +20,16 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/素白影视.json"
     },
+                                           {
+      "key": "dr_瓜子影视",
+      "name": "瓜子影视",
+      "type": 3,
+      "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/drpy/瓜子.js"
+    },
                                  {
       "key": "csp_XBPQ_全看影视",
       "name": "全看影视",
@@ -112,7 +122,6 @@
     },
     {"key":"csp_Jpys","name":"🥇金牌","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar": "https://git.acwing.com/mimang/t/-/raw/main/20241210.jar;md5;64ECBF2910590EA19DAF3A7ECDEC1D5A"},
     {"key":"csp_ReBo","name":"热播之家","type":3,"api":"csp_ReBo","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://git.acwing.com/mimang/t/-/raw/main/20241210.jar;md5;64ECBF2910590EA19DAF3A7ECDEC1D5A"},
-     {"key":"瓜子","name":"瓜子影视","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://git.acwing.com/mimang/t/-/raw/main/20241210.jar;md5;64ECBF2910590EA19DAF3A7ECDEC1D5A"},
          {"key":"csp_LiteApple","name":"小苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://git.acwing.com/mimang/t/-/raw/main/20241210.jar;md5;64ECBF2910590EA19DAF3A7ECDEC1D5A"},
 {"key":"csp_TianTian","name":"天天影视","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://git.acwing.com/mimang/t/-/raw/main/20241210.jar;md5;64ECBF2910590EA19DAF3A7ECDEC1D5A"},
         {
