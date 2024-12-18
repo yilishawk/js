@@ -8,7 +8,6 @@
 	"二次截取":"\"list\":[&&]}}}]",
 	"数组":"{&&}[替换:vodPic\":\">>图#webp>>webp?x-image-process=image/resize,w_356,h_498/quality,q_65/format,webp]",
 	"图片":"图&&\"",
-	"图片代理":"1",
 	"标题": "\"vodName\":\"&&\"",
 	"副标题": "\"vodRemarks\":\"&&\"",	
 	"链接": "https://www.gs4x7nq4.com/detail/+\"vodId\":&&,",
