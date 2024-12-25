@@ -10,6 +10,16 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/drpy/农民影视.js"
     },
+                                           {
+      "key": "dr_影探4K",
+      "name": "影探4K",
+      "type": 3,
+      "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/drpy/影探4K.js"
+    },
                                {
       "key": "csp_XBPQ_素白白",
       "name": "素白白",
