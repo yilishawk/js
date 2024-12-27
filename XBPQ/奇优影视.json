@@ -1,6 +1,6 @@
-{
-"站名":"奇优影院",
-"主页url":"http://www.qiyoudy1.com",
+{"站名":"奇优影院",
+"主页url":"http://www.qiyoudy1.com/",
+"头部集合": "User-Agent$Mozilla/5.0 (Linux; Android 13; SM-A536E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 uacq#Referer$http://www.qiyoudy1.com",
 "数组":"<div class=\"stui-vodlist__box\">&&</div>",
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
@@ -26,9 +26,12 @@
 "播放列表":"<a&&/a>",
 "播放标题":">&&<",
 "播放链接":"href=\"&&\"",
-"播放链接前缀":"http://www.qiyoudy1.com",
+"跳转播放链接数组": "<div id=\"playbox\">&&</div>",
+"跳转播放链接": "src=\"&&\"",
+"二次跳转播放链接": "mp4url=\"&&\"",
+//"播放链接前缀":"http://www.qiyoudy1.com",
 "嗅探词":".m3u8#.mp4#.flv#.mp3#.m4a",
-"分类url":"http://www.qiyoudy1.com/list/{cateId}_{catePg}.html?order={by}",
+"分类url":"http://www.qiyoudy1.com/list/{cateId}_{catePg}.html",
 "分类":"电影$1#电视剧$2#动漫$3#综艺$4",
 "筛选":
 {
