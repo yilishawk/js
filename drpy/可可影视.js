@@ -22,7 +22,7 @@ var rule = {
             },
       class_name:'电视剧&电影&短剧&综艺',//静态分类名称拼接
     class_url:'2&1&6&4',//静态分类标识拼接
-  图片替换:'https://www.dushe03.com/=>https://vres.bbpeyi.cn/',
+  图片替换:'https://www.dushe03.com/=>https://vres.bqlpk.cn/',
   //class_parse: '.fs-margin.menu li:gt(1):lt(8);a&&Text;a&&href;/(\\d+)',
   tab_remove: ['4K(高峰不卡)'],
   tab_order:['超清','蓝光3','蓝光1','LZ线路','FF线路','蓝光7','BF','LZ线路'],
@@ -32,7 +32,7 @@ lazy: "js:\n  let html = request(input);\n  let hconf = html.match(/r player_.*?
   limit: 6,
   double: true,
   推荐: '.swiper.myCarouselSwiper .swiper-slide;body a;.carousel-item-title&&Text;img&&data-original;.tag&&Text;a&&href',
-  一级: '.module-item;img:eq(1)&&alt;img:eq(1)&&data-original;.v-item-bottom span:eq(1)&&Text;a&&href',
+  一级: '.module-item;.v-item-title&&Text;.lazyload&&data-original;.v-item-bottom&&Text;a&&href',
   二级: {
     title: 'strong:eq(2)&&Text;.detail-tags-item:eq(5)&&Text',
     img: '.detail-pic&&img&&data-original',
@@ -40,7 +40,7 @@ lazy: "js:\n  let html = request(input);\n  let hconf = html.match(/r player_.*?
     content: '.detail-desc&&Text',
     tabs: '.swiper-slide.source-swiper-slide',
     lists: '.episode-list:eq(#id) a',
-    tab_text: 'span:eq(1)&&Text',
+    tab_text: 'span&&Text',
   },
   搜索: '.search-result-list .search-result-item:lt(2);img:eq(1)&&alt;img:eq(1)&&data-original;.v-item-bottom span:eq(1)&&Text;a&&href',
 }
