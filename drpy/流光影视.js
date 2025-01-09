@@ -14,6 +14,7 @@ var rule = {
 		1:{cateId:'1'},
     	3:{cateId:'3'},
         4:{cateId:'4'},
+        21:{cateId:'21'},
 	},
   headers: {
     'User-Agent': 'UC_UA',
