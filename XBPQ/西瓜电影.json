@@ -27,7 +27,7 @@
 	"播放列表": "<li>&&</li>",
 	"播放标题":">&&</a>",
 	"播放链接": "href=\"&&\"",
-    "跳转播放链接数组": "id=\"bofang_box\"&&</div>[替换:url\":\">>链https://jx.xmflv.com/?url=]",
+    "跳转播放链接数组": "id=\"bofang_box\"&&</div>[替换:url\":\">>链https://jx.wiys.lol/player/ec.php?code=qw&if=1&url=]",
     "跳转播放链接": "链&&\"",
     //"二次跳转播放链接": "url\":\"&&\"",
     //"跳转播放链接数组": "id=\"bofang_box\"&&</div>[替换:url\":\">>链https://www.ckplayer.vip/jiexi/?url=]",
