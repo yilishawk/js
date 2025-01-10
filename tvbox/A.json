@@ -39,7 +39,7 @@
       "filterable": 1
     },
                                                {
-      "key": "dr_流光影视",
+      "key": "dr_1817影视",
       "name": "1817影视JS",
       "type": 3,
       "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
@@ -57,6 +57,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/drpy/流光影视.js"
+    },
+                               {
+      "key": "dr__西瓜电影",
+      "name": "西瓜电影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/西瓜电影.json"
     },
                                            {
       "key": "dr_哔嘀影视",
@@ -108,6 +118,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/追剧吧.json"
+    },
+                {
+      "key": "csp_XBPQ_yo追剧",
+      "name": "yo追剧APP",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/yo追剧.json"
     },
     {
       "key": "csp_XBPQ_TVB影视",
@@ -202,26 +222,6 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/drpy/可可影视.js"
     },
-    {
-      "key": "csp_XBPQ_凯奇影视",
-      "name": "凯奇影视XBPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/凯奇混合采集.json"
-    },
-            {
-      "key": "csp_XBPQ_yo追剧",
-      "name": "yo追剧APP",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/yo追剧.json"
-    },
                                    {
       "key": "csp_XBPQ_宝片影视",
       "name": "宝片影视",
@@ -232,26 +232,6 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/宝片影视.json"
     },
-                           {
-      "key": "dr__西瓜电影",
-      "name": "西瓜电影",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/西瓜电影.json"
-    },
-              {
-      "key": "dr__飞秒影视",
-      "name": "飞秒影视js",
-      "type": 3,
-      "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/drpy/飞秒影视.js"
-    },
          {
       "key": "dr_ cz",
       "name": "厂长资源js",
@@ -261,16 +241,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.js"
-    },
-                      {
-      "key": "csp_XBPQ_耐看点播",
-      "name": "耐看点播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/耐看点播.json"
     },
      {
       "key": "csp_XBPQ_天龙影视",
