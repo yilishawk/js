@@ -349,7 +349,7 @@ var rule = {
     // 疑似t4专用的
     // lazy:'js:input={parse: 1, playUrl: "", jx: 1, url: input.split("?")[0]}',
     // 手动调用解析请求json的url,此lazy不方便
-lazy:'js:input="https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="+input.split("?")[0];log(input);let html=JSON.parse(request(input));log(html);input=html.url||input',
+lazy:'js:input="https://150.138.78.37:4399/api?key=94b07e0b2c0e8244&url="+input.split("?")[0];log(input);let html=JSON.parse(request(input));log(html);input=html.url||input',
     推荐:'json:data;title;cover;comment;cat+ent_id;description',
     一级:'json:data.movies;title;cover;pubdate;id;description',
     二级:'',
