@@ -4,7 +4,7 @@
   "主页url": "https://www.brovod.com/",
   "热门": "",
   //发布页https://xdys.vip/
-  "分类": "剧集$2#电影$1#短剧$6#综艺$3#",
+  "分类": "剧集$tv#电影$movie#综艺$show",
   
   "分类url": "https://www.brovod.com/show/{cateId}-{area}--{class}-{lang}----{catePg}---{year}/",
   "二次截取": "下载APP&&<div id=\"page\">",
