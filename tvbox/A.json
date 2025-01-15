@@ -49,14 +49,14 @@
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/drpy/1817.js"
     },
                                            {
-      "key": "dr_流光影视",
-      "name": "流光影视JS",
+      "key": "xbpq_流光影视",
+      "name": "流光影视",
       "type": 3,
-      "api": "https://bitbucket.org/yilishawk/js/raw/master/lib/drpy2.min.js",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/drpy/流光影视.js"
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/drpy/流光影视.json"
     },
                                {
       "key": "dr__西瓜电影",
