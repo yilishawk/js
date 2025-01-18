@@ -20,6 +20,9 @@ var rule = {
 		3:{cateId:'3'},
 		4:{cateId:'4'}
 	},
+      headers: {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6788.76 Safari/537.36',
+  },
       class_name:'电视剧&电影&短剧&综艺',
   tab_remove:'失效',
    class_url:'1&2&3&4',
@@ -32,8 +35,8 @@ var rule = {
     img: '.module-item-pic&&img&&data-original',
     desc:  '.module-info-item:eq(2)&&Text;.module-info-tag .module-info-tag-link:eq(0) a&&title;.module-info-tag-link:eq(1) a&&title;.slide-info.hide:eq(2)&&Text;.slide-info.hide:eq(3)&&Text',
     content: 'p&&Text',
-    tabs: '.module-tab-items-box.hisSwiper span',
-    lists: 'div.module-play-list-larger:eq(#id) a',
+    tabs: '.module-tab-item.tab-item.active span',
+    lists: '.player-list .module-play-list-content:eq(#id) a',
   },
 lazy: "js:\n  let html = request(input);\n  let hconf = html.match(/r player_.*?=(.*?)</)[1];\n  let json = JSON5.parse(hconf);\n  let url = json.url;\n  if (json.encrypt == '1') {\n    url = unescape(url);\n  } else if (json.encrypt == '2') {\n    url = unescape(base64Decode(url));\n  }\n  if (/\\.(m3u8|mp4|m4a|mp3)/.test(url)) {\n    input = {\n      parse: 0,\n      jx: 0,\n      url: url,\n    };\n  } else {\n    input = url && url.startsWith('http') && tellIsJx(url) ? {parse:0,jx:1,url:url}:input;\n  }",
 搜索: '.module-card-item.module-item;.lazyload&&alt;.lazyload&&data-original;.module-item-note&&Text;a&&href',
