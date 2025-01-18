@@ -30,7 +30,7 @@
     "播放链接":"href=\"&&\"",
     "分类url":"http://www.9kdy.com/{cateId}/index{catePg}.html[firstPage=http://www.9kdy.com/{cateId}/index.html]",
     "分类":"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman",
-    //"嗅探词":"douyinvod.com#m3u8?pt#.mp4?dis#.mp4?#.m3u8?#.m3u8#.mp4#.m3u8?#.mp4?#.m4a",
+    "嗅探词":"video_mp4#m3u8#.mp4#.mp4?#.m3u8?#.m3u8#.mp4#.m3u8?#.mp4?#.m4a",
     "过滤词":"51.la#cnzz.com#baidu.com#bilibili.com",
     "播放请求头":"Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36",
     //"免嗅":"0",
