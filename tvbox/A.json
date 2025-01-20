@@ -10,15 +10,15 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/drpy/农民影视.js"
     },
-                                     {
-      "key": "csp_XBPQ_全看影视",
-      "name": "全看影视",
+                                         {
+      "key": "csp_XBPQ_如意采集",
+      "name": "如意采集",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/全看影视"
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/如意采集.json"
     },
                                    {
       "key": "dr__西瓜电影",
@@ -50,6 +50,26 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/drpy/百度影院.js"
     },
+                        {
+      "key": "csp_XBPQ_yo追剧",
+      "name": "yo追剧APP",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/yo追剧.json"
+    },
+         {
+      "key": "csp_XBPQ_天龙影视",
+      "name": "天龙影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":"https://bitbucket.org/yilishawk/js/raw/master/XBPQ/天龙影视.json"
+    },
         {
       "key": "gzapp",
       "name": "瓜子APP",
@@ -78,26 +98,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/drpy/皮皮影视.js"
-    },
-                    {
-      "key": "csp_XBPQ_yo追剧",
-      "name": "yo追剧APP",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/yo追剧.json"
-    },
-         {
-      "key": "csp_XBPQ_天龙影视",
-      "name": "天龙影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext":"https://bitbucket.org/yilishawk/js/raw/master/XBPQ/天龙影视.json"
     },
                                    {
       "key": "csp_XBPQ_素白白",
@@ -159,6 +159,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/TVB云播.json"
+    },
+                                         {
+      "key": "csp_XBPQ_全看影视",
+      "name": "全看影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/全看影视"
     },
 
                                      {
