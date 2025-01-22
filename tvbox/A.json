@@ -20,6 +20,16 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/如意采集.json"
     },
+                                       {
+      "key": "csp_XBPQ_mxvod影视",
+      "name": "mxvod影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/mxvod.json"
+    },
                                    {
       "key": "dr__西瓜电影",
       "name": "西瓜电影",
@@ -29,6 +39,13 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/西瓜电影.json"
+    },
+    {"key":"csp_xml_官方采集",
+    "name":"官方采集","type":1,
+    "api":"http://111.119.216.116:876/api.php/provide/vod/",
+    "playUrl": "json:https://niubi.69mini.com/api/?key=oU2WprndWxfyHAJv8i&url=",
+    "searchable":1,
+    "quickSearch":1
     },
                                    {
       "key": "csp_XBPQ_柒月影视",
