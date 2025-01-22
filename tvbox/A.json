@@ -4,11 +4,11 @@
       "key": "dr_农民影视",
       "name": "农民影视JS",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/yilishawk/js/master/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./drpy/农民影视.js"
+      "ext": "https://raw.githubusercontent.com/yilishawk/js/master/drpy/农民影视.js"
     },
                                          {
       "key": "csp_XBPQ_如意采集",
@@ -18,7 +18,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XBPQ/如意采集.json"
+      "ext": "https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/如意采集.json"
     },
                                        {
       "key": "csp_XBPQ_mxvod影视",
@@ -28,7 +28,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XBPQ/mxvod.json"
+      "ext": "https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/mxvod.json"
     },
                                    {
       "key": "dr__西瓜电影",
@@ -38,7 +38,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XBPQ/西瓜电影.json"
+      "ext": "https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/西瓜电影.json"
     },
     {"key":"csp_xml_官方采集",
     "name":"官方采集","type":1,
@@ -55,17 +55,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XBPQ/柒月影视.json"
+      "ext": "https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/柒月影视.json"
     },
             {
       "key": "dr_百度影院",
       "name": "百度影院js",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/yilishawk/js/master/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./drpy/百度影院.js"
+      "ext": "https://raw.githubusercontent.com/yilishawk/js/master/drpy/百度影院.js"
     },
                         {
       "key": "csp_XBPQ_yo追剧",
@@ -75,7 +75,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XBPQ/yo追剧.json"
+      "ext": "https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/yo追剧.json"
     },
          {
       "key": "csp_XBPQ_天龙影视",
@@ -85,7 +85,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"./XBPQ/天龙影视.json"
+      "ext":"https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/天龙影视.json"
     },
         {
       "key": "gzapp",
@@ -104,27 +104,27 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XBPQ/98%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/98%E5%BD%B1%E8%A7%86.json"
     },
                                        {
       "key": "dr_皮皮影视",
       "name": "皮皮影视JS",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/yilishawk/js/master/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./drpy/皮皮影视.js"
+      "ext": "https://raw.githubusercontent.com/yilishawk/js/master/drpy/皮皮影视.js"
     },
                                    {
       "key": "csp_XBPQ_素白白",
       "name": "素白白",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/yilishawk/js/master/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./drpy/素白白.js"
+      "ext": "https://raw.githubusercontent.com/yilishawk/js/master/drpy/素白白.js"
     },
                                            {
       "key": "xbpq_流光影视",
@@ -134,17 +134,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XBPQ/流光影视.json"
+      "ext": "https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/流光影视.json"
     },
                                            {
       "key": "dr_哔嘀影视",
       "name": "哔嘀影视JS",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/yilishawk/js/master/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./drpy/哔嘀影视.js"
+      "ext": "https://raw.githubusercontent.com/yilishawk/js/master/drpy/哔嘀影视.js"
     },
 
                                    {
@@ -155,7 +155,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XBPQ/4kmv.json"
+      "ext": "https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/4kmv.json"
     },
                                      {
       "key": "csp_XBPQ_追剧吧",
@@ -165,7 +165,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XBPQ/追剧吧.json"
+      "ext": "https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/追剧吧.json"
     },
     {
       "key": "csp_XBPQ_TVB影视",
@@ -175,7 +175,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XBPQ/TVB云播.json"
+      "ext": "https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/TVB云播.json"
     },
                                          {
       "key": "csp_XBPQ_全看影视",
@@ -185,7 +185,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XBPQ/全看影视"
+      "ext": "https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/全看影视"
     },
 
                                      {
@@ -196,27 +196,27 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XBPQ/黑狐影视.json"
+      "ext": "https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/黑狐影视.json"
     },
                                        {
       "key": "dr_360官源",
       "name": "360官源JS",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/yilishawk/js/master/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./drpy/360官源JS.js"
+      "ext": "https://raw.githubusercontent.com/yilishawk/js/master/drpy/360官源JS.js"
     },
                                                    {
       "key": "dr_1817影视",
       "name": "1817影视JS",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/yilishawk/js/master/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./drpy/1817.js"
+      "ext": "https://raw.githubusercontent.com/yilishawk/js/master/drpy/1817.js"
     },
                                    {
       "key": "csp_XBPQ_ck影视",
@@ -226,17 +226,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XBPQ/ckck.json"
+      "ext": "https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/ckck.json"
     },
   {
       "key": "dr__可可影视js",
       "name": "可可影视js",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/yilishawk/js/master/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./drpy/可可影视.js"
+      "ext": "https://raw.githubusercontent.com/yilishawk/js/master/drpy/可可影视.js"
     },
                                    {
       "key": "csp_XBPQ_宝片影视",
@@ -246,29 +246,29 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XBPQ/宝片影视.json"
+      "ext": "https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/宝片影视.json"
     },
          {
       "key": "dr_ cz",
       "name": "厂长资源js",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/yilishawk/js/master/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.js"
+      "ext": "https://raw.githubusercontent.com/yilishawk/js/master/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.js"
     },
     {
       "key": "drpy_js_xb6v",
       "name": "6V磁力JS",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/yilishawk/js/master/lib/drpy2.min.js",
       "playerType":"1",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "timeout":30,
-      "ext": "./6v.js"
+      "ext": "https://raw.githubusercontent.com/yilishawk/js/master/6v.js"
     },
     {
       "key": "csp_XBPQ_MP4",
@@ -278,7 +278,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XBPQ/MP4磁力.json"
+      "ext": "https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/MP4磁力.json"
     },
         {
       "key": "csp_XBPQ_电影天堂",
@@ -288,7 +288,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XBPQ/电影天堂磁力.json"
+      "ext": "https://raw.githubusercontent.com/yilishawk/js/master/XBPQ/电影天堂磁力.json"
     },
     {
       "key": "push_agent",
@@ -629,7 +629,7 @@
    "wallpaper": "https://img.catvod.com/",
    //"wallpaper": "https://api.likepoems.com/img/bing",
    "logo":"https://gh.llkk.cc/https://raw.githubusercontent.com/yilishawk/jar/main/.mmexport1716863558552.gif",
-   //"spider": "./jar/20241105.jar;md5;22A4EDB787D52D726D0ED84A8589A031"
-  "spider": "./jar/19.jar;md5;598cbceeea10e7a4ac1460de0437367d"
+   //"spider": "https://raw.githubusercontent.com/yilishawk/js/master/jar/20241105.jar;md5;22A4EDB787D52D726D0ED84A8589A031"
+  "spider": "https://raw.githubusercontent.com/yilishawk/js/master/jar/19.jar;md5;598cbceeea10e7a4ac1460de0437367d"
   //"spider": "https://ghproxy.cn/https://raw.githubusercontent.com/yilishawk/js/master/jar/20241023.jar;md5;79C7BCB0B248D21174075BB924870D71"
 }
