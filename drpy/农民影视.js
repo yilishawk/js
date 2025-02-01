@@ -38,7 +38,21 @@ var rule={
         input = {
             parse: 1,
             url: input,
-            js: `try{location.href = document.querySelectorAll("iframe")[1].src;}catch(err) {}document.querySelector(".line").click()`,
+ js: `try {
+    const scriptTags = document.querySelectorAll("script");
+    if (scriptTags.length > 1 && scriptTags[1].src) {
+        location.href = scriptTags[1].src;
+    }
+} catch (err) {
+    console.error("Error accessing script src:", err);
+}
+
+const lineElement = document.querySelector(".line");
+if (lineElement) {
+    lineElement.click();
+} else {
+    console.error("No element with class '.line' found.");
+}`,
             parse_extra: '&init_script=' + encodeURIComponent(base64Encode(init_js)),
         }
     }),
