@@ -1,7 +1,7 @@
 var rule = {
   title: '',
   host: 'https://www.gyf.lol/',
-  detailUrl: '/index.php/vod/detail/id/fyid',
+  //detailUrl: '/index.php/vod/detail/id/fyid',
   url: '/index.php/vod/show/fyfilter.html',
   searchUrl: '/index.php/ajax/suggest?mid=1&wd=**',
   searchable: 2,
@@ -24,35 +24,44 @@ var rule = {
   tab_remove:'失效',
    class_url:'2&1&3&21',
   play_parse: true,
-      lazy:`js:
+  lazy:`js:
         var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
         var url = html.url;
+        var from = html.from;
         if (html.encrypt == '1') {
             url = unescape(url)
-        } else if (html.encrypt == '2') {
+        }else if(/lzm3u8/.test(input)){
+    play_Url='json:https://jx.m3u8.biz/gg.php?url=';
+    input={jx:0,url:input,playUrl:play_Url,parse:1}
+} else if (html.encrypt == '2') {
             url = unescape(base64Decode(url))
         }
-        if (/\\.m3u8|\\.mp4/.test(url)) {
-            input = {
-                jx: 0,
-                url: url,
-                parse: 0
-            }
-        } else if (/NBY|youku|iqiyi|v\\.qq\\.com|pptv|sohu|le\\.com|1905\\.com|mgtv|bilibili|ixigua/.test(url)) {
-            let play_Url = /NBY/.test(url) ? 'https://jx.wiys.lol/player/ec.php?code=qw&if=1&url='; // type0的parse
-            input = {
-                jx: 0,
-                url: url,
-                playUrl: play_Url,
-                parse: 1,
-                header: JSON.stringify({
-                    'user-agent': 'Mozilla/5.0',
-                }),
-            }
+        if (/m3u8|mp4/.test(url)) {
+            input = url
         } else {
-            input
-        }
-    `,
+            var jx =request(HOST + "/static/player/" + from + ".js").match(/ src="(.*?)'/)[1];
+			log(jx)
+            let con=request(jx.replace('index','ec')+ url, {headers: {'Referer': HOST}}).match(/let ConFig.*}/)[0];
+			log(con)
+			eval(con+'\\nrule.ConFig=ConFig')
+			function ec(str, uid) {
+				eval(getCryptoJS());
+				return CryptoJS.enc.Utf8.stringify(CryptoJS.AES.decrypt(str, CryptoJS.enc.Utf8.parse('2890' + uid + 'tB959C'), {
+					iv: CryptoJS.enc.Utf8.parse('2F131BE91247866E'),
+					mode: CryptoJS.mode.CBC,
+					padding: CryptoJS.pad.Pkcs7
+				}));
+			};
+			//log(rule.ConFig.url)
+			//log(rule.ConFig.config.uid)
+			let purl=ec(rule.ConFig.url, rule.ConFig.config.uid);
+			//log(purl)
+			input = {
+			   jx: 0,
+			   url: purl,
+			   parse:0,
+			}
+        }`,
   //lazy: "js:\n  let html = request(input);\n  let hconf = html.match(/r player_.*?=(.*?)</)[1];\n  let json = JSON5.parse(hconf);\n  let url = json.url;\n  if (json.encrypt == '1') {\n    url = unescape(url);\n  } else if (json.encrypt == '2') {\n    url = unescape(base64Decode(url));\n  }\n  if (/\\.(m3u8|mp4|m4a|mp3)/.test(url)) {\n    input = {\n      parse: 0,\n      jx: 0,\n      url: url,\n    };\n  } else {\n    input = url && url.startsWith('http') && tellIsJx(url) ? {parse:0,jx:1,url:url}:input;\n  }",
   limit: 6,
   tab_remove:['海外云'],
