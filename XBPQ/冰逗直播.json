@@ -1,0 +1,33 @@
+{
+  "作者": "kaige",
+  "站名": "永乐",
+  //"主页url": "https://www.ylys.tv/",
+  "头部集合": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7103.48 Safari/537.36#Referer$https://www.bingdou.live#Origin$https://www.bingdou.live",
+  "分类": "央视$zhongyang#卫视$weishi",
+  "分类url": "https://json.bingdou.cc/tv/list/?id={cateId}",
+  "二次截取": "list\"*[&&]",
+   "数组": "{&&}",
+	"图片": "",
+	"标题": "name\"*\"&&\"",
+	"链接": "id\"*\"&&\"",
+  "链接前缀": "https://json.bingdou.cc/tv/?id=",
+  "副标题": "module-item-note\">&&</div>",
+  
+  "搜索模式": "0",
+  //"搜索url": "/vodsearch/-------------.html?wd={wd}",
+ // "搜索数组": "<li class=\"vod_item&&</li>",
+  //"搜索副标题": "<strong>&&</strong>",
+  
+  "影片年代": "",
+  "影片类型": "",
+  "导演": "",
+  "主演": "",
+  "简介": "module-info-introduction-content\"><p>&&</p>",
+  "线路数组":"data-dropdown-value=&&</div>[不包含:夸克]",
+  "线路标题":"<span>&&</small>",
+  //"播放二次截取": "data\":{&&\"site\"",
+  "播放数组": "list\":[&&]",
+    "播放列表": "{&&}",
+    "播放标题": "line\":\"&&\"",
+    "播放链接": "play_url\":\"&&\""
+}

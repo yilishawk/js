@@ -1,0 +1,2 @@
+https://fofa.info/搜索"iptv/live/zh_cn.js" && region="Shaanxi"，复制IP，例如http://123.138.216.44:9902/iptv/live/1000.json?key=txiptv。
+搜索"ZHGXTV" && region="Shaanxi"，复制IP，例如http://112.46.85.12:8009/ZHGXTV/Public/json/live_interface.txt

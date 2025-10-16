@@ -1,0 +1,37 @@
+{
+
+  "站名": "4kvm",
+  "图片代理": "0",
+  "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7103.48 Safari/537.36",
+  "分类": "国产剧&电影&美剧&韩剧",
+  "分类值": "guochan&movies&meiju&hanju",
+  "分类url": "https://wk.helioho.st/4kk.php/cate_{cateId}_{catePg}.json",
+  "二次截取": "list\":[&&]",
+  "数组": "{&&}",
+   "图片": "vod_pic\":\"&&\"",
+"链接": "https://wk.helioho.st/4kk.php/vod_+vod_id\":\"&&\"+.json",
+"标题": "vod_name\":\"&&\"",
+  "副标题": "vod_remarks\":\"&&\"",
+  "搜索模式": "1",
+  "搜索url": "https://wk.helioho.st/4kk.php/search_{wd}",
+  "搜索二次截取": "list\":[&&]",
+   "搜索数组":"{&&}",
+  "搜索图片":"vod_pic\":\"&&\"",
+  "搜索标题":"vod_name\":\"&&\"",
+    "搜索链接":"https://wk.helioho.st/4kk.php/vod_+vod_id\":\"&&\"+.json",
+  "影片年代": "年份：&&</li>",
+  "影片地区": "地区：&&</li>",
+  "影片类型": "类型：&&</li>",
+  "导演": "导演：&&</li>",
+  "主演": "主演：&&</li>",
+  "简介": "yp_context\">&&</p>",
+  "线路数组": "vod_play_from\":&&,",
+  "线路标题": "\"&&\"",
+  //"播放二次截取": "vod_play_list\":{&&}}",
+  "播放数组": "vod_play_url\":&&,[替换:\">>链表题#$>>题链#\\#>>链表表题]",
+  "播放列表": "表&&表",
+  "播放标题": "题&&题",
+  "播放链接": "链&&链"
+  //"跳转播放链接": "success*url\":\"&&\""
+//"播放请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
+}

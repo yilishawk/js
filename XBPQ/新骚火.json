@@ -1,0 +1,84 @@
+{
+"站名":"骚火影视",
+"请求头":"User-Agent$Mozilla/5.0 (Linux; Android 9; ALN-AL00 Build/PQ3B.190801.05281406; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Safari/537.36#method$GET#path$/#accept-language$zh-CN,zh;q=0.9#referer$https://saohuo.vip",
+"二次截取":"&&[工具:gzip-Ungzip#日志]",
+"数组":"<div class=\"v_img\">&&</div>[工具:ungzip]",
+"图片":"data-original=\"&&\"",
+"标题":"title=\"&&\"",
+"链接":"href=\"&&\"",
+"副标题":"v_note\">&&<",
+//"线路二次截取":"<ul class=\"from_list\">&&</ul>",
+//"播放数组":"<li&&</li>",
+//"状态":"上映：&&</li>",
+"导演":"导演：&&/",
+"主演":"主演：&&</p>",
+"简介":"<p class=\"p_txt show_part\">&&</p>",
+
+  //"线路二次截取": "class=\"play_from\"&&</div>",
+  //"线路数组": "<ul class=\"from_list\">&&</ul>[分割:后:</li>]",
+  //"线路标题": "class=\"current\"&&</li>||>&&</li>",
+ // "播放二次截取": "id=\"play_link\"&&</ul>",
+  //"播放数组": "<li&&</li>[分割:后:</li>]",
+  //"播放列表": "<a&&</a>",
+  //"播放标题": ">&&</a>",
+  //"播放链接": "href=\"&&\"",
+
+"跳转播放链接":"<iframe src=\"&&\"",
+//"二次跳转播放链接":"https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
+//"三次跳转播放链接":"\"url\"*\"&&\"",
+"搜索url":"/s----------.html?wd={wd}",
+//https://saohuo.vip/search.php?page={catePg}&searchword={wd}&searchtype=
+"搜索模式":"1",
+"搜索二次截取":"<ul class=\"v_list\">&&</ul>",
+"搜索数组":"<li>&&</li>",
+//"搜索图片":"data-original=\"&&\"",
+//"搜索标题":"<strong>&&</strong>",
+"搜索链接":"href=\"&&\"",
+//"搜索副标题":"<span>&&</span>",
+//"搜索后缀":"/detail/",
+//"嗅探词":"cdn.json.icu#m3u8?#.m3u8#.mp4?#.flv#.mp3#.m4a",
+//"嗅探词":".m3u8#.mp4#.m3u8?#freeok.mp4",
+//"过滤词":"51.la#cnzz.com#baidu.com#bilibili.com",
+"播放请求头":"User-Agent$Mozilla/5.0 (Linux; Android 9; ALN-AL00 Build/PQ3B.190801.05281406; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Safari/537.36#referer$https://saohuo.vip#Origin$https://saohuo.vip",
+//"嗅探词":"0",
+"分类":"国产剧&电视剧&电影",
+"分类值":"20&2&1",
+"分类url":"https://saohuo.vip/list/{cateId}-{catePg}.html;;aAO1dRs0",
+"筛选":{
+"1":[
+{
+"key":"cateId",
+"name":"类型",
+"value":[
+{"n":"全部","v":"1"},
+{"n":"喜剧","v":"6"},
+{"n":"爱情","v":"7"},
+{"n":"恐怖","v":"8"},
+{"n":"动作","v":"9"},
+{"n":"科幻","v":"10"},
+{"n":"战争","v":"11"},
+{"n":"犯罪","v":"12"},
+{"n":"动画","v":"13"},
+{"n":"奇幻","v":"14"},
+{"n":"剧情","v":"15"},
+{"n":"冒险","v":"16"},
+{"n":"悬疑","v":"17"},
+{"n":"惊悚","v":"18"}
+]
+}
+],
+"2":[
+{
+"key":"cateId",
+"name":"类型",
+"value":[
+{"n":"全部","v":"2"},
+{"n":"大陆","v":"20"},
+{"n":"TVB","v":"21"},
+{"n":"韩剧","v":"22"},
+{"n":"美剧","v":"23"}
+]
+}
+]
+}
+}

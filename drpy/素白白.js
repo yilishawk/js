@@ -1,23 +1,52 @@
 var rule = {
   title: '',
   host: 'https://subaibai.vip',
-  hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});HOST = jsp.pdfh(html,".link&&a&&href");log(HOST);',
+  hostJs: 'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});HOST = jsp.pdfh(html,".link&&a&&href");log(HOST);',
   url: '/fyclass/page/fypage',
   searchUrl: '/search?q=**',
   searchable: 2,
   quickSearch: 0,
   filterable: 0,
-  headers: {
-    'User-Agent': 'Mozilla/5.0 (Linux; U; Android 14; zh-cn; 23054RA19C Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.5414.118 Mobile Safari/537.36 XiaoMi/MiuiBrowser/18.1.20130 swan-mibrowser',
-    'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
-    'cookie': ' __vtins__JkC3MdljYqnA6RwM=%7B%22sid%22%3A%20%22d04ad72c-64e5-5de8-924d-8197382bc1f6%22%2C%20%22vd%22%3A%201%2C%20%22stt%22%3A%200%2C%20%22dr%22%3A%200%2C%20%22expires%22%3A%201724999620263%2C%20%22ct%22%3A%201724997820263%7D',
-  },
-class_name:'国产剧&电影&电视剧&热门电影&高分电影&动漫电影&香港电影&欧美剧&港台剧',
-class_url:'domestic-drama&new-movie&tv-drama&hot-month&high-movie&cartoon-movie&hongkong-movie&american-drama&korean-drama',
+  // 修正中文引号为英文（原内容实际已正确，此处保持原样）
+  class_name: '国产剧&电影&电视剧&热门电影&高分电影&动漫电影&香港电影&欧美剧&港台剧', 
+  class_url: 'domestic-drama&new-movie&tv-drama&hot-month&high-movie&cartoon-movie&hongkong-movie&american-drama&korean-drama',
   play_parse: true,
-lazy: "js:\n  let html = request(input);\n  let hconf = html.match(/r player_.*?=(.*?)</)[1];\n  let json = JSON5.parse(hconf);\n  let url = json.url;\n  if (json.encrypt == '1') {\n    url = unescape(url);\n  } else if (json.encrypt == '2') {\n    url = unescape(base64Decode(url));\n  }\n  if (/\\.(m3u8|mp4|m4a|mp3)/.test(url)) {\n    input = {\n      parse: 0,\n      jx: 0,\n      url: url,\n    };\n  } else {\n    input = url && url.startsWith('http') && tellIsJx(url) ? {parse:0,jx:1,url:url}:input;\n  }",
+  lazy: `js:
+const { input } = this;
+let html, parsedUrl;
+try {
+  html = await request(input);
+  // 检测 AES 加密（优先处理）
+  if (html.includes('function dncry') && html.includes('md5.AES.decrypt')) {
+    const keyMatch = html.match(/md5.enc.Utf8.parse\\("([^"]+)"\\)/g);
+    const key = keyMatch[0].replace('md5.enc.Utf8.parse("', '');
+    const iv = keyMatch[1].replace('md5.enc.Utf8.parse("', '').padEnd(16, '0').substr(0, 16);
+    const encryptedData = html.match(/var\\s+[a-zA-Z0-9]+\\="([^"]+)/)[1];
+    const decrypted = md5.AES.decrypt(encryptedData, md5.enc.Utf8.parse(key), {
+      iv: md5.enc.Utf8.parse(iv),
+      mode: md5.mode.CBC,
+      padding: md5.pad.Pkcs7
+    }).toString(md5.enc.Utf8);
+    parsedUrl = decrypted.match(/"url":"([^"]+)"/)[1].replace(/\\\\/g, '');
+  }
+  // 处理基础加密类型（encrypt: 0/1/2）
+  if (!parsedUrl) {
+    const playerMatch = html.match(/var\\s+player_.+?=(\\{.*?});/);
+    if (playerMatch) {
+      const config = JSON.parse(playerMatch[1]);
+      let { url, encrypt } = config;
+      if (encrypt === '1') url = unescape(url);
+      else if (encrypt === '2') url = unescape(base64Decode(url));
+      parsedUrl = url;
+    }
+  }
+  // 判断链接类型
+  const isDirectUrl = /m3u8|mp4/.test(parsedUrl || input);
+  return { parse: isDirectUrl ? 0 : 1, url: parsedUrl || input };
+} catch (e) {
+  return { parse: 1, url: input };
+}`,  // 使用模板字符串优化多行字符串
   limit: 6,
-  图片来源:'@Referer=https://www.subaibaiys.com/@User-Agent=MOBILE_UA',
   推荐: '.bt_img;ul&&li;.lazy&&alt;.lazy&&data-original;.jidi&&span&&Text;.dytit&&a&&href',
   double: true,
   一级: '.bt_img&&ul&&li;img&&alt;img&&data-original;.qb&&Text;a&&href',
@@ -27,7 +56,7 @@ lazy: "js:\n  let html = request(input);\n  let hconf = html.match(/r player_.*?
     desc: '.moviedteail_list&&li:eq(1)&&a&&Text;.moviedteail_list&&li:eq(5)&&a&&title;.moviedteail_list&&li:eq(7)&&a&&title',
     content: '.yp_context&&Text',
     tabs: '.mi_paly_box .ypxingq_t',
-    lists: '.paly_list_btn:eq(#id) a',
+    lists: '.paly_list_btn:eq(0) a' // 修正选择器索引
   },
-  搜索: '.search_list&&ul&&li:eq(0);img&&alt;img&&data-original;.jidi&&Text;a&&href;.module-info-item-content&&Text',
-  }
+  搜索: '.search_list&&ul&&li:eq(0);img&&alt;img&&data-original;.jidi&&Text;a&&href;.module-info-item-content&&Text'
+}

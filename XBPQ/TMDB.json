@@ -1,0 +1,34 @@
+{
+"编码": "UTF-8",
+"请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+ //"首页url": "https://api.yzzy-api.com/inc/api_mac10.php",
+  "分类url": "https://wk.helioho.st/cz.php?t={cateId}&pg={catePg}&ext=e30=&ac=detail",
+  "分类": "国产剧&喜剧片&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧&短剧",
+  "分类值": "tv&7&8&10&12&9&6&25&16&14&15&28",
+"数组": "j:list.*",
+"图片": "j:vod_pic",
+"标题": "j:vod_name",
+"副标题": "j:vod_remarks",
+"链接": "j:vod_id",
+"链接前缀": "https://wk.helioho.st/cz.php?ac=detail&ids=",
+//"搜索url": "https://mxvod.com/api.php/provide/vod?wd={wd}&ac=detail",
+//"搜索模式": "0",
+//"搜索数组": "j:list.*",
+//"搜索图片": "j:vod_pic",
+//"搜索标题": "j:vod_name",
+//"搜索副标题": "j:vod_remarks",
+//"搜索链接": "j:vod_id",
+"搜索链接前缀": "https://mxvod.com/api.php/provide/vod/?ac=list&ac=detail&ids=",
+"详情二次截取": "j:list",
+"影片状态": "j:vod_remarks",
+"影片类型": "j:vod_class",
+"影片年代": "j:vod_year",
+"影片地区": "j:list.vod_area",
+"主演": "j:vod_actor",
+"简介": "j:vod_content",
+"线路标题": "vod_play_from\":\"&&\"",
+"播放数组": "\"vod_play_url\":\"&&\"",  // 按#分割所有播放项
+  "播放列表": "&&分割(#)",  // 提取所有序号（如01、02）
+  "播放标题": "&&分割($)[含序号:1]",  // 序号加"集"作为标题（如01集）
+  "播放链接": "&&分割($)[含序号:2]" // 提取所有播放链接
+}

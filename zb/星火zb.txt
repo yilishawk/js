@@ -1,0 +1,45 @@
+央视#genre#
+CCTV1 综合频道,video://https://www.kds.tw/tv/china-tv-channels-online/cctv-general-channel/
+CCTV2 财经频道,video://https://www.kds.tw/tv/china-tv-channels-online/cctv-economic-life-and-service-channel/
+CCTV3 综艺频道,video://https://www.kds.tw/tv/china-tv-channels-online/china-central-television-channel-3/
+CCTV4 中文国际频道,video://https://www.kds.tw/tv/china-tv-channels-online/cctv-4-chinese-international/
+CCTV6 电影频道（中国电影频道）,video://https://www.kds.tw/tv/china-tv-channels-online/china-movie-channel/
+CCTV7 国防军事频道,video://https://www.kds.tw/tv/china-tv-channels-online/china-central-television-defense-and-military-channel/
+CCTV8 电视剧频道,video://https://www.kds.tw/tv/china-tv-channels-online/cctv-8-drama/
+CCTV10 科教频道,video://https://www.kds.tw/tv/china-tv-channels-online/cctv-science-and-education-channel/
+CCTV11 戏曲频道,video://https://www.kds.tw/tv/china-tv-channels-online/cctv-11/
+CCTV13 新闻频道,video://https://www.kds.tw/tv/china-tv-channels-online/cctv13/
+CCTV14 少儿频道,video://https://www.kds.tw/tv/china-tv-channels-online/cctv-14-childrens-channel/
+CCTV15 音乐频道,video://https://www.kds.tw/tv/china-tv-channels-online/cctv-15-music/
+中国国际电视台（CGTN）,video://https://www.kds.tw/tv/china-tv-channels-online/cgtn/
+中国国际电视台纪录频道（CGTN Documentary）,video://https://www.kds.tw/tv/china-tv-channels-online/cgtn-documentary/
+卫视#genre#
+北京广播电视台（BRTV）,video://https://www.kds.tw/tv/china-tv-channels-online/brtv/
+东方卫视,video://https://www.kds.tw/tv/china-tv-channels-online/dragon-television/
+湖南卫视,video://https://www.kds.tw/tv/china-tv-channels-online/hunan-satellite-tv/
+浙江卫视,video://https://www.kds.tw/tv/china-tv-channels-online/zhejiang-satellite-tv/
+江苏卫视,video://https://www.kds.tw/tv/china-tv-channels-online/jiangsu-satellite-tv/
+四川卫视,video://https://www.kds.tw/tv/china-tv-channels-online/sichuan-satellite-tv/
+深圳卫视,video://https://www.kds.tw/tv/china-tv-channels-online/shenzhen-satellite-tv/
+福建卫视,video://https://www.kds.tw/tv/china-tv-channels-online/fujian-satellite-tv/
+广西卫视,video://https://www.kds.tw/tv/china-tv-channels-online/guangxi-satellite-tv/
+广东广播电视台南方卫视,video://https://www.kds.tw/tv/china-tv-channels-online/grt-southern-television/
+广东广播电视台卫星频道,video://https://www.kds.tw/tv/china-tv-channels-online/grt-satellite-channel/
+广东广播电视台珠江频道,video://https://www.kds.tw/tv/china-tv-channels-online/grt-pearl-river-channel/
+香港#genre#
+香港无线电视翡翠台,video://https://www.kds.tw/tv/china-tv-channels-online/hong-kong-tv-channels-online/tvb-jade/
+凤凰卫视,video://https://www.kds.tw/tv/china-tv-channels-online/hong-kong-tv-channels-online/phoenix-television/
+香港无线电视明珠台,video://https://www.kds.tw/tv/china-tv-channels-online/hong-kong-tv-channels-online/tvbpearl/
+香港 ViuTV,video://https://www.kds.tw/tv/china-tv-channels-online/hong-kong-tv-channels-online/viutv/
+香港无线电视新闻台,video://https://www.kds.tw/tv/china-tv-channels-online/hong-kong-tv-channels-online/inews/
+香港 Viu6 台,video://https://www.kds.tw/tv/china-tv-channels-online/hong-kong-tv-channels-online/viu6/
+香港无线电视 J2 台,video://https://www.kds.tw/tv/china-tv-channels-online/hong-kong-tv-channels-online/tvbplus/
+凤凰卫视香港台,video://https://www.kds.tw/tv/china-tv-channels-online/hong-kong-tv-channels-online/phoenix-hong-kong-channel/
+凤凰卫视资讯台,video://https://www.kds.tw/tv/china-tv-channels-online/hong-kong-tv-channels-online/phoenix-infonews-channel/
+凤凰卫视电影台,video://https://www.kds.tw/tv/china-tv-channels-online/hong-kong-tv-channels-online/phoenix-movies-channel/
+台湾#genre#
+台湾中天新闻台,video://https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/cti-news/
+台湾非凡商业新闻台,video://https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/unique-business-news/
+台湾台视新闻台,video://https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/ttv-news/
+台湾民视新闻台,video://https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/ftv-news/
+台湾寰宇新闻台,video://https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/global-news/

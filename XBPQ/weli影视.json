@@ -1,0 +1,97 @@
+{
+
+  "站名": "素白白影视",
+  "主页url": "https://www.welingo.com/",
+  "图片代理": "0",
+  "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7103.48 Safari/537.36",
+  "分类": "国产剧&电影&电视剧&综艺",
+  "分类值": "18&1&2&4",
+  "分类url": "https://www.welingo.com/type/{cateId}-{catePg}.html",
+  //"二次截取": "<div class=\"container\">&&<ul class=\"pagination\">",
+  "数组": "lazyload&&</a>",
+   "图片": "data-original=\"&&\"",
+"链接": "href=\"&&\"",
+"标题": "title=\"&&\"",
+  "副标题": "dfgdfgf4532328\">&&</span>",
+  "搜索模式": "1",
+  "搜索url": "/search/-------------.html?wd={wd}",
+  //"搜索二次截取": "list\":[&&]",
+   "搜索数组":"lazyload&&</a>",
+      "搜索图片":"data-original=\"&&\"",
+    "搜索标题":"title=\"&&\"",
+ "搜索副标题": "dfgdfgf4532328\">&&</span>",
+  "影片年代": "year\":\"&&\"",
+  "影片地区": "other\":\"&&\"",
+  "影片类型": "类型：&&</li>",
+  "导演": "director\":\"&&\"",
+  "主演": "actor\":\"&&\"",
+  "简介": "blurb\":\"&&\"",
+  //"线路数组": "<div class=\"astdui-padnnel_hd\">&&</div>",
+  //"线路标题": "png\"/>&&</h3>",
+ //"播放二次截取": "code\":200&&message\":\"OK\"",
+  "播放数组": "<ul class=\"dfs2_plsdfaylidst clearfix\">&&</ul>",
+  "播放列表": "<li&&</li>",
+  "播放标题": ">&&</a>",
+  "播放链接": "href=\"&&\"",
+   //"播放链接前缀": "https://film.symx.club/player?cid=1&film_id=+data\"*id\":&&,",
+  //"播放链接": "https://film.symx.club/api/line/play/parse?lineId=+id\":&&,",
+   //"跳转播放链接": "<iframe id=\"myIframe*src=\"&&\"",
+   //"二次跳转播放链接": "url*\"&&\"",
+  "嗅探词":"bytetos.com#.mp4?#.m3u8#.mp4#.flv#.mp3#.m4a",
+//"过滤词":"data.m3u8.in#51.la#cnzz.com#baidu.com#bilibili.com",
+"播放请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36",
+  "筛选": {
+    "2": [  // 电视剧ID2
+      {
+        "key": "cateId",
+        "name": "分类",
+        "value": [
+          {"n": "全部", "v": ""},
+          {"n": "国产剧", "v": "18"},
+          {"n": "韩国剧", "v": "19"},
+          {"n": "欧美剧", "v": "20"},
+          {"n": "台湾剧", "v": "21"},
+          {"n": "日本剧", "v": "22"},
+          {"n": "香港剧", "v": "23"},
+          {"n": "泰国剧", "v": "24"},
+          {"n": "海外剧", "v": "25"}
+        ]
+      }
+    ],
+    "1": [  // 电影ID1
+      {
+        "key": "cateId",
+        "name": "分类",
+        "value": [
+          {"n": "全部", "v": ""},
+          {"n": "动作片", "v": "6"},
+          {"n": "喜剧片", "v": "7"},
+          {"n": "爱情片", "v": "8"},
+          {"n": "科幻片", "v": "9"},
+          {"n": "剧情片", "v": "11"},
+          {"n": "恐怖片", "v": "10"},
+          {"n": "战争片", "v": "12"},
+          {"n": "悬疑片", "v": "13"},
+          {"n": "动画片", "v": "14"},
+          {"n": "犯罪片", "v": "15"},
+          {"n": "奇幻片", "v": "16"},
+          {"n": "邵氏电影", "v": "17"}
+        ]
+      }
+    ],
+    "4": [  // 综艺ID4
+      {
+        "key": "cateId",
+        "name": "分类",
+        "value": [
+          {"n": "全部", "v": ""},
+          {"n": "大陆综艺", "v": "30"},
+          {"n": "日韩综艺", "v": "31"},
+          {"n": "港台综艺", "v": "32"},
+          {"n": "欧美综艺", "v": "33"},
+          {"n": "演唱会", "v": "34"}
+        ]
+      }
+    ]
+  }
+}

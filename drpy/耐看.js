@@ -1,10 +1,10 @@
 var rule = {
 	title:'南柯电影网',
 	模板:'mxpro',
-	host:'https://nkvlog.com/',
+	host:'https://lkvod.me/',
     //host:'https://nkvlog.us/',
     //hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});HOST = jsp.pdfh(html,".enter-maomi&&a&&href");log(HOST);',
-	url:'/show/fyfilter.html',
+	url:'/show/fyclassfyfilter.html',
      searchUrl: '/rss/baidu.index.xml?wd=**',
 	filterable:1,//是否启用分类筛选,
 	filter_url:'{{fl.cateId}}-{{fl.area}}-{{fl.by or "time"}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
@@ -23,20 +23,49 @@ var rule = {
   class_name:'国产剧&电影&电视剧&综艺',
   tab_remove:'失效',
    class_url:'13&1&2&3',
-      推荐: 'body&&.module-items;a.module-poster-item.module-item;.module-poster-item-title&&Text;img&&data-original;.module-item-note&&Text;a&&href',
-       一级: '.module a.module-poster-item;.module-poster-item-title&&Text;img&&data-original;.module-item-note&&Text;a&&href',
+      推荐: 'body&&.fadeInUp;.public-list-box;.public-list-exp&&title;img&&data-src;.public-list-subtitle&&Text;a&&href',
+       一级: '.diy-center .public-list-box;.public-list-exp&&title;img&&data-src;.public-list-subtitle&&Text;a&&href',
       二级: {
-    title: '.module-info-heading h1&&Text;.module-info-tag-link:eq(2)&&a:eq(3)&&Text',
-    img: '.module.module-info&&.module-item-pic&&img&&data-original',
-    desc:  '.module-info-items .module-info-item:eq(6)&&Text;.module-info-item:eq(4)&&Text;.module-info-tag-link:eq(1)&&Text;.module-info-item:eq(1)&&Text;.module-info-item:eq(3)&&Text',
-    content: '.module-info-introduction-content.show-desc&&p&&Text',
-    tabs: '.module-tab-items-box.hisSwiper .module-tab-item span',
-    lists: '.module-play-list-content:eq(#id) a',
+    title: '.left.flex h3&&Text;.module-info-tag-link:eq(2)&&a:eq(3)&&Text',
+    img: '.fadeInLeft&&.detail-pic&&img&&data-src',
+    desc:  '.slide-info.hide:eq(1)&&Text;.slide-info.hide:eq(4)&&Text;.slide-info-remarks:eq(1)&&Text;.slide-info.hide:eq(3)&&Text;.slide-info.hide:eq(2)&&Text',
+    content: '#height_limit&&Text',
+    tabs: '.anthology-tab .swiper-wrapper a',
+    lists: '.anthology-list-play:eq(#id) li',
   },
-lazy: "js:\n  let html = request(input);\n  let hconf = html.match(/r player_.*?=(.*?)</)[1];\n  let json = JSON5.parse(hconf);\n  let url = json.url;\n  if (json.encrypt == '1') {\n    url = unescape(url);\n  } else if (json.encrypt == '2') {\n    url = unescape(base64Decode(url));\n  }\n  if (/\\.(mp4?|m3u8|mp4|m4a|mp3)/.test(url)) {\n    input = {\n      parse: 0,\n      jx: 0,\n      url: url,\n    };\n  } else {\n    input = url && url.startsWith('http') && tellIsJx(url) ? {parse:0,jx:1,url:url}:input;\n  }",
-	    sniffer:1,
-    // 辅助嗅探规则
-    isVideo:"http((?!http).){26,}\\.(media-ynkm-fy-home|sg.storage.bunnycdn.com|m3u8|mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3|wma)",
+lazy: $js.toString(() => {
+    // 1. 获取 player_aaa 参数
+    const url = `${rule.host}${input}`;
+    const html = request(url);
+    const script = pdfa(html, '.player-left script');
+    const scriptContent = script.filter((e) => e.includes("player_aaaa"))[0];
+    const scriptRegex = /var player_aaaa=({[^;]+})/;
+    const scriptMatch = scriptContent.match(scriptRegex);
+    if (!scriptMatch || !scriptMatch[1]) {
+      input = { url, parse: 1 }
+    };
+    const player_aaaa = JSON.parse(scriptMatch[1]);
+
+    // 2.获取播放器链接
+    const playerUrl = `https://op.xn--it-if7c19g5s4bps5c.com/pi.php?url=${player_aaaa.url}`;
+    const playerHtml = request(playerUrl);
+    const playerScript = pdfa(playerHtml, 'body script');
+    const playerScriptContent = playerScript.filter((e) => e.includes("config"))[0];
+    const playerScriptRegex = /var config = ({[^;]+})/;
+    const playerScriptMatch = playerScriptContent.match(playerScriptRegex);
+    if (!playerScriptMatch || !playerScriptMatch[1]) {
+      input = { url, parse: 1 }
+    };
+    const playerConfigStr = playerScriptMatch[1];
+    const playerConfigJson = new Function(`return ${playerConfigStr}`)();
+    const realUrl = playerConfigJson.url;
+
+    if (/m3u8|mp4|flv|mpd/.test(realUrl)) {
+      input = { url: realUrl, parse: 0 }
+    } else {
+      input = { url, parse: 1 }
+    }
+  }),
   		搜索:`js:
 		pdfh = jsp.pdfh, pdfa = jsp.pdfa, pd = jsp.pd;
 		let d = [];
