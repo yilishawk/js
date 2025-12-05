@@ -3,7 +3,7 @@ CCTV-1,video://http://tv.zimtv.cn/tv/player/api/tj-edu.php?id=cctv1
 CCTV-1,video://http://tv.zimtv.cn/tv/player/api/cctvlive.php?id=cctv1
 CCTV-2,video://http://tv.zimtv.cn/tv/player/api/cctv2.php?id=cctv2
 CCTV-2,video://http://tv.zimtv.cn/tv/player/api/cctvlive.php?id=cctv2
-CCTV-3,video://http://www.dsk.cc/p/hhlt.html?id=cctv3
+CCTV-3,video://https://www.kds.tw/tv/china-tv-channels-online/china-central-television-channel-3/
 CCTV-3,video://http://www.dsk.cc/p/jzdx.html?id=cctv3
 CCTV-4,video://http://tv.zimtv.cn/tv/player/api/cctvlive.php?id=cctv4
 CCTV-4,video://http://tv.zimtv.cn/tv/player/api/bdtv.php?id=cctv4

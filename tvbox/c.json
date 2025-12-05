@@ -1,16 +1,27 @@
 {
   "sites": [
                                                          {
-      "key": "csp_XBPQ_ppnix",
-      "name": "ppnix",
+      "key": "csp_XBPQ_荐片",
+      "name": "荐片",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitlab.com/mimang/tv/-/raw/main/小XB.jar",
-      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/ppnix.json"
+         "jar": "https://gitlab.com/mimang/tv/-/raw/main/小XB.jar",
+      "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/ayf.json"
     },
+{
+  "key": "kkvod",
+  "name": "凡客",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "changeable": 1,
+  "quickSearch": 1,
+  "jar": "https://gitlab.com/mimang/tv/-/raw/main/小XB.jar",
+"ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/凡客.json"
+},
                                                              {
       "key": "csp_XBPQ_麻雀",
       "name": "麻雀",
@@ -44,6 +55,7 @@
       "jar": "https://gitlab.com/mimang/tv/-/raw/main/fzg.jar",
       "ext": "https://bitbucket.org/yilishawk/js/raw/master/XBPQ/新4k.json"
     }, 
+      {"key":"csp_5","name":"凡采集","type":4,"api":"https://yilishawk.netlib.re/5ik.php","searchable":1,"quickSearch":1},
      {"key":"csp_4kv","name":"4kv采集","type":4,"api":"http://wkyilishao.temp.swtest.ru/4kj.php","searchable":1,"quickSearch":1},
     {"key":"csp_tm","name":"tm采集","type":4,"api":"https://wk.helioho.st/cz.php","searchable":1,"quickSearch":1},
                                                          {
@@ -78,9 +90,19 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     }
   ],
- "lives":[{"name":"yw","type":0,"url":"https://bitbucket.org/yilishawk/js/raw/master/zb/ywzb.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},{"name":"free","type":0,"url":"https://wk.helioho.st/zbfree.php","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},{"name":"feiyang.tptv","type":0,"url":"http://127.0.0.1:35455/tptv.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},{"name":"feiyang.bililive","type":0,"url":"http://127.0.0.1:35455/bililive.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},{"name":"feiyang.huyayqk","type":0,"url":"http://127.0.0.1:35455/huyayqk.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},{"name":"feiyang.douyuyqk","type":0,"url":"http://127.0.0.1:35455/douyuyqk.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},{"name":"feiyang.yylunbo","type":0,"url":"http://127.0.0.1:35455/yylunbo.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
-  "parses": [
-        {
+"lives":[{"name":"鹦鹉直播","type":1,"url":"https://bitbucket.org/yilishawk/js/raw/master/zb/ywzb.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},{"name":"咪咕直播","type":0,"url":"https://develop202.github.io/migu_video/interface.txt","playerType":2,"ua":"okhttp/3.15","header": {
+    "User-Agent": "Mozilla/5.0 (Linux; Android 15; 23054RA19C Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/141.0.7390.122 Mobile Safari/537.36"
+    },
+"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},{"name":"赛雷","type":1,"url":"https://saileitv.com/api/m3u/","playerType":2,"header": {
+    "User-Agent": "Mozilla/5.0 (Linux; Android 15; 23054RA19C Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/141.0.7390.122 Mobile Safari/537.36",
+    "Referer": "https://saileitv.com/",
+    "sec-ch-ua": "\"Android WebView\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+    "sec-ch-ua-mobile": "?1",
+    "Accept": "*/*",
+    "sec-ch-ua-platform": "\"Android\"",
+    "Accept-Encoding": "identity;q=1, *;q=0"
+    }},{"name":"组播直播","type":0,"url":"https://hk.gh-proxy.com/https://raw.githubusercontent.com/yilishawk/zubo/main/IPTV.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},{"name":"nettvzb","type":0,"url":"https://bitbucket.org/yilishawk/js/raw/master/zb/netv.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},{"name":"肥羊","type":0,"url":"https://live.ottiptv.cc/iptv.m3u?userid=1391464191&sign=abd694a511ca3824cf9789daf1f7bd2bd23d41377fc0b65f8b6cd2917518910afebc8d32489150700108ce5a64078b1af61459b9b565bde1cf2b23fd9914507fe8909c03444a3a&auth_token=d3da883771feee38fc0c464b14398fc7","ua":"okHttp/Mod-1.4.0.0","playerType":2,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},{"name":"星火","type":1,"url":"https://bitbucket.org/yilishawk/js/raw/master/zb/星火zb.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},{"name":"feiyang.douyuyqk","type":0,"url":"http://127.0.0.1:35455/douyuyqk.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},{"name":"feiyang.yylunbo","type":0,"url":"http://127.0.0.1:35455/yylunbo.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+"parses": [        {
 		"name": "Web聚合",
 		"type": 3,
 		"url": "Web"
@@ -390,7 +412,7 @@
    //"wallpaper": "https://api.likepoems.com/img/bing",
    "logo":"https://gh.llkk.cc/https://raw.githubusercontent.com/yilishawk/jar/main/.mmexport1716863558552.gif",
     //"spider": "https://bitbucket.org/yilishawk/js/raw/master/jar/Yoursmile20250824.jar"
-    "spider": "https://gitlab.com/mimang/tv/-/raw/main/Yoursmile2025919.jar"
+    "spider": "https://gitlab.com/mimang/tv/-/raw/main/小XB.jar"
    //"spider": "https://bitbucket.org/yilishawk/js/raw/master/jar/19.jar;md5;598cbceeea10e7a4ac1460de0437367d"
   //"spider": "https://drive.almondcloud.cn/f/w62jfY/19.jar;md5;598cbceeea10e7a4ac1460de0437367d"
   //"spider": "https://ghproxy.cn/https://raw.githubusercontent.com/yilishawk/js/master/jar/20241023.jar;md5;79C7BCB0B248D21174075BB924870D71"

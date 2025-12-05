@@ -1,8 +1,8 @@
 {
 	"作者": "凯",
 	"起始页": "0",
-	"请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Cookie$#Referer$https://www.ppnix.com/#Origin$https://www.ppnix.com/", 
-	 "播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Cookie$SITE_TOTAL_ID=0ec76349ed6a78a0d142d287c3eba414#Referer${{链接}}#Origin${{链接}}",
+	"请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36", 
+	 "播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Referer${{链接}}",
    "图片": "src=\"&&\"",
    "链接": "href=\"&&\"",
   "二次截取": "<div class=\"lists-content\">&&<div class=\"pagination pagination-multi\">",

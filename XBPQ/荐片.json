@@ -1,7 +1,7 @@
 {
 "编码": "UTF-8",
 //"请求头": "User-Agent$Mozilla/5.0 (Linux; Android 9; V2196A Build/PQ3A.190705.08211809; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36;webank/h5face;webank/1.0;netType:NETWORK_WIFI;appVersion:416;packageName:com.jp3.xg3#Referer$https://api.ztcgi.com/#accept-encoding$gzip#Connection$Keep-Alive",
-  "分类url": "https://api.ztcgi.com/api/crumb/list?fcate_pid={cateId}&category_id=&area=&year=&type={class}&sort=&page={catePg}",
+  "分类url": "https://api.ztcgi.com/api/crumb/list?fcate_pid={cateId}&category_id=&area=&year=&type={class}&sort=&page={catePg};;!",
   "分类": "国产剧&电视剧&电影&综艺&动漫",
   "分类值": "15&2&1&4&3",
   //"图片请求头": "User-Agent$Dalvik/2.1.0 (Linux; U; Android 15; 23054RA19C Build/AP3A.240905.015.A2)#Host$static.ztcuc.com",
@@ -27,7 +27,7 @@
 "搜索副标题": "j:mask",
 "搜索链接": "j:id",
 "搜索链接前缀": "https://api.ztcgi.com/api/video/detailv2?id=",
-"详情二次截取": "j:data",
+"详情二次截取": "j:data[不包含:金瓶#曹查理]",
 "影片状态": "j:vod_remarks",
 "影片类型": "j:category.title",
 "影片年代": "j:year",
@@ -40,7 +40,7 @@
 "线路标题": "\"name\"*\"&&\"[不包含:常规线路]",
 "播放数组": "source_list\"*[&&]",  // 按#分割所有播放项
   "播放列表": "{&&sort",  // 提取所有序号（如01、02）
-  "播放标题": "source_name\"*\"&&\"",
+  "播放标题": "source_name\"*\"&&\"",  // 序号加"集"作为标题（如01集）
   "播放链接": "url\"*\"&&\"", // 提取所有播放链接
   "弹幕": "{{木木}}&weight={{播放标题}}&sort=changed&page=1&pageSize=20",
   "筛选":{
