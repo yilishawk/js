@@ -8,8 +8,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://yilisha.netlib.re/jar/小XBPQ.jar",
-      "ext": "https://yilisha.netlib.re/XBPQ/新农民.json"
+      "jar": "https://yilishawk.de5.net/jar/小XBPQ.jar",
+      "ext": "https://yilishawk.de5.net/XBPQ/新农民.json"
     }, 
                                                          {
       "key": "csp_XBPQ_骚火影视",
@@ -19,8 +19,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://yilisha.netlib.re/jar/小XBPQ.jar",
-      "ext": "https://yilisha.netlib.re/XBPQ/新骚火.json"
+      "jar": "https://yilishawk.de5.net/jar/小XBPQ.jar",
+      "ext": "https://yilishawk.de5.net/XBPQ/新骚火.json"
     }, 
                                                              {
       "key": "csp_XBPQ_荐片",
@@ -30,8 +30,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://yilisha.netlib.re/jar/小XBPQ.jar",
-      "ext": "https://yilisha.netlib.re/XBPQ/荐片.json"
+      "jar": "https://yilishawk.de5.net/jar/小XBPQ.jar",
+      "ext": "https://yilishawk.de5.net/XBPQ/荐片.json"
     }, {
       "key": "csp_XBPQ_4K影视",
       "name": "4K影视",
@@ -40,7 +40,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yilisha.netlib.re/XBPQ/4kmv.json"
+      "ext": "https://yilishawk.de5.net/XBPQ/4kmv.json"
     },
      {
       "key": "csp_XBPQ_独播库",
@@ -50,7 +50,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yilisha.netlib.re/XBPQ/独播库.json"
+      "ext": "https://yilishawk.de5.net/XBPQ/独播库.json"
     },
                                              {
       "key": "csp_XBPQ_黑狐影视",
@@ -60,7 +60,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yilisha.netlib.re/XBPQ/黑狐影视.json"
+      "ext": "https://yilishawk.de5.net/XBPQ/黑狐影视.json"
     },
     {"key":"csp_Gz360","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
@@ -73,7 +73,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yilisha.netlib.re/XBPQ/两个BT.json"
+      "ext": "https://yilishawk.de5.net/XBPQ/两个BT.json"
     },
       {
       "key": "csp_XBPQ_子子影视",
@@ -83,7 +83,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yilisha.netlib.re/XBPQ/子子影视.json"
+      "ext": "https://yilishawk.de5.net/XBPQ/子子影视.json"
     },
                                                                        {
       "key": "csp_XBPQ_新厂长影视",
@@ -94,7 +94,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar":"./jar/jar/小XBPQPQ.jar",
-      "ext": "https://yilisha.netlib.re/XBPQ/新厂长.json"
+      "ext": "https://yilishawk.de5.net/XBPQ/新厂长.json"
     },
                                              {
       "key": "csp_XBPQ_全看影视",
@@ -104,7 +104,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yilisha.netlib.re/XBPQ/全看影视"
+      "ext": "https://yilishawk.de5.net/XBPQ/全看影视"
     },
     {"key":"ZXZJ","name":"🏠在线之家","api":"csp_Zxzj","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg402i7942463j9j9jgg449698khhh845ki38473"},
     {
@@ -115,7 +115,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yilisha.netlib.re/XBPQ/weli影视.json"
+      "ext": "https://yilishawk.de5.net/XBPQ/weli影视.json"
     },
 
                                                                        {
@@ -126,7 +126,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yilisha.netlib.re/XBPQ/冰逗直播.json"
+      "ext": "https://yilishawk.de5.net/XBPQ/冰逗直播.json"
     },
                                                                            {
       "key": "csp_XBPQ_永乐影视",
@@ -136,7 +136,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yilisha.netlib.re/XBPQ/永乐影视.json"
+      "ext": "https://yilishawk.de5.net/XBPQ/永乐影视.json"
     },
 
                                        {
@@ -147,7 +147,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yilisha.netlib.re/XBPQ/mxvod.json"
+      "ext": "https://yilishawk.de5.net/XBPQ/mxvod.json"
     },
 
                                          {
@@ -158,7 +158,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yilisha.netlib.re/XBPQ/耐看点播.json"
+      "ext": "https://yilishawk.de5.net/XBPQ/耐看点播.json"
     },
             {
       "key": "dr_百度影院",
@@ -180,7 +180,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yilisha.netlib.re/XBPQ/哔嘀影视.json"
+      "ext": "https://yilishawk.de5.net/XBPQ/哔嘀影视.json"
     },
     {
       "key": "csp_XBPQ_TVB云播",
@@ -190,7 +190,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yilisha.netlib.re/XBPQ/TVB云播.json"
+      "ext": "https://yilishawk.de5.net/XBPQ/TVB云播.json"
     },
     {
       "key": "csp_XBPQ_兄弟影视",
@@ -200,7 +200,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yilisha.netlib.re/XBPQ/兄弟影视.json"
+      "ext": "https://yilishawk.de5.net/XBPQ/兄弟影视.json"
     },
 
                                    {
@@ -212,7 +212,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar":"./jar/jar/小XBPQPQ.jar",
-      "ext": "https://yilisha.netlib.re/XBPQ/ckck.json"
+      "ext": "https://yilishawk.de5.net/XBPQ/ckck.json"
     },
                                                                {
       "key": "csp_XBPQ_素白影视",
@@ -222,7 +222,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yilisha.netlib.re/XBPQ/素白影视.json"
+      "ext": "https://yilishawk.de5.net/XBPQ/素白影视.json"
     },
   {
       "key": "dr__可可影视js",
@@ -244,7 +244,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yilisha.netlib.re/XBPQ/听书.json"
+      "ext": "https://yilishawk.de5.net/XBPQ/听书.json"
     },
         {
       "key": "csp_XBPQ_电影天堂",
@@ -254,7 +254,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yilisha.netlib.re/XBPQ/电影天堂磁力.json"
+      "ext": "https://yilishawk.de5.net/XBPQ/电影天堂磁力.json"
     },
     {
       "key": "push_agent",
@@ -267,7 +267,7 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     }
   ],
- "lives":[{"name":"鹦鹉直播","type":1,"url":"./zb/ywzb.txt","playerType":2,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},{"name":"smat","type":1,"url":"https://yilisha.netlib.re/tv.txt","playerType":2,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},{"name":"组播直播","type":0,"url":"https://hk.gh-proxy.com/https://raw.githubusercontent.com/yilishawk/zubo/main/IPTV.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},{"name":"nettvzb","type":0,"url":"./zb/netv.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},{"name":"肥羊","type":0,"url":"https://live.ottiptv.cc/iptv.m3u?userid=1391464191&sign=abd694a511ca3824cf9789daf1f7bd2bd23d41377fc0b65f8b6cd2917518910afebc8d32489150700108ce5a64078b1af61459b9b565bde1cf2b23fd9914507fe8909c03444a3a&auth_token=d3da883771feee38fc0c464b14398fc7","ua":"okHttp/Mod-1.4.0.0","playerType":2,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},{"name":"星火","type":0,"url":"./zb/星火zb.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},{"name":"feiyang.douyuyqk","type":0,"url":"http://127.0.0.1:35455/douyuyqk.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},{"name":"feiyang.yylunbo","type":0,"url":"http://127.0.0.1:35455/yylunbo.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+ "lives":[{"name":"鹦鹉直播","type":1,"url":"./zb/ywzb.txt","playerType":2,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},{"name":"smat","type":1,"url":"https://yilishawk.de5.net/tv.txt","playerType":2,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},{"name":"组播直播","type":0,"url":"https://hk.gh-proxy.com/https://raw.githubusercontent.com/yilishawk/zubo/main/IPTV.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},{"name":"nettvzb","type":0,"url":"./zb/netv.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},{"name":"肥羊","type":0,"url":"https://live.ottiptv.cc/iptv.m3u?userid=1391464191&sign=abd694a511ca3824cf9789daf1f7bd2bd23d41377fc0b65f8b6cd2917518910afebc8d32489150700108ce5a64078b1af61459b9b565bde1cf2b23fd9914507fe8909c03444a3a&auth_token=d3da883771feee38fc0c464b14398fc7","ua":"okHttp/Mod-1.4.0.0","playerType":2,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},{"name":"星火","type":0,"url":"./zb/星火zb.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},{"name":"feiyang.douyuyqk","type":0,"url":"http://127.0.0.1:35455/douyuyqk.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},{"name":"feiyang.yylunbo","type":0,"url":"http://127.0.0.1:35455/yylunbo.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "parses": [
         {
 		"name": "Web聚合",
@@ -579,7 +579,7 @@
    //"wallpaper": "https://api.likepoems.com/img/bing",
    "logo":"https://gh.llkk.cc/https://raw.githubusercontent.com/yilishawk/jar/main/.mmexport1716863558552.gif",
     //"spider": "./jar/Yoursmile20250824.jar"
-    "spider": "https://yilisha.netlib.re/jar/Yoursmile2025919.jar"
+    "spider": "https://yilishawk.de5.net/jar/Yoursmile2025919.jar"
    //"spider": "./jar/19.jar;md5;598cbceeea10e7a4ac1460de0437367d"
   //"spider": "https://drive.almondcloud.cn/f/w62jfY/19.jar;md5;598cbceeea10e7a4ac1460de0437367d"
   //"spider": "https://ghproxy.cn/https://raw.githubusercontent.com/yilishawk/js/master/jar/20241023.jar;md5;79C7BCB0B248D21174075BB924870D71"
