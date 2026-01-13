@@ -1,4 +1,3 @@
-# .github/workflows/update-tv.yml
 name: 更新直播源 tv.txt
 
 on:
@@ -6,7 +5,6 @@ on:
     - cron: '30 0 * * *'
   workflow_dispatch:
 
-# 关键：强制给 workflow 写权限
 permissions:
   contents: write
 
@@ -15,22 +13,29 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+          cache: 'pip'
 
-      - run: pip install requests
+      - name: 安装依赖
+        run: pip install requests
 
-      - name: 生成 tv.txt
+      - name: 生成并测速排序
         run: python tv.py
 
       - name: 提交并推送
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add tv.txt
-          git diff --staged --quiet || (
-            git commit -m "Auto update tv.txt $(date -u '+%Y-%m-%d %H:%M')" &&
-            git push
-          )
+          git add tvv.txt
+          if ! git diff --staged --quiet; then
+            git commit -m "Auto update tvv.txt $(date -u '+%Y-%m-%d %H:%M')"
+            git pull --rebase origin main
+            git push origin main
+          else
+            echo "No changes, skip push."
+          fi
