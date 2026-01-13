@@ -31,7 +31,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add tvv.txt
+          git add tv.txt
           if ! git diff --staged --quiet; then
             git commit -m "Auto update tv.txt $(date -u '+%Y-%m-%d %H:%M')"
             git pull --rebase origin main
