@@ -19,7 +19,6 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-          # 删除了 cache: 'pip'，因为你没有 requirements.txt
 
       - name: 安装依赖
         run: pip install requests
@@ -31,11 +30,16 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # 注意：这里添加的是 tvv.txt，请确保与 py 脚本输出文件名一致
           git add tv.txt
+          
           if ! git diff --staged --quiet; then
             git commit -m "Auto update tv.txt $(date -u '+%Y-%m-%d %H:%M')"
-            git pull --rebase origin main
-            git push origin main
+            
+            # 关键修改：将 origin main 改为 origin master
+            git pull --rebase origin master
+            git push origin master
           else
             echo "No changes, skip push."
           fi
