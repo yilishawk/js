@@ -8,7 +8,6 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 BLACKLIST = {"https://stream1.freetv.fun/tang-he-yi-tao-1.m3u8"}
 MAX_WORKERS = 50  
 TIMEOUT = 3       
-# 仅对以下分组进行深度测速
 SPEED_TEST_GROUPS = ["央视,#genre#", "卫视,#genre#", "香港,#genre#"]
 OUTPUT_FILE = "tv.txt"
 
@@ -30,36 +29,40 @@ class LiveStreamCrawler:
         if title.upper().startswith("CCTV"): title = title.replace("-", "").replace(" ", "")
         return title.strip()
 
+    def is_all_abc(self, title):
+        """判断是否为纯英文字母频道 (如 CNN, BBC, HBO)"""
+        # 移除空格和数字后，如果剩下的字符全是英文字母且不含汉字
+        clean_text = re.sub(r'[\s\d\-\_\.\(\)\[\]]', '', title)
+        # 如果剩下的是纯字母且没有汉字（汉字范围 \u4e00-\u9fa5）
+        if clean_text.isalpha() and not re.search(r'[\u4e00-\u9fa5]', title):
+            return True
+        return False
+
     def get_weight(self, title, group_name):
         t = title.upper()
         if "央视" in group_name:
             m = re.search(r'CCTV(\d+)', t)
             return int(m.group(1)) if m else 99
-        return 0
+        if "香港" in group_name:
+            if "凤凰" in t or "鳳凰" in t:
+                return 1
+            return 10
+        return 100
 
     def check_speed(self, item, group_name):
-        """深度测速：1.5秒内尝试下载1MB，计算真实流畅度"""
         try:
             start_time = time.time()
             with requests.get(item['url'], headers=HEADERS, timeout=TIMEOUT, stream=True) as r:
                 if r.status_code == 200:
-                    ttfb = time.time() - start_time # 首字节延迟
-                    
-                    # 动态下载测试
+                    ttfb = time.time() - start_time
                     downloaded = 0
                     test_start = time.time()
                     for chunk in r.iter_content(chunk_size=1024 * 64):
                         downloaded += len(chunk)
-                        # 下载够1MB或耗时超过1.5秒则停止
                         if downloaded >= 1024 * 1024 or (time.time() - test_start) > 1.5:
                             break
-                    
                     duration = time.time() - test_start
-                    # 速度 (MB/s)，加0.1防止除以0
                     speed = (downloaded / 1024 / 1024) / (duration + 0.001)
-                    
-                    # 评分公式：延迟占30%，速度倒数占70%
-                    # 结果越小，排名越靠前
                     score = ttfb * 0.3 + (1 / (speed + 0.1)) * 0.7
                     return {**item, "score": score, "weight": self.get_weight(item['title'], group_name)}
         except: pass
@@ -85,22 +88,31 @@ class LiveStreamCrawler:
                 if url in BLACKLIST: continue
                 parsed_data[current_group].append({"title": self.cleanTitle(title), "url": url})
 
-        # 重新分配组
+        # --- 组处理与过滤 ---
         self.finalGroups["央视,#genre#"] = [i for g in parsed_data.values() for i in g if i['title'].upper().startswith("CCTV")]
         self.finalGroups["卫视,#genre#"] = [i for i in parsed_data.get("中國大陸,#genre#", []) if "卫视" in i['title'] and not i['title'].upper().startswith("CCTV")]
-        self.finalGroups["香港,#genre#"] = parsed_data.get("香港,#genre#", [])
+        
+        # 香港组特殊过滤
+        hk_raw = parsed_data.get("香港,#genre#", [])
+        hk_filtered = []
+        for item in hk_raw:
+            # 1. 如果标题是纯字母ABC (如 BBC, CNN, CNBC)，剔除
+            if self.is_all_abc(item['title']):
+                continue
+            # 2. 如果标题包含手动指定的英文频道，剔除
+            if any(x in item['title'].upper() for x in ["NEWS", "WORLD", "CNA", "AL JAZEERA"]):
+                continue
+            hk_filtered.append(item)
+        self.finalGroups["香港,#genre#"] = hk_filtered
+
         self.finalGroups["台湾,#genre#"] = parsed_data.get("台灣,#genre#", [])
 
-        # 测速
+        # 并行测速
         for g_name in list(self.finalGroups.keys()):
             channels = self.finalGroups[g_name]
             if not channels: continue
-            
-            # 只有指定的组才进行深度测速，其余只进行简单存活检查
             with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
                 results = list(executor.map(lambda x: self.check_speed(x, g_name), channels))
-            
-            # 过滤掉失败的源，并按照 频道权重->测速评分 排序
             valid = sorted([r for r in results if r], key=lambda x: (x['weight'], x['score']))
             for v in valid: v.pop('score', None); v.pop('weight', None)
             self.finalGroups[g_name] = valid
