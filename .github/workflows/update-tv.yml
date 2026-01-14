@@ -2,8 +2,8 @@ name: 更新直播源 tv.txt
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 每天运行一次
-  workflow_dispatch:      # 允许手动触发
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -11,7 +11,7 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 10   # 防止脚本死循环卡住消耗额度
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
         with:
@@ -20,13 +20,13 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-          cache: 'pip'    # 【优化】开启缓存，节省安装依赖时间
+          cache: 'pip' # 现在有了 requirements.txt，这里不会再报错了
 
       - name: 安装依赖
-        run: pip install requests
+        run: pip install -r requirements.txt
 
       - name: 生成并测速排序
-        run: python tv.py # 【注意】请确保 Python 文件名为 tv.py
+        run: python tv.py
 
       - name: 提交并推送
         run: |
@@ -37,10 +37,10 @@ jobs:
           
           if ! git diff --staged --quiet; then
             git commit -m "Auto update tv.txt $(date -u '+%Y-%m-%d %H:%M')"
-            # 自动获取当前分支名并推送，这样 master 或 main 都能兼容
-            CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
-            git pull --rebase origin $CURRENT_BRANCH
-            git push origin $CURRENT_BRANCH
+            # 自动探测分支并推送
+            BRANCH=$(git rev-parse --abbrev-ref HEAD)
+            git pull --rebase origin $BRANCH
+            git push origin $BRANCH
           else
             echo "No changes, skip push."
           fi
