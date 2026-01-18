@@ -6,15 +6,18 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch: # 允许手动点击运行
 
+permissions:
+  contents: write
+
 jobs:
   build:
-    runs-with: ubuntu-latest
+    runs-on: ubuntu-latest # 修正这里：由 runs-with 改为 runs-on
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.9'
 
@@ -28,6 +31,8 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add live.m3u
-          git commit -m "Auto update: $(date +'%Y-%m-%d %H:%M:%S')" || exit 0
-          git push
+          if [ -f live.m3u ]; then
+            git add live.m3u
+            git commit -m "Auto update: $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes"
+            git push
+          fi
