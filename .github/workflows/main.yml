@@ -1,20 +1,22 @@
-name: Update IPTV List
+name: catiptv
 
 on:
   schedule:
-    # 每天北京时间上午 8 点运行 (UTC 0:00)
-    - cron: '0 0 * * *'
-  workflow_dispatch: # 允许手动点击运行
+    - cron: '0 */6 * * *' # 每 6 小时自动检查一次
+  workflow_dispatch:      # 允许手动触发
 
 permissions:
   contents: write
 
 jobs:
   build:
-    runs-on: ubuntu-latest # 修正这里：由 runs-with 改为 runs-on
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          # 取消浅克隆，确保 rebase 正常运行
+          fetch-depth: 0 
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -22,7 +24,7 @@ jobs:
           python-version: '3.9'
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install requests urllib3
 
       - name: Run script
         run: python main.py
@@ -31,8 +33,15 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          if [ -f live.m3u ]; then
+          
+          # 检查 live.m3u 是否有实质性修改
+          if [ -n "$(git status --porcelain live.m3u)" ]; then
             git add live.m3u
-            git commit -m "Auto update: $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes"
-            git push
+            git commit -m "Auto update: $(date +'%Y-%m-%d %H:%M:%S')"
+            
+            # 推送前拉取并变基，解决 [rejected] main -> main 错误
+            git pull --rebase origin main
+            git push origin main
+          else
+            echo "源文件未检测到变化，跳过推送。"
           fi
