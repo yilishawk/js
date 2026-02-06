@@ -40,8 +40,8 @@ jobs:
             git commit -m "Auto update: $(date +'%Y-%m-%d %H:%M:%S')"
             
             # 推送前拉取并变基，解决 [rejected] main -> main 错误
-            git pull --rebase origin main
-            git push origin main
+            git pull --rebase origin HEAD
+            git push origin HEAD
           else
             echo "源文件未检测到变化，跳过推送。"
           fi
