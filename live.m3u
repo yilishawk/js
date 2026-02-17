@@ -51,6 +51,8 @@ https://iptv.catvod.com/live.php?id=CCTV12&line=13
 https://iptv.catvod.com/live.php?id=CCTV12&line=14
 #EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="Cat 央视频道",🎁 CCTV12
 https://iptv.catvod.com/live.php?id=CCTV12&line=15
+#EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="Cat 央视频道",🎁 CCTV12
+https://iptv.catvod.com/live.php?id=CCTV12&line=16
 #EXTINF:-1 tvg-id="CCTV4K超高清" tvg-logo="https://logo.catvod.com/CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85.png" group-title="Cat 央视频道",🎁 CCTV4K超高清
 https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1
 #EXTINF:-1 tvg-id="CCTV4K超高清" tvg-logo="https://logo.catvod.com/CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85.png" group-title="Cat 央视频道",🎁 CCTV4K超高清
@@ -65,6 +67,14 @@ https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=5
 https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=6
 #EXTINF:-1 tvg-id="CCTV4K超高清" tvg-logo="https://logo.catvod.com/CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85.png" group-title="Cat 央视频道",🎁 CCTV4K超高清
 https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=7
+#EXTINF:-1 tvg-id="CCTV高尔夫网球" tvg-logo="https://logo.catvod.com/CCTV%E9%AB%98%E5%B0%94%E5%A4%AB%E7%BD%91%E7%90%83.png" group-title="Cat 央视频道",🎁 CCTV高尔夫网球
+https://iptv.catvod.com/live.php?id=CCTV%E9%AB%98%E5%B0%94%E5%A4%AB%E7%BD%91%E7%90%83&line=1
+#EXTINF:-1 tvg-id="CCTV高尔夫网球" tvg-logo="https://logo.catvod.com/CCTV%E9%AB%98%E5%B0%94%E5%A4%AB%E7%BD%91%E7%90%83.png" group-title="Cat 央视频道",🎁 CCTV高尔夫网球
+https://iptv.catvod.com/live.php?id=CCTV%E9%AB%98%E5%B0%94%E5%A4%AB%E7%BD%91%E7%90%83&line=2
+#EXTINF:-1 tvg-id="CCTV高尔夫网球" tvg-logo="https://logo.catvod.com/CCTV%E9%AB%98%E5%B0%94%E5%A4%AB%E7%BD%91%E7%90%83.png" group-title="Cat 央视频道",🎁 CCTV高尔夫网球
+https://iptv.catvod.com/live.php?id=CCTV%E9%AB%98%E5%B0%94%E5%A4%AB%E7%BD%91%E7%90%83&line=3
+#EXTINF:-1 tvg-id="CCTV高尔夫网球" tvg-logo="https://logo.catvod.com/CCTV%E9%AB%98%E5%B0%94%E5%A4%AB%E7%BD%91%E7%90%83.png" group-title="Cat 央视频道",🎁 CCTV高尔夫网球
+https://iptv.catvod.com/live.php?id=CCTV%E9%AB%98%E5%B0%94%E5%A4%AB%E7%BD%91%E7%90%83&line=4
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="" group-title="咪咕 卫视频道",湖南卫视
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="" group-title="咪咕 卫视频道",湖南卫视
@@ -151,6 +161,8 @@ https://iptv.catvod.com/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86&line=2
 https://iptv.catvod.com/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86&line=3
 #EXTINF:-1 tvg-id="广西卫视" tvg-logo="https://logo.catvod.com/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="Cat 卫视频道",🎁 广西卫视
 https://iptv.catvod.com/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86&line=4
+#EXTINF:-1 tvg-id="广西卫视" tvg-logo="https://logo.catvod.com/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="Cat 卫视频道",🎁 广西卫视
+https://iptv.catvod.com/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86&line=5
 #EXTINF:-1 tvg-id="腾冲综合" tvg-name="腾冲综合" tvg-logo="" group-title="咪咕 云南地区",腾冲综合
 http://live.ynurl.com/video/s10012-TCTV/index.m3u8
 #EXTINF:-1 tvg-id="砚山县电视台" tvg-name="砚山县电视台" tvg-logo="" group-title="咪咕 云南地区",砚山县电视台
