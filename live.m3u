@@ -57,8 +57,6 @@ https://iptv.catvod.com/live.php?id=CCTV2&line=17
 https://iptv.catvod.com/live.php?id=CCTV2&line=18
 #EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="Cat 央视频道",🎁 CCTV2
 https://iptv.catvod.com/live.php?id=CCTV2&line=19
-#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="Cat 央视频道",🎁 CCTV2
-https://iptv.catvod.com/live.php?id=CCTV2&line=20
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/988/610/202204010054_1626677922732_H32_1080.webp" group-title="Cat 央视频道",🎁 CCTV11
 https://iptv.catvod.com/live.php?id=CCTV11&line=1
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/988/610/202204010054_1626677922732_H32_1080.webp" group-title="Cat 央视频道",🎁 CCTV11
