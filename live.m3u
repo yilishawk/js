@@ -25,11 +25,11 @@ https://iptv.catvod.com/live.php?id=CCTV2&line=1
 https://iptv.catvod.com/live.php?id=CCTV2&line=2
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/346/945/202205311432_1626678578843_H32_1080.webp" group-title="Cat 央视频道",🎁 CCTV2
 https://iptv.catvod.com/live.php?id=CCTV2&line=3
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/346/945/202205311432_1626678578843_H32_1080.webp" group-title="Cat 央视频道",🎁 CCTV2
+#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="Cat 央视频道",🎁 CCTV2
 https://iptv.catvod.com/live.php?id=CCTV2&line=4
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/346/945/202205311432_1626678578843_H32_1080.webp" group-title="Cat 央视频道",🎁 CCTV2
+#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="Cat 央视频道",🎁 CCTV2
 https://iptv.catvod.com/live.php?id=CCTV2&line=5
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/346/945/202205311432_1626678578843_H32_1080.webp" group-title="Cat 央视频道",🎁 CCTV2
+#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="Cat 央视频道",🎁 CCTV2
 https://iptv.catvod.com/live.php?id=CCTV2&line=6
 #EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="Cat 央视频道",🎁 CCTV2
 https://iptv.catvod.com/live.php?id=CCTV2&line=7
@@ -47,27 +47,17 @@ https://iptv.catvod.com/live.php?id=CCTV2&line=12
 https://iptv.catvod.com/live.php?id=CCTV2&line=13
 #EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="Cat 央视频道",🎁 CCTV2
 https://iptv.catvod.com/live.php?id=CCTV2&line=14
-#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="Cat 央视频道",🎁 CCTV2
-https://iptv.catvod.com/live.php?id=CCTV2&line=15
-#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="Cat 央视频道",🎁 CCTV2
-https://iptv.catvod.com/live.php?id=CCTV2&line=16
-#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="Cat 央视频道",🎁 CCTV2
-https://iptv.catvod.com/live.php?id=CCTV2&line=17
-#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="Cat 央视频道",🎁 CCTV2
-https://iptv.catvod.com/live.php?id=CCTV2&line=18
-#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="Cat 央视频道",🎁 CCTV2
-https://iptv.catvod.com/live.php?id=CCTV2&line=19
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/988/610/202204010054_1626677922732_H32_1080.webp" group-title="Cat 央视频道",🎁 CCTV11
 https://iptv.catvod.com/live.php?id=CCTV11&line=1
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/988/610/202204010054_1626677922732_H32_1080.webp" group-title="Cat 央视频道",🎁 CCTV11
 https://iptv.catvod.com/live.php?id=CCTV11&line=2
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/988/610/202204010054_1626677922732_H32_1080.webp" group-title="Cat 央视频道",🎁 CCTV11
 https://iptv.catvod.com/live.php?id=CCTV11&line=3
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/988/610/202204010054_1626677922732_H32_1080.webp" group-title="Cat 央视频道",🎁 CCTV11
+#EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="Cat 央视频道",🎁 CCTV11
 https://iptv.catvod.com/live.php?id=CCTV11&line=4
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/988/610/202204010054_1626677922732_H32_1080.webp" group-title="Cat 央视频道",🎁 CCTV11
+#EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="Cat 央视频道",🎁 CCTV11
 https://iptv.catvod.com/live.php?id=CCTV11&line=5
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/988/610/202204010054_1626677922732_H32_1080.webp" group-title="Cat 央视频道",🎁 CCTV11
+#EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="Cat 央视频道",🎁 CCTV11
 https://iptv.catvod.com/live.php?id=CCTV11&line=6
 #EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="Cat 央视频道",🎁 CCTV11
 https://iptv.catvod.com/live.php?id=CCTV11&line=7
@@ -81,23 +71,17 @@ https://iptv.catvod.com/live.php?id=CCTV11&line=10
 https://iptv.catvod.com/live.php?id=CCTV11&line=11
 #EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="Cat 央视频道",🎁 CCTV11
 https://iptv.catvod.com/live.php?id=CCTV11&line=12
-#EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="Cat 央视频道",🎁 CCTV11
-https://iptv.catvod.com/live.php?id=CCTV11&line=13
-#EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="Cat 央视频道",🎁 CCTV11
-https://iptv.catvod.com/live.php?id=CCTV11&line=14
-#EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="Cat 央视频道",🎁 CCTV11
-https://iptv.catvod.com/live.php?id=CCTV11&line=15
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/627/202204010053_1626678108629_H32_1080.webp" group-title="Cat 央视频道",🎁 CCTV12
 https://iptv.catvod.com/live.php?id=CCTV12&line=1
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/627/202204010053_1626678108629_H32_1080.webp" group-title="Cat 央视频道",🎁 CCTV12
 https://iptv.catvod.com/live.php?id=CCTV12&line=2
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/627/202204010053_1626678108629_H32_1080.webp" group-title="Cat 央视频道",🎁 CCTV12
 https://iptv.catvod.com/live.php?id=CCTV12&line=3
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/627/202204010053_1626678108629_H32_1080.webp" group-title="Cat 央视频道",🎁 CCTV12
+#EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="Cat 央视频道",🎁 CCTV12
 https://iptv.catvod.com/live.php?id=CCTV12&line=4
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/627/202204010053_1626678108629_H32_1080.webp" group-title="Cat 央视频道",🎁 CCTV12
+#EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="Cat 央视频道",🎁 CCTV12
 https://iptv.catvod.com/live.php?id=CCTV12&line=5
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/627/202204010053_1626678108629_H32_1080.webp" group-title="Cat 央视频道",🎁 CCTV12
+#EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="Cat 央视频道",🎁 CCTV12
 https://iptv.catvod.com/live.php?id=CCTV12&line=6
 #EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="Cat 央视频道",🎁 CCTV12
 https://iptv.catvod.com/live.php?id=CCTV12&line=7
@@ -111,12 +95,6 @@ https://iptv.catvod.com/live.php?id=CCTV12&line=10
 https://iptv.catvod.com/live.php?id=CCTV12&line=11
 #EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="Cat 央视频道",🎁 CCTV12
 https://iptv.catvod.com/live.php?id=CCTV12&line=12
-#EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="Cat 央视频道",🎁 CCTV12
-https://iptv.catvod.com/live.php?id=CCTV12&line=13
-#EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="Cat 央视频道",🎁 CCTV12
-https://iptv.catvod.com/live.php?id=CCTV12&line=14
-#EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="Cat 央视频道",🎁 CCTV12
-https://iptv.catvod.com/live.php?id=CCTV12&line=15
 #EXTINF:-1 tvg-id="CCTV风云剧场" tvg-logo="https://logo.catvod.com/CCTV%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA.png" group-title="Cat 央视频道",🎁 CCTV风云剧场
 https://iptv.catvod.com/live.php?id=CCTV%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA&line=1
 #EXTINF:-1 tvg-id="CCTV风云剧场" tvg-logo="https://logo.catvod.com/CCTV%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA.png" group-title="Cat 央视频道",🎁 CCTV风云剧场
@@ -193,50 +171,32 @@ https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=1
 https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=2
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/163/202501231715_1658138615859_H32_1080.webp" group-title="Cat 卫视频道",🎁 湖北卫视
 https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=3
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/163/202501231715_1658138615859_H32_1080.webp" group-title="Cat 卫视频道",🎁 湖北卫视
+#EXTINF:-1 tvg-id="湖北卫视" tvg-logo="https://logo.catvod.com/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="Cat 卫视频道",🎁 湖北卫视
 https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=4
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/163/202501231715_1658138615859_H32_1080.webp" group-title="Cat 卫视频道",🎁 湖北卫视
+#EXTINF:-1 tvg-id="湖北卫视" tvg-logo="https://logo.catvod.com/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="Cat 卫视频道",🎁 湖北卫视
 https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=5
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/163/202501231715_1658138615859_H32_1080.webp" group-title="Cat 卫视频道",🎁 湖北卫视
+#EXTINF:-1 tvg-id="湖北卫视" tvg-logo="https://logo.catvod.com/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="Cat 卫视频道",🎁 湖北卫视
 https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=6
-#EXTINF:-1 tvg-id="湖北卫视" tvg-logo="https://logo.catvod.com/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="Cat 卫视频道",🎁 湖北卫视
-https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=7
-#EXTINF:-1 tvg-id="湖北卫视" tvg-logo="https://logo.catvod.com/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="Cat 卫视频道",🎁 湖北卫视
-https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=8
-#EXTINF:-1 tvg-id="湖北卫视" tvg-logo="https://logo.catvod.com/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="Cat 卫视频道",🎁 湖北卫视
-https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=9
-#EXTINF:-1 tvg-id="湖北卫视" tvg-logo="https://logo.catvod.com/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="Cat 卫视频道",🎁 湖北卫视
-https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&line=10
 #EXTINF:-1 tvg-id="中国农林卫视" tvg-name="中国农林卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/186/202508051621_1754370274934_H32_1080.webp" group-title="Cat 卫视频道",🎁 中国农林卫视
 https://iptv.catvod.com/live.php?id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&line=1
 #EXTINF:-1 tvg-id="中国农林卫视" tvg-name="中国农林卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/186/202508051621_1754370274934_H32_1080.webp" group-title="Cat 卫视频道",🎁 中国农林卫视
 https://iptv.catvod.com/live.php?id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&line=2
 #EXTINF:-1 tvg-id="中国农林卫视" tvg-name="中国农林卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/186/202508051621_1754370274934_H32_1080.webp" group-title="Cat 卫视频道",🎁 中国农林卫视
 https://iptv.catvod.com/live.php?id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&line=3
-#EXTINF:-1 tvg-id="中国农林卫视" tvg-name="中国农林卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/186/202508051621_1754370274934_H32_1080.webp" group-title="Cat 卫视频道",🎁 中国农林卫视
-https://iptv.catvod.com/live.php?id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&line=4
-#EXTINF:-1 tvg-id="中国农林卫视" tvg-name="中国农林卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/186/202508051621_1754370274934_H32_1080.webp" group-title="Cat 卫视频道",🎁 中国农林卫视
-https://iptv.catvod.com/live.php?id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&line=5
-#EXTINF:-1 tvg-id="中国农林卫视" tvg-name="中国农林卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/186/202508051621_1754370274934_H32_1080.webp" group-title="Cat 卫视频道",🎁 中国农林卫视
-https://iptv.catvod.com/live.php?id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&line=6
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/262/202510241641_1658131953051_H32_1080.webp" group-title="Cat 卫视频道",🎁 宁夏卫视
 https://iptv.catvod.com/live.php?id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&line=1
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/262/202510241641_1658131953051_H32_1080.webp" group-title="Cat 卫视频道",🎁 宁夏卫视
 https://iptv.catvod.com/live.php?id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&line=2
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/262/202510241641_1658131953051_H32_1080.webp" group-title="Cat 卫视频道",🎁 宁夏卫视
 https://iptv.catvod.com/live.php?id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&line=3
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/262/202510241641_1658131953051_H32_1080.webp" group-title="Cat 卫视频道",🎁 宁夏卫视
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-logo="https://logo.catvod.com/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png" group-title="Cat 卫视频道",🎁 宁夏卫视
 https://iptv.catvod.com/live.php?id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&line=4
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/262/202510241641_1658131953051_H32_1080.webp" group-title="Cat 卫视频道",🎁 宁夏卫视
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-logo="https://logo.catvod.com/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png" group-title="Cat 卫视频道",🎁 宁夏卫视
 https://iptv.catvod.com/live.php?id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&line=5
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/262/202510241641_1658131953051_H32_1080.webp" group-title="Cat 卫视频道",🎁 宁夏卫视
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-logo="https://logo.catvod.com/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png" group-title="Cat 卫视频道",🎁 宁夏卫视
 https://iptv.catvod.com/live.php?id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&line=6
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-logo="https://logo.catvod.com/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png" group-title="Cat 卫视频道",🎁 宁夏卫视
 https://iptv.catvod.com/live.php?id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&line=7
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-logo="https://logo.catvod.com/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png" group-title="Cat 卫视频道",🎁 宁夏卫视
-https://iptv.catvod.com/live.php?id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&line=8
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-logo="https://logo.catvod.com/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png" group-title="Cat 卫视频道",🎁 宁夏卫视
-https://iptv.catvod.com/live.php?id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&line=9
 #EXTINF:-1 tvg-id="湖南卫视" tvg-logo="https://logo.catvod.com/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="Cat 卫视频道",🎁 湖南卫视
 https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=1
 #EXTINF:-1 tvg-id="湖南卫视" tvg-logo="https://logo.catvod.com/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="Cat 卫视频道",🎁 湖南卫视
@@ -249,6 +209,8 @@ https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=4
 https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=5
 #EXTINF:-1 tvg-id="湖南卫视" tvg-logo="https://logo.catvod.com/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="Cat 卫视频道",🎁 湖南卫视
 https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=6
+#EXTINF:-1 tvg-id="湖南卫视" tvg-logo="https://logo.catvod.com/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="Cat 卫视频道",🎁 湖南卫视
+https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=7
 #EXTINF:-1 tvg-id="腾冲综合" tvg-name="腾冲综合" tvg-logo="" group-title="咪咕 云南地区",腾冲综合
 http://live.ynurl.com/video/s10012-TCTV/index.m3u8
 #EXTINF:-1 tvg-id="砚山县电视台" tvg-name="砚山县电视台" tvg-logo="" group-title="咪咕 云南地区",砚山县电视台
