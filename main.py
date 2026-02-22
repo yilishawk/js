@@ -8,10 +8,7 @@ SOURCE_M3U_URL = 'https://raw.githubusercontent.com/jn950/live/main/tv/holive.m3
 UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
 
 def get_m3u_content(url):
-    headers = {
-        'User-Agent': UA,
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-    }
+    headers = {'User-Agent': UA, 'Accept': '*/*'}
     try:
         r = requests.get(url, headers=headers, timeout=15, verify=False)
         r.encoding = 'utf-8'
@@ -28,7 +25,7 @@ def parse_and_filter(content):
         return {}
     
     groups = {}
-    seen = set()  # 去重：(target_group, name)
+    seen = set()  # (target_group, name) 去重
     
     pattern = re.compile(
         r'(#EXTINF:[^\n]+?)(?:,|\s+)([^\n]*?)\n+(https?://[^\s\n]+)',
@@ -40,29 +37,27 @@ def parse_and_filter(content):
     
     for inf, name, url in matches:
         name = name.strip()
-        if not name:
+        if not name or len(name) < 2:
             continue
         
-        # 過濾廣告/無效
         lower_text = (inf + name).lower()
-        if any(kw in lower_text for kw in ['測試', '失效', '公告', '分享', '提示', '微信']):
+        if any(kw in lower_text for kw in ['測試', '失效', '公告', '分享', '提示', '微信', '2026-']):
             continue
         
-        # 提取原始 group-title
         group_match = re.search(r'group-title="([^"]*)"', inf, re.IGNORECASE)
         if not group_match:
             continue
         original_group = group_match.group(1).strip()
         
-        # 只保留指定的分組
+        # 只保留這三個分組
         if original_group not in ["央视", "卫视", "地方"]:
             continue
         
-        # 地方 只留陝西開頭
+        # 地方 只留陝西開頭的
         if original_group == "地方" and not name.startswith("陝西"):
             continue
         
-        # 決定新分組
+        # 決定新分組名稱
         if original_group == "央视":
             target_group = "咪咕 • 央視頻道"
         elif original_group == "卫视":
@@ -78,7 +73,7 @@ def parse_and_filter(content):
             continue
         seen.add(key)
         
-        # 替換 group-title，保留其他屬性
+        # 替換 group-title
         new_inf = re.sub(
             r'group-title="[^"]*"',
             f'group-title="{target_group}"',
@@ -86,12 +81,13 @@ def parse_and_filter(content):
             flags=re.IGNORECASE
         )
         
-        # 如果替換後仍無（極少見），補上
+        # 如果沒 group-title（極少見），補上
         if 'group-title="' not in new_inf:
             new_inf = re.sub(
                 r'(#EXTINF:[^,]+)',
                 r'\1 group-title="' + target_group + '"',
-                new_inf
+                new_inf,
+                count=1
             )
         
         entry = f"{new_inf},{name}\n{url}"
@@ -108,7 +104,7 @@ def main():
     
     groups = parse_and_filter(content)
     if not groups:
-        print("無符合條件的頻道")
+        print("無符合條件的頻道（請確認源是否有 '央视' '卫视' '地方' 分組）")
         return
     
     priority = [
@@ -127,17 +123,17 @@ def main():
             added_count += len(groups[p])
             del groups[p]
     
-    # 剩餘分組（應該沒有）
-    for g in sorted(groups):
+    # 剩餘（正常情況不會有）
+    for g in sorted(groups.keys()):
         final_lines.extend(groups[g])
         final_lines.append("\n")
         added_count += len(groups[g])
     
-    output_file = "jn950_selected.m3u"
+    output_file = "jn950_only_cctv_ws_shanxi.m3u"
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write("".join(final_lines))
     
-    print(f"生成 {output_file} 完成，共 {added_count} 個頻道（央視組 + 衛視組 + 陝西地方）")
+    print(f"生成 {output_file} 完成，共 {added_count} 個頻道（已去重）")
 
 if __name__ == "__main__":
     main()
