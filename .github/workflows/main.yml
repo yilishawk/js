@@ -6,7 +6,7 @@ on:
   workflow_dispatch:      # 允许手动触发
 
 permissions:
-  contents: write
+  contents: write         # 授权写入仓库内容（提交文件用）
 
 jobs:
   build:
@@ -15,33 +15,34 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          # 取消浅克隆，确保 rebase 正常运行
-          fetch-depth: 0 
+          fetch-depth: 0  # 取消浅克隆，确保 rebase 正常运行
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.9'
+          cache: 'pip'    # 缓存 pip 依赖，加速安装（关键优化）
 
       - name: Install dependencies
-        run: pip install requests urllib3
+        run: pip install --upgrade pip && pip install requests urllib3
 
       - name: Run script
         run: python main.py
+        continue-on-error: false  # 脚本运行失败则终止工作流，避免无效提交
 
       - name: Commit and Push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # 检查 live.m3u 是否有实质性修改
-          if [ -n "$(git status --porcelain live.m3u)" ]; then
+          # 检查 live.m3u 是否有实质性修改（空文件/无变化则跳过）
+          if [ -f "live.m3u" ] && [ -n "$(git status --porcelain live.m3u)" ]; then
             git add live.m3u
             git commit -m "Auto update: $(date +'%Y-%m-%d %H:%M:%S')"
             
-            # 推送前拉取并变基，解决 [rejected] main -> main 错误
-            git pull --rebase origin HEAD
-            git push origin HEAD
+            # 修复：指定分支名 main，避免 HEAD 指向问题
+            git pull --rebase origin main
+            git push origin main
           else
-            echo "源文件未检测到变化，跳过推送。"
+            echo "live.m3u 未生成或无变化，跳过推送。"
           fi
