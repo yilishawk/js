@@ -1,0 +1,35 @@
+name: YEHUOLIVE
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'          # 每15分钟检查一次（可改成 */30 或 0 */6 * * * 每6小时）
+  workflow_dispatch:                # 支持手动触发
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0            # 允许 commit 历史
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Run check script
+        run: python check_sources.py
+
+      - name: Commit & push changes if any
+        run: |
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "action@github.com"
+          git add cache.json live_sources.m3u
+          git diff --staged --quiet || git commit -m "Auto update: live sources changed"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
