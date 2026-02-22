@@ -1,131 +1,134 @@
 import requests
 import re
-import json
 import urllib3
-import subprocess
-import os
 
-# 屏蔽安全警告
+# 屏蔽安全警告（如果有https驗證問題）
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-# --- 配置区 ---
-BC_CONFIG_URL = 'https://bc.188766.xyz/?ip=&haiwai=true'
+# 配置
 MIGU_M3U_URL = 'https://raw.githubusercontent.com/develop202/migu_video/main/interface.txt'
-# 填入你测试成功的 PHP 跳板地址
-CATVOD_URL = 'https://kwyili.dpdns.org/catvod.php' 
+UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
 
-BC_UA = 'bingcha/1.1 (mianfeifenxiang)'
-BROWSER_UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-
-def get_content_advanced(url, ua=BROWSER_UA):
+def get_m3u_content(url):
     headers = {
-        'User-Agent': ua,
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
-        'Referer': 'https://live.catvod.com/',
-        'Connection': 'keep-alive'
+        'User-Agent': UA,
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
     }
     try:
-        r = requests.get(url, headers=headers, timeout=20, verify=False)
+        r = requests.get(url, headers=headers, timeout=15, verify=False)
         r.encoding = 'utf-8'
-        if r.status_code == 200 and "#EXTM3U" in r.text:
+        if r.status_code == 200 and "#EXTM3U" in r.text.upper():
             return r.text
-    except Exception:
-        pass
+        print(f"狀態碼: {r.status_code}，內容不包含 #EXTM3U")
+        return None
+    except Exception as e:
+        print(f"請求失敗: {e}")
+        return None
 
-    try:
-        result = subprocess.run(
-            ['curl', '-k', '-L', '-H', f'User-Agent: {ua}', url],
-            capture_output=True, text=True, timeout=30
-        )
-        if result.returncode == 0 and "#EXTM3U" in result.stdout:
-            return result.stdout
-    except:
-        pass
-    return None
 
-def parse_m3u(content, prefix, include_filter=None, rename_map=None):
-    if not content: return {}
+def parse_and_classify_migu(content):
+    if not content:
+        return {}
+
     groups = {}
     
-    # 正则匹配 #EXTINF 行（含名称）和 URL 行
-    pattern = re.compile(r'(#EXTINF:[^\n]+),\s*([^\n]+)\n+(http[^\s\n]+)', re.MULTILINE)
+    # 匹配 #EXTINF 行 和 下一行的 url
+    pattern = re.compile(
+        r'(#EXTINF:[^\n]+),\s*([^\n]*?)\n+(https?://[^\s\n]+)',
+        re.IGNORECASE | re.MULTILINE
+    )
+    
     matches = pattern.findall(content)
+    print(f"找到 {len(matches)} 個頻道")
 
     for inf, name, url in matches:
-        if any(x in inf for x in ['公告', '分享', '提示', '微信', '扫码']):
+        name = name.strip()
+        if not name:
             continue
-
-        # 提取 group-title
-        group_match = re.search(r'group-title="([^"]*)"', inf)
-        original_group = group_match.group(1) if group_match else "其他"
-
-        # --- 基于关键词的精准分类逻辑 ---
-        if "卫视" in name:
-            target_group = "卫视频道"
-        elif any(x in name for x in ["凤凰", "鳳凰", "香港", "翡翠"]):
-            target_group = "香港"
-        elif "CCTV" in name.upper():
-            target_group = "央视频道"
+            
+        # 跳過廣告/公告類
+        if any(x in inf.lower() for x in ['公告', '分享', '提示', '微信', '掃碼', '失效', '测试']):
+            continue
+            
+        # 提取原始 group-title
+        group_match = re.search(r'group-title="([^"]*)"', inf, re.IGNORECASE)
+        original_group = group_match.group(1).strip() if group_match else "未分類"
+        
+        # 簡單分類（可自行增減規則）
+        if "CCTV" in name.upper() or "央視" in name:
+            target_group = "央視頻道"
+        elif "衛視" in name or "衛星" in name:
+            target_group = "衛視頻道"
+        elif any(x in name for x in ["鳳凰", "凤凰", "翡翠", "TVB", "香港"]):
+            target_group = "港澳頻道"
+        elif any(x in name for x in ["民視", "中視", "台視", "三立", "東森", "中天", "SET"]):
+            target_group = "台灣頻道"
         else:
-            target_group = rename_map.get(original_group, original_group) if rename_map else original_group
-
-        # 过滤器
-        if include_filter:
-            if not any(f in target_group for f in ["央视", "卫视", "香港", "台湾"]):
-                if not any(f in original_group for f in include_filter):
-                    continue
-
-        final_group_name = f"{prefix} {target_group}"
-        new_inf = re.sub(r'group-title="[^"]*"', f'group-title="{final_group_name}"', inf)
-        groups.setdefault(final_group_name, []).append(f"{new_inf},{name}\n{url}")
+            target_group = original_group
+            
+        group_name = f"咪咕 • {target_group}"
+        
+        # 替換 group-title
+        new_inf = re.sub(
+            r'group-title="[^"]*"',
+            f'group-title="{group_name}"',
+            inf,
+            flags=re.IGNORECASE
+        )
+        
+        # 如果 inf 裡本來沒有 group-title，就補上
+        if 'group-title=' not in new_inf:
+            new_inf = new_inf.replace("#EXTINF:", '#EXTINF:-1 group-title="' + group_name + '",')
+        
+        entry = f"{new_inf},{name}\n{url}"
+        groups.setdefault(group_name, []).append(entry)
     
     return groups
 
+
 def main():
-    # 1. 冰茶
-    bc_raw = get_content_advanced(BC_CONFIG_URL, BC_UA)
-    bc_groups = {}
-    if bc_raw:
-        try:
-            bc_url = json.loads(bc_raw).get('lives', [{}])[0].get('url')
-            if bc_url:
-                bc_groups = parse_m3u(get_content_advanced(bc_url, BC_UA), "冰茶", rename_map={"粤语频道": "香港台"})
-        except: pass
-
-    # 2. 咪咕
-    migu_groups = parse_m3u(get_content_advanced(MIGU_M3U_URL), "咪咕")
-
-    # 3. CatVod (通过 PHP)
-    cat_raw = get_content_advanced(CATVOD_URL)
-    catvod_groups = {}
-    if cat_raw:
-        catvod_groups = parse_m3u(cat_raw, "Cat", include_filter=["中国", "香港", "台湾"], rename_map={"中国": "央视频道"})
-
-    # 4. 合并
-    all_groups = {**bc_groups, **migu_groups, **catvod_groups}
-    if not all_groups: return
-
-    # 排序优先级
-    priority = [
-        '冰茶 央视频道', '咪咕 央视频道', 'Cat 央视频道', 
-        '冰茶 卫视频道', '咪咕 卫视频道', 'Cat 卫视频道',
-        'Cat 香港', '冰茶 香港台', 'Cat 台湾'
-    ]
-
-    final_output = ["#EXTM3U x-tvg-url=\"https://static.188766.xyz/e.xml\"\n"]
+    print("正在抓取咪咕源...")
+    content = get_m3u_content(MIGU_M3U_URL)
     
+    if not content:
+        print("獲取失敗或內容無效")
+        return
+    
+    groups = parse_and_classify_migu(content)
+    
+    if not groups:
+        print("沒有解析到任何有效頻道")
+        return
+    
+    # 輸出排序（可自訂優先順序）
+    priority = [
+        "咪咕 • 央視頻道",
+        "咪咕 • 衛視頻道",
+        "咪咕 • 港澳頻道",
+        "咪咕 • 台灣頻道",
+    ]
+    
+    final_lines = ["#EXTM3U x-tvg-url=\"https://static.188766.xyz/e.xml\"\n"]
+    
+    # 優先頻道
     for p in priority:
-        if p in all_groups:
-            for item in all_groups[p]:
-                final_output.append(item + "\n")
-            del all_groups[p]
+        if p in groups:
+            final_lines.extend(groups[p])
+            final_lines.append("\n")
+            del groups[p]
+    
+    # 其他剩餘分類（按名稱排序）
+    for group in sorted(groups.keys()):
+        final_lines.extend(groups[group])
+        final_lines.append("\n")
+    
+    # 寫入檔案
+    output_file = "migu_live.m3u"
+    with open(output_file, 'w', encoding='utf-8') as f:
+        f.write("".join(final_lines))
+    
+    print(f"已生成 {output_file}，共 {len(groups)} 個分類")
 
-    for g in sorted(all_groups.keys()):
-        for item in all_groups[g]:
-            final_output.append(item + "\n")
-
-    with open('live.m3u', 'w', encoding='utf-8') as f:
-        f.write("".join(final_output))
 
 if __name__ == "__main__":
     main()
