@@ -2,11 +2,11 @@ name: 咪咕
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # 每 6 小时自动检查一次
-  workflow_dispatch:      # 允许手动触发
+    - cron: '0 */6 * * *' 
+  workflow_dispatch:      
 
 permissions:
-  contents: write         # 授权写入仓库内容（提交文件用）
+  contents: write         
 
 jobs:
   build:
@@ -15,34 +15,35 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # 取消浅克隆，确保 rebase 正常运行
+          fetch-depth: 0  
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.9'
-          cache: 'pip'    # 缓存 pip 依赖，加速安装（关键优化）
+          # 如果你没有 requirements.txt，可以暂时注释掉下面这行，否则会报错
+          # cache: 'pip'    
 
       - name: Install dependencies
-        run: pip install --upgrade pip && pip install requests urllib3
+        run: pip install requests
 
       - name: Run script
         run: python main.py
-        continue-on-error: false  # 脚本运行失败则终止工作流，避免无效提交
 
       - name: Commit and Push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # 检查 live.m3u 是否有实质性修改（空文件/无变化则跳过）
-          if [ -f "live.m3u" ] && [ -n "$(git status --porcelain live.m3u)" ]; then
-            git add live.m3u
-            git commit -m "Auto update: $(date +'%Y-%m-%d %H:%M:%S')"
-            
-            # 修复：指定分支名 main，避免 HEAD 指向问题
-            git pull --rebase origin main
-            git push origin main
+          # 确保 git add 的文件名与 Python 脚本生成的一致
+          # 假设脚本生成的是 live.m3u
+          git add live.m3u || echo "No file to add"
+          
+          # 检查是否有内容变更
+          if git diff --staged --quiet; then
+            echo "内容未发生变化，跳过提交。"
           else
-            echo "live.m3u 未生成或无变化，跳过推送。"
+            git commit -m "自动更新: $(date +'%Y-%m-%d %H:%M:%S')"
+            git pull --rebase origin master
+            git push origin master
           fi
