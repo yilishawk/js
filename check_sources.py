@@ -4,8 +4,8 @@ import hashlib
 import os
 from datetime import datetime
 
-CACHE_FILE = "data/cache.json"
-OUTPUT_M3U = "data/live_sources.m3u"
+CACHE_FILE = "cache.json"           # 直接放根目录
+OUTPUT_M3U = "live_sources.m3u"     # 也放根目录
 JSON_URL = "https://yhzb.serv00.net/sss.json"
 
 def fetch(url):
@@ -28,7 +28,6 @@ def load_cache():
     return {"A_url": "", "B_url": "", "A_hash": "", "B_hash": "", "last_change": ""}
 
 def save_cache(data):
-    os.makedirs(os.path.dirname(CACHE_FILE), exist_ok=True)
     with open(CACHE_FILE, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
@@ -38,8 +37,7 @@ def parse_m3u_content(content, group_prefix=""):
     channels = []
     for line in lines:
         line = line.strip()
-        if not line:
-            continue
+        if not line: continue
         if ",#genre#" in line:
             current_group = line.split(",#genre#")[0].strip()
         elif "," in line and current_group:
@@ -66,7 +64,7 @@ def main():
     for item in data:
         name = (item.get("name") or "").strip()
         full_url = (item.get("url") or "").strip()
-        real_url = full_url.split("&&&")[0].strip() if "&&&" in full_url else full_url
+        real_url = full_url.split("&&&")[0].strip() if "&&&" in full_url else ""
 
         if "观看直播A" in name:
             A_url = real_url
@@ -81,11 +79,10 @@ def main():
     changed = False
     messages = []
 
-    if A_url != cache["A_url"] or B_url != cache["B_url"]:
+    if A_url != cache.get("A_url", "") or B_url != cache.get("B_url", ""):
         changed = True
         messages.append("URL 变化")
     else:
-        # URL 没变，检查内容
         A_content = fetch(A_url)
         B_content = fetch(B_url)
         if not A_content or not B_content:
@@ -95,12 +92,12 @@ def main():
         new_A_hash = compute_hash(A_content)
         new_B_hash = compute_hash(B_content)
 
-        if new_A_hash != cache["A_hash"] or new_B_hash != cache["B_hash"]:
+        if new_A_hash != cache.get("A_hash", "") or new_B_hash != cache.get("B_hash", ""):
             changed = True
             messages.append("内容变化")
 
     if changed:
-        print("检测到变化！" + " + ".join(messages))
+        print("检测到变化！ " + " + ".join(messages))
 
         A_content = fetch(A_url) if "A_content" not in locals() else A_content
         B_content = fetch(B_url) if "B_content" not in locals() else B_content
@@ -115,17 +112,14 @@ def main():
                 f.write(m3u_content)
             print(f"已更新 {OUTPUT_M3U}，共 {len(channels)} 个频道")
 
-        # 更新缓存
         cache.update({
             "A_url": A_url,
             "B_url": B_url,
-            "A_hash": compute_hash(A_content),
-            "B_hash": compute_hash(B_content),
+            "A_hash": compute_hash(A_content or ""),
+            "B_hash": compute_hash(B_content or ""),
             "last_change": datetime.now().isoformat()
         })
         save_cache(cache)
-
-        # 这里可以 git add/commit/push（在 workflow 中处理）
     else:
         print("无变化")
 
