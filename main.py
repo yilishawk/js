@@ -49,31 +49,31 @@ def parse_and_filter(content):
             continue
         original_group = group_match.group(1).strip()
         
-        # 只保留指定的分組（加 "卫视频道" 以匹配源）
-        if original_group not in ["央视", "卫视", "卫视频道", "地方"]:
+        # 只保留指定的分组：央视、卫视、地方（仅陕西开头）
+        if original_group not in ["央视", "卫视", "地方"]:
             continue
         
-        # 地方 只留陝西開頭的
+        # 地方分组仅保留陕西开头的频道
         if original_group == "地方" and not name.startswith("陝西"):
             continue
         
-        # 決定新分組名稱（合併衛視變體）
+        # 定义目标分组名称（简化映射，不再合并卫视频道）
         if original_group == "央视":
             target_group = "咪咕 • 央視頻道"
-        elif original_group in ["卫视", "卫视频道"]:
+        elif original_group == "卫视":
             target_group = "咪咕 • 衛視頻道"
         elif original_group == "地方":
             target_group = "咪咕 • 陝西頻道"
         else:
             continue
         
-        # 去重
+        # 去重：避免同一分组下同名频道重复
         key = (target_group, name)
         if key in seen:
             continue
         seen.add(key)
         
-        # 替換 group-title
+        # 替换group-title为目标分组
         new_inf = re.sub(
             r'group-title="[^"]*"',
             f'group-title="{target_group}"',
@@ -81,15 +81,7 @@ def parse_and_filter(content):
             flags=re.IGNORECASE
         )
         
-        # 如果沒 group-title，補上
-        if 'group-title="' not in new_inf:
-            new_inf = re.sub(
-                r'(#EXTINF:[^,]+)',
-                r'\1 group-title="{target_group}"',
-                new_inf,
-                count=1
-            )
-        
+        # 拼接最终频道条目
         entry = f"{new_inf},{name}\n{url}"
         groups.setdefault(target_group, []).append(entry)
     
@@ -107,6 +99,7 @@ def main():
         print("無符合條件的頻道（請確認源是否有 '央视' '卫视' '地方' 分組）")
         return
     
+    # 定义输出顺序优先级
     priority = [
         "咪咕 • 央視頻道",
         "咪咕 • 衛視頻道",
@@ -116,18 +109,21 @@ def main():
     final_lines = ['#EXTM3U x-tvg-url="https://static.188766.xyz/e.xml"\n']
     
     added_count = 0
+    # 按优先级添加分组
     for p in priority:
         if p in groups:
             final_lines.extend(groups[p])
-            final_lines.append("\n")
+            final_lines.append("\n")  # 分组间换行分隔
             added_count += len(groups[p])
             del groups[p]
     
+    # 处理剩余未定义优先级的分组（兜底）
     for g in sorted(groups.keys()):
         final_lines.extend(groups[g])
         final_lines.append("\n")
         added_count += len(groups[g])
     
+    # 写入输出文件（确保编码为utf-8）
     output_file = "jn950_only_cctv_ws_shanxi.m3u"
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write("".join(final_lines))
