@@ -34,10 +34,10 @@ def filter_m3u():
                             output.append(lines[i+1])
         
         # 3. 保存结果
-        with open("filtered_live.m3u", "w", encoding="utf-8") as f:
+        with open("live.m3u", "w", encoding="utf-8") as f:
             f.write("\n".join(output))
         
-        print("过滤完成！已生成 filtered_live.m3u")
+        print("过滤完成！已生成 live.m3u")
 
     except Exception as e:
         print(f"发生错误: {e}")
