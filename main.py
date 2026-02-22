@@ -41,7 +41,7 @@ def parse_and_filter(content):
             continue
         
         lower_text = (inf + name).lower()
-        if any(kw in lower_text for kw in ['測試', '失效', '公告', '分享', '提示', '微信', '2026-']):
+        if any(kw in lower_text for kw in ['測試', '失效', '公告', '分享', '提示', '微信']):
             continue
         
         group_match = re.search(r'group-title="([^"]*)"', inf, re.IGNORECASE)
@@ -49,18 +49,18 @@ def parse_and_filter(content):
             continue
         original_group = group_match.group(1).strip()
         
-        # 只保留這三個分組
-        if original_group not in ["央视", "卫视", "地方"]:
+        # 只保留指定的分組（加 "卫视频道" 以匹配源）
+        if original_group not in ["央视", "卫视", "卫视频道", "地方"]:
             continue
         
         # 地方 只留陝西開頭的
         if original_group == "地方" and not name.startswith("陝西"):
             continue
         
-        # 決定新分組名稱
+        # 決定新分組名稱（合併衛視變體）
         if original_group == "央视":
             target_group = "咪咕 • 央視頻道"
-        elif original_group == "卫视":
+        elif original_group in ["卫视", "卫视频道"]:
             target_group = "咪咕 • 衛視頻道"
         elif original_group == "地方":
             target_group = "咪咕 • 陝西頻道"
@@ -81,11 +81,11 @@ def parse_and_filter(content):
             flags=re.IGNORECASE
         )
         
-        # 如果沒 group-title（極少見），補上
+        # 如果沒 group-title，補上
         if 'group-title="' not in new_inf:
             new_inf = re.sub(
                 r'(#EXTINF:[^,]+)',
-                r'\1 group-title="' + target_group + '"',
+                r'\1 group-title="{target_group}"',
                 new_inf,
                 count=1
             )
@@ -123,7 +123,6 @@ def main():
             added_count += len(groups[p])
             del groups[p]
     
-    # 剩餘（正常情況不會有）
     for g in sorted(groups.keys()):
         final_lines.extend(groups[g])
         final_lines.append("\n")
