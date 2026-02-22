@@ -14,7 +14,7 @@ def get_m3u_content(url):
         r.encoding = 'utf-8'
         if r.status_code == 200 and "#EXTM3U" in r.text.upper():
             return r.text
-        print(f"狀態碼: {r.status_code}，無 #EXTM3U")
+        print(f"狀態碼: {r.status_code}")
         return None
     except Exception as e:
         print(f"請求失敗: {e}")
@@ -23,68 +23,50 @@ def get_m3u_content(url):
 def parse_and_filter(content):
     if not content:
         return {}
-    
+
     groups = {}
-    seen = set()  # (target_group, name) 去重
-    
+    seen = set()
+
     pattern = re.compile(
         r'(#EXTINF:[^\n]+?)(?:,|\s+)([^\n]*?)\n+(https?://[^\s\n]+)',
         re.IGNORECASE | re.MULTILINE | re.DOTALL
     )
-    
+
     matches = pattern.findall(content)
     print(f"找到 {len(matches)} 個候選條目")
-    
+
     for inf, name, url in matches:
         name = name.strip()
         if not name or len(name) < 2:
             continue
-        
+
+        # 过滤测试、广告等垃圾频道
         lower_text = (inf + name).lower()
         if any(kw in lower_text for kw in ['測試', '失效', '公告', '分享', '提示', '微信']):
             continue
-        
+
+        # 只匹配分组名
         group_match = re.search(r'group-title="([^"]*)"', inf, re.IGNORECASE)
         if not group_match:
             continue
-        original_group = group_match.group(1).strip()
-        
-        # 只保留指定的分组：央视、卫视、地方（仅陕西开头）
-        if original_group not in ["央视", "卫视", "地方"]:
+        g = group_match.group(1).strip()
+
+        # ==============================================
+        # 【重点】只保留：央视、卫视
+        # 央视频道、卫视频道、其他 全部丢掉
+        # ==============================================
+        if g not in ["央视", "卫视"]:
             continue
-        
-        # 地方分组仅保留陕西开头的频道
-        if original_group == "地方" and not name.startswith("陝西"):
-            continue
-        
-        # 定义目标分组名称（简化映射，不再合并卫视频道）
-        if original_group == "央视":
-            target_group = "咪咕 • 央視頻道"
-        elif original_group == "卫视":
-            target_group = "咪咕 • 衛視頻道"
-        elif original_group == "地方":
-            target_group = "咪咕 • 陝西頻道"
-        else:
-            continue
-        
-        # 去重：避免同一分组下同名频道重复
-        key = (target_group, name)
+
+        # 去重
+        key = (g, name)
         if key in seen:
             continue
         seen.add(key)
-        
-        # 替换group-title为目标分组
-        new_inf = re.sub(
-            r'group-title="[^"]*"',
-            f'group-title="{target_group}"',
-            inf,
-            flags=re.IGNORECASE
-        )
-        
-        # 拼接最终频道条目
-        entry = f"{new_inf},{name}\n{url}"
-        groups.setdefault(target_group, []).append(entry)
-    
+
+        entry = f"{inf},{name}\n{url}"
+        groups.setdefault(g, []).append(entry)
+
     return groups
 
 def main():
@@ -93,42 +75,28 @@ def main():
     if not content:
         print("獲取失敗")
         return
-    
+
     groups = parse_and_filter(content)
     if not groups:
-        print("無符合條件的頻道（請確認源是否有 '央视' '卫视' '地方' 分組）")
+        print("無符合條件的頻道")
         return
-    
-    # 定义输出顺序优先级
-    priority = [
-        "咪咕 • 央視頻道",
-        "咪咕 • 衛視頻道",
-        "咪咕 • 陝西頻道",
-    ]
-    
-    final_lines = ['#EXTM3U x-tvg-url="https://static.188766.xyz/e.xml"\n']
-    
-    added_count = 0
-    # 按优先级添加分组
-    for p in priority:
+
+    final_lines = ['#EXTM3U\n']
+    added = 0
+
+    # 输出顺序：央视 → 卫视
+    for p in ["央视", "卫视"]:
         if p in groups:
             final_lines.extend(groups[p])
-            final_lines.append("\n")  # 分组间换行分隔
-            added_count += len(groups[p])
-            del groups[p]
-    
-    # 处理剩余未定义优先级的分组（兜底）
-    for g in sorted(groups.keys()):
-        final_lines.extend(groups[g])
-        final_lines.append("\n")
-        added_count += len(groups[g])
-    
-    # 写入输出文件（确保编码为utf-8）
-    output_file = "jn950_only_cctv_ws_shanxi.m3u"
+            final_lines.append("\n")
+            added += len(groups[p])
+
+    output_file = "only_cctv_and_ws.m3u"
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write("".join(final_lines))
-    
-    print(f"生成 {output_file} 完成，共 {added_count} 個頻道（已去重）")
+
+    print(f"生成完成：{output_file}")
+    print(f"共提取 {added} 個頻道（僅 央视 + 卫视）")
 
 if __name__ == "__main__":
     main()
