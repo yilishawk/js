@@ -11,11 +11,11 @@ JSON_URL = "https://yhzb.serv00.net/sss.json"
 def fetch(url):
     headers = {"User-Agent": "LiveChecker/1.0"}
     try:
-        r = requests.get(url, headers=headers, timeout=12, verify=False)
+        r = requests.get(url, headers=headers, timeout=15, verify=False)  # 增加超时到15秒
         r.raise_for_status()
         return r.text.strip()
-    except Exception as e:
-        print(f"Fetch failed: {url} → {e}")
+    except requests.exceptions.RequestException as e:
+        print(f"Fetch failed: {url} → {str(e)}")
         return None
 
 def compute_hash(content):
@@ -32,6 +32,8 @@ def save_cache(data):
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 def parse_m3u_content(content, group_prefix=""):
+    if not content:
+        return []  # 如果内容为空，返回空列表避免错误
     lines = content.splitlines()
     current_group = ""
     channels = []
@@ -85,10 +87,9 @@ def main():
     else:
         A_content = fetch(A_url)
         B_content = fetch(B_url)
-        if not A_content or not B_content:
-            print("源内容获取失败")
-            return
-
+        if A_content is None or B_content is None:
+            print("源内容获取失败，但继续检查 hash")
+        
         new_A_hash = compute_hash(A_content)
         new_B_hash = compute_hash(B_content)
 
@@ -103,14 +104,28 @@ def main():
         B_content = fetch(B_url) if "B_content" not in locals() else B_content
 
         channels = []
-        channels.extend(parse_m3u_content(A_content, "[A] "))
-        channels.extend(parse_m3u_content(B_content, "[B] "))
+
+        if A_content:
+            a_channels = parse_m3u_content(A_content, "[A] ")
+            channels.extend(a_channels)
+            print(f"[A] 成功解析 {len(a_channels)} 个频道")
+        else:
+            print(f"[A] 获取失败：{A_url} （跳过）")
+
+        if B_content:
+            b_channels = parse_m3u_content(B_content, "[B] ")
+            channels.extend(b_channels)
+            print(f"[B] 成功解析 {len(b_channels)} 个频道")
+        else:
+            print(f"[B] 获取失败：{B_url} （跳过）")
 
         if channels:
             m3u_content = "#EXTM3U\n" + "\n".join(channels)
             with open(OUTPUT_M3U, "w", encoding="utf-8") as f:
                 f.write(m3u_content)
             print(f"已更新 {OUTPUT_M3U}，共 {len(channels)} 个频道")
+        else:
+            print("无任何有效频道可写入 m3u")
 
         cache.update({
             "A_url": A_url,
