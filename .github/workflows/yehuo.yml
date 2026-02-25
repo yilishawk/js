@@ -2,55 +2,64 @@ name: yehuo
 
 on:
   schedule:
-    - cron: '0 */6 * * *'          # 每 6 小时自动检查一次（凌晨/上午/下午/晚上各一次）
-  workflow_dispatch:               # 允许手动触发测试
+    - cron: '0 */9 * * *'          # 每 6 小时运行一次
+  workflow_dispatch:               # 支持手动触发
 
 permissions:
-  contents: write                  # 必须：允许 Actions 写仓库（commit/push）
+  contents: write                  # 必须有写权限才能 commit/push
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0           # 完整历史，便于 rebase 和 commit
+          fetch-depth: 0           # 完整历史，方便 rebase
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'   # 建议用 3.11（你的报错日志里是 3.11），或保持 '3.9'
+          python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests urllib3
-
-      - name: Run script
-        run: python check_sources.py   # ← 如果你的脚本叫 main.py，就改成 python main.py
-
-      - name: Commit and Push if changed
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          python -m pip install --upgrade pip
+          pip install requests urllib3
 
-          # 先 fetch 最新远程状态
-          git fetch origin
+      - name: Run update script
+        run: python check_sources.py
 
-          # 切换/确保在 master 分支（你的默认分支）
-          git checkout master || git checkout -b master
+      - name: Commit and Push changes (if any)
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # rebase 远程 master，避免落后导致 rejected
-          git rebase origin/master || { echo "Rebase 失败，可能有冲突，请检查仓库"; exit 1; }
+          # 添加所有改动（已跟踪 + 新文件）
+          git add .
 
-          # 只检查 live_sources.m3u 是否有变化（你的脚本输出文件是这个）
-          if [ -n "$(git status --porcelain live_sources.m3u)" ]; then
-            git add live_sources.m3u cache.json   # 加 cache.json 一起提交（如果有变化）
-            git commit -m "Auto update: live sources changed ($(date +'%Y-%m-%d %H:%M:%S'))"
-            
-            # 安全推送（--force-with-lease 防止意外覆盖别人，但允许覆盖自己落后）
-            git push origin master --force-with-lease
-            echo "已推送更新"
+          # 检查是否有待提交的改动
+          if git diff --cached --quiet; then
+            echo "No changes to commit → 跳过"
+            exit 0
+          fi
+
+          # 提交
+          git commit -m "chore: auto update live_sources.m3u & cache.json $(date '+%Y-%m-%d %H:%M CET')"
+
+          # 尝试直接 push
+          if git push origin HEAD; then
+            echo "推送成功"
           else
-            echo "live_sources.m3u 和 cache.json 无实质变化，跳过推送。"
+            echo "普通 push 失败（可能远程有新提交），尝试 rebase 后重推..."
+            git fetch origin
+            # 使用默认分支名称，兼容 main/master
+            DEFAULT_BRANCH="${{ github.event.repository.default_branch }}"
+            git rebase "origin/$DEFAULT_BRANCH" || {
+              echo "Rebase 失败，可能存在冲突。请手动检查仓库。"
+              exit 1
+            }
+            git push origin HEAD --force-with-lease
+            echo "Rebase + 推送完成"
           fi
