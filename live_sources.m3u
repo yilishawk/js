@@ -429,1433 +429,1407 @@ http://39.84.71.53:3000/626064697
 http://39.84.71.53:3000/626065193
 #EXTINF:-1 tvg-name="[A] 地方 - 公共新闻频道",公共新闻频道
 http://39.84.71.5
+#EXTINF:-1 tvg-name="[B] 接口更换 - 本接口从明天不再使用",本接口从明天不再使用
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=toAswn&tk=IRvHGalSMplN
+#EXTINF:-1 tvg-name="[B] 接口更换 - 新接口不公开使用",新接口不公开使用
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=toAswn&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 温馨提示 - 免费分享",免费分享
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=toAswn&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=toAswn&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 2026春晚 - 2026年中央广播电视总台春节联欢晚会",2026年中央广播电视总台春节联欢晚会
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2r0B7w&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2r0B7w&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 2026春晚 - 2026北京卫视春晚上",2026北京卫视春晚上
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HMyTOn&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HMyTOn&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 2026春晚 - 2026北京卫视春晚中",2026北京卫视春晚中
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nwcDva&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nwcDva&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 2026春晚 - 2026江苏卫视春晚",2026江苏卫视春晚
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=dIkTBa&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=dIkTBa&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 2026春晚 - 2026浙江卫视春晚",2026浙江卫视春晚
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Wf46VK&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Wf46VK&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 2026春晚 - 2026东方卫视春晚",2026东方卫视春晚
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=PTyu4q&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=PTyu4q&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 2026春晚 - 2026天津卫视春晚",2026天津卫视春晚
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=H1Gz7x&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=H1Gz7x&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 2026春晚 - 2026湖北卫视春晚",2026湖北卫视春晚
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=yGdsts&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=yGdsts&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 2026春晚 - 2026云南卫视春晚",2026云南卫视春晚
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=t6MtGW&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=t6MtGW&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 2026春晚 - 2026福建春节联欢晚会",2026福建春节联欢晚会
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=RAqTGd&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=RAqTGd&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 2026春晚 - 2026陕西丝路春晚",2026陕西丝路春晚
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=S4Ud0u&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=S4Ud0u&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 2026春晚 - 2026湖南戏曲春晚",2026湖南戏曲春晚
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=KKVOOd&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=KKVOOd&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 2026春晚 - 中国文学艺术界2026春节大联欢",中国文学艺术界2026春节大联欢
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=lHYxOw&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=lHYxOw&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 2026春晚 - 2026中国杂技大联欢",2026中国杂技大联欢
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jQFUeT&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jQFUeT&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 2026春晚 - 2026bilibili大年初一联欢会上",2026bilibili大年初一联欢会上
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=AQza20&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=AQza20&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 2026春晚 - 2026bilibili大年初一联欢会下",2026bilibili大年初一联欢会下
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5NrBiO&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5NrBiO&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 2026春晚 - 2026藏历新年联欢晚会",2026藏历新年联欢晚会
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=G7BZkt&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=G7BZkt&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 2026春晚 - 2026吉林卫视春节联欢晚会",2026吉林卫视春节联欢晚会
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=P6r5xi&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=P6r5xi&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 2026春晚 - 2026深圳卫视春节联欢晚会",2026深圳卫视春节联欢晚会
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=l9izaM&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=l9izaM&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 2026春晚 - 2026河南春晚",2026河南春晚
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4n1qWI&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4n1qWI&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 2026春晚 - 2026黄河民歌春晚",2026黄河民歌春晚
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=wqzrNR&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=wqzrNR&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 2026春晚 - 2026湖南卫视芒果TV春节联欢晚会",2026湖南卫视芒果TV春节联欢晚会
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=q2WWRi&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=q2WWRi&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 2026春晚 - 2026湖南卫视芒果TV春节联欢晚会纯享版",2026湖南卫视芒果TV春节联欢晚会纯享版
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=C8fF1t&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=C8fF1t&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 2026春晚 - 2026把乐带回家沈视春晚",2026把乐带回家沈视春晚
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZSL40S&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZSL40S&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 2026春晚 - 2026川渝春节联欢晚会",2026川渝春节联欢晚会
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=80KM4X&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=80KM4X&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 2026春晚 - 2026新疆国际春节联欢晚会",2026新疆国际春节联欢晚会
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HINxRO&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HINxRO&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 2026春晚 - 2026蓉港新春晚会",2026蓉港新春晚会
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ASpy77&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ASpy77&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 2026春晚 - 2026山东卫视春晚",2026山东卫视春晚
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Mz7EBz&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Mz7EBz&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 2026春晚 - 2026安徽卫视春晚",2026安徽卫视春晚
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=VqqLda&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=VqqLda&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 2026春晚 - 2026安徽卫视春节晚会纯享版",2026安徽卫视春节晚会纯享版
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4aV8nY&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4aV8nY&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 2026春晚 - 2026新疆国际春节联欢晚会",2026新疆国际春节联欢晚会
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=UHEpLT&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=UHEpLT&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 2026春晚 - 2026辽宁春节联欢晚会上",2026辽宁春节联欢晚会上
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=k9HpnV&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=k9HpnV&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 2026春晚 - 2026辽宁春节联欢晚会下",2026辽宁春节联欢晚会下
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=i1VV4I&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=i1VV4I&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 2026春晚 - 天津相声春晚2026",天津相声春晚2026
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=cs0QaJ&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=cs0QaJ&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 2026春晚 - 天津戏曲春晚2026",天津戏曲春晚2026
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FqA1rX&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FqA1rX&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - 凤凰中文",凤凰中文
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ejgOwL&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ejgOwL&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - 凤凰资讯",凤凰资讯
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=OxXIId&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=OxXIId&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - 凤凰香港",凤凰香港
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=3XZUH7&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=3XZUH7&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - 翡翠台",翡翠台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DfJX4V&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DfJX4V&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - 明珠台",明珠台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bbNyFN&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bbNyFN&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - 无线新闻",无线新闻
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xfIT9H&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xfIT9H&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - TVB PLUS",TVB PLUS
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tRiJ72&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tRiJ72&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - TVB娱乐新闻台",TVB娱乐新闻台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=OnSTe5&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=OnSTe5&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - 华语剧台",华语剧台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LjJM3y&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LjJM3y&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - 亚洲剧台",亚洲剧台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=p7L8T3&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=p7L8T3&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - 黄金华剧台",黄金华剧台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Mm79sA&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Mm79sA&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - 爱ANI",爱ANI
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=s0iJrF&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=s0iJrF&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - 千禧经典台",千禧经典台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=QT8Zgz&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=QT8Zgz&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - 亚洲剧集台",亚洲剧集台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nrkn5z&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nrkn5z&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - 黄金翡翠台",黄金翡翠台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Byf8yQ&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Byf8yQ&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - TVB戏曲台",TVB戏曲台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=sJe8pT&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=sJe8pT&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - 天映频道",天映频道
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1b3yMB&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1b3yMB&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - 天映经典",天映经典
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uWWsBn&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uWWsBn&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - 88跑马台",88跑马台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XPi6J3&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XPi6J3&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - HOY 76",HOY 76
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ttGQ99&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ttGQ99&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - HOY 77",HOY 77
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uM3tWZ&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uM3tWZ&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - HOY 78",HOY 78
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=I9JDv4&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=I9JDv4&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - ViuTV",ViuTV
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=sJVmLb&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=sJVmLb&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - ViuTV6",ViuTV6
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TpcOqP&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TpcOqP&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - PopC电影",PopC电影
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=L0ayit&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=L0ayit&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - 美亚电影台",美亚电影台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NYGt8E&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NYGt8E&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - AXN电影",AXN电影
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fVVjAp&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fVVjAp&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - ROCK ACTION",ROCK ACTION
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=SFjCGq&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=SFjCGq&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - ROCK ENTERTAINMENT",ROCK ENTERTAINMENT
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jsJVJd&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jsJVJd&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - RTHK31",RTHK31
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bDGiiS&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bDGiiS&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - RTHK32",RTHK32
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NT5gzT&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NT5gzT&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - 八度空间",八度空间
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xHzHTl&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xHzHTl&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - CHU",CHU
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ii6FYX&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ii6FYX&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - CH5",CH5
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0rraAY&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0rraAY&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - CH8",CH8
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0WWNBE&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0WWNBE&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - 龙华偶像",龙华偶像
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=yszH7q&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=yszH7q&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - 龙华日韩",龙华日韩
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=CqIp1v&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=CqIp1v&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - 龙华戏剧",龙华戏剧
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=KdzRJH&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=KdzRJH&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - 龙华经典",龙华经典
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NJxYWL&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NJxYWL&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - 龙华电影",龙华电影
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9WETw5&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9WETw5&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - 龙华卡通",龙华卡通
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nMU6Hm&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nMU6Hm&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - TVB plus(180)",TVB plus(180)
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hyFNCq&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hyFNCq&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - 韩国中华TV",韩国中华TV
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tf1Z1I&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tf1Z1I&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - Now星影(国)",Now星影(国)
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FsSpFo&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FsSpFo&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - Now爆谷(国)",Now爆谷(国)
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=djbfaO&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=djbfaO&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - Now华剧台",Now华剧台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=CZSHnl&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=CZSHnl&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - Now剧集台",Now剧集台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4AsA9o&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4AsA9o&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - Now紫金国际",Now紫金国际
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Z4czis&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Z4czis&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - HUB如意台",HUB如意台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jmAu48&tk=EX8OxYCLehgT
-#EXTINF:-1 tvg-name="[B] 港台频道 - TVB生活台",TVB生活台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZBOfLh&tk=EX8OxYCLehgT
-#EXTINF:-1 tvg-name="[B] 港台频道 - TVB功夫(国)",TVB功夫(国)
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=kEZ1tF&tk=EX8OxYCLehgT
-#EXTINF:-1 tvg-name="[B] 港台频道 - TVB星河(国)",TVB星河(国)
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=8gtfMb&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jmAu48&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - 东森电影台",东森电影台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9DH3oL&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9DH3oL&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - 龙祥时代台",龙祥时代台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bRyJf8&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bRyJf8&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - 美亚电影(台湾)",美亚电影(台湾)
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=qgi5Wq&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=qgi5Wq&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - 动物星球(台湾)",动物星球(台湾)
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=w2NFk3&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=w2NFk3&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - Love Nature",Love Nature
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=M79PsY&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=M79PsY&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - 曼迪日本台",曼迪日本台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=pqe8FG&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=pqe8FG&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - 东风37台",东风37台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=WmxRl8&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=WmxRl8&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - 中天新闻台",中天新闻台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=aY9kVd&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=aY9kVd&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - 中视新闻台",中视新闻台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=PkVPmF&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=PkVPmF&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - TVBS HD",TVBS HD
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Npfbb9&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Npfbb9&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - 寰宇新闻台",寰宇新闻台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ul2UtE&tk=EX8OxYCLehgT
-#EXTINF:-1 tvg-name="[B] 港台频道 - 三立新闻iNEWS",三立新闻iNEWS
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=p4GXVZ&tk=EX8OxYCLehgT
-#EXTINF:-1 tvg-name="[B] 港台频道 - 华视新闻",华视新闻
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1fsrvB&tk=EX8OxYCLehgT
-#EXTINF:-1 tvg-name="[B] 港台频道 - 华视",华视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZIE1pA&tk=EX8OxYCLehgT
-#EXTINF:-1 tvg-name="[B] 港台频道 - 中视",中视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Ybcbcp&tk=EX8OxYCLehgT
-#EXTINF:-1 tvg-name="[B] 港台频道 - 民視新聞台",民視新聞台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=i5yygt&tk=EX8OxYCLehgT
-#EXTINF:-1 tvg-name="[B] 港台频道 - 民視綜藝台",民視綜藝台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=52SupI&tk=EX8OxYCLehgT
-#EXTINF:-1 tvg-name="[B] 港台频道 - 民視台灣台",民視台灣台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=V3YbU3&tk=EX8OxYCLehgT
-#EXTINF:-1 tvg-name="[B] 港台频道 - 民視第一台",民視第一台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xA7F61&tk=EX8OxYCLehgT
-#EXTINF:-1 tvg-name="[B] 港台频道 - 民視",民視
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jnn8db&tk=EX8OxYCLehgT
-#EXTINF:-1 tvg-name="[B] 港台频道 - 寰宇新闻台弯台",寰宇新闻台弯台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=3ckTzh&tk=EX8OxYCLehgT
-#EXTINF:-1 tvg-name="[B] 港台频道 - 東森財經新聞",東森財經新聞
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=beNh0l&tk=EX8OxYCLehgT
-#EXTINF:-1 tvg-name="[B] 港台频道 - 東森新聞",東森新聞
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=gAxXl8&tk=EX8OxYCLehgT
-#EXTINF:-1 tvg-name="[B] 港台频道 - TVBS新聞台",TVBS新聞台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vlzdg9&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ul2UtE&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - 1905电影",1905电影
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=SsocJS&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=SsocJS&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 港台频道 - 重温经典频道",重温经典频道
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Frr2H1&tk=EX8OxYCLehgT
-#EXTINF:-1 tvg-name="[B] 限量访问 - 松视3台",松视3台
-http://www.xymm.de5.net/live/1.index.m3u8
-#EXTINF:-1 tvg-name="[B] 限量访问 - 松视1台",松视1台
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
-#EXTINF:-1 tvg-name="[B] 限量访问 - 极限电影台",极限电影台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=luhoMe&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Frr2H1&tk=IRvHGalSMplN
+#EXTINF:-1 tvg-name="[B] 最后一天 - 极限电影台",极限电影台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=luhoMe&tk=IRvHGalSMplN
+#EXTINF:-1 tvg-name="[B] 最后一天 - 熊大",熊大
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZBOfLh&tk=IRvHGalSMplN
+#EXTINF:-1 tvg-name="[B] 最后一天 - 熊二",熊二
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=8gtfMb&tk=IRvHGalSMplN
+#EXTINF:-1 tvg-name="[B] 最后一天 - 能三",能三
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=kEZ1tF&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速香港 - 凤凰中文台",凤凰中文台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=OpZV7u&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=OpZV7u&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速香港 - 凤凰资讯台",凤凰资讯台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=u8UccZ&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=u8UccZ&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速香港 - 凤凰香港台",凤凰香港台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=c1XZLP&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=c1XZLP&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速香港 - TVB翡翠台",TVB翡翠台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tnCKJU&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tnCKJU&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速香港 - TVB明珠台",TVB明珠台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=BNjKCW&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=BNjKCW&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速香港 - 无线新闻台",无线新闻台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=adfOBz&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=adfOBz&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速香港 - TVB plus",TVB plus
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6KYuXx&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6KYuXx&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速香港 - HOY76台",HOY76台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Jc5w4O&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Jc5w4O&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速香港 - HOY77台",HOY77台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XMmzDs&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XMmzDs&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速香港 - HOY78台",HOY78台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=n1vnpP&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=n1vnpP&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速央视 - CCTV1",CCTV1
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=R9u2IS&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=R9u2IS&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速央视 - CCTV2",CCTV2
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JK44w0&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JK44w0&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速央视 - CCTV3",CCTV3
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ITSG8r&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ITSG8r&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速央视 - CCTV4",CCTV4
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7SySnh&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7SySnh&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速央视 - CCTV5",CCTV5
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=O6bvDx&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=O6bvDx&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速央视 - CCTV6",CCTV6
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TlNE38&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TlNE38&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速央视 - CCTV7",CCTV7
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=wkB3ko&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=wkB3ko&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速央视 - CCTV8",CCTV8
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TlFgxN&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TlFgxN&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速央视 - CCTV9",CCTV9
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=lwqn6K&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=lwqn6K&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速央视 - CCTV10",CCTV10
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=seBuVr&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=seBuVr&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速央视 - CCTV11",CCTV11
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=lBcoZa&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=lBcoZa&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速央视 - CCTV12",CCTV12
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=3GbWmO&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=3GbWmO&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速央视 - CCTV13",CCTV13
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=gHg65b&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=gHg65b&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速央视 - CCTV14",CCTV14
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=U0PR9L&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=U0PR9L&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速央视 - CCTV15",CCTV15
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2RNOab&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2RNOab&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速央视 - CCTV16",CCTV16
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Qg2QMf&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Qg2QMf&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速卫视 - 广西卫视",广西卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vi5e78&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vi5e78&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速卫视 - 海南卫视",海南卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FUC2ra&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FUC2ra&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速卫视 - 河南卫视",河南卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=MMUl5V&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=MMUl5V&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速卫视 - 湖北卫视",湖北卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=3JFwO5&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=3JFwO5&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速卫视 - 湖南卫视",湖南卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=BkBAH5&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=BkBAH5&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速卫视 - 怀旧剧场",怀旧剧场
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Sj7exe&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Sj7exe&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速卫视 - 江苏卫视",江苏卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=CQlSGh&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=CQlSGh&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速卫视 - 数字电影",数字电影
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=oTyrHj&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=oTyrHj&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速卫视 - 深圳卫视",深圳卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2Rf6pV&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2Rf6pV&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速卫视 - 四川卫视",四川卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=CLMoBX&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=CLMoBX&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速卫视 - 重庆卫视",重庆卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Vzxd0j&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Vzxd0j&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速卫视 - 浙江卫视",浙江卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=UMsFeA&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=UMsFeA&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速卫视 - 浙江卫视",浙江卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FO0dG0&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FO0dG0&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速卫视 - 东方卫视",东方卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=RJO6Uk&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=RJO6Uk&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速卫视 - 北京卫视",北京卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=OKEWFz&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=OKEWFz&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速卫视 - 江西卫视",江西卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=iNaFlB&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=iNaFlB&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速卫视 - 山东卫视",山东卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=b8r07e&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=b8r07e&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速卫视 - 安徽卫视",安徽卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=YM2v52&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=YM2v52&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速卫视 - 天津卫视",天津卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=lAscBL&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=lAscBL&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速卫视 - 贵州卫视",贵州卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LNB2Ki&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LNB2Ki&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速卫视 - 河北卫视",河北卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=V4Pekw&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=V4Pekw&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速卫视 - 山西卫视",山西卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=MWRv3L&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=MWRv3L&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速卫视 - 陕西卫视",陕西卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=kOIYJS&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=kOIYJS&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速卫视 - 内蒙古卫视",内蒙古卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=CS3VxU&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=CS3VxU&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速卫视 - 吉林卫视",吉林卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=YJ7gaX&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=YJ7gaX&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速卫视 - 西藏卫视",西藏卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=pGo51D&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=pGo51D&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速卫视 - 新疆卫视",新疆卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zCe2li&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zCe2li&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速卫视 - 云南卫视",云南卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=8eonB2&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=8eonB2&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速卫视 - 宁夏卫视",宁夏卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZtIIP8&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZtIIP8&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速卫视 - 甘肃卫视",甘肃卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hjuwIa&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hjuwIa&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速卫视 - 东南卫视",东南卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=troNjH&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=troNjH&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速卫视 - 兵团卫视",兵团卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NSfxpN&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NSfxpN&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速广东 - 广东大湾区",广东大湾区
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Oge3ew&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Oge3ew&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速广东 - 广东民生",广东民生
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=eTyTt8&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=eTyTt8&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速广东 - 广东少儿",广东少儿
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=H0gONS&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=H0gONS&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速广东 - 广东体育",广东体育
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=pNF5EA&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=pNF5EA&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速广东 - 广东卫视",广东卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HZJpGG&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HZJpGG&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速广东 - 广东新闻",广东新闻
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NvndDw&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NvndDw&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速广东 - 广东影视",广东影视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LD8UnA&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LD8UnA&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速广东 - 广东珠江",广东珠江
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ChKbyv&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ChKbyv&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速广东 - 广东经济",广东经济
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=wkgHfS&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=wkgHfS&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 极速广东 - 深圳都市",深圳都市
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=PW2bSP&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=PW2bSP&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东汕头 - 汕头综合",汕头综合
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hu2Dzm&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hu2Dzm&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东汕头 - 汕头生活",汕头生活
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TMfA0z&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TMfA0z&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东汕头 - 潮州综合",潮州综合
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=PCeX9T&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=PCeX9T&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东汕头 - 潮州民生",潮州民生
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7xK0Sx&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7xK0Sx&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东汕头 - 潮阳台",潮阳台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nGVFXM&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nGVFXM&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东汕头 - 潮州民生台",潮州民生台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=921jfX&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=921jfX&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东汕头 - 广东4K超高清",广东4K超高清
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=CvfN0V&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=CvfN0V&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - CCTV-1",CCTV-1
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=AEKbh1&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=AEKbh1&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - CCTV-2",CCTV-2
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GahCzJ&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GahCzJ&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - CCTV-3",CCTV-3
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=agNqhJ&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=agNqhJ&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - CCTV-4",CCTV-4
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ucJsjk&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ucJsjk&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - CCTV-5",CCTV-5
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Jgbsq9&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Jgbsq9&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - CCTV-6",CCTV-6
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=wolmJ4&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=wolmJ4&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - CCTV-7",CCTV-7
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Cwd4d2&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Cwd4d2&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - CCTV-8",CCTV-8
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5qe8tV&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5qe8tV&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - CCTV-9",CCTV-9
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6NHxac&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6NHxac&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - CCTV-10",CCTV-10
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=RKvLlE&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=RKvLlE&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - CCTV-11",CCTV-11
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5J0nWu&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5J0nWu&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - CCTV-12",CCTV-12
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=54ASW1&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=54ASW1&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - CCTV-13",CCTV-13
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zp5Mq2&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zp5Mq2&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - CCTV-14",CCTV-14
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=cDUyjg&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=cDUyjg&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - CCTV-15",CCTV-15
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zTpH3S&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zTpH3S&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - CCTV-5+",CCTV-5+
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=pEcvPQ&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=pEcvPQ&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - CCTV-17",CCTV-17
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xlNYvb&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xlNYvb&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 星空卫视",星空卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zofkHy&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zofkHy&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 凤凰中文台",凤凰中文台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NczUF5&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NczUF5&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 香港翡翠",香港翡翠
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0KfS7j&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0KfS7j&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 香港明珠",香港明珠
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fBSdEK&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fBSdEK&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 澳亚卫视",澳亚卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nK5Mm1&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nK5Mm1&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 广东南方卫视",广东南方卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Asa5zx&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Asa5zx&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 广州台",广州台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4yPlgs&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4yPlgs&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 广东珠江",广东珠江
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=W8nrb5&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=W8nrb5&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 广东民生",广东民生
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=YXqOPp&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=YXqOPp&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 广东新闻",广东新闻
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=lynOEV&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=lynOEV&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 广东嘉佳卡通",广东嘉佳卡通
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=oN6E9d&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=oN6E9d&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 广东经济科教",广东经济科教
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Umnz6F&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Umnz6F&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 广东影视",广东影视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6uo0An&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6uo0An&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 广东少儿",广东少儿
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=SFBsAl&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=SFBsAl&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 广州综合",广州综合
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=pRQY20&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=pRQY20&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 广州新闻",广州新闻
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=U3hEAj&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=U3hEAj&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 广州竞赛",广州竞赛
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=a49jCv&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=a49jCv&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 广州影视",广州影视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FpGEOf&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FpGEOf&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 广州经济",广州经济
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=aTjmLq&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=aTjmLq&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 广州新闻",广州新闻
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=efwDtP&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=efwDtP&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 广东经济科教",广东经济科教
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DCs3lA&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DCs3lA&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 广东体育",广东体育
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DWBjNV&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DWBjNV&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 广东卫视",广东卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=idUvLU&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=idUvLU&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 深圳卫视",深圳卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Ote4jB&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Ote4jB&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 湖南卫视",湖南卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=cDRGo1&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=cDRGo1&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 东方卫视",东方卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bJQ0m3&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bJQ0m3&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 北京卫视",北京卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7L0MFs&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7L0MFs&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 浙江卫视",浙江卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JXYPOq&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JXYPOq&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 江苏卫视",江苏卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=BRiyMg&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=BRiyMg&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 黑龙江卫视",黑龙江卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=a3hpHM&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=a3hpHM&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 天津卫视",天津卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Pgoshp&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Pgoshp&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 山东卫视",山东卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=sBA9ef&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=sBA9ef&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 湖北卫视",湖北卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=cWeASu&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=cWeASu&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 安徽卫视",安徽卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=SRpb9n&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=SRpb9n&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 辽宁卫视",辽宁卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=VjjWGB&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=VjjWGB&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 贵州卫视",贵州卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1t2rSf&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1t2rSf&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 四川卫视",四川卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=RTZCz2&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=RTZCz2&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 重庆卫视",重庆卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=VAWjC3&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=VAWjC3&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 河北卫视",河北卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=anOWry&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=anOWry&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 江西卫视",江西卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=kOkKkm&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=kOkKkm&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 吉林卫视",吉林卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=j9FZqr&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=j9FZqr&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 广西卫视",广西卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uGEPW4&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uGEPW4&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 云南卫视",云南卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=s06ftN&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=s06ftN&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 青海卫视",青海卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=z07H1N&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=z07H1N&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 山西卫视",山西卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=qBUs8t&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=qBUs8t&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 陕西卫视",陕西卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Ju1x0v&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Ju1x0v&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - CETV-1",CETV-1
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ocEFwa&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ocEFwa&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 劲爆体育",劲爆体育
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=OwPbC3&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=OwPbC3&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 全纪实",全纪实
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=kmrR1T&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=kmrR1T&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 金鹰卡通",金鹰卡通
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=y6uvt0&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=y6uvt0&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - 岭南戏曲",岭南戏曲
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=qvYBGo&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=qvYBGo&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 广东酒店 - MTV",MTV
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=eJQLnt&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=eJQLnt&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 央视 - CCTV1综合",CCTV1综合
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2eaQhd&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2eaQhd&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 央视 - CCTV2财经",CCTV2财经
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=eqgK4S&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=eqgK4S&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 央视 - CCTV3综艺",CCTV3综艺
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=mPxB0N&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=mPxB0N&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 央视 - CCTV4中文国际",CCTV4中文国际
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4uHomU&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4uHomU&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 央视 - CCTV5体育",CCTV5体育
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=OdzaBd&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=OdzaBd&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 央视 - CCTV5+体育赛事",CCTV5+体育赛事
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=YGCQDB&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=YGCQDB&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 央视 - CCTV6电影",CCTV6电影
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=irJH77&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=irJH77&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 央视 - CCTV7国防军事",CCTV7国防军事
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=gZfvMm&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=gZfvMm&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 央视 - CCTV8电视剧",CCTV8电视剧
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hXiHk7&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hXiHk7&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 央视 - CCTV9纪录",CCTV9纪录
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=M57RYX&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=M57RYX&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 央视 - CCTV10科教",CCTV10科教
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=oRUCM9&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=oRUCM9&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 央视 - CCTV11戏曲",CCTV11戏曲
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=D1X2UT&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=D1X2UT&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 央视 - CCTV12社会与法",CCTV12社会与法
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Yu6pRi&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Yu6pRi&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 央视 - CCTV13新闻",CCTV13新闻
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XzGYcw&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XzGYcw&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 央视 - CCTV14少儿",CCTV14少儿
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=WCqqkU&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=WCqqkU&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 央视 - CCTV15音乐",CCTV15音乐
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HPTlqd&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HPTlqd&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 央视 - CCTV17农业农村",CCTV17农业农村
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0ociry&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0ociry&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 央视 - CCTV4欧洲",CCTV4欧洲
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=kVOzK8&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=kVOzK8&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 央视 - CCTV4美洲",CCTV4美洲
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vDQdiy&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vDQdiy&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 央视 - CGTN外语纪录",CGTN外语纪录
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=eDYqsL&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=eDYqsL&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 央视 - CGTN阿拉伯语",CGTN阿拉伯语
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=c5k6lr&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=c5k6lr&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 央视 - CGTN西班牙语",CGTN西班牙语
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uxLGFD&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uxLGFD&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 央视 - CGTN法语",CGTN法语
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=KBLdUq&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=KBLdUq&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 央视 - CGTN俄语",CGTN俄语
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ftP3kY&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ftP3kY&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 央视 - 老故事",老故事
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=EBrLum&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=EBrLum&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 央视 - 发现之旅",发现之旅
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DZm4if&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DZm4if&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 央视 - 中学生",中学生
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bpE63L&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bpE63L&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 央视 - CGTN",CGTN
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bKZb1U&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bKZb1U&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育 - 赛事最经典",赛事最经典
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vVWZns&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vVWZns&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育 - 体坛名栏汇",体坛名栏汇
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jNcfpg&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jNcfpg&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育 - 四海钓鱼",四海钓鱼
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=r6hXl0&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=r6hXl0&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育 - 陕西体育休闲频道",陕西体育休闲频道
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nEQYVE&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nEQYVE&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育 - 武术世界",武术世界
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9myBvx&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9myBvx&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育 - 快乐垂钓",快乐垂钓
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=x0KgDT&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=x0KgDT&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育 - 辽宁广播电视台体育休闲频道",辽宁广播电视台体育休闲频道
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bvW98z&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bvW98z&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 卫视 - 东方卫视",东方卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9MEFY6&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9MEFY6&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 卫视 - 江苏卫视",江苏卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=lfImL0&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=lfImL0&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 卫视 - 广东卫视",广东卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=F3sLt8&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=F3sLt8&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 卫视 - 北京卫视",北京卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tgvxhL&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tgvxhL&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 卫视 - 辽宁卫视",辽宁卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=e5yZOA&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=e5yZOA&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 卫视 - 河北卫视",河北卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=pvrKq4&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=pvrKq4&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 卫视 - 江西卫视",江西卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tnLCGm&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tnLCGm&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 卫视 - 河南卫视",河南卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9ZoMg2&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9ZoMg2&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 卫视 - 陕西卫视",陕西卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FTmZNQ&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FTmZNQ&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 卫视 - 大湾区卫视",大湾区卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=b9zFFV&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=b9zFFV&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 卫视 - 湖北卫视",湖北卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7IcQjW&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7IcQjW&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 卫视 - 吉林卫视",吉林卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=iroDNK&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=iroDNK&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 卫视 - 青海卫视",青海卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tzy4Ex&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tzy4Ex&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 卫视 - 东南卫视",东南卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=pfGhJW&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=pfGhJW&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 卫视 - 海南卫视",海南卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=yrRzuP&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=yrRzuP&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 卫视 - 海峡卫视",海峡卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=O88QFo&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=O88QFo&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 卫视 - 中国农林卫视",中国农林卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9nR6ye&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9nR6ye&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 卫视 - 兵团卫视",兵团卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=EVhcQn&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=EVhcQn&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 卫视 - 宁夏卫视",宁夏卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DJKwlS&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DJKwlS&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 卫视 - 重庆卫视",重庆卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=EcScHD&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=EcScHD&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 卫视 - 三沙卫视",三沙卫视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xkCJUP&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xkCJUP&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 地方 - 上海新闻综合",上海新闻综合
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=B5YQd7&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=B5YQd7&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 地方 - 上视东方影视",上视东方影视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=oBn42p&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=oBn42p&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 地方 - 上海第一财经",上海第一财经
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=c1xgXj&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=c1xgXj&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 地方 - 南京新闻综合频道",南京新闻综合频道
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=QbrLQ0&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=QbrLQ0&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 地方 - 南京教科频道",南京教科频道
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZF0Tdm&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZF0Tdm&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 地方 - 南京十八频道",南京十八频道
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=d0beJX&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=d0beJX&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 地方 - 体育休闲频道",体育休闲频道
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=b3rD9u&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=b3rD9u&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 地方 - 江苏城市频道",江苏城市频道
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=q6F2TQ&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=q6F2TQ&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 地方 - 江苏国际",江苏国际
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=usuZL1&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=usuZL1&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 地方 - 江苏教育",江苏教育
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=s51XLs&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=s51XLs&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 地方 - 江苏影视频道",江苏影视频道
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HkKfvB&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HkKfvB&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 地方 - 江苏综艺频道",江苏综艺频道
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6VI5Q6&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6VI5Q6&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 地方 - 公共新闻频道",公共新闻频道
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=IZGsRb&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=IZGsRb&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 地方 - 盐城新闻综合",盐城新闻综合
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=C910ij&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=C910ij&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 地方 - 淮安新闻综合",淮安新闻综合
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=r8QWmZ&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=r8QWmZ&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 地方 - 泰州新闻综合",泰州新闻综合
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6LfK8x&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6LfK8x&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 地方 - 连云港新闻综合",连云港新闻综合
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5b5FYu&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5b5FYu&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 地方 - 宿迁新闻综合",宿迁新闻综合
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JG9yN3&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JG9yN3&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 地方 - 徐州新闻综合",徐州新闻综合
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ttRVzb&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ttRVzb&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 地方 - 优漫卡通频道",优漫卡通频道
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=G2Vt6u&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=G2Vt6u&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 地方 - 江阴新闻综合",江阴新闻综合
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=t4lIUp&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=t4lIUp&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 地方 - 南通新闻综合",南通新闻综合
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zYYJWc&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zYYJWc&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 地方 - 宜兴新闻综合",宜兴新闻综合
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=WPHjhZ&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=WPHjhZ&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 地方 - 溧水新闻综合",溧水新闻综合
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=8YkJLH&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=8YkJLH&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 地方 - 陕西银龄频道",陕西银龄频道
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=PmQuJs&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=PmQuJs&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 地方 - 陕西都市青春频道",陕西都市青春频道
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xTaCck&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xTaCck&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 地方 - 陕西秦腔频道",陕西秦腔频道
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2RRMNx&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2RRMNx&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 地方 - 陕西新闻资讯频道",陕西新闻资讯频道
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=VXvFSC&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=VXvFSC&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 地方 - 财富天下",财富天下
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5jsAMm&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5jsAMm&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 地方 - 镇江新闻综合",镇江新闻综合
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TD337E&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TD337E&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 地方 - 辽宁广播电视台公共频道",辽宁广播电视台公共频道
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=A6gq1f&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=A6gq1f&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 地方 - 辽宁广播电视台生活频道",辽宁广播电视台生活频道
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=mTfd6y&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=mTfd6y&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 地方 - 辽宁广播电视台影视剧频道",辽宁广播电视台影视剧频道
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=meYTkT&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=meYTkT&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 地方 - 宁夏广播电视台文旅频道",宁夏广播电视台文旅频道
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LVev8F&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LVev8F&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 地方 - 宁夏广播电视台经济频道",宁夏广播电视台经济频道
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TNcg07&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TNcg07&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 影视 - 经典香港电影",经典香港电影
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HKydHp&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HKydHp&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 影视 - 抗战经典影片",抗战经典影片
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=O33dbG&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=O33dbG&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 影视 - 新片放映厅",新片放映厅
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=CxIseV&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=CxIseV&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 影视 - CHC影迷电影",CHC影迷电影
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bsxthM&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bsxthM&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 影视 - CHC动作电影",CHC动作电影
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bldWKf&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bldWKf&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 影视 - CHC家庭影院",CHC家庭影院
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=F1aVL1&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=F1aVL1&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 影视 - 和美乡途轮播台",和美乡途轮播台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JS6Zf1&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JS6Zf1&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 影视 - 南方影视",南方影视
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FSw9H2&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FSw9H2&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 新闻 - 中国天气",中国天气
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JyUzgU&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JyUzgU&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 教育 - CETV1",CETV1
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=z0FeKZ&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=z0FeKZ&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 教育 - CETV2",CETV2
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vjkJ1f&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vjkJ1f&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 教育 - CETV4",CETV4
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=mTGDEx&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=mTGDEx&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 教育 - 山东教育",山东教育
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Uc7LX2&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Uc7LX2&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 熊猫 - 熊猫频道01高清",熊猫频道01高清
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bMMMTO&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bMMMTO&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 熊猫 - 熊猫频道1",熊猫频道1
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=g3Jl6q&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=g3Jl6q&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 熊猫 - 熊猫频道2",熊猫频道2
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hAmW2s&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hAmW2s&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 熊猫 - 熊猫频道3",熊猫频道3
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=RLRXo2&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=RLRXo2&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 熊猫 - 熊猫频道4",熊猫频道4
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GvbrzX&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GvbrzX&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 熊猫 - 熊猫频道5",熊猫频道5
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=3NeuyM&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=3NeuyM&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 熊猫 - 熊猫频道6",熊猫频道6
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fB0Ie5&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fB0Ie5&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 熊猫 - 熊猫频道7",熊猫频道7
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zVrYED&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zVrYED&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 熊猫 - 熊猫频道8",熊猫频道8
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2g1Ial&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2g1Ial&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 熊猫 - 熊猫频道9",熊猫频道9
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=J7MV4v&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=J7MV4v&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 熊猫 - 熊猫频道10",熊猫频道10
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vCz6wW&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vCz6wW&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 综艺 - 最强综艺趴",最强综艺趴
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Ir0T7T&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Ir0T7T&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 少儿 - 嘉佳卡通",嘉佳卡通
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=o3dgGG&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=o3dgGG&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 少儿 - 经典动画大集合",经典动画大集合
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=O1hgbA&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=O1hgbA&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 少儿 - 新动漫",新动漫
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5EzjT5&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5EzjT5&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 纪实 - 新动力量创一流",新动力量创一流
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2lOYSj&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2lOYSj&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 纪实 - 中华特产",中华特产
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=PgWhOC&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=PgWhOC&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 纪实 - 环球旅游",环球旅游
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tEAgtQ&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tEAgtQ&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 纪实 - 茶",茶
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=qin9GN&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=qin9GN&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - 斯诺克 希金斯晋级 刘宏宇1-4凯伦·威尔逊 【回放】约翰·希金斯4-1刘文炜 03:00",斯诺克 希金斯晋级 刘宏宇1-4凯伦·威尔逊 【回放】约翰·希金斯4-1刘文炜 03:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=KPBdsE&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=KPBdsE&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - 斯诺克 希金斯晋级 刘宏宇1-4凯伦·威尔逊 【回放】凯伦·威尔逊4-1刘宏宇 03:00",斯诺克 希金斯晋级 刘宏宇1-4凯伦·威尔逊 【回放】凯伦·威尔逊4-1刘宏宇 03:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=baq6tL&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=baq6tL&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - 斯诺克 希金斯晋级 刘宏宇1-4凯伦·威尔逊 【回放】大卫·吉尔伯特4-1罗比·麦圭根 03:00",斯诺克 希金斯晋级 刘宏宇1-4凯伦·威尔逊 【回放】大卫·吉尔伯特4-1罗比·麦圭根 03:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XgEVq0&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XgEVq0&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - 斯诺克 希金斯晋级 刘宏宇1-4凯伦·威尔逊 【回放】斯图尔特·宾汉姆4-2高阳 03:00",斯诺克 希金斯晋级 刘宏宇1-4凯伦·威尔逊 【回放】斯图尔特·宾汉姆4-2高阳 03:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1csKEl&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1csKEl&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - 斯诺克 希金斯晋级 刘宏宇1-4凯伦·威尔逊 【回放】埃利奥特·斯莱塞3-4山姆·克雷吉 03:00",斯诺克 希金斯晋级 刘宏宇1-4凯伦·威尔逊 【回放】埃利奥特·斯莱塞3-4山姆·克雷吉 03:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JuUMHU&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JuUMHU&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - 斯诺克 希金斯晋级 刘宏宇1-4凯伦·威尔逊 【回放】克里斯·韦克林3-4利亚姆·普伦 03:00",斯诺克 希金斯晋级 刘宏宇1-4凯伦·威尔逊 【回放】克里斯·韦克林3-4利亚姆·普伦 03:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XZhV3H&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XZhV3H&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - WTA 奥索里奥、森梅兹、韩天遇晋级次轮 2026WTA梅里达站女单第1轮回放：韩天遇2-1扎拉祖哈（英文原声） 04:00",WTA 奥索里奥、森梅兹、韩天遇晋级次轮 2026WTA梅里达站女单第1轮回放：韩天遇2-1扎拉祖哈（英文原声） 04:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vs9mtO&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vs9mtO&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - WTA 奥索里奥、森梅兹、韩天遇晋级次轮 【回放】韩天遇2-1扎拉祖哈 04:00",WTA 奥索里奥、森梅兹、韩天遇晋级次轮 【回放】韩天遇2-1扎拉祖哈 04:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=w0j0G8&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=w0j0G8&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - WTA 奥索里奥、森梅兹、韩天遇晋级次轮 【回放】布拉斯0-2森梅兹 04:00",WTA 奥索里奥、森梅兹、韩天遇晋级次轮 【回放】布拉斯0-2森梅兹 04:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=cGg80b&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=cGg80b&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - WTA 奥索里奥、森梅兹、韩天遇晋级次轮 【回放】布克沙2-0维基奇 04:00",WTA 奥索里奥、森梅兹、韩天遇晋级次轮 【回放】布克沙2-0维基奇 04:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vXXgoo&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vXXgoo&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - WTA 奥索里奥、森梅兹、韩天遇晋级次轮 【回放】奥索里奥2-0曾丽美 04:00",WTA 奥索里奥、森梅兹、韩天遇晋级次轮 【回放】奥索里奥2-0曾丽美 04:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2xxkre&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2xxkre&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - WTA 奥索里奥、森梅兹、韩天遇晋级次轮 【回放】布克沙2-0维基奇（英文原声） 04:00",WTA 奥索里奥、森梅兹、韩天遇晋级次轮 【回放】布克沙2-0维基奇（英文原声） 04:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=WV2UkA&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=WV2UkA&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - WTA 奥索里奥、森梅兹、韩天遇晋级次轮 【回放】布拉斯0-2森梅兹（英文原声） 04:00",WTA 奥索里奥、森梅兹、韩天遇晋级次轮 【回放】布拉斯0-2森梅兹（英文原声） 04:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=641qpb&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=641qpb&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - WTA 奥索里奥、森梅兹、韩天遇晋级次轮 【回放】奥索里奥-曾丽美（英文原声） 04:00",WTA 奥索里奥、森梅兹、韩天遇晋级次轮 【回放】奥索里奥-曾丽美（英文原声） 04:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=89ER7t&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=89ER7t&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - NBA 步行者VS76人 全场回放（贾磊） 07:55",NBA 步行者VS76人 全场回放（贾磊） 07:55
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0BpE6U&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0BpE6U&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - NBA 步行者VS76人 全场回放（英文原声） 07:55",NBA 步行者VS76人 全场回放（英文原声） 07:55
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XhdjsS&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XhdjsS&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - NBA 老鹰VS奇才 全场回放（刘芳宇） 08:25",NBA 老鹰VS奇才 全场回放（刘芳宇） 08:25
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0sEbUT&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0sEbUT&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - NBA 老鹰VS奇才 全场回放（英文原声） 08:25",NBA 老鹰VS奇才 全场回放（英文原声） 08:25
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=BlNBq4&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=BlNBq4&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - NBA 猛龙VS雷霆 全场回放（罗森） 08:25",NBA 猛龙VS雷霆 全场回放（罗森） 08:25
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=iPUWOx&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=iPUWOx&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - NBA 猛龙VS雷霆 全场回放（英文原声） 08:25",NBA 猛龙VS雷霆 全场回放（英文原声） 08:25
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=C8x97F&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=C8x97F&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - NBA 篮网VS独行侠 全场回放（王凯） 08:25",NBA 篮网VS独行侠 全场回放（王凯） 08:25
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4p81Ik&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4p81Ik&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - NBA 篮网VS独行侠 全场回放（英文原声） 08:25",NBA 篮网VS独行侠 全场回放（英文原声） 08:25
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0ptq4j&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0ptq4j&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - NBA 骑士VS尼克斯 全场回放（吴博文） 08:25",NBA 骑士VS尼克斯 全场回放（吴博文） 08:25
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=AWbsh7&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=AWbsh7&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - NBA 骑士VS尼克斯 全场回放（大史） 08:25",NBA 骑士VS尼克斯 全场回放（大史） 08:25
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7DBizn&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7DBizn&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - NBA 骑士VS尼克斯 全场回放（英文原声） 08:25",NBA 骑士VS尼克斯 全场回放（英文原声） 08:25
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5wJ0zu&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5wJ0zu&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - NBA 鹈鹕VS勇士 全场回放（孙博、闫宇峰、小七） 08:55",NBA 鹈鹕VS勇士 全场回放（孙博、闫宇峰、小七） 08:55
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=mRjcH4&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=mRjcH4&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - NBA 鹈鹕VS勇士 全场回放（拜月宁） 08:55",NBA 鹈鹕VS勇士 全场回放（拜月宁） 08:55
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=rNzfCs&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=rNzfCs&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - NBA 鹈鹕VS勇士 全场回放（英文原声） 08:55",NBA 鹈鹕VS勇士 全场回放（英文原声） 08:55
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nMttua&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nMttua&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - NBA 雄鹿VS热火 全场回放（周赫） 08:55",NBA 雄鹿VS热火 全场回放（周赫） 08:55
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=q99mBZ&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=q99mBZ&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - NBA 雄鹿VS热火 全场回放（英文原声） 08:55",NBA 雄鹿VS热火 全场回放（英文原声） 08:55
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=MHL8NY&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=MHL8NY&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - NBA 公牛VS黄蜂 全场回放（张泽欣） 08:55",NBA 公牛VS黄蜂 全场回放（张泽欣） 08:55
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zZlkJm&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zZlkJm&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - NBA 公牛VS黄蜂 全场回放（英文原声） 08:55",NBA 公牛VS黄蜂 全场回放（英文原声） 08:55
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NEV3NG&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NEV3NG&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - NBA 太阳VS凯尔特人 全场回放（蔡凯臣、季孟年） 09:55",NBA 太阳VS凯尔特人 全场回放（蔡凯臣、季孟年） 09:55
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=8pBrZ8&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=8pBrZ8&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - NBA 太阳VS凯尔特人 全场回放（英文原声） 09:55",NBA 太阳VS凯尔特人 全场回放（英文原声） 09:55
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=o5JVHv&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=o5JVHv&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - G联赛 撕裂之城混音VS圣克鲁兹勇士 全场回放（邢晨） 09:55",G联赛 撕裂之城混音VS圣克鲁兹勇士 全场回放（邢晨） 09:55
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=B9FqyN&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=B9FqyN&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - G联赛 撕裂之城混音VS圣克鲁兹勇士 全场回放（英文原声） 09:55",G联赛 撕裂之城混音VS圣克鲁兹勇士 全场回放（英文原声） 09:55
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HeZLFP&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HeZLFP&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - NBA 开拓者VS森林狼 全场回放（王冠证、陈正昊、王羽希） 10:55",NBA 开拓者VS森林狼 全场回放（王冠证、陈正昊、王羽希） 10:55
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NbNAgI&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NbNAgI&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - NBA 开拓者VS森林狼 全场回放（英文原声） 10:55",NBA 开拓者VS森林狼 全场回放（英文原声） 10:55
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=PxB9zL&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=PxB9zL&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - WTT 第四比赛日热身区 全场回放（一） 11:00",WTT 第四比赛日热身区 全场回放（一） 11:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=U05Vq1&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=U05Vq1&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - WTT 第四比赛日热身区 全场回放（二） 11:00",WTT 第四比赛日热身区 全场回放（二） 11:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=evWkEA&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=evWkEA&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - WTT 第四比赛日热身区 全场回放（三） 11:00",WTT 第四比赛日热身区 全场回放（三） 11:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6fpcDc&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6fpcDc&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - NBA 湖人VS魔术 全场回放（杨健、曾令旭、佳依） 11:25",NBA 湖人VS魔术 全场回放（杨健、曾令旭、佳依） 11:25
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=z14jsI&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=z14jsI&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - NBA 湖人VS魔术 全场回放（郑泽鹏） 11:25",NBA 湖人VS魔术 全场回放（郑泽鹏） 11:25
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=u4qqGY&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=u4qqGY&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - NBA 湖人VS魔术 全场回放（英文原声） 11:25",NBA 湖人VS魔术 全场回放（英文原声） 11:25
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NUaeEZ&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NUaeEZ&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - WTT 蒯曼/陈熠3-1险胜  向鹏晋级16强 全场回放（侯英超） 12:00",WTT 蒯曼/陈熠3-1险胜  向鹏晋级16强 全场回放（侯英超） 12:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=yC3Bow&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=yC3Bow&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - WTT 蒯曼/陈熠3-1险胜  向鹏晋级16强 全场回放（凌维康） 12:00",WTT 蒯曼/陈熠3-1险胜  向鹏晋级16强 全场回放（凌维康） 12:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=OXW1Z7&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=OXW1Z7&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - WTT 蒯曼/陈熠3-1险胜  向鹏晋级16强 全场回放（一号桌） 12:00",WTT 蒯曼/陈熠3-1险胜  向鹏晋级16强 全场回放（一号桌） 12:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=VqXLbf&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=VqXLbf&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - WTT 蒯曼/陈熠3-1险胜  向鹏晋级16强 全场回放（二号桌） 12:00",WTT 蒯曼/陈熠3-1险胜  向鹏晋级16强 全场回放（二号桌） 12:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Imc4EQ&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Imc4EQ&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - WTT 蒯曼/陈熠3-1险胜  向鹏晋级16强 全场回放（三号桌） 12:00",WTT 蒯曼/陈熠3-1险胜  向鹏晋级16强 全场回放（三号桌） 12:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=dF0EKt&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=dF0EKt&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - WTT 蒯曼/陈熠3-1险胜  向鹏晋级16强 全场回放（四号桌） 12:00",WTT 蒯曼/陈熠3-1险胜  向鹏晋级16强 全场回放（四号桌） 12:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=axKk0S&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=axKk0S&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - WTT 蒯曼/陈熠3-1险胜  向鹏晋级16强 全场回放（英文解说） 12:00",WTT 蒯曼/陈熠3-1险胜  向鹏晋级16强 全场回放（英文解说） 12:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=J27CaR&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=J27CaR&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - BWF 国羽连战告捷！王祉怡2-0速胜 四号场全场回放（二） 17:00",BWF 国羽连战告捷！王祉怡2-0速胜 四号场全场回放（二） 17:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jGQqFy&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jGQqFy&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - BWF 国羽连战告捷！王祉怡2-0速胜 一号场全场回放（二） 17:00",BWF 国羽连战告捷！王祉怡2-0速胜 一号场全场回放（二） 17:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2pbY1Z&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2pbY1Z&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - BWF 国羽连战告捷！王祉怡2-0速胜 二号场全场回放（二） 17:00",BWF 国羽连战告捷！王祉怡2-0速胜 二号场全场回放（二） 17:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=CVNlIo&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=CVNlIo&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - BWF 国羽连战告捷！王祉怡2-0速胜 三号场全场回放（二） 17:00",BWF 国羽连战告捷！王祉怡2-0速胜 三号场全场回放（二） 17:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=X5XtHj&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=X5XtHj&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - BWF 国羽连战告捷！王祉怡2-0速胜 【回放】王祉怡2-0塔斯尼姆 17:00",BWF 国羽连战告捷！王祉怡2-0速胜 【回放】王祉怡2-0塔斯尼姆 17:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2zQtsE&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2zQtsE&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - BWF 国羽连战告捷！王祉怡2-0速胜 【回放】韩千禧2-1林湘缇 17:00",BWF 国羽连战告捷！王祉怡2-0速胜 【回放】韩千禧2-1林湘缇 17:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=UpiCVf&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=UpiCVf&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - BWF 国羽连战告捷！王祉怡2-0速胜 【回放】米兰达0-2韩悦 17:00",BWF 国羽连战告捷！王祉怡2-0速胜 【回放】米兰达0-2韩悦 17:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XUjYgT&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XUjYgT&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - BWF 国羽连战告捷！王祉怡2-0速胜 【回放】亚历克斯/鲁斯0-2陈柏阳/刘毅 17:00",BWF 国羽连战告捷！王祉怡2-0速胜 【回放】亚历克斯/鲁斯0-2陈柏阳/刘毅 17:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9PejTK&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9PejTK&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - BWF 国羽连战告捷！王祉怡2-0速胜 【回放】翁泓阳2-0奥尔多夫 17:00",BWF 国羽连战告捷！王祉怡2-0速胜 【回放】翁泓阳2-0奥尔多夫 17:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=26yNXY&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=26yNXY&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - BWF 国羽连战告捷！王祉怡2-0速胜 【回放】加西亚/露西娅0-2郭新娃/陈芳卉 17:00",BWF 国羽连战告捷！王祉怡2-0速胜 【回放】加西亚/露西娅0-2郭新娃/陈芳卉 17:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uH60PW&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uH60PW&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - BWF 国羽连战告捷！王祉怡2-0速胜 【回放】小波波夫2-0基兰 17:00",BWF 国羽连战告捷！王祉怡2-0速胜 【回放】小波波夫2-0基兰 17:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Jtztrg&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Jtztrg&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - BWF 国羽连战告捷！王祉怡2-0速胜 【回放】阮日2-1周天成 17:00",BWF 国羽连战告捷！王祉怡2-0速胜 【回放】阮日2-1周天成 17:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ATHTnl&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ATHTnl&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - BWF 国羽连战告捷！王祉怡2-0速胜 【回放】伊沙拉尼0-2李美妙 17:00",BWF 国羽连战告捷！王祉怡2-0速胜 【回放】伊沙拉尼0-2李美妙 17:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=obPpA4&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=obPpA4&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - BWF 国羽连战告捷！王祉怡2-0速胜 一号场全场回放（一） 17:00",BWF 国羽连战告捷！王祉怡2-0速胜 一号场全场回放（一） 17:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=05ApyW&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=05ApyW&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - BWF 国羽连战告捷！王祉怡2-0速胜 二号场全场回放（一） 17:00",BWF 国羽连战告捷！王祉怡2-0速胜 二号场全场回放（一） 17:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=sHuNLz&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=sHuNLz&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - BWF 国羽连战告捷！王祉怡2-0速胜 三号场全场回放（一） 17:00",BWF 国羽连战告捷！王祉怡2-0速胜 三号场全场回放（一） 17:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zJ3s1I&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zJ3s1I&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - BWF 国羽连战告捷！王祉怡2-0速胜 四号场全场回放（一） 17:00",BWF 国羽连战告捷！王祉怡2-0速胜 四号场全场回放（一） 17:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=RmnV5y&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=RmnV5y&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - WTT 孙颖莎闯进16强 黄友政/陈熠止步8强 全场回放（周冠达、刘国正） 18:00",WTT 孙颖莎闯进16强 黄友政/陈熠止步8强 全场回放（周冠达、刘国正） 18:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zAOSCN&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zAOSCN&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - WTT 孙颖莎闯进16强 黄友政/陈熠止步8强 全场回放（一号桌） 18:00",WTT 孙颖莎闯进16强 黄友政/陈熠止步8强 全场回放（一号桌） 18:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Czrqb1&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Czrqb1&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - WTT 孙颖莎闯进16强 黄友政/陈熠止步8强 全场回放（二号桌） 18:00",WTT 孙颖莎闯进16强 黄友政/陈熠止步8强 全场回放（二号桌） 18:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=QCRchB&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=QCRchB&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - WTT 孙颖莎闯进16强 黄友政/陈熠止步8强 全场回放（英文解说） 18:00",WTT 孙颖莎闯进16强 黄友政/陈熠止步8强 全场回放（英文解说） 18:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=L9tQWO&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=L9tQWO&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - 斯诺克 肖国栋3-4不敌利索夫斯基 【回放】安东尼·麦克吉尔2-4杰克·琼斯 18:00",斯诺克 肖国栋3-4不敌利索夫斯基 【回放】安东尼·麦克吉尔2-4杰克·琼斯 18:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZK36Y6&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZK36Y6&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - 斯诺克 肖国栋3-4不敌利索夫斯基 【回放】肖国栋3-4杰克·利索夫斯基 18:00",斯诺克 肖国栋3-4不敌利索夫斯基 【回放】肖国栋3-4杰克·利索夫斯基 18:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Ku81jF&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Ku81jF&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - NBL 焦作文旅VS上海玄鸟 全场回放（官方解说） 19:20",NBL 焦作文旅VS上海玄鸟 全场回放（官方解说） 19:20
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=3dRVi1&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=3dRVi1&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - NBL 焦作文旅VS上海玄鸟 全场回放（原声） 19:20",NBL 焦作文旅VS上海玄鸟 全场回放（原声） 19:20
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=sJiAvW&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=sJiAvW&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - 斯诺克 常冰玉憾负 江俊、吴宜泽晋级 2026斯诺克威尔士公开赛1/32决赛回放：罗比·威廉姆斯4-3斯蒂芬·马奎尔 21:00",斯诺克 常冰玉憾负 江俊、吴宜泽晋级 2026斯诺克威尔士公开赛1/32决赛回放：罗比·威廉姆斯4-3斯蒂芬·马奎尔 21:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FwIYbM&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FwIYbM&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - 斯诺克 常冰玉憾负 江俊、吴宜泽晋级 【回放】常冰玉3-4杰克逊·佩奇（柏林） 21:00",斯诺克 常冰玉憾负 江俊、吴宜泽晋级 【回放】常冰玉3-4杰克逊·佩奇（柏林） 21:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LqUv17&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LqUv17&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - 斯诺克 常冰玉憾负 江俊、吴宜泽晋级 【回放】乔·奥康纳2-4吴宜泽（朱峰立） 21:00",斯诺克 常冰玉憾负 江俊、吴宜泽晋级 【回放】乔·奥康纳2-4吴宜泽（朱峰立） 21:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hihL5f&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hihL5f&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - 斯诺克 常冰玉憾负 江俊、吴宜泽晋级 【回放】巴里·霍金斯4-2庞俊旭（朱峰立） 21:00",斯诺克 常冰玉憾负 江俊、吴宜泽晋级 【回放】巴里·霍金斯4-2庞俊旭（朱峰立） 21:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4YBLB3&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4YBLB3&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - 斯诺克 常冰玉憾负 江俊、吴宜泽晋级 【回放】马克·威廉姆斯4-1马丁·奥德奈尔 21:00",斯诺克 常冰玉憾负 江俊、吴宜泽晋级 【回放】马克·威廉姆斯4-1马丁·奥德奈尔 21:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Cftaip&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Cftaip&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - 斯诺克 常冰玉憾负 江俊、吴宜泽晋级 【回放】常冰玉3-4杰克逊·佩奇 21:00",斯诺克 常冰玉憾负 江俊、吴宜泽晋级 【回放】常冰玉3-4杰克逊·佩奇 21:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=IBLdfz&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=IBLdfz&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - 斯诺克 常冰玉憾负 江俊、吴宜泽晋级 【回放】乔·奥康纳2-4吴宜泽 21:00",斯诺克 常冰玉憾负 江俊、吴宜泽晋级 【回放】乔·奥康纳2-4吴宜泽 21:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=3u19Hf&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=3u19Hf&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - 斯诺克 常冰玉憾负 江俊、吴宜泽晋级 【回放】江俊4-0袁思俊 21:00",斯诺克 常冰玉憾负 江俊、吴宜泽晋级 【回放】江俊4-0袁思俊 21:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=IZEOOj&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=IZEOOj&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - 斯诺克 常冰玉憾负 江俊、吴宜泽晋级 【回放】侯赛因·瓦菲1-4尼尔·罗伯逊 21:00",斯诺克 常冰玉憾负 江俊、吴宜泽晋级 【回放】侯赛因·瓦菲1-4尼尔·罗伯逊 21:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZIPSDB&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZIPSDB&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - 斯诺克 常冰玉憾负 江俊、吴宜泽晋级 【回放】巴里·霍金斯4-2庞俊旭 21:00",斯诺克 常冰玉憾负 江俊、吴宜泽晋级 【回放】巴里·霍金斯4-2庞俊旭 21:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zyrFn3&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zyrFn3&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-昨天 - 斯诺克 常冰玉憾负 江俊、吴宜泽晋级 【回放】迪伦·埃莫里1-4大卫·格雷斯 21:00",斯诺克 常冰玉憾负 江俊、吴宜泽晋级 【回放】迪伦·埃莫里1-4大卫·格雷斯 21:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=8gcPYU&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=8gcPYU&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - 斯诺克 赵心童4-2穆迪 张安达、周跃龙晋级 【回放】斯坦·穆迪2-4赵心童（朱峰立） 03:00",斯诺克 赵心童4-2穆迪 张安达、周跃龙晋级 【回放】斯坦·穆迪2-4赵心童（朱峰立） 03:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=lm14nx&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=lm14nx&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - 斯诺克 赵心童4-2穆迪 张安达、周跃龙晋级 【回放】张安达4-2利亚姆·普伦 03:00",斯诺克 赵心童4-2穆迪 张安达、周跃龙晋级 【回放】张安达4-2利亚姆·普伦 03:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9ElTUK&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9ElTUK&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - 斯诺克 赵心童4-2穆迪 张安达、周跃龙晋级 【回放】凯伦·威尔逊1-4周跃龙 03:00",斯诺克 赵心童4-2穆迪 张安达、周跃龙晋级 【回放】凯伦·威尔逊1-4周跃龙 03:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=20AxPp&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=20AxPp&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - 斯诺克 赵心童4-2穆迪 张安达、周跃龙晋级 【回放】布尔丘·雷维斯3-4约翰·希金斯 03:00",斯诺克 赵心童4-2穆迪 张安达、周跃龙晋级 【回放】布尔丘·雷维斯3-4约翰·希金斯 03:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ltJgpQ&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ltJgpQ&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - 斯诺克 赵心童4-2穆迪 张安达、周跃龙晋级 【回放】斯坦·穆迪2-4赵心童 03:00",斯诺克 赵心童4-2穆迪 张安达、周跃龙晋级 【回放】斯坦·穆迪2-4赵心童 03:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uBgc1Q&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uBgc1Q&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - 斯诺克 赵心童4-2穆迪 张安达、周跃龙晋级 【回放】斯图尔特·宾汉姆4-2大卫·吉尔伯特 03:00",斯诺克 赵心童4-2穆迪 张安达、周跃龙晋级 【回放】斯图尔特·宾汉姆4-2大卫·吉尔伯特 03:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uya4zH&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uya4zH&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - 斯诺克 赵心童4-2穆迪 张安达、周跃龙晋级 【回放】加里·威尔逊1-4山姆·克雷吉 03:00",斯诺克 赵心童4-2穆迪 张安达、周跃龙晋级 【回放】加里·威尔逊1-4山姆·克雷吉 03:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=y9qcvs&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=y9qcvs&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - WTA 卡辛塞娃、布兹科娃、博尔特晋级次轮 2026WTA梅里达站Day3全场回放（二）（英文原声） 04:00",WTA 卡辛塞娃、布兹科娃、博尔特晋级次轮 2026WTA梅里达站Day3全场回放（二）（英文原声） 04:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=w3t6Nt&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=w3t6Nt&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - WTA 卡辛塞娃、布兹科娃、博尔特晋级次轮 2026WTA梅里达站女单第2轮回放：布克沙2-0斯塔库斯奇 04:00",WTA 卡辛塞娃、布兹科娃、博尔特晋级次轮 2026WTA梅里达站女单第2轮回放：布克沙2-0斯塔库斯奇 04:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XHKuDj&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XHKuDj&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - WTA 卡辛塞娃、布兹科娃、博尔特晋级次轮 【回放】布克沙2-0斯塔库斯奇（英文原声） 04:00",WTA 卡辛塞娃、布兹科娃、博尔特晋级次轮 【回放】布克沙2-0斯塔库斯奇（英文原声） 04:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Zm3oaX&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Zm3oaX&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - WTA 卡辛塞娃、布兹科娃、博尔特晋级次轮 【回放】博尔特1-0（退赛）奥索里奥 04:00",WTA 卡辛塞娃、布兹科娃、博尔特晋级次轮 【回放】博尔特1-0（退赛）奥索里奥 04:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DEehPn&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DEehPn&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - WTA 卡辛塞娃、布兹科娃、博尔特晋级次轮 【回放】博尔特1-0（退赛）奥索里奥（英文原声） 04:00",WTA 卡辛塞娃、布兹科娃、博尔特晋级次轮 【回放】博尔特1-0（退赛）奥索里奥（英文原声） 04:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=SWzcul&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=SWzcul&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - WTA 卡辛塞娃、布兹科娃、博尔特晋级次轮 【回放】阿朗戈（退赛）1-2布兹科娃（英文原声） 04:00",WTA 卡辛塞娃、布兹科娃、博尔特晋级次轮 【回放】阿朗戈（退赛）1-2布兹科娃（英文原声） 04:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fXemd0&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fXemd0&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - WTA 卡辛塞娃、布兹科娃、博尔特晋级次轮 【回放】阿朗戈（退赛）1-2布兹科娃 04:00",WTA 卡辛塞娃、布兹科娃、博尔特晋级次轮 【回放】阿朗戈（退赛）1-2布兹科娃 04:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=dTXgye&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=dTXgye&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - WTA 卡辛塞娃、布兹科娃、博尔特晋级次轮 【回放】里内特1-2卡辛塞娃 04:00",WTA 卡辛塞娃、布兹科娃、博尔特晋级次轮 【回放】里内特1-2卡辛塞娃 04:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=aWBONL&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=aWBONL&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - WTA 卡辛塞娃、布兹科娃、博尔特晋级次轮 【回放】里内特1-2卡辛塞娃（英文原声） 04:00",WTA 卡辛塞娃、布兹科娃、博尔特晋级次轮 【回放】里内特1-2卡辛塞娃（英文原声） 04:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=MeZ1i0&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=MeZ1i0&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - NBA 活塞VS雷霆 全场回放（罗森） 08:25",NBA 活塞VS雷霆 全场回放（罗森） 08:25
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NHaUhP&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NHaUhP&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - NBA 活塞VS雷霆 全场回放（英文原声） 08:25",NBA 活塞VS雷霆 全场回放（英文原声） 08:25
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=i48Zpu&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=i48Zpu&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - NBA 灰熊VS勇士 全场回放（姜帆、曾令旭、小七） 08:25",NBA 灰熊VS勇士 全场回放（姜帆、曾令旭、小七） 08:25
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=QrWPjf&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=QrWPjf&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - NBA 灰熊VS勇士 全场回放（董倡硕） 08:25",NBA 灰熊VS勇士 全场回放（董倡硕） 08:25
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0StJty&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0StJty&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - NBA 灰熊VS勇士 全场回放（英文原声） 08:25",NBA 灰熊VS勇士 全场回放（英文原声） 08:25
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=lZui24&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=lZui24&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - NBA 猛龙VS马刺 全场回放（王晓晨） 08:25",NBA 猛龙VS马刺 全场回放（王晓晨） 08:25
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=X0mkrK&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=X0mkrK&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - NBA 猛龙VS马刺 全场回放（英文原声） 08:25",NBA 猛龙VS马刺 全场回放（英文原声） 08:25
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5TwD2u&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5TwD2u&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - NBA 雄鹿VS骑士 全场回放（王冠证、陈正昊、徐咏、魏欣怡） 08:55",NBA 雄鹿VS骑士 全场回放（王冠证、陈正昊、徐咏、魏欣怡） 08:55
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=03suyo&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=03suyo&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - NBA 雄鹿VS骑士 全场回放（大史） 08:55",NBA 雄鹿VS骑士 全场回放（大史） 08:55
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=rWRc8O&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=rWRc8O&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - NBA 雄鹿VS骑士 全场回放（英文原声） 08:55",NBA 雄鹿VS骑士 全场回放（英文原声） 08:55
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=l7kMGf&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=l7kMGf&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - NBA 火箭VS国王 全场回放（连睿、周鹏、拜月宁） 08:55",NBA 火箭VS国王 全场回放（连睿、周鹏、拜月宁） 08:55
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GLfUw9&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GLfUw9&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - NBA 火箭VS国王 全场回放（英文原声） 08:55",NBA 火箭VS国王 全场回放（英文原声） 08:55
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=QPiAry&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=QPiAry&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - NBA 掘金VS凯尔特人 全场回放 10:55",NBA 掘金VS凯尔特人 全场回放 10:55
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=IZn9nt&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=IZn9nt&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - NBA 掘金VS凯尔特人 全场回放（蔡凯臣、季孟年） 10:55",NBA 掘金VS凯尔特人 全场回放（蔡凯臣、季孟年） 10:55
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1thiXd&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1thiXd&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - WTT 第五比赛日热身区 热身馆 11:00",WTT 第五比赛日热身区 热身馆 11:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GiUDcE&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GiUDcE&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - WTT 林仲勋/申裕斌3-2险胜  张本美和晋级8强 全场回放（程靖淇） 12:00",WTT 林仲勋/申裕斌3-2险胜  张本美和晋级8强 全场回放（程靖淇） 12:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fpS7cr&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fpS7cr&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - WTT 林仲勋/申裕斌3-2险胜  张本美和晋级8强 全场回放（现场视角） 12:00",WTT 林仲勋/申裕斌3-2险胜  张本美和晋级8强 全场回放（现场视角） 12:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bsXUDM&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bsXUDM&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - WTT 林仲勋/申裕斌3-2险胜  张本美和晋级8强 2026WTT新加坡大满贯Day5上午场全场回放 12:00",WTT 林仲勋/申裕斌3-2险胜  张本美和晋级8强 2026WTT新加坡大满贯Day5上午场全场回放 12:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0C73pY&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0C73pY&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - WTT 林仲勋/申裕斌3-2险胜  张本美和晋级8强 2026WTT新加坡大满贯Day5上午场全场回放（英文解说） 12:00",WTT 林仲勋/申裕斌3-2险胜  张本美和晋级8强 2026WTT新加坡大满贯Day5上午场全场回放（英文解说） 12:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HPuQxO&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HPuQxO&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - WTT 王楚钦激战林德 王曼昱冲8强 周泽昊 刘国正 17:30",WTT 王楚钦激战林德 王曼昱冲8强 周泽昊 刘国正 17:30
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Yez8Nf&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Yez8Nf&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - WTT 王楚钦激战林德 王曼昱冲8强 周冠达 18:00",WTT 王楚钦激战林德 王曼昱冲8强 周冠达 18:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FmhqPH&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FmhqPH&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - WTT 王楚钦激战林德 王曼昱冲8强 1号桌 18:00",WTT 王楚钦激战林德 王曼昱冲8强 1号桌 18:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XagaVU&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XagaVU&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - WTT 王楚钦激战林德 王曼昱冲8强 2号桌 18:00",WTT 王楚钦激战林德 王曼昱冲8强 2号桌 18:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=I2wQAF&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=I2wQAF&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - WTT 王楚钦激战林德 王曼昱冲8强 热身馆 11:00",WTT 王楚钦激战林德 王曼昱冲8强 热身馆 11:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=BH4zdD&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=BH4zdD&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - WTT 王楚钦激战林德 王曼昱冲8强 智能字幕 18:00",WTT 王楚钦激战林德 王曼昱冲8强 智能字幕 18:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zMmPbe&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zMmPbe&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - WTT 王楚钦激战林德 王曼昱冲8强 现场视角 18:00",WTT 王楚钦激战林德 王曼昱冲8强 现场视角 18:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=k0kj8K&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=k0kj8K&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - 男篮世预赛 日本VS中国 男篮世预赛 17:00",男篮世预赛 日本VS中国 男篮世预赛 17:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zQK9b8&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zQK9b8&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - 男篮世预赛 日本VS中国 赛场原声 17:55",男篮世预赛 日本VS中国 赛场原声 17:55
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=iK7yA9&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=iK7yA9&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - 男篮世预赛 中国台北VS韩国 连睿 周鹏 18:50",男篮世预赛 中国台北VS韩国 连睿 周鹏 18:50
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=iDl0am&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=iDl0am&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - 男篮世预赛 中国台北VS韩国 赛场原声 18:50",男篮世预赛 中国台北VS韩国 赛场原声 18:50
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=esvtsf&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=esvtsf&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - 男篮世预赛 菲律宾VS新西兰 赛场原声 19:20",男篮世预赛 菲律宾VS新西兰 赛场原声 19:20
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9amqFC&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9amqFC&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - NBL 杭州经纬VS江西鲸裕清酒 解说 19:20",NBL 杭州经纬VS江西鲸裕清酒 解说 19:20
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=VYrt2h&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=VYrt2h&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - NBL 杭州经纬VS江西鲸裕清酒 赛场原声 19:20",NBL 杭州经纬VS江西鲸裕清酒 赛场原声 19:20
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1thMq5&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1thMq5&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - NBL 山东蜜獾VS长沙勇胜 解说 19:20",NBL 山东蜜獾VS长沙勇胜 解说 19:20
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=yYgkCU&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=yYgkCU&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - NBL 山东蜜獾VS长沙勇胜 赛场原声 19:20",NBL 山东蜜獾VS长沙勇胜 赛场原声 19:20
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Hn17B0&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Hn17B0&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - NBL 香港金牛VS安徽皖江龙 解说 19:50",NBL 香港金牛VS安徽皖江龙 解说 19:50
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=wLS5BL&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=wLS5BL&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - NBL 香港金牛VS安徽皖江龙 赛场原声 19:50",NBL 香港金牛VS安徽皖江龙 赛场原声 19:50
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=32mmT8&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=32mmT8&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - BWF 国羽冲击8强！陆光祖率先出战 1号场 20:00",BWF 国羽冲击8强！陆光祖率先出战 1号场 20:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vV5OUH&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vV5OUH&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - BWF 国羽冲击8强！陆光祖率先出战 2号场 20:00",BWF 国羽冲击8强！陆光祖率先出战 2号场 20:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=BlWkyT&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=BlWkyT&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - BWF 国羽冲击8强！陆光祖率先出战 3号场 20:00",BWF 国羽冲击8强！陆光祖率先出战 3号场 20:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NGYbKG&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NGYbKG&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - BWF 国羽冲击8强！陆光祖率先出战 4号场 20:00",BWF 国羽冲击8强！陆光祖率先出战 4号场 20:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7ru1uk&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7ru1uk&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - 斯诺克 马克·威廉姆斯PK霍金斯 江俊出战 朱峰立 21:00",斯诺克 马克·威廉姆斯PK霍金斯 江俊出战 朱峰立 21:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=l1fYoL&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=l1fYoL&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - 斯诺克 马克·威廉姆斯PK霍金斯 江俊出战 1号桌 21:00",斯诺克 马克·威廉姆斯PK霍金斯 江俊出战 1号桌 21:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Wu5BNR&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Wu5BNR&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-今天 - 斯诺克 马克·威廉姆斯PK霍金斯 江俊出战 2号桌 21:00",斯诺克 马克·威廉姆斯PK霍金斯 江俊出战 2号桌 21:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hfVWqs&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hfVWqs&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - 男篮世预赛 刚果共和国VS马达加斯加 赛场原声 01:50",男篮世预赛 刚果共和国VS马达加斯加 赛场原声 01:50
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=WRy552&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=WRy552&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - 男篮世预赛 安哥拉VS乌干达 赛场原声 01:50",男篮世预赛 安哥拉VS乌干达 赛场原声 01:50
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LFGSZL&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LFGSZL&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - 斯诺克 张安达PK希金斯 赵心童迎战宾汉姆 朱蒙 04:00",斯诺克 张安达PK希金斯 赵心童迎战宾汉姆 朱蒙 04:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5AHR8o&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5AHR8o&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - 斯诺克 张安达PK希金斯 赵心童迎战宾汉姆 1号桌 03:00",斯诺克 张安达PK希金斯 赵心童迎战宾汉姆 1号桌 03:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Y9wD7R&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Y9wD7R&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - 斯诺克 张安达PK希金斯 赵心童迎战宾汉姆 2号桌 03:00",斯诺克 张安达PK希金斯 赵心童迎战宾汉姆 2号桌 03:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=VE0u77&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=VE0u77&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - WTA 斯特恩斯vs尤万 约维奇压场亮相 清流 03:00",WTA 斯特恩斯vs尤万 约维奇压场亮相 清流 03:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nBZNcK&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nBZNcK&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - WTA 斯特恩斯vs尤万 约维奇压场亮相 英文原声 03:00",WTA 斯特恩斯vs尤万 约维奇压场亮相 英文原声 03:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NeO7CO&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NeO7CO&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - WTA 李吉妮、保利尼轮番亮相 赛场原声 04:00",WTA 李吉妮、保利尼轮番亮相 赛场原声 04:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=yveu5K&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=yveu5K&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - WTA 李吉妮、保利尼轮番亮相 胡力涛 09:30",WTA 李吉妮、保利尼轮番亮相 胡力涛 09:30
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=yzgzJl&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=yzgzJl&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - WTA 李吉妮、保利尼轮番亮相 英文原声 04:00",WTA 李吉妮、保利尼轮番亮相 英文原声 04:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XNnOCt&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XNnOCt&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - 男篮世预赛 塞内加尔VS科特迪瓦 赛场原声 04:50",男篮世预赛 塞内加尔VS科特迪瓦 赛场原声 04:50
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NUSFMD&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NUSFMD&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - 男篮世预赛 马里VS埃及 赛场原声 04:50",男篮世预赛 马里VS埃及 赛场原声 04:50
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xM0pjc&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xM0pjc&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - 男篮世预赛 牙买加VS巴哈马 赛场原声 07:00",男篮世预赛 牙买加VS巴哈马 赛场原声 07:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4GtPBn&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4GtPBn&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - NBA 76人VS热火 王琰博 07:55",NBA 76人VS热火 王琰博 07:55
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Ga638e&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Ga638e&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - NBA 76人VS热火 英文原声 07:55",NBA 76人VS热火 英文原声 07:55
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nGSD9T&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nGSD9T&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - NBA 步行者VS黄蜂 董倡硕 07:55",NBA 步行者VS黄蜂 董倡硕 07:55
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7UCtxZ&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7UCtxZ&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - NBA 步行者VS黄蜂 英文原声 07:55",NBA 步行者VS黄蜂 英文原声 07:55
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=YScE9F&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=YScE9F&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - 男篮世预赛 波多黎各VS加拿大 赛场原声 08:00",男篮世预赛 波多黎各VS加拿大 赛场原声 08:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DLyHAl&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DLyHAl&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - NBA 篮网VS马刺 王晓晨 08:25",NBA 篮网VS马刺 王晓晨 08:25
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=3D2ZkA&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=3D2ZkA&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - NBA 篮网VS马刺 英文原声 08:25",NBA 篮网VS马刺 英文原声 08:25
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2t3z1b&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2t3z1b&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - NBA 魔术VS火箭 邵化谦 周鹏 08:25",NBA 魔术VS火箭 邵化谦 周鹏 08:25
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Mmwmqs&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Mmwmqs&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - NBA 魔术VS火箭 英文原声 08:25",NBA 魔术VS火箭 英文原声 08:25
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=28PBDK&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=28PBDK&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - NBA 老鹰VS奇才 刘芳宇 08:25",NBA 老鹰VS奇才 刘芳宇 08:25
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uTY9mL&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uTY9mL&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - NBA 老鹰VS奇才 英文原声 08:25",NBA 老鹰VS奇才 英文原声 08:25
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0LC6Sa&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0LC6Sa&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - NBA 公牛VS开拓者 孙博 闫宇峰 秋童 08:45",NBA 公牛VS开拓者 孙博 闫宇峰 秋童 08:45
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GOdVQB&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GOdVQB&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - NBA 公牛VS开拓者 英文原声 08:55",NBA 公牛VS开拓者 英文原声 08:55
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Rl4J1e&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Rl4J1e&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - NBA 公牛VS开拓者 邢晨 08:55",NBA 公牛VS开拓者 邢晨 08:55
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=30kolM&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=30kolM&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - 男篮世预赛 尼加拉瓜VS墨西哥 赛场原声 09:00",男篮世预赛 尼加拉瓜VS墨西哥 赛场原声 09:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=8AEim5&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=8AEim5&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - NBA 独行侠VS国王 张泽欣 09:25",NBA 独行侠VS国王 张泽欣 09:25
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fotjrx&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fotjrx&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - NBA 独行侠VS国王 英文原声 09:25",NBA 独行侠VS国王 英文原声 09:25
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DkQbfX&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DkQbfX&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - WTA 张帅VS纳瓦罗 赛场原声 04:00",WTA 张帅VS纳瓦罗 赛场原声 04:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4W6jyt&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4W6jyt&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - WTA 张帅VS纳瓦罗 张帅vs纳瓦罗(胡力涛) 09:30",WTA 张帅VS纳瓦罗 张帅vs纳瓦罗(胡力涛) 09:30
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=BCOMEN&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=BCOMEN&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - WTA 张帅VS纳瓦罗 英文原声 04:00",WTA 张帅VS纳瓦罗 英文原声 04:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=yQ5xUy&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=yQ5xUy&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - NBA 太阳VS湖人 连睿 曾令旭 苏群 09:45",NBA 太阳VS湖人 连睿 曾令旭 苏群 09:45
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=KBu2Yk&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=KBu2Yk&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - NBA 太阳VS湖人 郑泽鹏 09:55",NBA 太阳VS湖人 郑泽鹏 09:55
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=eQKvm6&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=eQKvm6&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - NBA 太阳VS湖人 英文原声 09:55",NBA 太阳VS湖人 英文原声 09:55
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GO6XV8&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GO6XV8&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - NBA 爵士VS鹈鹕 盛哲 09:55",NBA 爵士VS鹈鹕 盛哲 09:55
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2r7afR&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2r7afR&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - NBA 爵士VS鹈鹕 英文原声 09:55",NBA 爵士VS鹈鹕 英文原声 09:55
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Xy9gQm&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Xy9gQm&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - NBA 快船VS森林狼 徐秦威 10:55",NBA 快船VS森林狼 徐秦威 10:55
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZmWf0y&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZmWf0y&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - NBA 快船VS森林狼 英文原声 10:55",NBA 快船VS森林狼 英文原声 10:55
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Bc2jAC&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Bc2jAC&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - WTT 第六比赛日热身区 热身馆 11:00",WTT 第六比赛日热身区 热身馆 11:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=EfsYZG&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=EfsYZG&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - 男篮世预赛 美国VS多米尼加 吴博文 11:00",男篮世预赛 美国VS多米尼加 吴博文 11:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HCraYZ&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HCraYZ&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - WTT 蒯曼迎战早田 石油组合冲决赛 程靖淇 12:00",WTT 蒯曼迎战早田 石油组合冲决赛 程靖淇 12:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9FtEdg&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9FtEdg&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - WTT 蒯曼迎战早田 石油组合冲决赛 热身馆 11:00",WTT 蒯曼迎战早田 石油组合冲决赛 热身馆 11:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=sWMiJ4&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=sWMiJ4&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - WTT 蒯曼迎战早田 石油组合冲决赛 赛场原声 12:00",WTT 蒯曼迎战早田 石油组合冲决赛 赛场原声 12:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0MViE7&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0MViE7&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - WTT 蒯曼迎战早田 石油组合冲决赛 智能字幕 12:00",WTT 蒯曼迎战早田 石油组合冲决赛 智能字幕 12:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XPBX9y&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XPBX9y&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - WTT 蒯曼迎战早田 石油组合冲决赛 现场视角 12:00",WTT 蒯曼迎战早田 石油组合冲决赛 现场视角 12:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=mBC8ck&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=mBC8ck&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - WTT 姐妹对对碰！孙颖莎迎战石洵瑶 周冠达 侯英超 17:30",WTT 姐妹对对碰！孙颖莎迎战石洵瑶 周冠达 侯英超 17:30
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4MjeYK&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4MjeYK&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - WTT 姐妹对对碰！孙颖莎迎战石洵瑶 热身馆 11:00",WTT 姐妹对对碰！孙颖莎迎战石洵瑶 热身馆 11:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bN3Y0e&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bN3Y0e&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - WTT 姐妹对对碰！孙颖莎迎战石洵瑶 赛场原声 18:00",WTT 姐妹对对碰！孙颖莎迎战石洵瑶 赛场原声 18:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GcW0G2&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GcW0G2&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - WTT 姐妹对对碰！孙颖莎迎战石洵瑶 智能字幕 18:00",WTT 姐妹对对碰！孙颖莎迎战石洵瑶 智能字幕 18:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=oC8D51&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=oC8D51&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - WTT 姐妹对对碰！孙颖莎迎战石洵瑶 现场视角 18:00",WTT 姐妹对对碰！孙颖莎迎战石洵瑶 现场视角 18:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4NmLjB&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4NmLjB&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - NBL 合肥狂风VS湖北文旅 解说 19:20",NBL 合肥狂风VS湖北文旅 解说 19:20
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=iCwnHh&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=iCwnHh&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - NBL 合肥狂风VS湖北文旅 赛场原声 19:20",NBL 合肥狂风VS湖北文旅 赛场原声 19:20
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=EQArWT&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=EQArWT&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - NBL 上海玄鸟VS张家口体文旅 解说 19:20",NBL 上海玄鸟VS张家口体文旅 解说 19:20
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=qkH63Z&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=qkH63Z&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - NBL 上海玄鸟VS张家口体文旅 赛场原声 19:20",NBL 上海玄鸟VS张家口体文旅 赛场原声 19:20
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=iifv4u&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=iifv4u&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - NBL 石家庄翔蓝VS贵州猛龙 解说 19:20",NBL 石家庄翔蓝VS贵州猛龙 解说 19:20
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fgho6p&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fgho6p&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - NBL 石家庄翔蓝VS贵州猛龙 赛场原声 19:20",NBL 石家庄翔蓝VS贵州猛龙 赛场原声 19:20
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=8q1Rep&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=8q1Rep&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - 斯诺克 1/4决赛 1号桌 20:00",斯诺克 1/4决赛 1号桌 20:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZGYIny&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZGYIny&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - 男篮世预赛 伊拉克VS叙利亚 赛场原声 20:50",男篮世预赛 伊拉克VS叙利亚 赛场原声 20:50
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=isYbK6&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=isYbK6&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - 男篮世预赛 乌克兰VS西班牙 赛场原声 20:50",男篮世预赛 乌克兰VS西班牙 赛场原声 20:50
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=25mvOG&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=25mvOG&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - BWF 德国羽毛球公开赛Day4 1号场 22:00",BWF 德国羽毛球公开赛Day4 1号场 22:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=SiEo8F&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=SiEo8F&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - BWF 德国羽毛球公开赛Day4 2号场 22:00",BWF 德国羽毛球公开赛Day4 2号场 22:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=cBW2eP&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=cBW2eP&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 体育-明天 - BWF 德国羽毛球公开赛Day4 3号场 22:00",BWF 德国羽毛球公开赛Day4 3号场 22:00
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=c8dILz&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=c8dILz&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 音乐1",音乐1
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xbYuzC&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xbYuzC&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 音乐2",音乐2
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0IvnAf&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0IvnAf&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 音乐4",音乐4
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=CYbNuX&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=CYbNuX&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 音乐5",音乐5
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2ps6Sh&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2ps6Sh&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 音乐7",音乐7
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=03Cpbl&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=03Cpbl&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 音乐11",音乐11
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Q5ZngQ&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Q5ZngQ&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 音乐12",音乐12
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6wMRYa&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6wMRYa&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 音乐13",音乐13
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=dZGHj0&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=dZGHj0&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 音乐14",音乐14
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JX8srX&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JX8srX&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 秋月剪水",秋月剪水
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Q6bhEm&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Q6bhEm&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 周传雄",周传雄
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=KaOQ4V&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=KaOQ4V&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 张学友",张学友
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zDBd9J&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zDBd9J&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 刘德华",刘德华
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=aZYL7q&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=aZYL7q&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 黎明",黎明
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Tuidy0&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Tuidy0&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 王菲",王菲
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=aQzqPx&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=aQzqPx&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 权志龙",权志龙
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=UPLnLs&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=UPLnLs&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 张惠妹",张惠妹
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=3K2Pl0&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=3K2Pl0&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 谭咏麟",谭咏麟
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=yC826R&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=yC826R&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 林忆莲",林忆莲
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=gWeOjx&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=gWeOjx&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 古巨基",古巨基
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=c0AYmh&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=c0AYmh&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 周杰伦",周杰伦
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Axc3ip&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Axc3ip&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 林俊杰",林俊杰
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=eMLbog&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=eMLbog&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 潘玮柏",潘玮柏
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=OjYujG&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=OjYujG&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 杨丞琳",杨丞琳
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=SzTv8V&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=SzTv8V&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 张杰",张杰
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=qdVuzv&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=qdVuzv&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - Beyond",Beyond
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=iav8GS&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=iav8GS&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - SHE",SHE
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0fr0fz&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0fr0fz&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 徐良",徐良
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=k4x7Xh&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=k4x7Xh&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 许嵩",许嵩
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=iJ3QkC&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=iJ3QkC&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 汪苏泷",汪苏泷
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=l89JoJ&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=l89JoJ&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 陶喆",陶喆
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2TOn0R&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2TOn0R&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 陈奕迅",陈奕迅
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Sne5lJ&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Sne5lJ&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 邓紫棋",邓紫棋
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=PYVvRF&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=PYVvRF&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 薛之谦",薛之谦
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FEvC6S&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FEvC6S&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 五月天",五月天
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5oUoy4&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5oUoy4&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 蔡依林",蔡依林
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=gB9M1n&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=gB9M1n&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 任然",任然
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=15kkH8&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=15kkH8&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 张韶涵",张韶涵
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tkVxjY&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tkVxjY&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 王心凌",王心凌
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tM5LYv&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tM5LYv&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 莫文蔚",莫文蔚
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hcF8LW&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hcF8LW&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 陈慧琳",陈慧琳
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Jgfhpc&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Jgfhpc&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 蔡健雅",蔡健雅
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jUYCCH&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jUYCCH&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 王杰",王杰
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=WgBW7K&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=WgBW7K&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 乔洋",乔洋
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ru9W7I&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ru9W7I&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 庄心妍",庄心妍
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=s8QoAi&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=s8QoAi&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 梁静茹",梁静茹
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bARPAS&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bARPAS&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 王力宏",王力宏
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5YB8ck&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5YB8ck&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 孙燕姿",孙燕姿
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tzUxTw&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tzUxTw&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 周深",周深
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=q9JaNZ&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=q9JaNZ&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 卓依婷",卓依婷
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Drb77v&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Drb77v&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 姜育恒",姜育恒
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=rNgpHR&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=rNgpHR&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 童安格",童安格
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=b9UbmN&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=b9UbmN&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 魏佳艺",魏佳艺
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ImwpiX&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ImwpiX&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 云朵",云朵
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=plFO4i&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=plFO4i&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 韩宝仪",韩宝仪
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=EMxKM8&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=EMxKM8&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 金海心",金海心
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bZHKBt&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bZHKBt&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 任贤齐",任贤齐
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=BLpMBY&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=BLpMBY&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 陈瑞",陈瑞
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=YMAFo8&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=YMAFo8&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 串烧",串烧
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xrri2C&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xrri2C&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 林志炫",林志炫
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7Xf8nH&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7Xf8nH&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 经典",经典
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=slA4Ku&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=slA4Ku&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 陈淑桦",陈淑桦
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vBFwVT&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vBFwVT&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 林俊杰",林俊杰
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LMyRpm&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LMyRpm&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 陶喆",陶喆
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Q2vwO3&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Q2vwO3&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 汪明荃",汪明荃
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5MsFvw&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5MsFvw&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 林忆莲",林忆莲
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=aorkTt&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=aorkTt&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 腾格尔",腾格尔
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=b6Wc0P&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=b6Wc0P&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 许蒿",许蒿
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=99sQHT&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=99sQHT&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 张茜经典歌曲",张茜经典歌曲
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=c2G5py&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=c2G5py&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 甄妮经典歌曲",甄妮经典歌曲
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TwjNeg&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TwjNeg&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 冷漠经典歌曲",冷漠经典歌曲
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=sYinj0&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=sYinj0&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 梦然经典歌曲",梦然经典歌曲
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=p7YmKL&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=p7YmKL&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 中文串烧合集",中文串烧合集
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=m6U0aI&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=m6U0aI&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 乔玲儿经典歌曲",乔玲儿经典歌曲
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=APOKBk&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=APOKBk&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 云菲菲经典歌曲",云菲菲经典歌曲
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xE0KOS&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xE0KOS&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 王心凌经典歌曲",王心凌经典歌曲
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bqZZVu&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bqZZVu&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 车载DJ串烧点播❶",车载DJ串烧点播❶
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=s5h5TB&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=s5h5TB&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 车载DJ串烧点播❷",车载DJ串烧点播❷
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=MFNCAs&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=MFNCAs&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 夜店DJ混音点播",夜店DJ混音点播
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zNiCJ8&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zNiCJ8&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 老歌DJ串烧点播",老歌DJ串烧点播
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Zu6c3R&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Zu6c3R&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 国潮DJ舞曲点播",国潮DJ舞曲点播
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5icaSk&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5icaSk&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 快摇越南鼓点播",快摇越南鼓点播
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tcirtp&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tcirtp&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 带劲越南鼓点播",带劲越南鼓点播
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=WtrfE6&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=WtrfE6&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 蹦迪越南鼓点播",蹦迪越南鼓点播
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2nVQGq&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2nVQGq&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 40首精选慢摇点播",40首精选慢摇点播
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=RzdA4n&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=RzdA4n&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 中文DJ舞曲点播",中文DJ舞曲点播
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=O0kDLA&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=O0kDLA&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - DJ舞曲串烧点播",DJ舞曲串烧点播
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LVBY79&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LVBY79&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 热门歌曲DJ点播",热门歌曲DJ点播
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=k3hAgv&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=k3hAgv&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 颜人中",颜人中
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=p5MsgX&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=p5MsgX&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 张惠妹",张惠妹
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NIK7eq&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NIK7eq&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 刘若英",刘若英
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hzeTnv&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hzeTnv&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - Alin",Alin
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ps4Psl&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ps4Psl&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 陈粒",陈粒
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0T8KX4&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0T8KX4&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 萧亚轩",萧亚轩
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=a1d2la&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=a1d2la&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - By2",By2
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Z04uTX&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Z04uTX&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 方大同",方大同
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XplERF&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XplERF&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 飞轮海",飞轮海
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=dap1CR&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=dap1CR&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 南拳妈妈",南拳妈妈
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=IM0D0O&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=IM0D0O&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 罗志祥",罗志祥
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=IMeUPO&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=IMeUPO&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 孙露车载精品",孙露车载精品
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=gYd5nQ&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=gYd5nQ&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 孙露发烧精品",孙露发烧精品
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=iUW85E&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=iUW85E&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 小贱",小贱
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XHr2Xp&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XHr2Xp&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 星弟",星弟
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=17XCoo&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=17XCoo&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 经典嗨歌01",经典嗨歌01
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0NF4kV&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0NF4kV&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 经典嗨歌02",经典嗨歌02
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=90egUe&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=90egUe&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 经典嗨歌03",经典嗨歌03
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xEQYDv&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xEQYDv&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 刀郎《山河廖哉》",刀郎《山河廖哉》
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=eOsMPm&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=eOsMPm&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 滚石30周年1",滚石30周年1
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6PDvVz&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6PDvVz&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 滚石30周年2",滚石30周年2
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=54DmNu&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=54DmNu&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 滚石30周年3",滚石30周年3
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=SDsdUB&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=SDsdUB&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 滚石30周年4",滚石30周年4
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Rs609A&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Rs609A&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 滚石30周年5",滚石30周年5
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZcoC2M&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZcoC2M&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 滚石30周年6",滚石30周年6
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=G7geTE&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=G7geTE&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 滚石30周年7",滚石30周年7
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FWBhm7&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FWBhm7&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 滚石30周年8",滚石30周年8
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=dfLW2o&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=dfLW2o&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 滚石30周年9",滚石30周年9
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZuVaND&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZuVaND&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 滚石30周年10",滚石30周年10
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=yP3SSf&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=yP3SSf&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 滚石30周年11",滚石30周年11
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Lp0jPt&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Lp0jPt&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 滚石30周年12",滚石30周年12
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LOEVEu&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LOEVEu&tk=IRvHGalSMplN
 #EXTINF:-1 tvg-name="[B] 音乐 - 滚石30周年13",滚石30周年13
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=e4IBp3&tk=EX8OxYCLehgT
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=e4IBp3&tk=IRvHGalSMplN
