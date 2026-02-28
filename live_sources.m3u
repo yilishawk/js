@@ -657,6 +657,10 @@ http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vlzdg9&tk=EX8OxYCLehgT
 http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=SsocJS&tk=EX8OxYCLehgT
 #EXTINF:-1 tvg-name="[B] 港台频道 - 重温经典频道",重温经典频道
 http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Frr2H1&tk=EX8OxYCLehgT
+#EXTINF:-1 tvg-name="[B] 限量访问 - 松视3台",松视3台
+http://www.xymm.de5.net/live/1.index.m3u8
+#EXTINF:-1 tvg-name="[B] 限量访问 - 松视1台",松视1台
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
 #EXTINF:-1 tvg-name="[B] 限量访问 - 极限电影台",极限电影台
 http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=luhoMe&tk=EX8OxYCLehgT
 #EXTINF:-1 tvg-name="[B] 极速香港 - 凤凰中文台",凤凰中文台
