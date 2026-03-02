@@ -430,155 +430,7 @@ http://39.84.71.53:3000/626065193
 #EXTINF:-1 tvg-name="[A] 地方 - 公共新闻频道",公共新闻频道
 http://39.84.71.5
 #EXTINF:-1 tvg-name="[B] 温馨提示 - 免费分享",免费分享
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=L4rjDD&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 香港 - 翡翠台",翡翠台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=51rg5u&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 香港 - 翡翠台",翡翠台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=NCJJsh&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 香港 - 明珠台",明珠台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=CcKXnS&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 香港 - 无线新闻",无线新闻
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=wtblR9&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 香港 - TVBPLUS",TVBPLUS
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=rAbxZe&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 香港 - ViuTV",ViuTV
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=ypH0ts&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 香港 - ViuTV 6",ViuTV 6
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=tMHghf&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 香港 - RTHK 31",RTHK 31
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=rqctH9&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 香港 - RTHK 32",RTHK 32
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=oqtebh&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 香港 - HOY TV",HOY TV
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=04r3Ki&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 香港 - 凤凰中文",凤凰中文
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=FntVEq&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 香港 - 凤凰资讯",凤凰资讯
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=mzsRpX&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 香港 - 凤凰香港",凤凰香港
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=tL1hdd&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 台视 HD",台视 HD
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=y25qp5&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 台视新闻",台视新闻
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=9X3jf7&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 台视综合",台视综合
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=CSQB39&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 中视 HD",中视 HD
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=lqBM1R&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 中视新闻",中视新闻
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=U4uoa6&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 中视经典",中视经典
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=hOGqmb&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 华视 HD",华视 HD
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=PGrcSB&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 公视 HD",公视 HD
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=pCnnGq&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 公视台语台",公视台语台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=s0dsN2&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 三立台湾台",三立台湾台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=MBfusM&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 三立都会台",三立都会台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=Bup14Q&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 三立综合台",三立综合台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=9tvUhj&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 三立戏剧台",三立戏剧台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=Qng0B2&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 东森新闻台",东森新闻台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=PO9gJ7&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 东森财经新闻台",东森财经新闻台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=xCxNFn&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 东森综合台",东森综合台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=5nJsaR&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 东森戏剧台",东森戏剧台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=hhMzOR&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 东森电影台",东森电影台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=b8mqw2&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 东森洋片台",东森洋片台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=SL3b2l&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 东森幼幼台",东森幼幼台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=42U94e&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 东森超视",东森超视
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=fvq7FY&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - TVBS HD",TVBS HD
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=wfy2we&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - TVBS 新闻台",TVBS 新闻台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=Dw0n5D&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - TVBS 欢乐台",TVBS 欢乐台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=BxRq4R&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 民视 HD",民视 HD
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=SvZVjM&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 民视新闻台",民视新闻台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=PpT2Vn&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 民视台湾台",民视台湾台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=bVAH6d&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 中天综合",中天综合
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=m9EORg&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 中天娱乐",中天娱乐
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=23ZTWk&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 中天亚洲",中天亚洲
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=21uk7p&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 中天新闻",中天新闻
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=xVO09C&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 寰宇新闻台",寰宇新闻台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=sXVkYt&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 寰宇财经台",寰宇财经台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=dG8DLa&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 八大第一台",八大第一台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=IHOdj1&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 八大综合台",八大综合台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=OmJO49&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 八大戏剧台",八大戏剧台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=RLAqhe&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 八大娱乐台",八大娱乐台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=RrtQpN&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 纬来体育",纬来体育
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=VKDoyK&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 纬来精彩",纬来精彩
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=bYqAWY&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 纬来日本",纬来日本
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=U2fXty&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 纬来电影",纬来电影
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=UaOZnB&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 纬来综合",纬来综合
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=XJiZ9S&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 纬来育乐",纬来育乐
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=Xa0vHW&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 爱尔达综合台",爱尔达综合台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=mPATf5&tk=UhnHCrLtOr
-#EXTINF:-1 tvg-name="[B] 台湾 - AXN Taiwan",AXN Taiwan
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=ukZrOS&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - MTV Live",MTV Live
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=Mm5R0m&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - HBO_HD",HBO_HD
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=0VoINX&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - HBO_HITS",HBO_HITS
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=B2kJbD&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - CINEMAX",CINEMAX
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=HjTqwl&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 好萊塢電影台",好萊塢電影台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=q9KKE2&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 卫视电影台",卫视电影台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=W6JEFS&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 龙祥时代",龙祥时代
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=iD52V5&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 美亚电影",美亚电影
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=9US773&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 華藝綜合",華藝綜合
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=aLI0SQ&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 博斯运动一台",博斯运动一台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=eCLAPa&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 博斯运动二台",博斯运动二台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=RYFTCj&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 博斯高球一台",博斯高球一台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=w30dj9&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 博斯高球二台",博斯高球二台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=JN284U&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 博斯网球台",博斯网球台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=7HC3Ct&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 博斯无限台",博斯无限台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=VFYO9A&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 台湾 - 好消息 2",好消息 2
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=3X8Z4o&tk=UhnHCrLtOrnj
+https://vd4.bdstatic.com/mda-qa87dq9pj43d9k2c/hd/cae_h264/1704812679179128707/mda-qa87dq9pj43d9k2c.mp4
 #EXTINF:-1 tvg-name="[B] 儿童台 - 午后露珠的后庭诱惑",午后露珠的后庭诱惑
 https://t30.cdn2020.com/video/m3u8/2025/06/19/fcd3f28c/index.m3u8
 #EXTINF:-1 tvg-name="[B] 儿童台 - 在我与继妹之间的放纵",在我与继妹之间的放纵
@@ -965,111 +817,1537 @@ http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 https://5ddce30eb4b55.streamlock.net/wxtv/wxtvnow.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="[B] 台湾 - 唯心电视",唯心电视
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
-#EXTINF:-1 tvg-name="[B] 广东汕头 - 汕头综合",汕头综合
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=j2XSf1&tk=UaHNdGYE9Sf3
-#EXTINF:-1 tvg-name="[B] 广东汕头 - 汕头生活",汕头生活
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=E69s4k&tk=UaHNdGYE9Sf3
-#EXTINF:-1 tvg-name="[B] 广东汕头 - 潮州综合",潮州综合
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=cd1PQV&tk=UaHNdGYE9Sf3
-#EXTINF:-1 tvg-name="[B] 广东汕头 - 潮州民生",潮州民生
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TC6Mxl&tk=UaHNdGYE9Sf3
-#EXTINF:-1 tvg-name="[B] 广东汕头 - 潮阳台",潮阳台
-http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=pFslWc&tk=UaHNdGYE9Sf3
-#EXTINF:-1 tvg-name="[B] 广东汕头 - MTV Live",MTV Live
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=Mm5R0m&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 广东汕头 - HBO_HD",HBO_HD
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=0VoINX&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 广东汕头 - HBO_HITS",HBO_HITS
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=B2kJbD&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 广东汕头 - CINEMAX",CINEMAX
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=HjTqwl&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 广东汕头 - 好萊塢電影台",好萊塢電影台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=q9KKE2&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 广东汕头 - 卫视电影台",卫视电影台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=W6JEFS&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 广东汕头 - 龙祥时代",龙祥时代
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=iD52V5&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 广东汕头 - 美亚电影",美亚电影
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=9US773&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 广东汕头 - 華藝綜合",華藝綜合
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=aLI0SQ&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 广东汕头 - 博斯运动一台",博斯运动一台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=eCLAPa&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 广东汕头 - 博斯运动二台",博斯运动二台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=RYFTCj&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 广东汕头 - 博斯高球一台",博斯高球一台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=w30dj9&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 广东汕头 - 博斯高球二台",博斯高球二台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=JN284U&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 广东汕头 - 博斯网球台",博斯网球台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=7HC3Ct&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 广东汕头 - 博斯无限台",博斯无限台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=VFYO9A&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 广东汕头 - 好消息 2",好消息 2
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=3X8Z4o&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV-1 综合",CCTV-1 综合
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=RBfF2e&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV-2 财经",CCTV-2 财经
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=NzdNev&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV-3 综艺",CCTV-3 综艺
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=Rr7zni&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV-4 中文国际",CCTV-4 中文国际
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=nAUNKS&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV-4 中文国际",CCTV-4 中文国际
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=u3NzOi&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV-5 体育",CCTV-5 体育
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=D5DwYY&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV-6 电影",CCTV-6 电影
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=oFv8tq&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV-7 国防军事",CCTV-7 国防军事
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=jcNX0r&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV-8 电视剧",CCTV-8 电视剧
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=1cuwnE&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV-9 记录",CCTV-9 记录
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=Etbj9X&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV-10 科教",CCTV-10 科教
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=UNmdIz&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV-11 戏曲",CCTV-11 戏曲
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=nm7Y4f&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV-12 社会与法",CCTV-12 社会与法
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=QpJxea&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV-13 新闻",CCTV-13 新闻
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=zr4zfu&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV-14 少儿",CCTV-14 少儿
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=ZCQiF9&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV-15 音乐",CCTV-15 音乐
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=nIAzKS&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV-16 奥林匹克",CCTV-16 奥林匹克
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=BAIPL9&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV-17 农业农村",CCTV-17 农业农村
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=jzrBUu&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV-5+ 体育赛事",CCTV-5+ 体育赛事
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=6bsK0s&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 央视 - 湖南卫视",湖南卫视
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=mziTrO&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 央视 - 浙江卫视",浙江卫视
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=Lpy95s&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 央视 - 江苏卫视",江苏卫视
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=dJ1RZg&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 央视 - 东方卫视",东方卫视
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=xJigYn&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 央视 - 北京卫视",北京卫视
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=VpxFwG&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 央视 - 深圳卫视",深圳卫视
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=TIs6Pd&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 央视 - 广东卫视",广东卫视
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=QLBaqJ&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 央视 - 大湾区卫视",大湾区卫视
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=tzElke&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 央视 - 珠江台",珠江台
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=EzIedo&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 央视 - 东南卫视",东南卫视
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=BHoDrk&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 央视 - 广西卫视",广西卫视
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=z7rkC9&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 央视 - 湖北卫视",湖北卫视
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=rGvSkY&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 央视 - 四川卫视",四川卫视
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=iCsnyF&tk=UhnHCrLtOrnj
-#EXTINF:-1 tvg-name="[B] 央视 - CGTN",CGTN
-http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=Dx8ldz&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 广东 - 广东体育",广东体育
+http://go.bkpcp.top/mg/gdty
+#EXTINF:-1 tvg-name="[B] 广东 - 广东珠江",广东珠江
+http://pr.19760929.xyz:9688/udp/239.77.0.1:5146
+#EXTINF:-1 tvg-name="[B] 广东 - 大湾区",大湾区
+http://pr.19760929.xyz:9688/udp/239.77.0.215:5146
+#EXTINF:-1 tvg-name="[B] 广东 - 广州",广州
+http://pr.19760929.xyz:9688/udp/239.253.43.71:5146
+#EXTINF:-1 tvg-name="[B] 广东 - 广州新闻",广州新闻
+http://pr.19760929.xyz:9688/udp/239.253.43.72:5146
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV1",CCTV1
+http://223.95.198.3:8000/hls/1/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV2",CCTV2
+http://223.95.198.3:8000/hls/2/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV3",CCTV3
+http://223.95.198.3:8000/hls/3/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV4",CCTV4
+http://223.95.198.3:8000/hls/4/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV5",CCTV5
+http://223.95.198.3:8000/hls/5/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV5+",CCTV5+
+http://183.237.71.182:40000/hls/16/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV6",CCTV6
+http://223.95.198.3:8000/hls/6/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV7",CCTV7
+http://223.95.198.3:8000/hls/7/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV8",CCTV8
+http://223.95.198.3:8000/hls/8/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV9",CCTV9
+http://223.95.198.3:8000/hls/9/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV10",CCTV10
+http://223.95.198.3:8000/hls/10/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV11",CCTV11
+http://223.95.198.3:8000/hls/11/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV12",CCTV12
+http://223.95.198.3:8000/hls/12/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV13",CCTV13
+http://223.95.198.3:8000/hls/13/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV14",CCTV14
+http://223.95.198.3:8000/hls/14/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV15",CCTV15
+http://223.95.198.3:8000/hls/15/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV16",CCTV16
+http://223.95.198.3:8000/hls/16/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV17",CCTV17
+http://223.95.198.3:8000/hls/17/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV1",CCTV1
+http://223.95.198.3:8000/hls/1/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV2",CCTV2
+http://223.95.198.3:8000/hls/2/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV3",CCTV3
+http://223.95.198.3:8000/hls/3/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV4",CCTV4
+http://223.95.198.3:8000/hls/4/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV5",CCTV5
+http://223.95.198.3:8000/hls/5/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV5+",CCTV5+
+http://183.237.71.182:40000/hls/16/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV6",CCTV6
+http://223.95.198.3:8000/hls/6/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV7",CCTV7
+http://223.95.198.3:8000/hls/7/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV8",CCTV8
+http://223.95.198.3:8000/hls/8/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV9",CCTV9
+http://223.95.198.3:8000/hls/9/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV10",CCTV10
+http://223.95.198.3:8000/hls/10/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV11",CCTV11
+http://223.95.198.3:8000/hls/11/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV12",CCTV12
+http://223.95.198.3:8000/hls/12/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV13",CCTV13
+http://223.95.198.3:8000/hls/13/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV14",CCTV14
+http://223.95.198.3:8000/hls/14/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV15",CCTV15
+http://223.95.198.3:8000/hls/15/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV16",CCTV16
+http://223.95.198.3:8000/hls/16/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV17",CCTV17
+http://223.95.198.3:8000/hls/17/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV1",CCTV1
+http://183.129.255.66:8480/hls/1/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV2",CCTV2
+http://183.129.255.66:8480/hls/2/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV3",CCTV3
+http://183.129.255.66:8480/hls/3/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV5",CCTV5
+http://183.129.255.66:8480/hls/5/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV5+",CCTV5+
+http://183.129.255.66:8480/hls/6/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV6",CCTV6
+http://183.129.255.66:8480/hls/7/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV7",CCTV7
+http://183.129.255.66:8480/hls/8/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV8",CCTV8
+http://183.129.255.66:8480/hls/9/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV9",CCTV9
+http://183.129.255.66:8480/hls/10/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV10",CCTV10
+http://183.129.255.66:8480/hls/11/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV11",CCTV11
+http://183.129.255.66:8480/hls/12/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV12",CCTV12
+http://183.129.255.66:8480/hls/13/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV13",CCTV13
+http://183.129.255.66:8480/hls/14/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV14",CCTV14
+http://183.129.255.66:8480/hls/15/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV15",CCTV15
+http://183.129.255.66:8480/hls/16/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV16",CCTV16
+http://183.129.255.66:8480/hls/17/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV17",CCTV17
+http://183.129.255.66:8480/hls/18/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV1",CCTV1
+http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV5",CCTV5
+http://74.91.26.218:82/live/cctv5hd.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV5+",CCTV5+
+http://74.91.26.218:82/live/cctv5p.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV6",CCTV6
+http://74.91.26.218:82/live/cctv6hd.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV9",CCTV9
+http://74.91.26.218:82/live/cctv9hd.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV12",CCTV12
+http://74.91.26.218:82/live/cctv12hd.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV13",CCTV13
+http://74.91.26.218:82/live/cctv13hd.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV14",CCTV14
+http://74.91.26.218:82/live/cctv14hd.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV15",CCTV15
+http://74.91.26.218:82/live/cctv15hd.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV16",CCTV16
+http://74.91.26.218:82/live/cctv16hd.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV17",CCTV17
+http://74.91.26.218:82/live/cctv17hd.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV1",CCTV1
+http://27.129.145.110:4433/hls/1/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV2",CCTV2
+http://27.129.145.110:4433/hls/2/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV3",CCTV3
+http://27.129.145.110:4433/hls/3/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV4",CCTV4
+http://27.129.145.110:4433/hls/4/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV5",CCTV5
+http://27.129.145.110:4433/hls/5/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV6",CCTV6
+http://27.129.145.110:4433/hls/6/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV7",CCTV7
+http://27.129.145.110:4433/hls/7/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV8",CCTV8
+http://27.129.145.110:4433/hls/8/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV9",CCTV9
+http://27.129.145.110:4433/hls/9/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV10",CCTV10
+http://27.129.145.110:4433/hls/10/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV11",CCTV11
+http://27.129.145.110:4433/hls/11/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV12",CCTV12
+http://27.129.145.110:4433/hls/12/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV13",CCTV13
+http://27.129.145.110:4433/hls/13/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV14",CCTV14
+http://27.129.145.110:4433/hls/14/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV15",CCTV15
+http://27.129.145.110:4433/hls/15/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV16",CCTV16
+http://27.129.145.110:4433/hls/16/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV17",CCTV17
+http://27.129.145.110:4433/hls/17/index.m3u8
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV1",CCTV1
+http://221.7.49.226:50085/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV2",CCTV2
+http://221.7.49.226:50085/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV3",CCTV3
+http://221.7.49.226:50085/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV5",CCTV5
+http://221.7.49.226:50085/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV6",CCTV6
+http://221.7.49.226:50085/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV7",CCTV7
+http://221.7.49.226:50085/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV8",CCTV8
+http://221.7.49.226:50085/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV9",CCTV9
+http://221.7.49.226:50085/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV10",CCTV10
+http://221.7.49.226:50085/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV13",CCTV13
+http://221.7.49.226:50085/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV14",CCTV14
+http://221.7.49.226:50085/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV16",CCTV16
+http://221.7.49.226:50085/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV17",CCTV17
+http://221.7.49.226:50085/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV1",CCTV1
+http://yhms.aylzline.top:8899/rtp/225.1.2.47:10276
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV1",CCTV1
+http://lysj.aylzline.top:8899/rtp/225.1.2.47:10276
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV1",CCTV1
+http://zczb.aylzline.top:8899/rtp/225.1.2.47:10276
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV2",CCTV2
+http://lysj.aylzline.top:8899/rtp/225.1.2.78:10462
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV3",CCTV3
+http://lysj.aylzline.top:8899/rtp/225.1.2.141:10864
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV3",CCTV3
+http://zczb.aylzline.top:8899/rtp/225.1.2.141:10864
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV4",CCTV4
+http://yhms.aylzline.top:8899/rtp/225.1.2.197:11806
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV4",CCTV4
+http://lysj.aylzline.top:8899/rtp/225.1.2.197:11806
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV5",CCTV5
+http://lysj.aylzline.top:8899/rtp/225.1.2.142:10870
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV5+",CCTV5+
+http://lysj.aylzline.top:8899/rtp/225.1.2.48:10282
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV5+",CCTV5+
+http://yhms.aylzline.top:8899/rtp/225.1.2.48:10282
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV5",CCTV5
+http://zczb.aylzline.top:8899/rtp/225.1.2.142:10870
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV6",CCTV6
+http://yhms.aylzline.top:8899/rtp/225.1.2.143:10876
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV7",CCTV7
+http://yhms.aylzline.top:8899/rtp/225.1.2.79:10468
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV7",CCTV7
+http://zczb.aylzline.top:8899/rtp/225.1.2.79:10468
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV8",CCTV8
+http://yhms.aylzline.top:8899/rtp/225.1.2.144:10882
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV8",CCTV8
+http://zczb.aylzline.top:8899/rtp/225.1.2.144:10882
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV9",CCTV9
+http://yhms.aylzline.top:8899/rtp/225.1.2.80:10474
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV9",CCTV9
+http://zczb.aylzline.top:8899/rtp/225.1.2.80:10474
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV9",CCTV9
+http://lysj.aylzline.top:8899/rtp/225.1.2.80:10474
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV10",CCTV10
+http://yhms.aylzline.top:8899/rtp/225.1.2.81:10480
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV10",CCTV10
+http://zczb.aylzline.top:8899/rtp/225.1.2.81:10480
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV11",CCTV11
+http://yhms.aylzline.top:8899/rtp/225.1.2.220:11434
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV11",CCTV11
+http://lysj.aylzline.top:8899/rtp/225.1.2.220:11434
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV11",CCTV11
+http://zczb.aylzline.top:8899/rtp/225.1.2.220:11434
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV12",CCTV12
+http://lysj.aylzline.top:8899/rtp/225.1.2.82:10486
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV12",CCTV12
+http://zczb.aylzline.top:8899/rtp/225.1.2.82:10486
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV13",CCTV13
+http://lysj.aylzline.top:8899/rtp/225.1.2.74:11584
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV13",CCTV13
+http://zczb.aylzline.top:8899/rtp/225.1.2.74:11584
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV14",CCTV14
+http://zczb.aylzline.top:8899/rtp/225.1.2.83:10492
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV14",CCTV14
+http://lysj.aylzline.top:8899/rtp/225.1.2.83:10492
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV15",CCTV15
+http://yhms.aylzline.top:8899/rtp/225.1.2.221:11440
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV15",CCTV15
+http://lysj.aylzline.top:8899/rtp/225.1.2.221:11440
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV15",CCTV15
+http://zczb.aylzline.top:8899/rtp/225.1.2.221:11440
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV17",CCTV17
+http://yhms.aylzline.top:8899/rtp/225.1.2.53:10312
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV17",CCTV17
+http://lysj.aylzline.top:8899/rtp/225.1.2.53:10312
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV17",CCTV17
+http://zczb.aylzline.top:8899/rtp/225.1.2.53:10312
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV4欧洲",CCTV4欧洲
+http://lysj.aylzline.top:8899/rtp/225.1.2.182:11818
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV4欧洲",CCTV4欧洲
+http://yhms.aylzline.top:8899/rtp/225.1.2.182:11818
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV4美洲",CCTV4美洲
+http://yhms.aylzline.top:8899/rtp/225.1.2.183:11824
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV4美洲",CCTV4美洲
+http://zczb.aylzline.top:8899/rtp/225.1.2.183:11824
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV1",CCTV1
+http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV2",CCTV2
+http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV3",CCTV3
+http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV4",CCTV4
+http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV5",CCTV5
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV5+",CCTV5+
+http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV6",CCTV6
+http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV7",CCTV7
+http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV8",CCTV8
+http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV9",CCTV9
+http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV10",CCTV10
+http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV11",CCTV11
+http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV12",CCTV12
+http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV13",CCTV13
+http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV14",CCTV14
+http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV15",CCTV15
+http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV16",CCTV16
+http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV17",CCTV17
+http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 央视台 - CCTV8K",CCTV8K
+http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 卫视 - 浙江卫视",浙江卫视
+http://ali-xwl.cztv.com/live/channel4k2160p.m3u8#https://play-qukan.cztv.com/live/1758879019692345.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 湖南卫视",湖南卫视
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8#http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 东方卫视",东方卫视
+http://bp-live4ktc.bestv.cn/1080p/dfws4k1080p264_4k1080p.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 浙江卫视",浙江卫视
+http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8#http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 北京卫视",北京卫视
+http://mg.33191.com/wodepindao/df/beijing/beijing.php?id=bjws#http://xxwx.yoesun.com/xxw/北京网.php?id=bjws#http://183.215.134.239:19901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="[B] 卫视 - 海南卫视",海南卫视
+http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
+#EXTINF:-1 tvg-name="[B] 卫视 - 三沙卫视",三沙卫视
+https://srs.ssws.tv/video/sstv-10/index.m3u8#http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
+#EXTINF:-1 tvg-name="[B] 卫视 - 河南卫视",河南卫视
+http://1.94.31.214/php/hntv.php?id=hnws#http://lxajh.top/tv/hn.php?id=hnws
+#EXTINF:-1 tvg-name="[B] 卫视 - 深圳卫视",深圳卫视
+http://nn.7x9d.cn/深圳最新.php?id=szws4k#https://sztv-hls.sztv.com.cn/AxeFRth/500/k47Axe0.m3u8?sign=962506fa552404520ab79a29ec47f76c&t=6998da77
+#EXTINF:-1 tvg-name="[B] 卫视 - 北京卫视",北京卫视
+http://223.95.198.3:8000/hls/21/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 东方卫视",东方卫视
+http://223.95.198.3:8000/hls/22/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 深圳卫视",深圳卫视
+http://223.95.198.3:8000/hls/23/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 浙江卫视",浙江卫视
+http://223.95.198.3:8000/hls/24/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 湖南卫视",湖南卫视
+http://223.95.198.3:8000/hls/25/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 天津卫视",天津卫视
+http://223.95.198.3:8000/hls/26/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 河北卫视",河北卫视
+http://223.95.198.3:8000/hls/27/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 江苏卫视",江苏卫视
+http://223.95.198.3:8000/hls/28/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 山东卫视",山东卫视
+http://223.95.198.3:8000/hls/29/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 安徽卫视",安徽卫视
+http://223.95.198.3:8000/hls/30/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 河南卫视",河南卫视
+http://223.95.198.3:8000/hls/31/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 湖北卫视",湖北卫视
+http://223.95.198.3:8000/hls/32/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 黑龙江卫视",黑龙江卫视
+http://223.95.198.3:8000/hls/33/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 辽宁卫视",辽宁卫视
+http://223.95.198.3:8000/hls/34/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 吉林卫视",吉林卫视
+http://223.95.198.3:8000/hls/35/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 重庆卫视",重庆卫视
+http://223.95.198.3:8000/hls/36/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 四川卫视",四川卫视
+http://223.95.198.3:8000/hls/37/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 广东卫视",广东卫视
+http://223.95.198.3:8000/hls/38/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 广西卫视",广西卫视
+http://223.95.198.3:8000/hls/39/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 江西卫视",江西卫视
+http://223.95.198.3:8000/hls/40/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 海南卫视",海南卫视
+http://223.95.198.3:8000/hls/41/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 甘肃卫视",甘肃卫视
+http://223.95.198.3:8000/hls/42/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 陕西卫视",陕西卫视
+http://223.95.198.3:8000/hls/43/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 云南卫视",云南卫视
+http://223.95.198.3:8000/hls/44/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 云南卫视",云南卫视
+http://223.95.198.3:8000/hls/45/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 贵州卫视",贵州卫视
+http://223.95.198.3:8000/hls/46/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 青海卫视",青海卫视
+http://223.95.198.3:8000/hls/47/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 江苏卫视",江苏卫视
+http://74.91.26.218:82/live/jswshd.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 浙江卫视",浙江卫视
+http://74.91.26.218:82/live/zjwshd.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 东方卫视",东方卫视
+http://74.91.26.218:82/live/dfwshd.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 深圳卫视",深圳卫视
+http://74.91.26.218:82/live/szwshd.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 广东卫视",广东卫视
+http://74.91.26.218:82/live/gdwshd.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 湖南卫视",湖南卫视
+http://74.91.26.218:82/live/hnwshd.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 大湾区卫视",大湾区卫视
+http://74.91.26.218:82/live/nfws.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 河北卫视",河北卫视
+http://27.129.145.110:4433/hls/18/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 湖南卫视",湖南卫视
+http://27.129.145.110:4433/hls/23/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 浙江卫视",浙江卫视
+http://27.129.145.110:4433/hls/24/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 江苏卫视",江苏卫视
+http://27.129.145.110:4433/hls/25/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 安徽卫视",安徽卫视
+http://27.129.145.110:4433/hls/26/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 东南卫视",东南卫视
+http://27.129.145.110:4433/hls/27/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 北京卫视",北京卫视
+http://27.129.145.110:4433/hls/28/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 天津卫视",天津卫视
+http://27.129.145.110:4433/hls/29/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 辽宁卫视",辽宁卫视
+http://27.129.145.110:4433/hls/30/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 山东卫视",山东卫视
+http://27.129.145.110:4433/hls/31/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 云南卫视",云南卫视
+http://27.129.145.110:4433/hls/32/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 河南卫视",河南卫视
+http://27.129.145.110:4433/hls/33/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 黑龙江卫视",黑龙江卫视
+http://27.129.145.110:4433/hls/34/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 四川卫视",四川卫视
+http://27.129.145.110:4433/hls/35/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 江西卫视",江西卫视
+http://27.129.145.110:4433/hls/36/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 贵州卫视",贵州卫视
+http://27.129.145.110:4433/hls/37/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 深圳卫视",深圳卫视
+http://27.129.145.110:4433/hls/38/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 湖北卫视",湖北卫视
+http://27.129.145.110:4433/hls/39/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 东方卫视",东方卫视
+http://27.129.145.110:4433/hls/40/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 湖南卫视",湖南卫视
+http://183.237.71.182:40000/hls/19/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 浙江卫视",浙江卫视
+http://183.237.71.182:40000/hls/20/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 江苏卫视",江苏卫视
+http://183.237.71.182:40000/hls/21/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 东方卫视",东方卫视
+http://183.237.71.182:40000/hls/22/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 安徽卫视",安徽卫视
+http://183.237.71.182:40000/hls/23/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 北京卫视",北京卫视
+http://183.237.71.182:40000/hls/24/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 天津卫视",天津卫视
+http://183.237.71.182:40000/hls/25/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 山东卫视",山东卫视
+http://183.237.71.182:40000/hls/26/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 江西卫视",江西卫视
+http://183.237.71.182:40000/hls/27/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 深圳卫视",深圳卫视
+http://183.237.71.182:40000/hls/28/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 湖北卫视",湖北卫视
+http://183.237.71.182:40000/hls/29/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 辽宁卫视",辽宁卫视
+http://183.237.71.182:40000/hls/30/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 黑龙江卫视",黑龙江卫视
+http://183.237.71.182:40000/hls/31/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 贵州卫视",贵州卫视
+http://183.237.71.182:40000/hls/32/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 四川卫视",四川卫视
+http://183.237.71.182:40000/hls/33/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 河南卫视",河南卫视
+http://183.237.71.182:40000/hls/34/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 云南卫视",云南卫视
+http://183.237.71.182:40000/hls/35/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 重庆卫视",重庆卫视
+http://183.237.71.182:40000/hls/36/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 河北卫视",河北卫视
+http://183.237.71.182:40000/hls/37/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 东南卫视",东南卫视
+http://183.237.71.182:40000/hls/38/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 广西卫视",广西卫视
+http://183.237.71.182:40000/hls/39/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 吉林卫视",吉林卫视
+http://183.237.71.182:40000/hls/40/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 陕西卫视",陕西卫视
+http://183.237.71.182:40000/hls/41/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 山西卫视",山西卫视
+http://183.237.71.182:40000/hls/42/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 内蒙古卫视",内蒙古卫视
+http://183.237.71.182:40000/hls/43/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 青海卫视",青海卫视
+http://183.237.71.182:40000/hls/44/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 海南卫视",海南卫视
+http://183.237.71.182:40000/hls/45/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 宁夏卫视",宁夏卫视
+http://183.237.71.182:40000/hls/46/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 西藏卫视",西藏卫视
+http://183.237.71.182:40000/hls/47/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 新疆卫视",新疆卫视
+http://183.237.71.182:40000/hls/48/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 甘肃卫视",甘肃卫视
+http://183.237.71.182:40000/hls/49/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 兵团卫视",兵团卫视
+http://183.237.71.182:40000/hls/50/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 厦门卫视",厦门卫视
+http://183.237.71.182:40000/hls/57/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 三沙卫视",三沙卫视
+http://183.237.71.182:40000/hls/59/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 延边卫视",延边卫视
+http://183.237.71.182:40000/hls/60/index.m3u8
+#EXTINF:-1 tvg-name="[B] 卫视 - 江苏卫视",江苏卫视
+http://yhms.aylzline.top:8899/rtp/225.1.2.84:10498
+#EXTINF:-1 tvg-name="[B] 卫视 - 江苏卫视",江苏卫视
+http://zczb.aylzline.top:8899/rtp/225.1.2.84:10498
+#EXTINF:-1 tvg-name="[B] 卫视 - 广东卫视",广东卫视
+http://yhms.aylzline.top:8899/rtp/225.1.2.151:10924
+#EXTINF:-1 tvg-name="[B] 卫视 - 广东卫视",广东卫视
+http://lysj.aylzline.top:8899/rtp/225.1.2.151:10924
+#EXTINF:-1 tvg-name="[B] 卫视 - 广东卫视",广东卫视
+http://zczb.aylzline.top:8899/rtp/225.1.2.151:10924
+#EXTINF:-1 tvg-name="[B] 卫视 - 浙江卫视",浙江卫视
+http://yhms.aylzline.top:8899/rtp/225.1.2.85:10504
+#EXTINF:-1 tvg-name="[B] 卫视 - 浙江卫视",浙江卫视
+http://zczb.aylzline.top:8899/rtp/225.1.2.85:10504
+#EXTINF:-1 tvg-name="[B] 卫视 - 湖南卫视",湖南卫视
+http://yhms.aylzline.top:8899/rtp/225.1.2.50:10294
+#EXTINF:-1 tvg-name="[B] 卫视 - 湖南卫视",湖南卫视
+http://lysj.aylzline.top:8899/rtp/225.1.2.50:10294
+#EXTINF:-1 tvg-name="[B] 卫视 - 湖南卫视",湖南卫视
+http://zczb.aylzline.top:8899/rtp/225.1.2.50:10294
+#EXTINF:-1 tvg-name="[B] 卫视 - 湖北卫视",湖北卫视
+http://lysj.aylzline.top:8899/rtp/225.1.2.90:10534
+#EXTINF:-1 tvg-name="[B] 卫视 - 湖北卫视",湖北卫视
+http://zczb.aylzline.top:8899/rtp/225.1.2.90:10534
+#EXTINF:-1 tvg-name="[B] 卫视 - 湖北卫视",湖北卫视
+http://yhms.aylzline.top:8899/rtp/225.1.2.90:10534
+#EXTINF:-1 tvg-name="[B] 卫视 - 重庆卫视",重庆卫视
+http://yhms.aylzline.top:8899/rtp/225.1.2.75:11590
+#EXTINF:-1 tvg-name="[B] 卫视 - 重庆卫视",重庆卫视
+http://lysj.aylzline.top:8899/rtp/225.1.2.75:11590
+#EXTINF:-1 tvg-name="[B] 卫视 - 重庆卫视",重庆卫视
+http://zczb.aylzline.top:8899/rtp/225.1.2.75:11590
+#EXTINF:-1 tvg-name="[B] 卫视 - 深圳卫视",深圳卫视
+http://yhms.aylzline.top:8899/rtp/225.1.2.91:10540
+#EXTINF:-1 tvg-name="[B] 卫视 - 深圳卫视",深圳卫视
+http://zczb.aylzline.top:8899/rtp/225.1.2.91:10540
+#EXTINF:-1 tvg-name="[B] 卫视 - 广西卫视",广西卫视
+http://yhms.aylzline.top:8899/rtp/225.1.2.34:10198
+#EXTINF:-1 tvg-name="[B] 卫视 - 广西卫视",广西卫视
+http://lysj.aylzline.top:8899/rtp/225.1.2.34:10198
+#EXTINF:-1 tvg-name="[B] 卫视 - 广西卫视",广西卫视
+http://zczb.aylzline.top:8899/rtp/225.1.2.34:10198
+#EXTINF:-1 tvg-name="[B] 卫视 - 江西卫视",江西卫视
+http://lysj.aylzline.top:8899/rtp/225.1.2.77:11602
+#EXTINF:-1 tvg-name="[B] 卫视 - 江西卫视",江西卫视
+http://zczb.aylzline.top:8899/rtp/225.1.2.77:11602
+#EXTINF:-1 tvg-name="[B] 卫视 - 河北卫视",河北卫视
+http://lysj.aylzline.top:8899/rtp/225.1.2.106:11614
+#EXTINF:-1 tvg-name="[B] 卫视 - 河北卫视",河北卫视
+http://zczb.aylzline.top:8899/rtp/225.1.2.106:11614
+#EXTINF:-1 tvg-name="[B] 卫视 - 河南卫视",河南卫视
+http://yhms.aylzline.top:8899/rtp/225.1.2.237:11530
+#EXTINF:-1 tvg-name="[B] 卫视 - 河南卫视",河南卫视
+http://lysj.aylzline.top:8899/rtp/225.1.2.237:11530
+#EXTINF:-1 tvg-name="[B] 卫视 - 河南卫视",河南卫视
+http://yhms.aylzline.top:8899/rtp/225.1.2.99:10588
+#EXTINF:-1 tvg-name="[B] 卫视 - 河南卫视",河南卫视
+http://lysj.aylzline.top:8899/rtp/225.1.2.99:10588
+#EXTINF:-1 tvg-name="[B] 卫视 - 河南卫视",河南卫视
+http://zczb.aylzline.top:8899/rtp/225.1.2.237:11530
+#EXTINF:-1 tvg-name="[B] 卫视 - 河南卫视",河南卫视
+http://zczb.aylzline.top:8899/rtp/225.1.2.99:10588
+#EXTINF:-1 tvg-name="[B] 卫视 - 海南卫视",海南卫视
+http://lysj.aylzline.top:8899/rtp/225.1.2.107:11620
+#EXTINF:-1 tvg-name="[B] 卫视 - 海南卫视",海南卫视
+http://yhms.aylzline.top:8899/rtp/225.1.2.107:11620
+#EXTINF:-1 tvg-name="[B] 卫视 - 海南卫视",海南卫视
+http://zczb.aylzline.top:8899/rtp/225.1.2.107:11620
+#EXTINF:-1 tvg-name="[B] 卫视 - 甘肃卫视",甘肃卫视
+http://lysj.aylzline.top:8899/rtp/225.1.2.44:10258
+#EXTINF:-1 tvg-name="[B] 卫视 - 甘肃卫视",甘肃卫视
+http://yhms.aylzline.top:8899/rtp/225.1.2.44:10258
+#EXTINF:-1 tvg-name="[B] 卫视 - 甘肃卫视",甘肃卫视
+http://zczb.aylzline.top:8899/rtp/225.1.2.44:10258
+#EXTINF:-1 tvg-name="[B] 卫视 - 西藏卫视",西藏卫视
+http://yhms.aylzline.top:8899/rtp/225.1.2.42:10246
+#EXTINF:-1 tvg-name="[B] 卫视 - 西藏卫视",西藏卫视
+http://zczb.aylzline.top:8899/rtp/225.1.2.42:10246
+#EXTINF:-1 tvg-name="[B] 卫视 - 贵州卫视",贵州卫视
+http://yhms.aylzline.top:8899/rtp/225.1.2.109:11632
+#EXTINF:-1 tvg-name="[B] 卫视 - 贵州卫视",贵州卫视
+http://zczb.aylzline.top:8899/rtp/225.1.2.109:11632
+#EXTINF:-1 tvg-name="[B] 卫视 - 辽宁卫视",辽宁卫视
+http://yhms.aylzline.top:8899/rtp/225.1.2.152:10930
+#EXTINF:-1 tvg-name="[B] 卫视 - 辽宁卫视",辽宁卫视
+http://lysj.aylzline.top:8899/rtp/225.1.2.152:10930
+#EXTINF:-1 tvg-name="[B] 卫视 - 辽宁卫视",辽宁卫视
+http://zczb.aylzline.top:8899/rtp/225.1.2.152:10930
+#EXTINF:-1 tvg-name="[B] 卫视 - 陕西卫视",陕西卫视
+http://zczb.aylzline.top:8899/rtp/225.1.2.36:10210
+#EXTINF:-1 tvg-name="[B] 卫视 - 陕西卫视",陕西卫视
+http://yhms.aylzline.top:8899/rtp/225.1.2.36:10210
+#EXTINF:-1 tvg-name="[B] 卫视 - 青海卫视",青海卫视
+http://lysj.aylzline.top:8899/rtp/225.1.2.39:10228
+#EXTINF:-1 tvg-name="[B] 卫视 - 青海卫视",青海卫视
+http://yhms.aylzline.top:8899/rtp/225.1.2.39:10228
+#EXTINF:-1 tvg-name="[B] 卫视 - 青海卫视",青海卫视
+http://zczb.aylzline.top:8899/rtp/225.1.2.39:10228
+#EXTINF:-1 tvg-name="[B] 卫视 - 黑龙江卫视",黑龙江卫视
+http://yhms.aylzline.top:8899/rtp/225.1.2.92:10546
+#EXTINF:-1 tvg-name="[B] 卫视 - 黑龙江卫视",黑龙江卫视
+http://lysj.aylzline.top:8899/rtp/225.1.2.92:10546
+#EXTINF:-1 tvg-name="[B] 卫视 - 黑龙江卫视",黑龙江卫视
+http://zczb.aylzline.top:8899/rtp/225.1.2.92:10546
+#EXTINF:-1 tvg-name="[B] 卫视 - 三沙卫视",三沙卫视
+http://lysj.aylzline.top:8899/rtp/225.1.2.225:11464
+#EXTINF:-1 tvg-name="[B] 卫视 - 三沙卫视",三沙卫视
+http://zczb.aylzline.top:8899/rtp/225.1.2.225:11464
+#EXTINF:-1 tvg-name="[B] 卫视 - 东南卫视",东南卫视
+http://zczb.aylzline.top:8899/rtp/225.1.2.226:11470
+#EXTINF:-1 tvg-name="[B] 卫视 - 东方卫视",东方卫视
+http://zczb.aylzline.top:8899/rtp/225.1.2.86:10510
+#EXTINF:-1 tvg-name="[B] 卫视 - 云南卫视",云南卫视
+http://yhms.aylzline.top:8899/rtp/225.1.2.76:11596
+#EXTINF:-1 tvg-name="[B] 卫视 - 云南卫视",云南卫视
+http://zczb.aylzline.top:8899/rtp/225.1.2.76:11596
+#EXTINF:-1 tvg-name="[B] 卫视 - 兵团卫视",兵团卫视
+http://zczb.aylzline.top:8899/rtp/225.1.2.98:10582
+#EXTINF:-1 tvg-name="[B] 卫视 - 内蒙古卫视",内蒙古卫视
+http://yhms.aylzline.top:8899/rtp/225.1.2.38:10222
+#EXTINF:-1 tvg-name="[B] 卫视 - 内蒙古卫视",内蒙古卫视
+http://lysj.aylzline.top:8899/rtp/225.1.2.38:10222
+#EXTINF:-1 tvg-name="[B] 卫视 - 内蒙古卫视",内蒙古卫视
+http://zczb.aylzline.top:8899/rtp/225.1.2.38:10222
+#EXTINF:-1 tvg-name="[B] 卫视 - 北京卫视",北京卫视
+http://yhms.aylzline.top:8899/rtp/225.1.2.49:10288
+#EXTINF:-1 tvg-name="[B] 卫视 - 北京卫视",北京卫视
+http://lysj.aylzline.top:8899/rtp/225.1.2.49:10288
+#EXTINF:-1 tvg-name="[B] 卫视 - 北京卫视",北京卫视
+http://zczb.aylzline.top:8899/rtp/225.1.2.49:10288
+#EXTINF:-1 tvg-name="[B] 卫视 - 厦门卫视",厦门卫视
+http://yhms.aylzline.top:8899/rtp/225.1.2.96:10570
+#EXTINF:-1 tvg-name="[B] 卫视 - 厦门卫视",厦门卫视
+http://lysj.aylzline.top:8899/rtp/225.1.2.96:10570
+#EXTINF:-1 tvg-name="[B] 卫视 - 厦门卫视",厦门卫视
+http://zczb.aylzline.top:8899/rtp/225.1.2.96:10570
+#EXTINF:-1 tvg-name="[B] 卫视 - 吉林卫视",吉林卫视
+http://yhms.aylzline.top:8899/rtp/225.1.2.105:11608
+#EXTINF:-1 tvg-name="[B] 卫视 - 吉林卫视",吉林卫视
+http://lysj.aylzline.top:8899/rtp/225.1.2.105:11608
+#EXTINF:-1 tvg-name="[B] 卫视 - 吉林卫视",吉林卫视
+http://zczb.aylzline.top:8899/rtp/225.1.2.105:11608
+#EXTINF:-1 tvg-name="[B] 卫视 - 四川卫视",四川卫视
+http://yhms.aylzline.top:8899/rtp/225.1.2.108:11626
+#EXTINF:-1 tvg-name="[B] 卫视 - 四川卫视",四川卫视
+http://zczb.aylzline.top:8899/rtp/225.1.2.108:11626
+#EXTINF:-1 tvg-name="[B] 卫视 - 四川卫视",四川卫视
+http://lysj.aylzline.top:8899/rtp/225.1.2.108:11626
+#EXTINF:-1 tvg-name="[B] 卫视 - 天津卫视",天津卫视
+http://yhms.aylzline.top:8899/rtp/225.1.2.87:10516
+#EXTINF:-1 tvg-name="[B] 卫视 - 天津卫视",天津卫视
+http://lysj.aylzline.top:8899/rtp/225.1.2.87:10516
+#EXTINF:-1 tvg-name="[B] 卫视 - 天津卫视",天津卫视
+http://zczb.aylzline.top:8899/rtp/225.1.2.87:10516
+#EXTINF:-1 tvg-name="[B] 卫视 - 宁夏卫视",宁夏卫视
+http://yhms.aylzline.top:8899/rtp/225.1.2.41:10240
+#EXTINF:-1 tvg-name="[B] 卫视 - 宁夏卫视",宁夏卫视
+http://zczb.aylzline.top:8899/rtp/225.1.2.41:10240
+#EXTINF:-1 tvg-name="[B] 卫视 - 宁夏卫视",宁夏卫视
+http://lysj.aylzline.top:8899/rtp/225.1.2.41:10240
+#EXTINF:-1 tvg-name="[B] 卫视 - 安徽卫视",安徽卫视
+http://yhms.aylzline.top:8899/rtp/225.1.2.88:10522
+#EXTINF:-1 tvg-name="[B] 卫视 - 安徽卫视",安徽卫视
+http://zczb.aylzline.top:8899/rtp/225.1.2.88:10522
+#EXTINF:-1 tvg-name="[B] 卫视 - 山东卫视",山东卫视
+http://lysj.aylzline.top:8899/rtp/225.1.2.89:10528
+#EXTINF:-1 tvg-name="[B] 卫视 - 山东卫视",山东卫视
+http://zczb.aylzline.top:8899/rtp/225.1.2.89:10528
+#EXTINF:-1 tvg-name="[B] 卫视 - 山东卫视",山东卫视
+http://yhms.aylzline.top:8899/rtp/225.1.2.89:10528
+#EXTINF:-1 tvg-name="[B] 卫视 - 山西卫视",山西卫视
+http://lysj.aylzline.top:8899/rtp/225.1.2.37:10216
+#EXTINF:-1 tvg-name="[B] 卫视 - 山西卫视",山西卫视
+http://zczb.aylzline.top:8899/rtp/225.1.2.37:10216
+#EXTINF:-1 tvg-name="[B] 卫视 - 山西卫视",山西卫视
+http://yhms.aylzline.top:8899/rtp/225.1.2.37:10216
+#EXTINF:-1 tvg-name="[B] 卫视 - 北京卫视",北京卫视
+http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 卫视 - 湖南卫视",湖南卫视
+http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 卫视 - 江苏卫视",江苏卫视
+http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 卫视 - 广东卫视",广东卫视
+http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 卫视 - 安徽卫视",安徽卫视
+http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 卫视 - 天津卫视",天津卫视
+http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 卫视 - 浙江卫视",浙江卫视
+http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 卫视 - 山东卫视",山东卫视
+http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 卫视 - 黑龙江卫视",黑龙江卫视
+http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 卫视 - 吉林卫视",吉林卫视
+http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 卫视 - 辽宁卫视",辽宁卫视
+http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 卫视 - 河北卫视",河北卫视
+http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 卫视 - 四川卫视",四川卫视
+http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 卫视 - 东南卫视",东南卫视
+http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 卫视 - 江西卫视",江西卫视
+http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 卫视 - 贵州卫视",贵州卫视
+http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 卫视 - 山西卫视",山西卫视
+http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 卫视 - 湖北卫视",湖北卫视
+http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 卫视 - 重庆卫视",重庆卫视
+http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 卫视 - 广西卫视",广西卫视
+http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 卫视 - 云南卫视",云南卫视
+http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="[B] 河南地方台 - 河南新闻",河南新闻
+http://1.94.31.214/php/hntv.php?id=hnxw
+#EXTINF:-1 tvg-name="[B] 河南地方台 - 河南都市",河南都市
+http://1.94.31.214/php/hntv.php?id=hnds
+#EXTINF:-1 tvg-name="[B] 河南地方台 - 河南民生",河南民生
+http://1.94.31.214/php/hntv.php?id=hnms
+#EXTINF:-1 tvg-name="[B] 河南地方台 - 河南公共",河南公共
+http://1.94.31.214/php/hntv.php?id=hngg
+#EXTINF:-1 tvg-name="[B] 河南地方台 - 河南法治",河南法治
+http://1.94.31.214/php/hntv.php?id=hmfz
+#EXTINF:-1 tvg-name="[B] 河南地方台 - 武术世界",武术世界
+http://1.94.31.214/php/hntv.php?id=wspd
+#EXTINF:-1 tvg-name="[B] 河南地方台 - 文物宝库",文物宝库
+http://1.94.31.214/php/hntv.php?id=wwbk
+#EXTINF:-1 tvg-name="[B] 河南地方台 - 睛彩中原",睛彩中原
+http://1.94.31.214/php/hntv.php?id=jczy
+#EXTINF:-1 tvg-name="[B] 河南地方台 - 大象视界",大象视界
+http://1.94.31.214/php/hntv.php?id=xsj
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南电视剧",河南电视剧
+http://xxwx.yoesun.com/xxw/河南网.php?id=hndsj
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南民生",河南民生
+http://xxwx.yoesun.com/xxw/河南网.php?id=hnms
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南新闻",河南新闻
+http://xxwx.yoesun.com/xxw/河南网.php?id=hnxw
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南公共",河南公共
+http://xxwx.yoesun.com/xxw/河南网.php?id=hngg
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南都市",河南都市
+http://xxwx.yoesun.com/xxw/河南网.php?id=hnds
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南民生",河南民生
+http://1.94.31.214/php/hntv.php?id=hnms
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南电视剧",河南电视剧
+http://1.94.31.214/php/hntv.php?id=hndsj
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南新闻",河南新闻
+http://1.94.31.214/php/hntv.php?id=hnxw
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南公共",河南公共
+http://1.94.31.214/php/hntv.php?id=hngg
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南乡村",河南乡村
+http://1.94.31.214/php/hntv.php?id=hnxc
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南梨园",河南梨园
+http://1.94.31.214/php/hntv.php?id=hnly
+#EXTINF:-1 tvg-name="[B] 河南地区 - 文物宝库",文物宝库
+http://1.94.31.214/php/hntv.php?id=wwbk
+#EXTINF:-1 tvg-name="[B] 河南地区 - 武术世界",武术世界
+http://1.94.31.214/php/hntv.php?id=wspd
+#EXTINF:-1 tvg-name="[B] 河南地区 - 睛彩中原",睛彩中原
+http://1.94.31.214/php/hntv.php?id=jczy
+#EXTINF:-1 tvg-name="[B] 河南地区 - 移动戏曲",移动戏曲
+http://1.94.31.214/php/hntv.php?id=ydxj
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南梨园",河南梨园
+http://150.158.10.195:80/dxxw.php?id=hnly
+#EXTINF:-1 tvg-name="[B] 河南地区 - 移动戏曲",移动戏曲
+http://150.158.10.195:80/dxxw.php?id=ydxj
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南都市",河南都市
+http://150.158.10.195:80/dxxw.php?id=hnds
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南民生",河南民生
+http://150.158.10.195:80/dxxw.php?id=hnms
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南法治",河南法治
+http://150.158.10.195:80/dxxw.php?id=hmfz
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南新闻",河南新闻
+http://150.158.10.195:80/dxxw.php?id=hnxw
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南公共",河南公共
+http://150.158.10.195:80/dxxw.php?id=hngg
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南乡村",河南乡村
+http://150.158.10.195:80/dxxw.php?id=hnxc
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南电视剧",河南电视剧
+http://150.158.10.195:80/dxxw.php?id=hndsj
+#EXTINF:-1 tvg-name="[B] 河南地区 - 武术世界",武术世界
+http://150.158.10.195:80/dxxw.php?id=wspd
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南曲艺",河南曲艺
+http://150.158.10.195:80/dxxw.php?id=jczy
+#EXTINF:-1 tvg-name="[B] 河南地区 - 象视界",象视界
+http://150.158.10.195:80/dxxw.php?id=xsj
+#EXTINF:-1 tvg-name="[B] 河南地区 - 阳综合",阳综合
+https://wshlslive.migucloud.com/live/6AL7GTQX_C0/playlist.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 洛阳科教",洛阳科教
+https://wshlslive.migucloud.com/live/RJ0EYBCZ_C0/playlist.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 洛阳文旅",洛阳文旅
+https://wshlslive.migucloud.com/live/CVN934JS_C0/playlist.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 焦作公共频道",焦作公共频道
+http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 焦作综合频道",焦作综合频道
+http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 开封公共",开封公共
+http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 开封综合",开封综合
+http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 开封新闻综合",开封新闻综合
+http://150.158.10.195:80/dxxw.php?id=kf1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 郑州新闻综合",郑州新闻综合
+http://150.158.10.195:80/dxxw.php?id=zz1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 平顶山新闻综合",平顶山新闻综合
+http://150.158.10.195:80/dxxw.php?id=pds1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 洛阳新闻综合",洛阳新闻综合
+http://150.158.10.195:80/dxxw.php?id=ly1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 新乡新闻综合",新乡新闻综合
+http://150.158.10.195:80/dxxw.php?id=xx1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 焦作新闻综合",焦作新闻综合
+http://150.158.10.195:80/dxxw.php?id=jz1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 许昌新闻综合",许昌新闻综合
+http://150.158.10.195:80/dxxw.php?id=xc1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 三门峡新闻综合",三门峡新闻综合
+http://150.158.10.195:80/dxxw.php?id=smx1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 南阳新闻综合",南阳新闻综合
+http://150.158.10.195:80/dxxw.php?id=ny1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 商丘新闻综合",商丘新闻综合
+http://150.158.10.195:80/dxxw.php?id=sq1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 信阳新闻综合",信阳新闻综合
+http://150.158.10.195:80/dxxw.php?id=xy1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 周口新闻综合",周口新闻综合
+http://150.158.10.195:80/dxxw.php?id=zk1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 济源新闻综合",济源新闻综合
+http://150.158.10.195:80/dxxw.php?id=jy1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南卫视",河南卫视
+http://39.165.39.49:19901/tsfile/live/1105_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南都市",河南都市
+http://39.165.39.49:19901/tsfile/live/1106_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南民生",河南民生
+http://39.165.39.49:19901/tsfile/live/1109_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南法治",河南法治
+http://39.165.39.49:19901/tsfile/live/1110_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南电视剧",河南电视剧
+http://39.165.39.49:19901/tsfile/live/1111_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南新闻",河南新闻
+http://39.165.39.49:19901/tsfile/live/1112_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南戏曲",河南戏曲
+http://39.165.39.49:19901/tsfile/live/1118_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南收藏天下",河南收藏天下
+http://39.165.39.49:19901/tsfile/live/1119_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 郑州商都-2",郑州商都-2
+http://39.165.39.49:19901/tsfile/live/1125_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 郑州豫剧频道-4",郑州豫剧频道-4
+http://39.165.39.49:19901/tsfile/live/1120_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 郑州都市生活-6",郑州都市生活-6
+http://39.165.39.49:19901/tsfile/live/1114_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 鄢陵",鄢陵
+http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 襄城",襄城
+http://tvpull.dxhmt.cn:9081/tv/11025-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 临颖",临颖
+http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 舞阳",舞阳
+http://tvpull.dxhmt.cn:9081/tv/11121-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 义马",义马
+http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - APTV",APTV
+http://tvpull.dxhmt.cn:9081/tv/10522-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 汤阴",汤阴
+http://tvpull.dxhmt.cn:9081/tv/10523-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 内黄",内黄
+http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 上蔡",上蔡
+http://tvpull.dxhmt.cn:9081/tv/11722-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 平舆",平舆
+http://tvpull.dxhmt.cn:9081/tv/11723-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 确山",确山
+http://tvpull.dxhmt.cn:9081/tv/11725-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 泌阳",泌阳
+http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 遂平",遂平
+http://tvpull.dxhmt.cn:9081/tv/11728-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 新蔡",新蔡
+http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 宝丰",宝丰
+http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 叶县",叶县
+http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 鲁山",鲁山
+http://tvpull.dxhmt.cn:9081/tv/10423-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 郏县",郏县
+http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 杞县",杞县
+http://tvpull.dxhmt.cn:9081/tv/10221-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 兰考",兰考
+http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 罗山",罗山
+http://tvpull.dxhmt.cn:9081/tv/11521-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 光山",光山
+http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 新县",新县
+http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 固始",固始
+http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 潢川",潢川
+http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 淮滨",淮滨
+http://tvpull.dxhmt.cn:9081/tv/11527-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 浚县",浚县
+http://tvpull.dxhmt.cn:9081/tv/10621-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 淇县",淇县
+http://tvpull.dxhmt.cn:9081/tv/10622-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 卫辉",卫辉
+http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 上街",上街
+http://tvpull.dxhmt.cn:9081/tv/10106-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 方城",方城
+http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 11323",11323
+http://tvpull.dxhmt.cn:9081/tv/11323-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 镇平",镇平
+http://tvpull.dxhmt.cn:9081/tv/11324-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 淅川",淅川
+http://tvpull.dxhmt.cn:9081/tv/11326-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 唐河",唐河
+http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 新野",新野
+http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 新乡县",新乡县
+http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 获嘉",获嘉
+http://tvpull.dxhmt.cn:9081/tv/10724-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 原阳",原阳
+http://tvpull.dxhmt.cn:9081/tv/10725-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 延津",延津
+http://tvpull.dxhmt.cn:9081/tv/10726-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 封丘",封丘
+http://tvpull.dxhmt.cn:9081/tv/10727-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 长垣",长垣
+http://tvpull.dxhmt.cn:9081/tv/10728-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 新郑",新郑
+http://tvpull.dxhmt.cn:9081/tv/10184-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 巩义",巩义
+http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 永城",永城
+http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 项城",项城
+http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 荥阳",荥阳
+http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 登封",登封
+http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 鹿邑",鹿邑
+http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 太康",太康
+http://tvpull.dxhmt.cn:9081/tv/11627-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 郸城",郸城
+http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 沈丘",沈丘
+http://tvpull.dxhmt.cn:9081/tv/11624-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 西华",西华
+http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 扶沟",扶沟
+http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 温县",温县
+http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 武陟",武陟
+http://tvpull.dxhmt.cn:9081/tv/10823-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 宜阳",宜阳
+http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 汝阳",汝阳
+http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 嵩县",嵩县
+http://tvpull.dxhmt.cn:9081/tv/10325-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 栾川",栾川
+http://tvpull.dxhmt.cn:9081/tv/10324-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 新安",新安
+http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 渑池",渑池
+http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 卢氏",卢氏
+http://tvpull.dxhmt.cn:9081/tv/11224-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 安阳新闻综合",安阳新闻综合
+http://zhpull.dxhmt.cn/anyang/7e3b40563af54e2f9f48e2c67c5d9fab/playlist.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 安阳文旅",安阳文旅
+http://zhpull.dxhmt.cn/anyang/24edb37167474b17948c6fbaf09890b8/playlist.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 焦作公共频道",焦作公共频道
+http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 焦作综合频道",焦作综合频道
+http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 开封公共",开封公共
+http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 开封综合",开封综合
+http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南梨园",河南梨园
+http://150.158.10.195:80/dxxw.php?id=hnly
+#EXTINF:-1 tvg-name="[B] 河南地区 - 移动戏曲",移动戏曲
+http://150.158.10.195:80/dxxw.php?id=ydxj
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南都市",河南都市
+http://150.158.10.195:80/dxxw.php?id=hnds
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南民生",河南民生
+http://150.158.10.195:80/dxxw.php?id=hnms
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南法治",河南法治
+http://150.158.10.195:80/dxxw.php?id=hmfz
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南新闻",河南新闻
+http://150.158.10.195:80/dxxw.php?id=hnxw
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南公共",河南公共
+http://150.158.10.195:80/dxxw.php?id=hngg
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南乡村",河南乡村
+http://150.158.10.195:80/dxxw.php?id=hnxc
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南电视剧",河南电视剧
+http://150.158.10.195:80/dxxw.php?id=hndsj
+#EXTINF:-1 tvg-name="[B] 河南地区 - 武术世界",武术世界
+http://150.158.10.195:80/dxxw.php?id=wspd
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南曲艺",河南曲艺
+http://150.158.10.195:80/dxxw.php?id=jczy
+#EXTINF:-1 tvg-name="[B] 河南地区 - 象视界",象视界
+http://150.158.10.195:80/dxxw.php?id=xsj
+#EXTINF:-1 tvg-name="[B] 河南地区 - 开封新闻综合",开封新闻综合
+http://150.158.10.195:80/dxxw.php?id=kf1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 郑州新闻综合",郑州新闻综合
+http://150.158.10.195:80/dxxw.php?id=zz1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 平顶山新闻综合",平顶山新闻综合
+http://150.158.10.195:80/dxxw.php?id=pds1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 洛阳新闻综合",洛阳新闻综合
+http://150.158.10.195:80/dxxw.php?id=ly1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 新乡新闻综合",新乡新闻综合
+http://150.158.10.195:80/dxxw.php?id=xx1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 焦作新闻综合",焦作新闻综合
+http://150.158.10.195:80/dxxw.php?id=jz1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 许昌新闻综合",许昌新闻综合
+http://150.158.10.195:80/dxxw.php?id=xc1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 三门峡新闻综合",三门峡新闻综合
+http://150.158.10.195:80/dxxw.php?id=smx1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 南阳新闻综合",南阳新闻综合
+http://150.158.10.195:80/dxxw.php?id=ny1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 商丘新闻综合",商丘新闻综合
+http://150.158.10.195:80/dxxw.php?id=sq1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 信阳新闻综合",信阳新闻综合
+http://150.158.10.195:80/dxxw.php?id=xy1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 周口新闻综合",周口新闻综合
+http://150.158.10.195:80/dxxw.php?id=zk1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 济源新闻综合",济源新闻综合
+http://150.158.10.195:80/dxxw.php?id=jy1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 郑州新闻综合",郑州新闻综合
+http://8.138.7.223/tv/hnzz.php?id=zzxwzh
+#EXTINF:-1 tvg-name="[B] 河南地区 - 郑州商都",郑州商都
+http://8.138.7.223/tv/hnzz.php?id=zzsd
+#EXTINF:-1 tvg-name="[B] 河南地区 - 郑州文体旅游",郑州文体旅游
+http://8.138.7.223/tv/hnzz.php?id=zzwtly
+#EXTINF:-1 tvg-name="[B] 河南地区 - 郑州豫剧",郑州豫剧
+http://8.138.7.223/tv/hnzz.php?id=zzyj
+#EXTINF:-1 tvg-name="[B] 河南地区 - 郑州都市",郑州都市
+http://8.138.7.223/tv/hnzz.php?id=zzdssh
+#EXTINF:-1 tvg-name="[B] 河南地区 - 郑州妇女儿童",郑州妇女儿童
+http://8.138.7.223/tv/hnzz.php?id=zzfnet
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南卫视",河南卫视
+http://39.165.39.49:19901/tsfile/live/1105_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南都市",河南都市
+http://39.165.39.49:19901/tsfile/live/1106_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南民生",河南民生
+http://39.165.39.49:19901/tsfile/live/1109_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南法治",河南法治
+http://39.165.39.49:19901/tsfile/live/1110_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南电视剧",河南电视剧
+http://39.165.39.49:19901/tsfile/live/1111_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南新闻",河南新闻
+http://39.165.39.49:19901/tsfile/live/1112_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南戏曲",河南戏曲
+http://39.165.39.49:19901/tsfile/live/1118_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南收藏天下",河南收藏天下
+http://39.165.39.49:19901/tsfile/live/1119_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 郑州商都-2",郑州商都-2
+http://39.165.39.49:19901/tsfile/live/1125_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 郑州豫剧频道-4",郑州豫剧频道-4
+http://39.165.39.49:19901/tsfile/live/1120_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 郑州都市生活-6",郑州都市生活-6
+http://39.165.39.49:19901/tsfile/live/1114_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 洛阳综合",洛阳综合
+https://wshlslive.migucloud.com/live/6AL7GTQX_C0/playlist.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 洛阳科教",洛阳科教
+https://wshlslive.migucloud.com/live/RJ0EYBCZ_C0/playlist.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 洛阳文旅",洛阳文旅
+https://wshlslive.migucloud.com/live/CVN934JS_C0/playlist.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 安阳新闻综合",安阳新闻综合
+http://zhpull.dxhmt.cn/anyang/7e3b40563af54e2f9f48e2c67c5d9fab/playlist.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 安阳文旅",安阳文旅
+http://zhpull.dxhmt.cn/anyang/24edb37167474b17948c6fbaf09890b8/playlist.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 焦作公共频道",焦作公共频道
+http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 焦作综合频道",焦作综合频道
+http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 开封公共",开封公共
+http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 开封综合",开封综合
+http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 牟综合",牟综合
+http://zmgd.zyrnet.com:8888/hls/19/index.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 牟生活",牟生活
+http://zmgd.zyrnet.com:8888/hls/20/index.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南都市",河南都市
+http://zmgd.zyrnet.com:8888/hls/21/index.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南民生",河南民生
+http://zmgd.zyrnet.com:8888/hls/22/index.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南法治",河南法治
+http://zmgd.zyrnet.com:8888/hls/23/index.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南电视剧",河南电视剧
+http://zmgd.zyrnet.com:8888/hls/24/index.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南新闻",河南新闻
+http://zmgd.zyrnet.com:8888/hls/25/index.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南公共",河南公共
+http://zmgd.zyrnet.com:8888/hls/27/index.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南乡村",河南乡村
+http://zmgd.zyrnet.com:8888/hls/28/index.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 重温经典",重温经典
+http://zmgd.zyrnet.com:8888/hls/29/index.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南都市频道",河南都市频道
+http://218.206.221.78:90/hls/53/index.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南民生频道",河南民生频道
+http://218.206.221.78:90/hls/54/index.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南法制频道",河南法制频道
+http://218.206.221.78:90/hls/55/index.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南电视剧频道",河南电视剧频道
+http://218.206.221.78:90/hls/56/index.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南新闻频道",河南新闻频道
+http://218.206.221.78:90/hls/57/index.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 济源-1",济源-1
+http://218.206.221.78:90/hls/52/index.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南电视剧",河南电视剧
+http://xxwx.yoesun.com/xxw/河南网.php?id=hndsj
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南民生",河南民生
+http://xxwx.yoesun.com/xxw/河南网.php?id=hnms
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南新闻",河南新闻
+http://xxwx.yoesun.com/xxw/河南网.php?id=hnxw
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南公共",河南公共
+http://xxwx.yoesun.com/xxw/河南网.php?id=hngg
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南都市",河南都市
+http://xxwx.yoesun.com/xxw/河南网.php?id=hnds
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南民生",河南民生
+http://1.94.31.214/php/hntv.php?id=hnms
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南电视剧",河南电视剧
+http://1.94.31.214/php/hntv.php?id=hndsj
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南新闻",河南新闻
+http://1.94.31.214/php/hntv.php?id=hnxw
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南公共",河南公共
+http://1.94.31.214/php/hntv.php?id=hngg
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南乡村",河南乡村
+http://1.94.31.214/php/hntv.php?id=hnxc
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南梨园",河南梨园
+http://1.94.31.214/php/hntv.php?id=hnly
+#EXTINF:-1 tvg-name="[B] 河南地区 - 文物宝库",文物宝库
+http://1.94.31.214/php/hntv.php?id=wwbk
+#EXTINF:-1 tvg-name="[B] 河南地区 - 武术世界",武术世界
+http://1.94.31.214/php/hntv.php?id=wspd
+#EXTINF:-1 tvg-name="[B] 河南地区 - 睛彩中原",睛彩中原
+http://1.94.31.214/php/hntv.php?id=jczy
+#EXTINF:-1 tvg-name="[B] 河南地区 - 移动戏曲",移动戏曲
+http://1.94.31.214/php/hntv.php?id=ydxj
+#EXTINF:-1 tvg-name="[B] 河南地区 - 导视",导视
+http://dodge.lwfz.fun:8800/rtp/239.16.20.17:10170
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南电视剧",河南电视剧
+http://xxwx.yoesun.com/xxw/河南网.php?id=hndsj
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南民生",河南民生
+http://xxwx.yoesun.com/xxw/河南网.php?id=hnms
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南新闻",河南新闻
+http://xxwx.yoesun.com/xxw/河南网.php?id=hnxw
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南公共",河南公共
+http://xxwx.yoesun.com/xxw/河南网.php?id=hngg
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南都市",河南都市
+http://xxwx.yoesun.com/xxw/河南网.php?id=hnds
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南梨园",河南梨园
+http://150.158.10.195:80/dxxw.php?id=hnly
+#EXTINF:-1 tvg-name="[B] 河南地区 - 移动戏曲",移动戏曲
+http://150.158.10.195:80/dxxw.php?id=ydxj
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南都市",河南都市
+http://150.158.10.195:80/dxxw.php?id=hnds
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南民生",河南民生
+http://150.158.10.195:80/dxxw.php?id=hnms
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南法治",河南法治
+http://150.158.10.195:80/dxxw.php?id=hmfz
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南新闻",河南新闻
+http://150.158.10.195:80/dxxw.php?id=hnxw
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南公共",河南公共
+http://150.158.10.195:80/dxxw.php?id=hngg
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南乡村",河南乡村
+http://150.158.10.195:80/dxxw.php?id=hnxc
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南电视剧",河南电视剧
+http://150.158.10.195:80/dxxw.php?id=hndsj
+#EXTINF:-1 tvg-name="[B] 河南地区 - 武术世界",武术世界
+http://150.158.10.195:80/dxxw.php?id=wspd
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南曲艺",河南曲艺
+http://150.158.10.195:80/dxxw.php?id=jczy
+#EXTINF:-1 tvg-name="[B] 河南地区 - 象视界",象视界
+http://150.158.10.195:80/dxxw.php?id=xsj
+#EXTINF:-1 tvg-name="[B] 河南地区 - 开封新闻综合",开封新闻综合
+http://150.158.10.195:80/dxxw.php?id=kf1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 郑州新闻综合",郑州新闻综合
+http://150.158.10.195:80/dxxw.php?id=zz1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 平顶山新闻综合",平顶山新闻综合
+http://150.158.10.195:80/dxxw.php?id=pds1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 洛阳新闻综合",洛阳新闻综合
+http://150.158.10.195:80/dxxw.php?id=ly1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 新乡新闻综合",新乡新闻综合
+http://150.158.10.195:80/dxxw.php?id=xx1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 焦作新闻综合",焦作新闻综合
+http://150.158.10.195:80/dxxw.php?id=jz1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 许昌新闻综合",许昌新闻综合
+http://150.158.10.195:80/dxxw.php?id=xc1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 三门峡新闻综合",三门峡新闻综合
+http://150.158.10.195:80/dxxw.php?id=smx1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 南阳新闻综合",南阳新闻综合
+http://150.158.10.195:80/dxxw.php?id=ny1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 商丘新闻综合",商丘新闻综合
+http://150.158.10.195:80/dxxw.php?id=sq1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 信阳新闻综合",信阳新闻综合
+http://150.158.10.195:80/dxxw.php?id=xy1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 周口新闻综合",周口新闻综合
+http://150.158.10.195:80/dxxw.php?id=zk1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 济源新闻综合",济源新闻综合
+http://150.158.10.195:80/dxxw.php?id=jy1
+#EXTINF:-1 tvg-name="[B] 河南地区 - 郑州新闻综合",郑州新闻综合
+http://8.138.7.223/tv/hnzz.php?id=zzxwzh
+#EXTINF:-1 tvg-name="[B] 河南地区 - 郑州商都",郑州商都
+http://8.138.7.223/tv/hnzz.php?id=zzsd
+#EXTINF:-1 tvg-name="[B] 河南地区 - 郑州文体旅游",郑州文体旅游
+http://8.138.7.223/tv/hnzz.php?id=zzwtly
+#EXTINF:-1 tvg-name="[B] 河南地区 - 郑州豫剧",郑州豫剧
+http://8.138.7.223/tv/hnzz.php?id=zzyj
+#EXTINF:-1 tvg-name="[B] 河南地区 - 郑州都市",郑州都市
+http://8.138.7.223/tv/hnzz.php?id=zzdssh
+#EXTINF:-1 tvg-name="[B] 河南地区 - 郑州妇女儿童",郑州妇女儿童
+http://8.138.7.223/tv/hnzz.php?id=zzfnet
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南卫视",河南卫视
+http://39.165.39.49:19901/tsfile/live/1105_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南都市",河南都市
+http://39.165.39.49:19901/tsfile/live/1106_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南民生",河南民生
+http://39.165.39.49:19901/tsfile/live/1109_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南法治",河南法治
+http://39.165.39.49:19901/tsfile/live/1110_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南电视剧",河南电视剧
+http://39.165.39.49:19901/tsfile/live/1111_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南新闻",河南新闻
+http://39.165.39.49:19901/tsfile/live/1112_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南戏曲",河南戏曲
+http://39.165.39.49:19901/tsfile/live/1118_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南收藏天下",河南收藏天下
+http://39.165.39.49:19901/tsfile/live/1119_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 郑州商都-2",郑州商都-2
+http://39.165.39.49:19901/tsfile/live/1125_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 郑州豫剧频道-4",郑州豫剧频道-4
+http://39.165.39.49:19901/tsfile/live/1120_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 郑州都市生活-6",郑州都市生活-6
+http://39.165.39.49:19901/tsfile/live/1114_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 洛阳综合频道",洛阳综合频道
+https://wshlslive.migucloud.com/live/08QAZLG6_C0/playlist.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 洛阳科教频道",洛阳科教频道
+https://wshlslive.migucloud.com/live/A2HVH5BQ_C0/playlist.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 洛阳文旅频道",洛阳文旅频道
+https://wshlslive.migucloud.com/live/Q081CD54_C0/playlist.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 安阳新闻综合",安阳新闻综合
+http://zhpull.dxhmt.cn/anyang/7e3b40563af54e2f9f48e2c67c5d9fab/playlist.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 安阳文旅",安阳文旅
+http://zhpull.dxhmt.cn/anyang/24edb37167474b17948c6fbaf09890b8/playlist.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 焦作公共频道",焦作公共频道
+http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 焦作综合频道",焦作综合频道
+http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 开封公共",开封公共
+http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 开封综合",开封综合
+http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 重温经典",重温经典
+http://111.8.224.6:4095/tsfile/live/1054_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 东南卫视",东南卫视
+http://39.150.98.32:7799/tsfile/live/0137_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 家庭影院",家庭影院
+http://39.150.98.32:7799/tsfile/live/1027_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 动作电影",动作电影
+http://39.150.98.32:7799/tsfile/live/1028_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 影迷电影",影迷电影
+http://39.150.98.32:7799/tsfile/live/1029_1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 信阳综合",信阳综合
+http://38.75.136.137:82/live1/hatv.m3u8?id=haxytv1&usign=M7sBXHR7iMOJOZXbdJPERQ
+#EXTINF:-1 tvg-name="[B] 河南地区 - 信阳浉河",信阳浉河
+https://rtmp.xytv.cn/live/8b28047c9e6f.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 信阳文旅",信阳文旅
+https://rtmp.xytv.cn/live/118cfcf8c6df.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 信阳平桥",信阳平桥
+https://rtmp.xytv.cn/live/b998c92c650c.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 驻马店公共",驻马店公共
+https://p2hs.vzan.com/slowlive/692736859757132846/live.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 驻马店新闻",驻马店新闻
+https://p2hs.vzan.com/slowlive/856224149274600377/live.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 鄢陵",鄢陵
+http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 襄城",襄城
+http://tvpull.dxhmt.cn:9081/tv/11025-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 临颖",临颖
+http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 舞阳",舞阳
+http://tvpull.dxhmt.cn:9081/tv/11121-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 义马",义马
+http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - APTV",APTV
+http://tvpull.dxhmt.cn:9081/tv/10522-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 汤阴",汤阴
+http://tvpull.dxhmt.cn:9081/tv/10523-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 内黄",内黄
+http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 上蔡",上蔡
+http://tvpull.dxhmt.cn:9081/tv/11722-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 平舆",平舆
+http://tvpull.dxhmt.cn:9081/tv/11723-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 确山",确山
+http://tvpull.dxhmt.cn:9081/tv/11725-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 泌阳",泌阳
+http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 遂平",遂平
+http://tvpull.dxhmt.cn:9081/tv/11728-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 新蔡",新蔡
+http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 宝丰",宝丰
+http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 叶县",叶县
+http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 鲁山",鲁山
+http://tvpull.dxhmt.cn:9081/tv/10423-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 郏县",郏县
+http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 杞县",杞县
+http://tvpull.dxhmt.cn:9081/tv/10221-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 兰考",兰考
+http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 罗山",罗山
+http://tvpull.dxhmt.cn:9081/tv/11521-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 光山",光山
+http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 新县",新县
+http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 固始",固始
+http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 潢川",潢川
+http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 淮滨",淮滨
+http://tvpull.dxhmt.cn:9081/tv/11527-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 浚县",浚县
+http://tvpull.dxhmt.cn:9081/tv/10621-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 淇县",淇县
+http://tvpull.dxhmt.cn:9081/tv/10622-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 卫辉",卫辉
+http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 上街",上街
+http://tvpull.dxhmt.cn:9081/tv/10106-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 方城",方城
+http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 11323",11323
+http://tvpull.dxhmt.cn:9081/tv/11323-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 镇平",镇平
+http://tvpull.dxhmt.cn:9081/tv/11324-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 淅川",淅川
+http://tvpull.dxhmt.cn:9081/tv/11326-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 唐河",唐河
+http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 新野",新野
+http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 新乡县",新乡县
+http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 获嘉",获嘉
+http://tvpull.dxhmt.cn:9081/tv/10724-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 原阳",原阳
+http://tvpull.dxhmt.cn:9081/tv/10725-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 延津",延津
+http://tvpull.dxhmt.cn:9081/tv/10726-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 封丘",封丘
+http://tvpull.dxhmt.cn:9081/tv/10727-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 长垣",长垣
+http://tvpull.dxhmt.cn:9081/tv/10728-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 新郑",新郑
+http://tvpull.dxhmt.cn:9081/tv/10184-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 巩义",巩义
+http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 永城",永城
+http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 项城",项城
+http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 荥阳",荥阳
+http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 登封",登封
+http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 鹿邑",鹿邑
+http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 太康",太康
+http://tvpull.dxhmt.cn:9081/tv/11627-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 郸城",郸城
+http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 沈丘",沈丘
+http://tvpull.dxhmt.cn:9081/tv/11624-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 西华",西华
+http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 扶沟",扶沟
+http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 温县",温县
+http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 武陟",武陟
+http://tvpull.dxhmt.cn:9081/tv/10823-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 宜阳",宜阳
+http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 汝阳",汝阳
+http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 嵩县",嵩县
+http://tvpull.dxhmt.cn:9081/tv/10325-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 栾川",栾川
+http://tvpull.dxhmt.cn:9081/tv/10324-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 新安",新安
+http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 渑池",渑池
+http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 卢氏",卢氏
+http://tvpull.dxhmt.cn:9081/tv/11224-1.m3u8
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南乡村",河南乡村
+http://help.lwfz.fun:8800/rtp/239.16.10.181:2000
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南新闻",河南新闻
+http://help.lwfz.fun:8800/rtp/239.16.10.124:2000
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南都市",河南都市
+http://help.lwfz.fun:8800/rtp/239.16.10.120:2000
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南法治",河南法治
+http://help.lwfz.fun:8800/rtp/239.16.10.122:2000
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南公共",河南公共
+http://help.lwfz.fun:8800/rtp/239.16.10.126:2000
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南民生",河南民生
+http://help.lwfz.fun:8800/rtp/239.16.20.165:11650
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南电视剧",河南电视剧
+http://help.lwfz.fun:8800/rtp/239.16.20.167:11670
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南梨园频道",河南梨园频道
+http://help.lwfz.fun:8800/rtp/239.16.20.171:11710
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南文物宝库",河南文物宝库
+http://help.lwfz.fun:8800/rtp/239.16.20.172:11720
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南武术世界",河南武术世界
+http://help.lwfz.fun:8800/rtp/239.16.20.173:11730
+#EXTINF:-1 tvg-name="[B] 河南地区 - 河南移动电视",河南移动电视
+http://help.lwfz.fun:8800/rtp/239.16.10.79:2000
+#EXTINF:-1 tvg-name="[B] 河南地区 - 大美河南",大美河南
+http://help.lwfz.fun:8800/rtp/239.16.20.17:10170
+#EXTINF:-1 tvg-name="[B] 河南地区 - 郑州新闻综合",郑州新闻综合
+http://help.lwfz.fun:8800/rtp/239.16.10.154:2000
+#EXTINF:-1 tvg-name="[B] 河南地区 - 郑州商都频道",郑州商都频道
+http://help.lwfz.fun:8800/rtp/239.16.10.155:2000
+#EXTINF:-1 tvg-name="[B] 河南地区 - 郑州文体旅游",郑州文体旅游
+http://help.lwfz.fun:8800/rtp/239.16.10.156:2000
+#EXTINF:-1 tvg-name="[B] 河南地区 - 郑州豫剧频道",郑州豫剧频道
+http://help.lwfz.fun:8800/rtp/239.16.10.157:2000
+#EXTINF:-1 tvg-name="[B] 河南地区 - 郑州妇女儿童",郑州妇女儿童
+http://help.lwfz.fun:8800/rtp/239.16.10.158:2000
+#EXTINF:-1 tvg-name="[B] 河南地区 - 郑州都市频道",郑州都市频道
+http://help.lwfz.fun:8800/rtp/239.16.10.159:2000
+#EXTINF:-1 tvg-name="[B] 河南地区 - 周口公共",周口公共
+http://help.lwfz.fun:8800/rtp/239.16.10.172:2000
+#EXTINF:-1 tvg-name="[B] 河南地区 - 周口教育",周口教育
+http://help.lwfz.fun:8800/rtp/239.16.10.173:2000
+#EXTINF:-1 tvg-name="[B] 河南地区 - 周口新闻",周口新闻
+http://help.lwfz.fun:8800/rtp/239.16.10.59:2000
+#EXTINF:-1 tvg-name="[B] 河南地区 - 商丘公共",商丘公共
+http://help.lwfz.fun:8800/rtp/239.16.10.168:2000
+#EXTINF:-1 tvg-name="[B] 河南地区 - 商丘文体",商丘文体
+http://help.lwfz.fun:8800/rtp/239.16.10.169:2000
+#EXTINF:-1 tvg-name="[B] 河南地区 - 商丘新闻",商丘新闻
+http://help.lwfz.fun:8800/rtp/239.16.10.153:2000
+#EXTINF:-1 tvg-name="[B] 河南地区 - 平顶山公共",平顶山公共
+http://help.lwfz.fun:8800/rtp/239.16.20.152:11520
+#EXTINF:-1 tvg-name="[B] 河南地区 - 平顶山城市",平顶山城市
+http://help.lwfz.fun:8800/rtp/239.16.20.151:11510
+#EXTINF:-1 tvg-name="[B] 河南地区 - 平顶山教育",平顶山教育
+http://help.lwfz.fun:8800/rtp/239.16.20.27:10270
+#EXTINF:-1 tvg-name="[B] 河南地区 - 平顶山新闻",平顶山新闻
+http://help.lwfz.fun:8800/rtp/239.16.20.137:11370
+#EXTINF:-1 tvg-name="[B] 河南地区 - 开封新闻",开封新闻
+http://help.lwfz.fun:8800/rtp/239.16.10.57:2000
+#EXTINF:-1 tvg-name="[B] 河南地区 - 开封文化",开封文化
+http://help.lwfz.fun:8800/rtp/239.16.10.177:2000
+#EXTINF:-1 tvg-name="[B] 河南地区 - 汝阳综合",汝阳综合
+http://help.lwfz.fun:8800/rtp/239.16.20.207:12070
+#EXTINF:-1 tvg-name="[B] 河南地区 - 洛阳文旅",洛阳文旅
+http://help.lwfz.fun:8800/rtp/239.16.20.178:11780
+#EXTINF:-1 tvg-name="[B] 河南地区 - 洛阳新闻",洛阳新闻
+http://help.lwfz.fun:8800/rtp/239.16.20.179:11790
+#EXTINF:-1 tvg-name="[B] 河南地区 - 洛阳科教",洛阳科教
+http://help.lwfz.fun:8800/rtp/239.16.20.177:11770
+#EXTINF:-1 tvg-name="[B] 河南地区 - 焦作公共",焦作公共
+http://help.lwfz.fun:8800/rtp/239.16.20.155:11550
+#EXTINF:-1 tvg-name="[B] 河南地区 - 焦作综合",焦作综合
+http://help.lwfz.fun:8800/rtp/239.16.20.140:11400
+#EXTINF:-1 tvg-name="[B] 河南地区 - 驻马店新闻",驻马店新闻
+http://help.lwfz.fun:8800/rtp/239.16.10.170:2000
+#EXTINF:-1 tvg-name="[B] 河南地区 - 驻马店科教",驻马店科教
+http://help.lwfz.fun:8800/rtp/239.16.10.171:2000
+#EXTINF:-1 tvg-name="[B] 河南地区 - 南阳公共",南阳公共
+http://help.lwfz.fun:8800/rtp/239.16.10.165:2000
+#EXTINF:-1 tvg-name="[B] 河南地区 - 南阳新闻",南阳新闻
+http://help.lwfz.fun:8800/rtp/239.16.10.58:2000
+#EXTINF:-1 tvg-name="[B] 河南地区 - 安阳新闻",安阳新闻
+http://help.lwfz.fun:8800/rtp/239.16.20.144:11440
+#EXTINF:-1 tvg-name="[B] 河南地区 - 安阳科教",安阳科教
+http://help.lwfz.fun:8800/rtp/239.16.20.193:11930
+#EXTINF:-1 tvg-name="[B] 河南地区 - 新乡公共",新乡公共
+http://help.lwfz.fun:8800/rtp/239.16.20.154:11540
+#EXTINF:-1 tvg-name="[B] 河南地区 - 新乡新闻",新乡新闻
+http://help.lwfz.fun:8800/rtp/239.16.20.139:11390
+#EXTINF:-1 tvg-name="[B] 河南地区 - 许昌农业",许昌农业
+http://help.lwfz.fun:8800/rtp/239.16.10.60:2000
+#EXTINF:-1 tvg-name="[B] 河南地区 - 许昌综合",许昌综合
+http://help.lwfz.fun:8800/rtp/239.16.10.47:2000
+#EXTINF:-1 tvg-name="[B] 河南地区 - 濮阳公共",濮阳公共
+http://help.lwfz.fun:8800/rtp/239.16.20.184:11840
+#EXTINF:-1 tvg-name="[B] 河南地区 - 濮阳新闻",濮阳新闻
+http://help.lwfz.fun:8800/rtp/239.16.20.175:11750
+#EXTINF:-1 tvg-name="[B] 河南地区 - 信阳文旅",信阳文旅
+http://help.lwfz.fun:8800/rtp/239.16.10.71:2000
+#EXTINF:-1 tvg-name="[B] 河南地区 - 信阳新闻",信阳新闻
+http://help.lwfz.fun:8800/rtp/239.16.10.52:2000
+#EXTINF:-1 tvg-name="[B] 河南地区 - 新县综合",新县综合
+http://help.lwfz.fun:8800/rtp/239.16.10.166:2000
+#EXTINF:-1 tvg-name="[B] 河南地区 - 新密综合",新密综合
+http://help.lwfz.fun:8800/rtp/239.16.10.31:2000
+#EXTINF:-1 tvg-name="[B] 河南地区 - 三门峡新闻",三门峡新闻
+http://help.lwfz.fun:8800/rtp/239.16.20.145:11450
