@@ -429,6 +429,336 @@ http://39.84.71.53:3000/626064697
 http://39.84.71.53:3000/626065193
 #EXTINF:-1 tvg-name="[A] 地方 - 公共新闻频道",公共新闻频道
 http://39.84.71.5
+#EXTINF:-1 tvg-name="[B] 温馨提示 - 免费分享",免费分享
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=L4rjDD&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 香港 - 翡翠台",翡翠台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=51rg5u&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 香港 - 翡翠台",翡翠台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=NCJJsh&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 香港 - 明珠台",明珠台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=CcKXnS&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 香港 - 无线新闻",无线新闻
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=wtblR9&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 香港 - TVBPLUS",TVBPLUS
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=rAbxZe&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 香港 - ViuTV",ViuTV
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=ypH0ts&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 香港 - ViuTV 6",ViuTV 6
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=tMHghf&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 香港 - RTHK 31",RTHK 31
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=rqctH9&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 香港 - RTHK 32",RTHK 32
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=oqtebh&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 香港 - HOY TV",HOY TV
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=04r3Ki&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 香港 - 凤凰中文",凤凰中文
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=FntVEq&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 香港 - 凤凰资讯",凤凰资讯
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=mzsRpX&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 香港 - 凤凰香港",凤凰香港
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=tL1hdd&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 台视 HD",台视 HD
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=y25qp5&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 台视新闻",台视新闻
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=9X3jf7&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 台视综合",台视综合
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=CSQB39&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 中视 HD",中视 HD
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=lqBM1R&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 中视新闻",中视新闻
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=U4uoa6&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 中视经典",中视经典
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=hOGqmb&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 华视 HD",华视 HD
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=PGrcSB&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 公视 HD",公视 HD
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=pCnnGq&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 公视台语台",公视台语台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=s0dsN2&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 三立台湾台",三立台湾台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=MBfusM&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 三立都会台",三立都会台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=Bup14Q&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 三立综合台",三立综合台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=9tvUhj&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 三立戏剧台",三立戏剧台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=Qng0B2&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 东森新闻台",东森新闻台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=PO9gJ7&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 东森财经新闻台",东森财经新闻台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=xCxNFn&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 东森综合台",东森综合台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=5nJsaR&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 东森戏剧台",东森戏剧台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=hhMzOR&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 东森电影台",东森电影台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=b8mqw2&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 东森洋片台",东森洋片台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=SL3b2l&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 东森幼幼台",东森幼幼台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=42U94e&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 东森超视",东森超视
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=fvq7FY&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - TVBS HD",TVBS HD
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=wfy2we&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - TVBS 新闻台",TVBS 新闻台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=Dw0n5D&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - TVBS 欢乐台",TVBS 欢乐台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=BxRq4R&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 民视 HD",民视 HD
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=SvZVjM&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 民视新闻台",民视新闻台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=PpT2Vn&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 民视台湾台",民视台湾台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=bVAH6d&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 中天综合",中天综合
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=m9EORg&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 中天娱乐",中天娱乐
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=23ZTWk&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 中天亚洲",中天亚洲
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=21uk7p&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 中天新闻",中天新闻
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=xVO09C&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 寰宇新闻台",寰宇新闻台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=sXVkYt&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 寰宇财经台",寰宇财经台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=dG8DLa&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 八大第一台",八大第一台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=IHOdj1&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 八大综合台",八大综合台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=OmJO49&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 八大戏剧台",八大戏剧台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=RLAqhe&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 八大娱乐台",八大娱乐台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=RrtQpN&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 纬来体育",纬来体育
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=VKDoyK&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 纬来精彩",纬来精彩
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=bYqAWY&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 纬来日本",纬来日本
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=U2fXty&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 纬来电影",纬来电影
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=UaOZnB&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 纬来综合",纬来综合
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=XJiZ9S&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 纬来育乐",纬来育乐
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=Xa0vHW&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 爱尔达综合台",爱尔达综合台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=mPATf5&tk=UhnHCrLtOr
+#EXTINF:-1 tvg-name="[B] 台湾 - AXN Taiwan",AXN Taiwan
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=ukZrOS&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - MTV Live",MTV Live
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=Mm5R0m&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - HBO_HD",HBO_HD
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=0VoINX&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - HBO_HITS",HBO_HITS
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=B2kJbD&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - CINEMAX",CINEMAX
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=HjTqwl&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 好萊塢電影台",好萊塢電影台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=q9KKE2&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 卫视电影台",卫视电影台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=W6JEFS&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 龙祥时代",龙祥时代
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=iD52V5&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 美亚电影",美亚电影
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=9US773&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 華藝綜合",華藝綜合
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=aLI0SQ&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 博斯运动一台",博斯运动一台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=eCLAPa&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 博斯运动二台",博斯运动二台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=RYFTCj&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 博斯高球一台",博斯高球一台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=w30dj9&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 博斯高球二台",博斯高球二台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=JN284U&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 博斯网球台",博斯网球台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=7HC3Ct&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 博斯无限台",博斯无限台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=VFYO9A&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 台湾 - 好消息 2",好消息 2
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=3X8Z4o&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 儿童台 - 午后露珠的后庭诱惑",午后露珠的后庭诱惑
+https://t30.cdn2020.com/video/m3u8/2025/06/19/fcd3f28c/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 在我与继妹之间的放纵",在我与继妹之间的放纵
+https://t30.cdn2020.com/video/m3u8/2025/06/19/3d36cf01/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 我的女儿竟成荡妇",我的女儿竟成荡妇
+https://t30.cdn2020.com/video/m3u8/2025/06/19/2f2f90dc/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 继兄察觉的午后偷情",继兄察觉的午后偷情
+https://t30.cdn2020.com/video/m3u8/2025/06/19/1efac5d8/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 共享即是所有",共享即是所有
+https://t30.cdn2020.com/video/m3u8/2025/06/19/95a0221b/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 无法抗拒的继妹诱惑",无法抗拒的继妹诱惑
+https://t30.cdn2020.com/video/m3u8/2025/06/19/8d9814a7/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 我朋友的火辣妈妈",我朋友的火辣妈妈
+https://t30.cdn2020.com/video/m3u8/2025/06/19/e8e99fd4/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 我的第一位性导师",我的第一位性导师
+https://t30.cdn2020.com/video/m3u8/2025/06/19/23dcf18d/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 偷玩后妈的大乱试",偷玩后妈的大乱试
+https://t30.cdn2020.com/video/m3u8/2025/06/19/0c372fda/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 深陷胸罩诱惑",深陷胸罩诱惑
+https://t30.cdn2020.com/video/m3u8/2025/06/19/06b52870/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 拜金女的甜美陷阱",拜金女的甜美陷阱
+https://t30.cdn2020.com/video/m3u8/2025/06/17/76974c1d/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 欧洲尤物的激情调教",欧洲尤物的激情调教
+https://t30.cdn2020.com/video/m3u8/2025/06/17/01e9a5e4/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 青春姐妹花的奢华调教夜",青春姐妹花的奢华调教夜
+https://t30.cdn2020.com/video/m3u8/2025/06/17/cc8e1689/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 办公室里的性交易",办公室里的性交易
+https://t30.cdn2020.com/video/m3u8/2025/06/17/565b3227/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 生日性惊喜",生日性惊喜
+https://t30.cdn2020.com/video/m3u8/2025/06/17/eb516380/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 最后一次做爱",最后一次做爱
+https://t30.cdn2020.com/video/m3u8/2025/06/17/17ebb5d2/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 慕尔贝里路406号的秘密",慕尔贝里路406号的秘密
+https://t30.cdn2020.com/video/m3u8/2025/06/17/d9181139/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 深喉实录技巧极佳",深喉实录技巧极佳
+https://t30.cdn2020.com/video/m3u8/2025/06/17/af2fd88f/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 甜美女神的再度沉沦",甜美女神的再度沉沦
+https://t30.cdn2020.com/video/m3u8/2025/06/17/013b9e99/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 妈妈与青少年偶像的邂逅",妈妈与青少年偶像的邂逅
+https://t30.cdn2020.com/video/m3u8/2025/06/19/fc187a64/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 唯美女神的奢华私语",唯美女神的奢华私语
+https://t30.cdn2020.com/video/m3u8/2025/06/18/1103f85a/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 圣诞夜的后庭礼物",圣诞夜的后庭礼物
+https://t30.cdn2020.com/video/m3u8/2025/06/18/d27b3ede/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - Naomi Swann 的黑人初体验",Naomi Swann 的黑人初体验
+https://t30.cdn2020.com/video/m3u8/2025/06/21/081d5e6c/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 再次堕落的欲望火花",再次堕落的欲望火花
+https://t30.cdn2020.com/video/m3u8/2025/06/18/fcf9febb/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 美女用肉穴温暖大鸡巴",美女用肉穴温暖大鸡巴
+https://t30.cdn2020.com/video/m3u8/2025/06/21/9d1510ea/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 地产性爱 Hazel Moore",地产性爱 Hazel Moore
+https://t30.cdn2020.com/video/m3u8/2025/06/21/8d5f7749/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 临别时的肛交",临别时的肛交
+https://t30.cdn2020.com/video/m3u8/2025/06/21/988d29c5/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 金发美神的激情骑乘",金发美神的激情骑乘
+https://t30.cdn2020.com/video/m3u8/2025/06/17/50a8ecba/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 妈妈是你的第一次",妈妈是你的第一次
+https://t30.cdn2020.com/video/m3u8/2025/06/17/27050476/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 嫩模挑战极限尺寸",嫩模挑战极限尺寸
+https://t30.cdn2020.com/video/m3u8/2025/06/17/baefb6e6/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 闺蜜的共享激情",闺蜜的共享激情
+https://t30.cdn2020.com/video/m3u8/2025/06/18/08782ac8/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 火辣娇妻的初次沉沦",火辣娇妻的初次沉沦
+https://t30.cdn2020.com/video/m3u8/2025/06/18/74992a07/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 白与黑的同步快感",白与黑的同步快感
+https://t30.cdn2020.com/video/m3u8/2025/06/18/2ab28bf1/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 冷艳女神的激情觉醒",冷艳女神的激情觉醒
+https://t30.cdn2020.com/video/m3u8/2025/06/18/c5d5fabf/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 清纯尤物的极致释放",清纯尤物的极致释放
+https://t30.cdn2020.com/video/m3u8/2025/06/18/6332ebcc/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 姐妹花的极致盛宴",姐妹花的极致盛宴
+https://t30.cdn2020.com/video/m3u8/2025/06/18/a47094e5/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 粗大狂徒的猛攻调教",粗大狂徒的猛攻调教
+https://t30.cdn2020.com/video/m3u8/2025/06/18/220609bb/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 极简美学中的肉体诱惑",极简美学中的肉体诱惑
+https://t30.cdn2020.com/video/m3u8/2025/06/18/ee1913c0/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 小骗子的惩罚之夜",小骗子的惩罚之夜
+https://t30.cdn2020.com/video/m3u8/2025/06/18/c04c1f66/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 极限视角下的浪漫调教",极限视角下的浪漫调教
+https://t30.cdn2020.com/video/m3u8/2025/06/18/7932bdf1/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 后庭初体验的清纯释放",后庭初体验的清纯释放
+https://t30.cdn2020.com/video/m3u8/2025/06/18/516aff86/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 你刚刚肏了女佣吗",你刚刚肏了女佣吗
+https://t30.cdn2020.com/video/m3u8/2025/06/19/e8f3937a/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 饥渴之母的释放",饥渴之母的释放
+https://t30.cdn2020.com/video/m3u8/2025/06/19/a8af051b/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 原野深情共伺",原野深情共伺
+https://t30.cdn2020.com/video/m3u8/2025/06/19/44ede51b/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 优雅甜心的极致挑战",优雅甜心的极致挑战
+https://t30.cdn2020.com/video/m3u8/2025/06/18/e060b4e9/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 双人大战后的深度快感",双人大战后的深度快感
+https://t30.cdn2020.com/video/m3u8/2025/06/18/4d34436f/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 梦幻双姝的调教共舞",梦幻双姝的调教共舞
+https://t30.cdn2020.com/video/m3u8/2025/06/18/691a5491/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 闺蜜共享的黑棒之夜",闺蜜共享的黑棒之夜
+https://t30.cdn2020.com/video/m3u8/2025/06/18/bdf1bec6/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 白与黑的完美共伺",白与黑的完美共伺
+https://t30.cdn2020.com/video/m3u8/2025/06/18/a53a89a6/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 异域女神的首次黑棒体验",异域女神的首次黑棒体验
+https://t30.cdn2020.com/video/m3u8/2025/06/18/7e4c1871/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 金发尤物的奢华诱惑",金发尤物的奢华诱惑
+https://t30.cdn2020.com/video/m3u8/2025/06/20/6c652eee/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 姊妹花的后庭交织",姊妹花的后庭交织
+https://t30.cdn2020.com/video/m3u8/2025/06/20/af5704e7/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 诱惑女神的性感魅影",诱惑女神的性感魅影
+https://t30.cdn2020.com/video/m3u8/2025/06/20/5f1a5c3f/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 双花的激情共伺",双花的激情共伺
+https://t30.cdn2020.com/video/m3u8/2025/06/20/d6c555a1/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 双姝共伺",双姝共伺
+https://t30.cdn2020.com/video/m3u8/2025/06/20/d6d92bf9/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 纯欲女神的深情释放",纯欲女神的深情释放
+https://t30.cdn2020.com/video/m3u8/2025/06/20/3915c15d/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 圣诞想要中出的姐妹",圣诞想要中出的姐妹
+https://t30.cdn2020.com/video/m3u8/2025/06/19/d3c248bc/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 甜美诱惑",甜美诱惑
+https://t30.cdn2020.com/video/m3u8/2025/06/20/7d91e3e8/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 激情交织",激情交织
+https://t30.cdn2020.com/video/m3u8/2025/06/20/30a80a17/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 无防御的白虎复仇秀",无防御的白虎复仇秀
+https://t30.cdn2020.com/video/m3u8/2025/06/19/83f594a4/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 我在母亲节和继母发生关系",我在母亲节和继母发生关系
+https://t30.cdn2020.com/video/m3u8/2025/06/21/9de5e946/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - Emma Starletto 的奶油般的妥协",Emma Starletto 的奶油般的妥协
+https://t30.cdn2020.com/video/m3u8/2025/06/21/4cbe6d4d/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - Emelie Crystal 的黑人初体验",Emelie Crystal 的黑人初体验
+https://t30.cdn2020.com/video/m3u8/2025/06/21/955cf8d7/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - Gabbie Carter 与 Skylar Vox 的黑人首秀",Gabbie Carter 与 Skylar Vox 的黑人首秀
+https://t30.cdn2020.com/video/m3u8/2025/06/21/a6bd06b7/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 公主精液 Emma Starletto",公主精液 Emma Starletto
+https://t30.cdn2020.com/video/m3u8/2025/06/21/89ba4efc/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - Alex Grey极致后庭诱惑",Alex Grey极致后庭诱惑
+https://t30.cdn2020.com/video/m3u8/2025/06/20/df7f6391/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 老爸的东西卡在吸尘器里",老爸的东西卡在吸尘器里
+https://t30.cdn2020.com/video/m3u8/2025/06/21/00ea4e8e/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - Kimberly Brix激情初体验",Kimberly Brix激情初体验
+https://t30.cdn2020.com/video/m3u8/2025/06/20/061878f7/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - Alex Grey甜心的后庭初尝",Alex Grey甜心的后庭初尝
+https://t30.cdn2020.com/video/m3u8/2025/06/20/7f0fadd9/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 小骗子的激情骑乘",小骗子的激情骑乘
+https://t30.cdn2020.com/video/m3u8/2025/06/20/a721e162/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 怪物屌 Haley Reed",怪物屌 Haley Reed
+https://t30.cdn2020.com/video/m3u8/2025/06/22/e0e0e139/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 办公室里的私人访问",办公室里的私人访问
+https://t30.cdn2020.com/video/m3u8/2025/06/21/5a887410/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 继母被困烤箱肛交",继母被困烤箱肛交
+https://t30.cdn2020.com/video/m3u8/2025/06/21/aecef23b/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 额外特辑Kendra Sunderland",额外特辑Kendra Sunderland
+https://t30.cdn2020.com/video/m3u8/2025/06/21/cf4fed50/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 莉娜安德森的首次开肛",莉娜安德森的首次开肛
+https://t30.cdn2020.com/video/m3u8/2025/06/21/7a58a5fe/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 真实少女 Lena Anderson",真实少女 Lena Anderson
+https://t30.cdn2020.com/video/m3u8/2025/06/21/af5c00ed/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 医生历险 Riley Reid",医生历险 Riley Reid
+https://t30.cdn2020.com/video/m3u8/2025/06/21/a03d9c0f/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 美国美女与洋巨屌",美国美女与洋巨屌
+https://t30.cdn2020.com/video/m3u8/2025/06/21/93928849/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 任性妹妹与继父乱伦",任性妹妹与继父乱伦
+https://t30.cdn2020.com/video/m3u8/2025/06/21/aabd13ef/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 遇见他饥渴的怪物成人恶搞版",遇见他饥渴的怪物成人恶搞版
+https://t30.cdn2020.com/video/m3u8/2025/06/21/94395919/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 裙卡继姐妹 Kyler Quinn",裙卡继姐妹 Kyler Quinn
+https://t30.cdn2020.com/video/m3u8/2025/06/22/8bf0197f/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 跨年狂欢 Kiara Cole",跨年狂欢 Kiara Cole
+https://t30.cdn2020.com/video/m3u8/2025/06/22/c7f5289d/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - FHL系列 约瑟芬·杰克逊",FHL系列 约瑟芬·杰克逊
+https://t30.cdn2020.com/video/m3u8/2025/06/22/fee21cfd/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 假旅社",假旅社
+https://t30.cdn2020.com/video/m3u8/2025/06/22/18293338/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 我的变态继妹 Megan Holly",我的变态继妹 Megan Holly
+https://t30.cdn2020.com/video/m3u8/2025/06/22/c39520a1/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 女佣诱惑 Becky Bandini",女佣诱惑 Becky Bandini
+https://t30.cdn2020.com/video/m3u8/2025/06/22/49ca2cdd/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 拘留少女 Haley Reed",拘留少女 Haley Reed
+https://t30.cdn2020.com/video/m3u8/2025/06/22/16abed9d/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 让我来陪伴你",让我来陪伴你
+https://t30.cdn2020.com/video/m3u8/2025/06/22/20f874c5/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - Babes 艾琳娜科什卡",Babes 艾琳娜科什卡
+https://t30.cdn2020.com/video/m3u8/2025/06/22/cf76965d/index.m3u8
+#EXTINF:-1 tvg-name="[B] 儿童台 - 任性妹妹",任性妹妹
+https://t30.cdn2020.com/video/m3u8/2025/06/22/eb808c2f/index.m3u8
 #EXTINF:-1 tvg-name="[B] HKTV - 凤凰中文",凤凰中文
 https://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1 tvg-name="[B] HKTV - 凤凰资讯",凤凰资讯
@@ -635,3 +965,111 @@ http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 https://5ddce30eb4b55.streamlock.net/wxtv/wxtvnow.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="[B] 台湾 - 唯心电视",唯心电视
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+#EXTINF:-1 tvg-name="[B] 广东汕头 - 汕头综合",汕头综合
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=j2XSf1&tk=UaHNdGYE9Sf3
+#EXTINF:-1 tvg-name="[B] 广东汕头 - 汕头生活",汕头生活
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=E69s4k&tk=UaHNdGYE9Sf3
+#EXTINF:-1 tvg-name="[B] 广东汕头 - 潮州综合",潮州综合
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=cd1PQV&tk=UaHNdGYE9Sf3
+#EXTINF:-1 tvg-name="[B] 广东汕头 - 潮州民生",潮州民生
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TC6Mxl&tk=UaHNdGYE9Sf3
+#EXTINF:-1 tvg-name="[B] 广东汕头 - 潮阳台",潮阳台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=pFslWc&tk=UaHNdGYE9Sf3
+#EXTINF:-1 tvg-name="[B] 广东汕头 - MTV Live",MTV Live
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=Mm5R0m&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 广东汕头 - HBO_HD",HBO_HD
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=0VoINX&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 广东汕头 - HBO_HITS",HBO_HITS
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=B2kJbD&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 广东汕头 - CINEMAX",CINEMAX
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=HjTqwl&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 广东汕头 - 好萊塢電影台",好萊塢電影台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=q9KKE2&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 广东汕头 - 卫视电影台",卫视电影台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=W6JEFS&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 广东汕头 - 龙祥时代",龙祥时代
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=iD52V5&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 广东汕头 - 美亚电影",美亚电影
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=9US773&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 广东汕头 - 華藝綜合",華藝綜合
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=aLI0SQ&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 广东汕头 - 博斯运动一台",博斯运动一台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=eCLAPa&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 广东汕头 - 博斯运动二台",博斯运动二台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=RYFTCj&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 广东汕头 - 博斯高球一台",博斯高球一台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=w30dj9&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 广东汕头 - 博斯高球二台",博斯高球二台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=JN284U&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 广东汕头 - 博斯网球台",博斯网球台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=7HC3Ct&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 广东汕头 - 博斯无限台",博斯无限台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=VFYO9A&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 广东汕头 - 好消息 2",好消息 2
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=3X8Z4o&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV-1 综合",CCTV-1 综合
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=RBfF2e&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV-2 财经",CCTV-2 财经
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=NzdNev&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV-3 综艺",CCTV-3 综艺
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=Rr7zni&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV-4 中文国际",CCTV-4 中文国际
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=nAUNKS&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV-4 中文国际",CCTV-4 中文国际
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=u3NzOi&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV-5 体育",CCTV-5 体育
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=D5DwYY&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV-6 电影",CCTV-6 电影
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=oFv8tq&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV-7 国防军事",CCTV-7 国防军事
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=jcNX0r&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV-8 电视剧",CCTV-8 电视剧
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=1cuwnE&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV-9 记录",CCTV-9 记录
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=Etbj9X&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV-10 科教",CCTV-10 科教
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=UNmdIz&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV-11 戏曲",CCTV-11 戏曲
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=nm7Y4f&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV-12 社会与法",CCTV-12 社会与法
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=QpJxea&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV-13 新闻",CCTV-13 新闻
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=zr4zfu&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV-14 少儿",CCTV-14 少儿
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=ZCQiF9&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV-15 音乐",CCTV-15 音乐
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=nIAzKS&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV-16 奥林匹克",CCTV-16 奥林匹克
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=BAIPL9&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV-17 农业农村",CCTV-17 农业农村
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=jzrBUu&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 央视 - CCTV-5+ 体育赛事",CCTV-5+ 体育赛事
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=6bsK0s&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 央视 - 湖南卫视",湖南卫视
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=mziTrO&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 央视 - 浙江卫视",浙江卫视
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=Lpy95s&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 央视 - 江苏卫视",江苏卫视
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=dJ1RZg&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 央视 - 东方卫视",东方卫视
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=xJigYn&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 央视 - 北京卫视",北京卫视
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=VpxFwG&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 央视 - 深圳卫视",深圳卫视
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=TIs6Pd&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 央视 - 广东卫视",广东卫视
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=QLBaqJ&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 央视 - 大湾区卫视",大湾区卫视
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=tzElke&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 央视 - 珠江台",珠江台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=EzIedo&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 央视 - 东南卫视",东南卫视
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=BHoDrk&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 央视 - 广西卫视",广西卫视
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=z7rkC9&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 央视 - 湖北卫视",湖北卫视
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=rGvSkY&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 央视 - 四川卫视",四川卫视
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=iCsnyF&tk=UhnHCrLtOrnj
+#EXTINF:-1 tvg-name="[B] 央视 - CGTN",CGTN
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=Dx8ldz&tk=UhnHCrLtOrnj
