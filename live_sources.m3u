@@ -125,2457 +125,1159 @@ http://iptv.4666888.xyz/iptv2A.php?id=63
 http://iptv.4666888.xyz/iptv2A.php?id=64
 #EXTINF:-1 tvg-name="[A] é¢¨é²è©¦çèºç£é »é - ç¶èå¤§è´å®¶",ç¶èå¤§è´å®¶
 http://iptv.4666888.xyz/iptv2A.php?id=65
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV1综合",CCTV1综合
-http://74.91.26.218:82/live/cctv1hd.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV2财经",CCTV2财经
-http://74.91.26.218:82/live/cctv2hd.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV3综艺",CCTV3综艺
-http://74.91.26.218:82/live/cctv3hd.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV4中文国际",CCTV4中文国际
-http://74.91.26.218:82/live/cctv4hd.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV5体育",CCTV5体育
-http://74.91.26.218:82/live/cctv5hd.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV6电影",CCTV6电影
-http://74.91.26.218:82/live/cctv6hd.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV7国防军事",CCTV7国防军事
-http://74.91.26.218:82/live/cctv7hd.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV8电视剧",CCTV8电视剧
-http://74.91.26.218:82/live/cctv8hd.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV9纪录",CCTV9纪录
-http://74.91.26.218:82/live/cctv9hd.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV10科教",CCTV10科教
-http://74.91.26.218:82/live/cctv10hd.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV11戏曲",CCTV11戏曲
-http://74.91.26.218:82/live/cctv11hd.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV12社会与法",CCTV12社会与法
-http://74.91.26.218:82/live/cctv12hd.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV13新闻",CCTV13新闻
-http://74.91.26.218:82/live/cctv13hd.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV14少儿",CCTV14少儿
-http://74.91.26.218:82/live/cctv14hd.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV15音乐",CCTV15音乐
-http://74.91.26.218:82/live/cctv15hd.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV16奥利匹克",CCTV16奥利匹克
-http://74.91.26.218:82/live/cctv16hd.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV17农业农村",CCTV17农业农村
-http://74.91.26.218:82/live/cctv17hd.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - CCTV5+体育赛事",CCTV5+体育赛事
-http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - cctv1",cctv1
-http://183.246.208.24:843/liveten-tpgq.cctv.cn/live/30a8228c89a864b186be13047a4b3b60.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - cctv2",cctv2
-http://183.246.208.24:843/liveten-tpgq.cctv.cn/live/6b119e785733a4fc2ffbf44816187f25.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - cctv3",cctv3
-http://183.246.208.24:843/liveten-tpgq.cctv.cn/live/2e8e13f48095699fbd6a8cfccf32c3aa.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - cctv4",cctv4
-http://183.246.208.24:843/liveten-tpgq.cctv.cn/live/33947a195f5a20e75ae06e19078e07c8.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - cctv5",cctv5
-http://183.246.208.24:843/liveten-tpgq.cctv.cn/live/3e1b6788736d5a9507c7f9f627ff04f8.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - cctv5+",cctv5+
-http://183.246.208.24:843/liveten-tpgq.cctv.cn/live/3758a19e715b8d107bb54ff9168129cf.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - cctv6",cctv6
-http://183.246.208.24:843/mobilelive-pull.ysp.cctv.cn/ysp/2013693901_fhd.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - cctv7",cctv7
-http://183.246.208.24:843/liveten-tpgq.cctv.cn/live/226c22bb52f9478ea6d51c4d3bd8b897.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - cctv8",cctv8
-http://183.246.208.24:843/liveten-tpgq.cctv.cn/live/a440bc9fc17f1be284ea8cf14da81122.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - cctv9",cctv9
-http://183.246.208.24:843/liveten-tpgq.cctv.cn/live/7697aea39cca172b3cbf3dd9bbdc7ea5.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - cctv10",cctv10
-http://183.246.208.24:843/liveten-tpgq.cctv.cn/live/6eddd73bd2594e0cb80a91866820d6d2.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - cctv11",cctv11
-http://183.246.208.24:843/liveten-tpgq.cctv.cn/live/1e68ad19b53373ed334577414189fd0d.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - cctv12",cctv12
-http://183.246.208.24:843/liveten-tpgq.cctv.cn/live/cd122318fc504d62dd68149d2f129af9.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - cctv13",cctv13
-http://183.246.208.24:843/liveten-tpgq.cctv.cn/live/166560daebe7afc5dd887496e7b8d6b9.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - cctv14",cctv14
-http://183.246.208.24:843/liveten-tpgq.cctv.cn/live/5189195c043059c73e31b994c23ad528.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - cctv15",cctv15
-http://183.246.208.24:843/liveten-tpgq.cctv.cn/live/44b27397905bd32833285a9d8d37daa6.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - cctv16",cctv16
-http://183.246.208.24:843/liveten-tpgq.cctv.cn/live/5e371361c10b8d49611c3ad8b2eb363a.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - cctv17",cctv17
-http://183.246.208.24:843/liveten-tpgq.cctv.cn/live/8eae18e5610069468facb496c5b65404.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - cgtn英语",cgtn英语
-http://183.246.208.24:843/liveten-tpgq.cctv.cn/live/5bc189b3c03549bfd96d1b1d4f60d1e2.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - cgtn纪录片",cgtn纪录片
-http://183.246.208.24:843/liveten-tpgq.cctv.cn/live/c2124b6209b85efae51359602380821e.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - cctv4k",cctv4k
-http://183.246.208.24:843/liveten-tpgq.cctv.cn/live/6134a64ba55c4ba1e8fec745a699066e.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - cctv8k",cctv8k
-http://183.246.208.24:843/liveten-tp4k.cctv.cn/live/fJx12C/playlist.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - 第一剧场",第一剧场
-http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874203_dlna.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - 风云剧场",风云剧场
-http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2025637103_dlna.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - 怀旧剧场",怀旧剧场
-http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874303_dlna.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - 风云音乐",风云音乐
-http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874503_dlna.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - 女性时尚",女性时尚
-http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874803_dlna.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - 央视文化精品",央视文化精品
-http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874903_dlna.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - 世界地理",世界地理
-http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874403_dlna.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - 兵器科技",兵器科技
-http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874603_dlna.m3u8
-#EXTINF:-1 tvg-name="[B] 央视 - 电视指南",电视指南
-http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026875103_dlna.m3u8
-#EXTINF:-1 tvg-name="[B] 卫视 - 湖南卫视",湖南卫视
-http://74.91.26.218:82/live/hnwshd.m3u8
-#EXTINF:-1 tvg-name="[B] 卫视 - 浙江卫视",浙江卫视
-http://74.91.26.218:82/live/zjwshd.m3u8
-#EXTINF:-1 tvg-name="[B] 卫视 - 江苏卫视",江苏卫视
-http://74.91.26.218:82/live/jswshd.m3u8
-#EXTINF:-1 tvg-name="[B] 卫视 - 东方卫视",东方卫视
-http://74.91.26.218:82/live/dfwshd.m3u8
-#EXTINF:-1 tvg-name="[B] 卫视 - 广东卫视",广东卫视
-http://74.91.26.218:82/live/gdwshd.m3u8
-#EXTINF:-1 tvg-name="[B] 卫视 - 深圳卫视",深圳卫视
-http://74.91.26.218:82/live/szwshd.m3u8
-#EXTINF:-1 tvg-name="[B] 卫视 - 南方卫视",南方卫视
-http://74.91.26.218:82/live/nfws.m3u8
-#EXTINF:-1 tvg-name="[B] 体育 - CCTV5体育",CCTV5体育
-http://74.91.26.218:82/live/cctv5hd.m3u8
-#EXTINF:-1 tvg-name="[B] 体育 - CCTV16奥林匹克",CCTV16奥林匹克
-http://74.91.26.218:82/live/cctv16hd.m3u8
-#EXTINF:-1 tvg-name="[B] 体育 - CCTV5+体育赛事",CCTV5+体育赛事
-http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-name="[B] 体育 - 广东体育",广东体育
-http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-name="[B] 广东 - 南方卫视",南方卫视
-http://74.91.26.218:82/live/nfws.m3u8
-#EXTINF:-1 tvg-name="[B] 广东 - 广东新闻",广东新闻
-http://74.91.26.218:82/live/gdxw.m3u8
-#EXTINF:-1 tvg-name="[B] 广东 - 广东珠江",广东珠江
-http://74.91.26.218:82/live/gdzj.m3u8
-#EXTINF:-1 tvg-name="[B] 广东 - 广东体育",广东体育
-http://74.91.26.218:82/live/gdty.m3u8
-#EXTINF:-1 tvg-name="[B] 香港 - 翡翠台",翡翠台
-http://74.91.26.218:82/live/jade.m3u8
-#EXTINF:-1 tvg-name="[B] 香港 - 无线新闻台",无线新闻台
-http://74.91.26.218:82/live/inews.m3u8
-#EXTINF:-1 tvg-name="[B] 香港 - TVB Plus",TVB Plus
-http://74.91.26.218:82/live/j2.m3u8
-#EXTINF:-1 tvg-name="[B] 香港 - TVB星河",TVB星河
-http://74.91.26.218:82/live/tvbxh.m3u8
-#EXTINF:-1 tvg-name="[B] 香港 - TVB千禧经典台",TVB千禧经典台
-http://74.91.26.218:82/live/tvbjd.m3u8
-#EXTINF:-1 tvg-name="[B] 香港 - NOW星影台",NOW星影台
-http://74.91.26.218:82/live/nowxy.m3u8
-#EXTINF:-1 tvg-name="[B] 香港 - NOW爆谷台",NOW爆谷台
-http://74.91.26.218:82/live/nowbg.m3u8
-#EXTINF:-1 tvg-name="[B] 香港 - 美亚电影台",美亚电影台
-http://74.91.26.218:82/live/mydy.m3u8
-#EXTINF:-1 tvg-name="[B] 香港 - 天映频道",天映频道
-http://74.91.26.218:82/live/typd.m3u8
-#EXTINF:-1 tvg-name="[B] 香港 - 天映经典",天映经典
-http://74.91.26.218:82/live/tyjd.m3u8
-#EXTINF:-1 tvg-name="[B] 台湾 - 中视",中视
-http://74.91.26.218:82/live/ctv.m3u8
-#EXTINF:-1 tvg-name="[B] 台湾 - 中视新闻",中视新闻
-http://74.91.26.218:82/live/ctvnews.m3u8
-#EXTINF:-1 tvg-name="[B] 台湾 - 中视经典",中视经典
-http://74.91.26.218:82/live/ctvjd.m3u8
-#EXTINF:-1 tvg-name="[B] 台湾 - 中视菁采",中视菁采
-http://74.91.26.218:82/live/ctvjc.m3u8
-#EXTINF:-1 tvg-name="[B] 台湾 - 台视",台视
-http://74.91.26.218:82/live/ttv.m3u8
-#EXTINF:-1 tvg-name="[B] 台湾 - 台视新闻",台视新闻
-http://74.91.26.218:82/live/ttvnews.m3u8
-#EXTINF:-1 tvg-name="[B] 台湾 - 台视综合",台视综合
-http://74.91.26.218:82/live/ttvzh.m3u8
-#EXTINF:-1 tvg-name="[B] 台湾 - 台视财经",台视财经
-http://74.91.26.218:82/live/ttvcj.m3u8
-#EXTINF:-1 tvg-name="[B] 台湾 - 华视",华视
-http://74.91.26.218:82/live/cts.m3u8
-#EXTINF:-1 tvg-name="[B] 台湾 - 华视新闻资讯",华视新闻资讯
-http://74.91.26.218:82/live/ctsnews.m3u8
-#EXTINF:-1 tvg-name="[B] 台湾 - 华视教育体育文化",华视教育体育文化
-http://74.91.26.218:82/live/ctsjy.m3u8
-#EXTINF:-1 tvg-name="[B] 台湾 - 民视",民视
-http://74.91.26.218:82/live/ftv.m3u8
-#EXTINF:-1 tvg-name="[B] 台湾 - 民视新闻台",民视新闻台
-http://74.91.26.218:82/live/ftvnews.m3u8
-#EXTINF:-1 tvg-name="[B] 台湾 - 民视台湾台",民视台湾台
-http://74.91.26.218:82/live/ftvtw.m3u8
-#EXTINF:-1 tvg-name="[B] 台湾 - 民视第一台",民视第一台
-http://74.91.26.218:82/live/ftvdy.m3u8
-#EXTINF:-1 tvg-name="[B] 台湾 - 公视",公视
-http://74.91.26.218:82/live/pts.m3u8
-#EXTINF:-1 tvg-name="[B] 台湾 - 公视台语台",公视台语台
-http://74.91.26.218:82/live/ptsty.m3u8
-#EXTINF:-1 tvg-name="[B] 台湾 - 小公视",小公视
-http://74.91.26.218:82/live/ptsse.m3u8
-#EXTINF:-1 tvg-name="[B] 央视卫视 - CCTV1-综合",CCTV1-综合
-http://219.138.10.19:10085/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - CCTV2-财经",CCTV2-财经
-http://219.138.10.19:10085/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - CCTV3-综艺",CCTV3-综艺
-http://219.138.10.19:10085/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - CCTV4-国际",CCTV4-国际
-http://219.138.10.19:10085/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - CCTV5-体育",CCTV5-体育
-http://219.138.10.19:10085/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - CCTV6-电影",CCTV6-电影
-http://219.138.10.19:10085/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - CCTV7-军农",CCTV7-军农
-http://219.138.10.19:10085/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - CCTV8-电视剧",CCTV8-电视剧
-http://219.138.10.19:10085/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - CCTV9-纪录",CCTV9-纪录
-http://219.138.10.19:10085/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - CCTV10-科教",CCTV10-科教
-http://219.138.10.19:10085/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - CCTV11-戏曲",CCTV11-戏曲
-http://219.138.10.19:10085/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - CCTV12-社会与法",CCTV12-社会与法
-http://219.138.10.19:10085/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - CCTV13-新闻",CCTV13-新闻
-http://219.138.10.19:10085/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - CCTV14-少儿",CCTV14-少儿
-http://219.138.10.19:10085/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - CCTV15-音乐",CCTV15-音乐
-http://219.138.10.19:10085/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - CGTN",CGTN
-http://219.138.10.19:10085/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - 北京卫视高清",北京卫视高清
-http://219.138.10.19:10085/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - 湖南卫视高清",湖南卫视高清
-http://219.138.10.19:10085/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - 湖北卫视频道",湖北卫视频道
-http://219.138.10.19:10085/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - 江苏卫视高清",江苏卫视高清
-http://219.138.10.19:10085/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - 浙江卫视高清",浙江卫视高清
-http://219.138.10.19:10085/tsfile/live/0124_2.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - 重庆卫视高清",重庆卫视高清
-http://219.138.10.19:10085/tsfile/live/0122_2.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - 深圳卫视高清",深圳卫视高清
-http://219.138.10.19:10085/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - 辽宁卫视高清",辽宁卫视高清
-http://219.138.10.19:10085/tsfile/live/0126_2.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - 广东卫视高清",广东卫视高清
-http://219.138.10.19:10085/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - 山东卫视高清",山东卫视高清
-http://219.138.10.19:10085/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - 安徽卫视高清",安徽卫视高清
-http://219.138.10.19:10085/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - 金鹰卡通",金鹰卡通
-http://219.138.10.19:10085/tsfile/live/0135_2.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - 湖北综合高清",湖北综合高清
-http://219.138.10.19:10085/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - 湖北经视高清",湖北经视高清
-http://219.138.10.19:10085/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - 湖北影视高清",湖北影视高清
-http://219.138.10.19:10085/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - 湖北教育高清",湖北教育高清
-http://219.138.10.19:10085/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - 荆州新闻高清",荆州新闻高清
-http://219.138.10.19:10085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - 荆州垄上高清",荆州垄上高清
-http://219.138.10.19:10085/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - CCTV-5+",CCTV-5+
-http://219.138.10.19:10085/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - 风云足球高清",风云足球高清
-http://219.138.10.19:10085/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - 世界地理高清",世界地理高清
-http://219.138.10.19:10085/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - CHC动作电影高清",CHC动作电影高清
-http://219.138.10.19:10085/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - 亚洲新闻频道",亚洲新闻频道
-http://219.138.10.19:10085/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - CNN",CNN
-http://219.138.10.19:10085/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - 古巴卫星频道",古巴卫星频道
-http://219.138.10.19:10085/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - 凤凰卫视中文台",凤凰卫视中文台
-http://219.138.10.19:10085/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - 凤凰卫视咨询台",凤凰卫视咨询台
-http://219.138.10.19:10085/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - 星空影院",星空影院
-http://219.138.10.19:10085/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - CGTN记录频道",CGTN记录频道
-http://219.138.10.19:10085/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - 美国有线家庭影院",美国有线家庭影院
-http://219.138.10.19:10085/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 央视卫视 - 俄罗斯环球频道",俄罗斯环球频道
-http://219.138.10.19:10085/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 港澳推流 - PopC",PopC
-https://tvb.go-iptv.ggff.net/stream/tvb/popc/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
-#EXTINF:-1 tvg-name="[B] 港澳推流 - TVB Plus",TVB Plus
-https://tvb.go-iptv.ggff.net/stream/tvb/tvbplus/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
-#EXTINF:-1 tvg-name="[B] 港澳推流 - tvN",tvN
-https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 娛樂新聞台",娛樂新聞台
-https://tvb.go-iptv.ggff.net/stream/tvb/null-5/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 明珠台",明珠台
-https://tvb.go-iptv.ggff.net/stream/tvb/null-3/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 無綫新聞台",無綫新聞台
-https://tvb.go-iptv.ggff.net/stream/tvb/null-4/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 鳳凰衛視中文台",鳳凰衛視中文台
-https://tvb.go-iptv.ggff.net/stream/tvb/null-2/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 鳳凰衛視資訊台",鳳凰衛視資訊台
-https://tvb.go-iptv.ggff.net/stream/tvb/null/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 鳳凰衛視香港台",鳳凰衛視香港台
-https://tvb.go-iptv.ggff.net/stream/tvb/null-1/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 华丽翡翠台(硬字幕)",华丽翡翠台(硬字幕)
-https://cdn6.163189.xyz/163189/jade
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 翡翠台字幕",翡翠台字幕
-https://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 明珠台字幕",明珠台字幕
-https://mytv.cdn.loc.cc/o12.php?id=mzt
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 翡翠台4K(多音轨字幕)",翡翠台4K(多音轨字幕)
-https://o11.163189.xyz/stream/tvb/fct4k/
-#EXTINF:-1 tvg-name="[B] 港澳推流 - TVB PLUS(多音轨字幕)",TVB PLUS(多音轨字幕)
-https://o11.163189.xyz/stream/tvb/tvbp/
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 明珠台(多音轨字幕)",明珠台(多音轨字幕)
-https://o11.163189.xyz/stream/tvb/mzt/
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 华丽翡翠台(多音轨字幕)",华丽翡翠台(多音轨字幕)
-https://o11.163189.xyz/stream/live/hlt/
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 华丽翡翠台(新加坡)",华丽翡翠台(新加坡)
-https://o11.163189.xyz/stream/live/jade/
-#EXTINF:-1 tvg-name="[B] 港澳推流 - Astro AOD(多音轨字幕)",Astro AOD(多音轨字幕)
-https://o11.163189.xyz/stream/live/aod/
-#EXTINF:-1 tvg-name="[B] 港澳推流 - Astro AEC(多音轨字幕)",Astro AEC(多音轨字幕)
-https://o11.163189.xyz/stream/live/aec/
-#EXTINF:-1 tvg-name="[B] 港澳推流 - Astro QJ(多音轨字幕)",Astro QJ(多音轨字幕)
-https://o11.163189.xyz/stream/live/qj/
-#EXTINF:-1 tvg-name="[B] 港澳推流 - TVB星河(多音轨字幕)",TVB星河(多音轨字幕)
-https://o11.163189.xyz/stream/live/tvbxh/
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 爱奇艺",爱奇艺
-https://o11.163189.xyz/stream/live/iqiyi/
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 千禧经典台",千禧经典台
-https://o11.163189.xyz/stream/live/tvbc/
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 翡翠台",翡翠台
-https://cdn6.163189.xyz/163189/fct
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 翡翠台",翡翠台
-https://o11.163189.xyz/stream/tvb/fct/
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 翡翠台",翡翠台
-https://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 翡翠台",翡翠台
-https://o11.163189.xyz/stream/tvb/fct4k/
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 明珠台",明珠台
-https://o11.163189.xyz/stream/tvb/mzt/
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 明珠台",明珠台
-https://cdn6.163189.xyz/163189/mzt
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 翡翠台北美版(TVB J1)",翡翠台北美版(TVB J1)
-https://6.cdn.loc.cc/163189.php?id=j1
-#EXTINF:-1 tvg-name="[B] 港澳推流 - TVB J1",TVB J1
-http://s2.an94tv.cfd/aktv/CH-17/AKTV.m3u8
-#EXTINF:-1 tvg-name="[B] 港澳推流 - TVB Plus",TVB Plus
-https://cdn6.163189.xyz/163189/tvbp
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 无线新闻",无线新闻
-https://cdn6.163189.xyz/163189/wxxw
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 无线新闻",无线新闻
-https://smt.1678520.xyz/smt3.2.3.php?id=inews_twn
-#EXTINF:-1 tvg-name="[B] 港澳推流 - VIUTV",VIUTV
-https://smt.1678520.xyz/smt3.2.3.php?id=viu1_twn
-#EXTINF:-1 tvg-name="[B] 港澳推流 - VIUTV",VIUTV
-https://cdn.163189.xyz/163189/viu
-#EXTINF:-1 tvg-name="[B] 港澳推流 - HOY TV",HOY TV
-https://cdn6.163189.xyz/163189/hoy
-#EXTINF:-1 tvg-name="[B] 港澳推流 - HOY TV",HOY TV
-https://cdn.163189.xyz/163189/hoy
-#EXTINF:-1 tvg-name="[B] 港澳推流 - HOY剧集台",HOY剧集台
-https://cdn.163189.xyz/163189/hoyjj
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 凤凰中文",凤凰中文
-https://cdn6.163189.xyz/163189/fhzw
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 凤凰资讯",凤凰资讯
-https://cdn6.163189.xyz/163189/fhzx
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 凤凰资讯",凤凰资讯
-http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 凤凰香港",凤凰香港
-https://cdn6.163189.xyz/163189/fhhk
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 重温经典",重温经典
-https://cdn6.163189.xyz/163189/cwjd
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 广东珠江",广东珠江
-https://cdn2.163189.xyz/163189/gdzj
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 广东体育",广东体育
-https://cdn2.163189.xyz/163189/gdty
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 澳视澳门",澳视澳门
-https://cdn6.163189.xyz/163189/asam
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 澳视卫星",澳视卫星
-https://cdn6.163189.xyz/163189/as
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 澳门体育",澳门体育
-https://cdn6.163189.xyz/163189/amty
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 澳门综艺",澳门综艺
-https://cdn6.163189.xyz/163189/amzy
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 澳门莲花",澳门莲花
-https://cdn6.163189.xyz/163189/amlh
-#EXTINF:-1 tvg-name="[B] 港澳推流 - RTHK31",RTHK31
-https://cdn.163189.xyz/163189/rthk31
-#EXTINF:-1 tvg-name="[B] 港澳推流 - RTHK32",RTHK32
-https://cdn.163189.xyz/163189/rthk32
-#EXTINF:-1 tvg-name="[B] 港澳推流 - CCTV1港澳版",CCTV1港澳版
-https://cdn6.163189.xyz/163189/cctv1
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 八度空间",八度空间
-https://cdn6.163189.xyz/163189/8tv
-#EXTINF:-1 tvg-name="[B] 港澳推流 - CH5",CH5
-https://cdn6.163189.xyz/163189/ch5
-#EXTINF:-1 tvg-name="[B] 港澳推流 - CH8",CH8
-https://cdn6.163189.xyz/163189/ch8
-#EXTINF:-1 tvg-name="[B] 港澳推流 - CHU",CHU
-https://cdn6.163189.xyz/163189/chu
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 龙华电影",龙华电影
-https://cdn8.163189.xyz/163189/lhdy
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 龙华经典",龙华经典
-https://cdn8.163189.xyz/163189/lhjd
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 龙华卡通",龙华卡通
-https://cdn8.163189.xyz/163189/lhkt
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 龙华偶像",龙华偶像
-https://cdn8.163189.xyz/163189/lhox
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 龙华日韩",龙华日韩
-https://cdn8.163189.xyz/163189/lhrh
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 龙华戏剧",龙华戏剧
-https://cdn8.163189.xyz/163189/lhxj
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 龙华洋片",龙华洋片
-https://cdn8.163189.xyz/163189/lhyp
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 翡翠台",翡翠台
-https://smt.1678520.xyz/smt3.2.3.php?id=jade_twn
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 华丽翡翠台",华丽翡翠台
-https://o11.163189.xyz/stream/live/hlt/
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 无线新闻台",无线新闻台
-https://smt.1678520.xyz/smt3.2.3.php?id=inews_twn
-#EXTINF:-1 tvg-name="[B] 港澳推流 - TVB星河",TVB星河
-https://cdn10.163189.xyz/163189/xinghe
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 千禧经典台",千禧经典台
-https://smt.1678520.xyz/smt3.2.3.php?id=Tvbclassic
-#EXTINF:-1 tvg-name="[B] 港澳推流 - Astro QJ",Astro QJ
-https://smt.1678520.xyz/smt3.2.3.php?id=Quanjia
-#EXTINF:-1 tvg-name="[B] 港澳推流 - Astro欢喜台",Astro欢喜台
-https://smt.1678520.xyz/smt3.2.3.php?id=Huahee
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 八度空间",八度空间
-https://smt.1678520.xyz/smt3.2.1.php?id=TV8
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 华丽翡翠台",华丽翡翠台
-https://o11.163189.xyz/stream/live/jade/
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 亚洲武侠",亚洲武侠
-https://cdn6.163189.xyz/163189/yzwx
-#EXTINF:-1 tvg-name="[B] 港澳推流 - TVB娱乐新闻台",TVB娱乐新闻台
-https://cdn6.163189.xyz/163189/ylxw
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 无线新闻台",无线新闻台
-https://cdn6.163189.xyz/163189/wxxwt
-#EXTINF:-1 tvg-name="[B] 港澳推流 - TVB星河",TVB星河
-https://cdn6.163189.xyz/163189/tvbxh
-#EXTINF:-1 tvg-name="[B] 港澳推流 - NOW新闻台",NOW新闻台
-https://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 翡翠台4K",翡翠台4K
-https://cdn6.163189.xyz/163189/fct4k
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 翡翠台(字幕)",翡翠台(字幕)
-https://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 明珠台(字幕)",明珠台(字幕)
-https://mytv.cdn.loc.cc/o12.php?id=mzt
-#EXTINF:-1 tvg-name="[B] 港澳推流 - TVB1",TVB1
-https://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 tvg-name="[B] 港澳推流 - CCTV13",CCTV13
-https://cdn3.163189.xyz/163189/cctv13
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 海峡卫视",海峡卫视
-https://cdn3.163189.xyz/163189/hxws
-#EXTINF:-1 tvg-name="[B] 港澳推流 - TVB星河国语",TVB星河国语
-https://cdn10.163189.xyz/163189/xinghe
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 天映频道",天映频道
-https://cdn10.163189.xyz/163189/typd
-#EXTINF:-1 tvg-name="[B] 港澳推流 - 天映经典",天映经典
-https://cdn10.163189.xyz/163189/ccm
 #EXTINF:-1 tvg-name="[B] 🇨🇳 中國 | China - CCTV-1 綜合",CCTV-1 綜合
-https://smt.giptv.indevs.in/cctv1/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv1/
 #EXTINF:-1 tvg-name="[B] 🇨🇳 中國 | China - CCTV-2 財經",CCTV-2 財經
-https://smt.giptv.indevs.in/cctv2/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv2/
 #EXTINF:-1 tvg-name="[B] 🇨🇳 中國 | China - CCTV-3 綜藝",CCTV-3 綜藝
-https://smt.giptv.indevs.in/cctv3/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv3/
 #EXTINF:-1 tvg-name="[B] 🇨🇳 中國 | China - CCTV-4 中文國際",CCTV-4 中文國際
-https://smt.giptv.indevs.in/Cctv4/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cctv4/
 #EXTINF:-1 tvg-name="[B] 🇨🇳 中國 | China - CCTV-4 中文國際 (備:1)",CCTV-4 中文國際 (備:1)
-https://smt.giptv.indevs.in/cctv4/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv4/
 #EXTINF:-1 tvg-name="[B] 🇨🇳 中國 | China - CCTV-6 電影",CCTV-6 電影
-https://smt.giptv.indevs.in/cctv6/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv6/
 #EXTINF:-1 tvg-name="[B] 🇨🇳 中國 | China - CCTV-7 軍事農業",CCTV-7 軍事農業
-https://smt.giptv.indevs.in/cctv7/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv7/
 #EXTINF:-1 tvg-name="[B] 🇨🇳 中國 | China - CCTV-8 電視劇",CCTV-8 電視劇
-https://smt.giptv.indevs.in/cctv8hd/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv8hd/
 #EXTINF:-1 tvg-name="[B] 🇨🇳 中國 | China - CCTV-9 紀錄",CCTV-9 紀錄
-https://smt.giptv.indevs.in/cctv9hd/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv9hd/
 #EXTINF:-1 tvg-name="[B] 🇨🇳 中國 | China - CCTV-10 科教",CCTV-10 科教
-https://smt.giptv.indevs.in/cctv10hd/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv10hd/
 #EXTINF:-1 tvg-name="[B] 🇨🇳 中國 | China - CCTV-11 戲曲",CCTV-11 戲曲
-https://smt.giptv.indevs.in/cctv11/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv11/
 #EXTINF:-1 tvg-name="[B] 🇨🇳 中國 | China - CCTV-12 社會與法",CCTV-12 社會與法
-https://smt.giptv.indevs.in/cctv12/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv12/
 #EXTINF:-1 tvg-name="[B] 🇨🇳 中國 | China - CCTV-14 少兒",CCTV-14 少兒
-https://smt.giptv.indevs.in/cctv14/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv14/
 #EXTINF:-1 tvg-name="[B] 🇨🇳 中國 | China - CCTV-15 音樂",CCTV-15 音樂
-https://smt.giptv.indevs.in/cctv15/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv15/
 #EXTINF:-1 tvg-name="[B] 🇨🇳 中國 | China - 湖南卫视",湖南卫视
-https://smt.giptv.indevs.in/hunan_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hunan_twn/
 #EXTINF:-1 tvg-name="[B] 🇨🇳 中國 | China - 浙江卫视",浙江卫视
-https://smt.giptv.indevs.in/zhejiang_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=zhejiang_twn/
 #EXTINF:-1 tvg-name="[B] 🇨🇳 中國 | China - 江苏卫视",江苏卫视
-https://smt.giptv.indevs.in/jiangsu_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=jiangsu_twn/
 #EXTINF:-1 tvg-name="[B] 🇨🇳 中國 | China - CCTV-13 新聞與頻道",CCTV-13 新聞與頻道
-https://smt.giptv.indevs.in/cctv13/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv13/
 #EXTINF:-1 tvg-name="[B] 🇨🇳 中國 | China - 深圳卫视",深圳卫视
-https://smt.giptv.indevs.in/shenzhen/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=shenzhen/
 #EXTINF:-1 tvg-name="[B] 🇨🇳 中國 | China - 福建东南卫视",福建东南卫视
-https://smt.giptv.indevs.in/fujian/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=fujian/
 #EXTINF:-1 tvg-name="[B] 🇨🇳 中國 | China - 广东南方卫视",广东南方卫视
-https://smt.giptv.indevs.in/nanfang_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=nanfang_twn/
 #EXTINF:-1 tvg-name="[B] 🇨🇳 中國 | China - 广东卫视",广东卫视
-https://smt.giptv.indevs.in/guangdongweishi_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=guangdongweishi_twn/
 #EXTINF:-1 tvg-name="[B] 🇨🇳 中國 | China - 北京卫视",北京卫视
-https://smt.giptv.indevs.in/beijing/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=beijing/
 #EXTINF:-1 tvg-name="[B] 🇨🇳 中國 | China - 珠江台",珠江台
-https://smt.giptv.indevs.in/zhujiang/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=zhujiang/
 #EXTINF:-1 tvg-name="[B] 🇨🇳 中國 | China - 广西卫视",广西卫视
-https://smt.giptv.indevs.in/guangxi/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=guangxi/
 #EXTINF:-1 tvg-name="[B] 🇨🇳 中國 | China - CGTN",CGTN
-https://smt.giptv.indevs.in/CGTN/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=CGTN/
 #EXTINF:-1 tvg-name="[B] 🇨🇳 中國 | China - 湖北卫视",湖北卫视
-https://smt.giptv.indevs.in/hubei/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hubei/
 #EXTINF:-1 tvg-name="[B] 🇨🇳 中國 | China - 四川卫视",四川卫视
-https://smt.giptv.indevs.in/sichuan_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=sichuan_twn/
 #EXTINF:-1 tvg-name="[B] 🇨🇳 中國 | China - CCTV-5 體育",CCTV-5 體育
-https://smt.giptv.indevs.in/cctv5/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv5/
 #EXTINF:-1 tvg-name="[B] 🇨🇳 中國 | China - CCTV-5+ 體育",CCTV-5+ 體育
-https://smt.giptv.indevs.in/cctv5plus/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv5plus/
 #EXTINF:-1 tvg-name="[B] 🇨🇳 中國 | China - 东方卫视",东方卫视
-https://smt.giptv.indevs.in/dongfangweishi_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=dongfangweishi_twn/
 #EXTINF:-1 tvg-name="[B] 🇨🇳 中國 | China - 凤凰卫视",凤凰卫视
-https://smt.giptv.indevs.in/phoenixtv_hd/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=phoenixtv_hd/
 #EXTINF:-1 tvg-name="[B] 🇨🇳 中國 | China - 鳳凰資訊",鳳凰資訊
-https://smt.giptv.indevs.in/phoenixinfo_hd/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=phoenixinfo_hd/
 #EXTINF:-1 tvg-name="[B] 🇭🇰 香港 | Hong Kong - 翡翠台",翡翠台
-https://smt.giptv.indevs.in/jade_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=jade_twn/
 #EXTINF:-1 tvg-name="[B] 🇭🇰 香港 | Hong Kong - 翡翠台 (Back up 1)",翡翠台 (Back up 1)
-https://smt.giptv.indevs.in/jade_xue/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=jade_xue/
 #EXTINF:-1 tvg-name="[B] 🇭🇰 香港 | Hong Kong - iNews 互動新聞台",iNews 互動新聞台
-https://smt.giptv.indevs.in/inews_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=inews_twn/
 #EXTINF:-1 tvg-name="[B] 🇭🇰 香港 | Hong Kong - J 2",J 2
-https://smt.giptv.indevs.in/j2_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=j2_twn/
 #EXTINF:-1 tvg-name="[B] 🇭🇰 香港 | Hong Kong - 珍珠台",珍珠台
-https://smt.giptv.indevs.in/pearl_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=pearl_twn/
 #EXTINF:-1 tvg-name="[B] 🇭🇰 香港 | Hong Kong - 凤凰香港",凤凰香港
-https://smt.giptv.indevs.in/hkphoenix_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hkphoenix_twn/
 #EXTINF:-1 tvg-name="[B] 🇭🇰 香港 | Hong Kong - 无线财经资讯台",无线财经资讯台
-https://smt.giptv.indevs.in/hoycaijing_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hoycaijing_twn/
 #EXTINF:-1 tvg-name="[B] 🇭🇰 香港 | Hong Kong - RHK 31",RHK 31
-https://smt.giptv.indevs.in/rhk31_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=rhk31_twn/
 #EXTINF:-1 tvg-name="[B] 🇭🇰 香港 | Hong Kong - VIUTV1",VIUTV1
-https://smt.giptv.indevs.in/viu1_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=viu1_twn/
 #EXTINF:-1 tvg-name="[B] 🇭🇰 香港 | Hong Kong - RHK 32",RHK 32
-https://smt.giptv.indevs.in/rhk32_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=rhk32_twn/
 #EXTINF:-1 tvg-name="[B] 🇭🇰 香港 | Hong Kong - TVB Asia",TVB Asia
-https://smt.giptv.indevs.in/Tvbasia/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tvbasia/
 #EXTINF:-1 tvg-name="[B] 🇭🇰 香港 | Hong Kong - 凤凰卫视",凤凰卫视
-https://smt.giptv.indevs.in/phoenixtv_hd/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=phoenixtv_hd/
 #EXTINF:-1 tvg-name="[B] 🇭🇰 香港 | Hong Kong - 鳳凰資訊",鳳凰資訊
-https://smt.giptv.indevs.in/phoenixinfo_hd/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=phoenixinfo_hd/
 #EXTINF:-1 tvg-name="[B] 🇭🇰 香港 | Hong Kong - TVB Entertainment",TVB Entertainment
-https://smt.giptv.indevs.in/Tvbentertainment/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tvbentertainment/
 #EXTINF:-1 tvg-name="[B] 🇭🇰 香港 | Hong Kong - TVB Classic",TVB Classic
-https://smt.giptv.indevs.in/Tvbclassic/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tvbclassic/
 #EXTINF:-1 tvg-name="[B] 🇭🇰 香港 | Hong Kong - Viu6",Viu6
-https://smt.giptv.indevs.in/viusix_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=viusix_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - TVBS 歡樂台",TVBS 歡樂台
-https://smt.giptv.indevs.in/tvbshuanle_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tvbshuanle_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - TVBS HD",TVBS HD
-https://smt.giptv.indevs.in/tvbs/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tvbs/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 中天娱乐 CTI Entertaiment",中天娱乐 CTI Entertaiment
-https://smt.giptv.indevs.in/ctient/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctient/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 中天综合 CTI Metro",中天综合 CTI Metro
-https://smt.giptv.indevs.in/ctizhonghe/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctizhonghe/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 中天亚洲台",中天亚洲台
-https://smt.giptv.indevs.in/ctiasia_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctiasia_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 台视 TTV HD",台视 TTV HD
-https://smt.giptv.indevs.in/ttv_taiwan/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ttv_taiwan/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 台视综合台",台视综合台
-https://smt.giptv.indevs.in/ttvzhonghe/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ttvzhonghe/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 中视 HD",中视 HD
-https://smt.giptv.indevs.in/zhongshihd_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=zhongshihd_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 民视 HD",民视 HD
-https://smt.giptv.indevs.in/ftvhd_taiwan/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ftvhd_taiwan/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 民视台湾台",民视台湾台
-https://smt.giptv.indevs.in/ftvtaiwan_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ftvtaiwan_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 华视 CTS HD",华视 CTS HD
-https://smt.giptv.indevs.in/ctshd_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctshd_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 公视 CTV",公视 CTV
-https://smt.giptv.indevs.in/ctv18_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctv18_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 八大第一 GTV First",八大第一 GTV First
-https://smt.giptv.indevs.in/badafirst/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=badafirst/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 八大综合 GTV Metro",八大综合 GTV Metro
-https://smt.giptv.indevs.in/badazhonghe/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=badazhonghe/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 八大戏剧 GTV Drama",八大戏剧 GTV Drama
-https://smt.giptv.indevs.in/badadrama/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=badadrama/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 八大娱乐 GTV Entertainment",八大娱乐 GTV Entertainment
-https://smt.giptv.indevs.in/badaentertain/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=badaentertain/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - HBO_HD",HBO_HD
-https://smt.giptv.indevs.in/hbohd_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hbohd_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - HBO_HITS",HBO_HITS
-https://smt.giptv.indevs.in/hbohits_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hbohits_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - HBO Signature Taiwan",HBO Signature Taiwan
-https://smt.giptv.indevs.in/hbosignature_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hbosignature_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - Hollywood Movies",Hollywood Movies
-https://smt.giptv.indevs.in/hollywoodmovies_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hollywoodmovies_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 三立台湾 Sanli Taiwan",三立台湾 Sanli Taiwan
-https://smt.giptv.indevs.in/sanlitaiwan/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=sanlitaiwan/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 三立戏剧台",三立戏剧台
-https://smt.giptv.indevs.in/sanlixiju_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=sanlixiju_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 三立综合 Sanli Metro",三立综合 Sanli Metro
-https://smt.giptv.indevs.in/sanlizhonghe/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=sanlizhonghe/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 三立都会台",三立都会台
-https://smt.giptv.indevs.in/sanlidouhui_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=sanlidouhui_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 东森综合 ETTV Metro",东森综合 ETTV Metro
-https://smt.giptv.indevs.in/ettvzhonghe/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvzhonghe/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 东森戏剧 ETTV Drama",东森戏剧 ETTV Drama
-https://smt.giptv.indevs.in/ettvdrama/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvdrama/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 公视2",公视2
-https://smt.giptv.indevs.in/ctv2_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctv2_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 大爱1台",大爱1台
-https://smt.giptv.indevs.in/daai_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=daai_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 龙华戏剧 Lunghua Drama",龙华戏剧 Lunghua Drama
-https://smt.giptv.indevs.in/lunghuaxiju_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=lunghuaxiju_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 龙华经典台",龙华经典台
-https://smt.giptv.indevs.in/lunghuajingdian_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=lunghuajingdian_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 龙华偶像",龙华偶像
-https://smt.giptv.indevs.in/lunghuaidol_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=lunghuaidol_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - AXN Taiwan",AXN Taiwan
-https://smt.giptv.indevs.in/axn_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=axn_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 靖天国际台",靖天国际台
-https://smt.giptv.indevs.in/jingtianintl_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=jingtianintl_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - CINEMAX",CINEMAX
-https://smt.giptv.indevs.in/cinemax_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cinemax_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 年代新闻",年代新闻
-https://smt.giptv.indevs.in/niandainews_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=niandainews_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 纬来日本台",纬来日本台
-https://smt.giptv.indevs.in/videolandjapan/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=videolandjapan/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 纬来电影台",纬来电影台
-https://smt.giptv.indevs.in/videolandmovie/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=videolandmovie/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 纬来体育台",纬来体育台
-https://smt.giptv.indevs.in/videolandsport/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=videolandsport/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 纬来综合台",纬来综合台
-https://smt.giptv.indevs.in/videolandzonghe/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=videolandzonghe/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 纬来育乐",纬来育乐
-https://smt.giptv.indevs.in/videolandmax/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=videolandmax/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 纬来精彩",纬来精彩
-https://smt.giptv.indevs.in/videolandtv/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=videolandtv/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - DW (Deutsch)",DW (Deutsch)
-https://smt.giptv.indevs.in/dw_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=dw_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 好消息 2",好消息 2
-https://smt.giptv.indevs.in/good2_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=good2_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 大爱2台",大爱2台
-https://smt.giptv.indevs.in/daai2_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=daai2_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 亚洲美食",亚洲美食
-https://smt.giptv.indevs.in/afc_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=afc_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 亚洲旅游 TLC Asia",亚洲旅游 TLC Asia
-https://smt.giptv.indevs.in/tlc_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tlc_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 东森电影 ETTV Movie",东森电影 ETTV Movie
-https://smt.giptv.indevs.in/ettvmovie/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvmovie/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 阿里郎 Arirang",阿里郎 Arirang
-https://smt.giptv.indevs.in/arirang_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=arirang_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 博斯运动 1",博斯运动 1
-https://smt.giptv.indevs.in/bosisport1_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bosisport1_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 博斯运动 2",博斯运动 2
-https://smt.giptv.indevs.in/bosisport2_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bosisport2_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 博斯高球2 HD",博斯高球2 HD
-https://smt.giptv.indevs.in/bosigolf2_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bosigolf2_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 博斯网球 HD",博斯网球 HD
-https://smt.giptv.indevs.in/bositennis_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bositennis_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 东森洋片 ETTV Western",东森洋片 ETTV Western
-https://smt.giptv.indevs.in/ettvwestern/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvwestern/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 龙华洋片 Lunghua Western",龙华洋片 Lunghua Western
-https://smt.giptv.indevs.in/lunghuawestern_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=lunghuawestern_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 博斯无限",博斯无限
-https://smt.giptv.indevs.in/bosiunlimited_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bosiunlimited_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - MTV Live",MTV Live
-https://smt.giptv.indevs.in/mtvhd_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=mtvhd_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 龙详时代",龙详时代
-https://smt.giptv.indevs.in/lungxiangtime_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=lungxiangtime_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - EYETV 旅游",EYETV 旅游
-https://smt.giptv.indevs.in/eyetvtravel_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eyetvtravel_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 靖天卡通台",靖天卡通台
-https://smt.giptv.indevs.in/jingtiancartoon_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=jingtiancartoon_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - EYETV 戏剧",EYETV 戏剧
-https://smt.giptv.indevs.in/eyetvxiju_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eyetvxiju_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 卫视中文台 Star Movies Chinese",卫视中文台 Star Movies Chinese
-https://smt.giptv.indevs.in/weishichinese_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=weishichinese_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 东森幼幼 Yoyo TV",东森幼幼 Yoyo TV
-https://smt.giptv.indevs.in/yoyo_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=yoyo_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 美亚电影",美亚电影
-https://smt.giptv.indevs.in/meiyamovie_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=meiyamovie_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 爱尔达戏剧台",爱尔达戏剧台
-https://smt.giptv.indevs.in/eltadrama_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eltadrama_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - TVBS News 新聞台",TVBS News 新聞台
-https://smt.giptv.indevs.in/tvbs_n/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tvbs_n/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - Asia Food Network",Asia Food Network
-https://smt.giptv.indevs.in/Afc/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Afc/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 東森新聞 ETTV News",東森新聞 ETTV News
-https://smt.giptv.indevs.in/ettvnews/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvnews/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 東森財經新聞 ETTV Business",東森財經新聞 ETTV Business
-https://smt.giptv.indevs.in/ettvcaijing_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvcaijing_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 中天新聞 CTI News",中天新聞 CTI News
-https://smt.giptv.indevs.in/ctinews/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctinews/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 非凡新聞台",非凡新聞台
-https://smt.giptv.indevs.in/feifannews_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=feifannews_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 台視新聞台 TTV News",台視新聞台 TTV News
-https://smt.giptv.indevs.in/ttvnews_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ttvnews_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - Elta体育1台",Elta体育1台
-https://smt.giptv.indevs.in/eltasport1_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eltasport1_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - Elta體育2台",Elta體育2台
-https://smt.giptv.indevs.in/eltasport2_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eltasport2_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - Elta體育3台",Elta體育3台
-https://smt.giptv.indevs.in/eltasport3_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eltasport3_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 民視新聞台 FTV News",民視新聞台 FTV News
-https://smt.giptv.indevs.in/ftvnew_taiwan/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ftvnew_taiwan/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 寰宇新聞台",寰宇新聞台
-https://smt.giptv.indevs.in/huanyuxinwen_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=huanyuxinwen_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 中視新聞台",中視新聞台
-https://smt.giptv.indevs.in/zhongshinews_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=zhongshinews_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - DAZN 1",DAZN 1
-https://smt.giptv.indevs.in/dazn1_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=dazn1_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - DAZN 2",DAZN 2
-https://smt.giptv.indevs.in/dazn2_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=dazn2_twn/
 #EXTINF:-1 tvg-name="[B] 🇹🇼 台灣 | Taiwan - 探索频道",探索频道
-https://smt.giptv.indevs.in/discoverych_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=discoverych_twn/
 #EXTINF:-1 tvg-name="[B] 🇯🇵 日本 | Japan - NHK-総合-2",NHK-総合-2
-https://smt.giptv.indevs.in/nhkg_japan/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=nhkg_japan/
 #EXTINF:-1 tvg-name="[B] 🇯🇵 日本 | Japan - NHK-E",NHK-E
-https://smt.giptv.indevs.in/nhke_japan/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=nhke_japan/
 #EXTINF:-1 tvg-name="[B] 🇯🇵 日本 | Japan - テレビ朝日 Asahi TV",テレビ朝日 Asahi TV
-https://smt.giptv.indevs.in/asahitv_japan/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=asahitv_japan/
 #EXTINF:-1 tvg-name="[B] 🇯🇵 日本 | Japan - JET 綜合",JET 綜合
-https://smt.giptv.indevs.in/jettv_japan/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=jettv_japan/
 #EXTINF:-1 tvg-name="[B] 🇯🇵 日本 | Japan - テレビ東京 Tokyo TV",テレビ東京 Tokyo TV
-https://smt.giptv.indevs.in/tokyotv_japan/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tokyotv_japan/
 #EXTINF:-1 tvg-name="[B] 🇯🇵 日本 | Japan - TOKYOMX",TOKYOMX
-https://smt.giptv.indevs.in/tokyomx_japan/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tokyomx_japan/
 #EXTINF:-1 tvg-name="[B] 🇯🇵 日本 | Japan - NHKBS1",NHKBS1
-https://smt.giptv.indevs.in/nhkbs1_japan/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=nhkbs1_japan/
 #EXTINF:-1 tvg-name="[B] 🇯🇵 日本 | Japan - NHKBSプレミア Premium",NHKBSプレミア Premium
-https://smt.giptv.indevs.in/nhkpremium_japan/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=nhkpremium_japan/
 #EXTINF:-1 tvg-name="[B] 🇯🇵 日本 | Japan - BSジャパン 181",BSジャパン 181
-https://smt.giptv.indevs.in/bs181_japan/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bs181_japan/
 #EXTINF:-1 tvg-name="[B] 🇯🇵 日本 | Japan - BSフジ BS Fuji",BSフジ BS Fuji
-https://smt.giptv.indevs.in/bsfuji_japan/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bsfuji_japan/
 #EXTINF:-1 tvg-name="[B] 🇯🇵 日本 | Japan - CNA Japan",CNA Japan
-https://smt.giptv.indevs.in/cna_japan/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cna_japan/
 #EXTINF:-1 tvg-name="[B] 🇯🇵 日本 | Japan - BS-TBS",BS-TBS
-https://smt.giptv.indevs.in/bstbs_japan/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bstbs_japan/
 #EXTINF:-1 tvg-name="[B] 🇯🇵 日本 | Japan - NHK Oaska",NHK Oaska
-https://smt.giptv.indevs.in/nhkosaka_japan/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=nhkosaka_japan/
 #EXTINF:-1 tvg-name="[B] 🇯🇵 日本 | Japan - NHK World",NHK World
-https://smt.giptv.indevs.in/nhkworld_japan/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=nhkworld_japan/
 #EXTINF:-1 tvg-name="[B] 🇰🇷 韓國 | South Korea - Arirang HD",Arirang HD
-https://smt.giptv.indevs.in/arirang_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=arirang_twn/
 #EXTINF:-1 tvg-name="[B] 🇰🇷 韓國 | South Korea - Yonhap News",Yonhap News
-https://smt.giptv.indevs.in/yonhapnews_korea/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=yonhapnews_korea/
 #EXTINF:-1 tvg-name="[B] 🇰🇷 韓國 | South Korea - CBS",CBS
-https://smt.giptv.indevs.in/cbs_korea/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cbs_korea/
 #EXTINF:-1 tvg-name="[B] 🇰🇷 韓國 | South Korea - EBS 1",EBS 1
-https://smt.giptv.indevs.in/ebs1_korea/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ebs1_korea/
 #EXTINF:-1 tvg-name="[B] 🇰🇷 韓國 | South Korea - EBS2",EBS2
-https://smt.giptv.indevs.in/ebs2_korea/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ebs2_korea/
 #EXTINF:-1 tvg-name="[B] 🇰🇷 韓國 | South Korea - EBS Plus2",EBS Plus2
-https://smt.giptv.indevs.in/ebsplus2_korea/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ebsplus2_korea/
 #EXTINF:-1 tvg-name="[B] 🇰🇷 韓國 | South Korea - SBS Plus",SBS Plus
-https://smt.giptv.indevs.in/sbsplus_korea/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=sbsplus_korea/
 #EXTINF:-1 tvg-name="[B] 🇰🇷 韓國 | South Korea - YTN",YTN
-https://smt.giptv.indevs.in/ytn_korea/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ytn_korea/
 #EXTINF:-1 tvg-name="[B] 🇰🇷 韓國 | South Korea - KBS World 24",KBS World 24
-https://smt.giptv.indevs.in/kbsworld24_korea/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=kbsworld24_korea/
 #EXTINF:-1 tvg-name="[B] 🇰🇷 韓國 | South Korea - YTN Science",YTN Science
-https://smt.giptv.indevs.in/ytnscience_korea/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ytnscience_korea/
 #EXTINF:-1 tvg-name="[B] 🇰🇷 韓國 | South Korea - YTN Korean",YTN Korean
-https://smt.giptv.indevs.in/ytnkorean_korea/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ytnkorean_korea/
 #EXTINF:-1 tvg-name="[B] 🇰🇷 韓國 | South Korea - YTN DMB",YTN DMB
-https://smt.giptv.indevs.in/ytndmb_korea/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ytndmb_korea/
 #EXTINF:-1 tvg-name="[B] 🇰🇷 韓國 | South Korea - Apps TV",Apps TV
-https://smt.giptv.indevs.in/appongoogle_korea/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=appongoogle_korea/
 #EXTINF:-1 tvg-name="[B] 🇰🇷 韓國 | South Korea - All the Kpop",All the Kpop
-https://smt.giptv.indevs.in/allthekpop_korea/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=allthekpop_korea/
 #EXTINF:-1 tvg-name="[B] 🇰🇷 韓國 | South Korea - J the Kpop",J the Kpop
-https://smt.giptv.indevs.in/jthekpop_korea/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=jthekpop_korea/
 #EXTINF:-1 tvg-name="[B] 🇰🇷 韓國 | South Korea - EBS Kids",EBS Kids
-https://smt.giptv.indevs.in/ebskids_korea/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ebskids_korea/
 #EXTINF:-1 tvg-name="[B] 🇰🇷 韓國 | South Korea - CGNTV",CGNTV
-https://smt.giptv.indevs.in/cgntv_korea/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cgntv_korea/
 #EXTINF:-1 tvg-name="[B] 🇸🇬 新加坡 | Singapore - Channel 5",Channel 5
-https://smt.giptv.indevs.in/Channel5HD/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Channel5HD/
 #EXTINF:-1 tvg-name="[B] 🇸🇬 新加坡 | Singapore - Channel 5 backup",Channel 5 backup
-https://smt.giptv.indevs.in/Mewatch_ch5/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Mewatch_ch5/
 #EXTINF:-1 tvg-name="[B] 🇸🇬 新加坡 | Singapore - Channel 8",Channel 8
-https://smt.giptv.indevs.in/Channel8HD/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Channel8HD/
 #EXTINF:-1 tvg-name="[B] 🇸🇬 新加坡 | Singapore - Channel 8 backup",Channel 8 backup
-https://smt.giptv.indevs.in/Mewatch_ch8/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Mewatch_ch8/
 #EXTINF:-1 tvg-name="[B] 🇸🇬 新加坡 | Singapore - Channel U",Channel U
-https://smt.giptv.indevs.in/ChannelU/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ChannelU/
 #EXTINF:-1 tvg-name="[B] 🇸🇬 新加坡 | Singapore - Channel U backup",Channel U backup
-https://smt.giptv.indevs.in/Mewatch_chU/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Mewatch_chU/
 #EXTINF:-1 tvg-name="[B] 🇸🇬 新加坡 | Singapore - Suria",Suria
-https://smt.giptv.indevs.in/Suria/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Suria/
 #EXTINF:-1 tvg-name="[B] 🇸🇬 新加坡 | Singapore - Suria backup",Suria backup
-https://smt.giptv.indevs.in/Mewatch_Suria/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Mewatch_Suria/
 #EXTINF:-1 tvg-name="[B] 🇸🇬 新加坡 | Singapore - Vasantham",Vasantham
-https://smt.giptv.indevs.in/Vasantham/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Vasantham/
 #EXTINF:-1 tvg-name="[B] 🇸🇬 新加坡 | Singapore - Vasantham backup",Vasantham backup
-https://smt.giptv.indevs.in/Mewatch_Vasantham/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Mewatch_Vasantham/
 #EXTINF:-1 tvg-name="[B] 🇸🇬 新加坡 | Singapore - CNA backup1",CNA backup1
-https://smt.giptv.indevs.in/Mewatch_cna/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Mewatch_cna/
 #EXTINF:-1 tvg-name="[B] 🇸🇬 新加坡 | Singapore - CNA backup2",CNA backup2
-https://smt.giptv.indevs.in/cna_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cna_twn/
 #EXTINF:-1 tvg-name="[B] 🇸🇬 新加坡 | Singapore - CNN",CNN
-https://smt.giptv.indevs.in/Cnn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cnn/
 #EXTINF:-1 tvg-name="[B] 🇸🇬 新加坡 | Singapore - CNN backup",CNN backup
-https://smt.giptv.indevs.in/cnn_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cnn_twn/
 #EXTINF:-1 tvg-name="[B] 🇸🇬 新加坡 | Singapore - CNA",CNA
-https://smt.giptv.indevs.in/cna/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cna/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - TV1",TV1
-https://smt.giptv.indevs.in/TV1/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TV1/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - TV1 backup",TV1 backup
-https://smt.giptv.indevs.in/TV1_backup/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TV1_backup/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - TV2",TV2
-https://smt.giptv.indevs.in/TV2/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TV2/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - TV3",TV3
-https://smt.giptv.indevs.in/TV3/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TV3/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - TV3 SD",TV3 SD
-https://smt.giptv.indevs.in/TV3_mega/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TV3_mega/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - TV3 backup",TV3 backup
-https://smt.giptv.indevs.in/TV3_backup/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TV3_backup/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - TV3 backup2",TV3 backup2
-https://smt.giptv.indevs.in/TV3_1/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TV3_1/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - TV5",TV5
-https://smt.giptv.indevs.in/TV5/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TV5/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - NTV7",NTV7
-https://smt.giptv.indevs.in/NTV7/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=NTV7/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - 8TV",8TV
-https://smt.giptv.indevs.in/TV8/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TV8/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - TV9",TV9
-https://smt.giptv.indevs.in/TV9/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TV9/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Al-Hijrah",Al-Hijrah
-https://smt.giptv.indevs.in/Alhijrah/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Alhijrah/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Quran",Quran
-https://smt.giptv.indevs.in/quran_mido/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=quran_mido/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Sunnah",Sunnah
-https://smt.giptv.indevs.in/sunnah_mido/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=sunnah_mido/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Bernama",Bernama
-https://smt.giptv.indevs.in/Bernama/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bernama/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Awani",Awani
-https://smt.giptv.indevs.in/Awani/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Awani/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Ceria",Ceria
-https://smt.giptv.indevs.in/Ceria/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Ceria/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Oasis",Oasis
-https://smt.giptv.indevs.in/Oasis/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Oasis/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Boo",Boo
-https://smt.giptv.indevs.in/Boo/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Boo/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Citra",Citra
-https://smt.giptv.indevs.in/AAcitra1/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AAcitra1/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Citra backup",Citra backup
-https://smt.giptv.indevs.in/AAcitra1/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AAcitra1/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Prima",Prima
-https://smt.giptv.indevs.in/Prima/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Prima/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Prima backup",Prima backup
-https://smt.giptv.indevs.in/AAprima/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AAprima/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Ria",Ria
-https://smt.giptv.indevs.in/Ria-0/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Ria-0/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Ria-3",Ria-3
-https://smt.giptv.indevs.in/Ria_backup/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Ria_backup/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Awesome TV",Awesome TV
-https://smt.giptv.indevs.in/Dsangat/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Dsangat/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Aura",Aura
-https://smt.giptv.indevs.in/Aura/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Aura/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Sensasi",Sensasi
-https://smt.giptv.indevs.in/Sensasi/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Sensasi/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Siar",Siar
-https://smt.giptv.indevs.in/Siar/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Siar/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Rania",Rania
-https://smt.giptv.indevs.in/Rania/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rania/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - WION",WION
-https://smt.giptv.indevs.in/Wion/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Wion/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Astro MTV",Astro MTV
-https://smt.giptv.indevs.in/AstroMTV/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AstroMTV/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Arena",Arena
-https://smt.giptv.indevs.in/Arena/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Arena/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Arena 2",Arena 2
-https://smt.giptv.indevs.in/Arena2/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Arena2/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Arena Bola 1",Arena Bola 1
-https://smt.giptv.indevs.in/Bolaarena1/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bolaarena1/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Arena Bola 2",Arena Bola 2
-https://smt.giptv.indevs.in/Bolaarena2/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bolaarena2/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - NatGeo_Wild HD",NatGeo_Wild HD
-https://smt.giptv.indevs.in/Natgeowild/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Natgeowild/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - RTM Sports HD",RTM Sports HD
-https://smt.giptv.indevs.in/Rtmsport/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rtmsport/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Animal_Planet",Animal_Planet
-https://smt.giptv.indevs.in/AnimalPlanet/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AnimalPlanet/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - HBO Family",HBO Family
-https://smt.giptv.indevs.in/Hbofamily/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hbofamily/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Showcase",Showcase
-https://smt.giptv.indevs.in/Showcase/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Showcase/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - RTM Asean",RTM Asean
-https://smt.giptv.indevs.in/Rtmasean/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rtmasean/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - HGTV",HGTV
-https://smt.giptv.indevs.in/HGTV/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=HGTV/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Astro Badminton",Astro Badminton
-https://smt.giptv.indevs.in/go_badminton1/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_badminton1/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Astro Badminton 2",Astro Badminton 2
-https://smt.giptv.indevs.in/go_badminton2/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_badminton2/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - TLC",TLC
-https://smt.giptv.indevs.in/Tlc/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tlc/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Foodnetwork Hd",Foodnetwork Hd
-https://smt.giptv.indevs.in/Foodnetwork/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Foodnetwork/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Axn HD",Axn HD
-https://smt.giptv.indevs.in/Axn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Axn/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - HBO HD",HBO HD
-https://smt.giptv.indevs.in/Hbo/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hbo/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - HBO Signature",HBO Signature
-https://smt.giptv.indevs.in/Hbosignature/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hbosignature/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - HBO Hits",HBO Hits
-https://smt.giptv.indevs.in/Hbohitshd/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hbohitshd/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Dreamworks",Dreamworks
-https://smt.giptv.indevs.in/Dreamworks/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Dreamworks/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Nickelodeon",Nickelodeon
-https://smt.giptv.indevs.in/Nickelodeon/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Nickelodeon/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Nick Jr",Nick Jr
-https://smt.giptv.indevs.in/Nickjr/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Nickjr/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Cartoon Network",Cartoon Network
-https://smt.giptv.indevs.in/Cn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cn/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Asia Food Network",Asia Food Network
-https://smt.giptv.indevs.in/Afc/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Afc/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Animal Planet (Eng)",Animal Planet (Eng)
-https://smt.giptv.indevs.in/AnimalPlanet/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AnimalPlanet/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - NatGeo Wild HD",NatGeo Wild HD
-https://smt.giptv.indevs.in/Natgeowild/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Natgeowild/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - TvN",TvN
-https://smt.giptv.indevs.in/TVN/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TVN/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - KBS World",KBS World
-https://smt.giptv.indevs.in/KBS/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=KBS/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Sony HD",Sony HD
-https://smt.giptv.indevs.in/SetOne/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=SetOne/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - tvN Movie",tvN Movie
-https://smt.giptv.indevs.in/Tvnmovie/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tvnmovie/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Astrol Kplus",Astrol Kplus
-https://smt.giptv.indevs.in/Kplus/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Kplus/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - One",One
-https://smt.giptv.indevs.in/One/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=One/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - AEC",AEC
-https://smt.giptv.indevs.in/AEC/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AEC/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - AOD",AOD
-https://smt.giptv.indevs.in/Aodhd/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Aodhd/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - 华丽台 HD (Wah Lai Toi)",华丽台 HD (Wah Lai Toi)
-https://smt.giptv.indevs.in/Wlt/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Wlt/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - 欢喜台 HD(Hua Hee Tai)",欢喜台 HD(Hua Hee Tai)
-https://smt.giptv.indevs.in/Huahee/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Huahee/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Astro QJ",Astro QJ
-https://smt.giptv.indevs.in/Quanjia/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Quanjia/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - TVB Jade",TVB Jade
-https://smt.giptv.indevs.in/Tvbjade/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tvbjade/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - 爱奇艺 iQiyi",爱奇艺 iQiyi
-https://smt.giptv.indevs.in/Qiyi/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Qiyi/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - TVB 星河台  Xing He",TVB 星河台  Xing He
-https://smt.giptv.indevs.in/Xinhe/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Xinhe/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Discovery Asia",Discovery Asia
-https://smt.giptv.indevs.in/Discoveryasia/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Discoveryasia/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Dmax",Dmax
-https://smt.giptv.indevs.in/Dmax/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Dmax/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - TVB Asia",TVB Asia
-https://smt.giptv.indevs.in/Tvbasia/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tvbasia/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - TVB Entertainment",TVB Entertainment
-https://smt.giptv.indevs.in/Tvbentertainment/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tvbentertainment/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - TVB Classic",TVB Classic
-https://smt.giptv.indevs.in/Tvbclassic/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tvbclassic/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Celestial Classic",Celestial Classic
-https://smt.giptv.indevs.in/Celestial2/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Celestial2/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Celestial Movies HD",Celestial Movies HD
-https://smt.giptv.indevs.in/Celestial/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Celestial/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Rock Actions",Rock Actions
-https://smt.giptv.indevs.in/Rockaction/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rockaction/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Rock Entertainment",Rock Entertainment
-https://smt.giptv.indevs.in/Rockentertain/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rockentertain/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Bollyone",Bollyone
-https://smt.giptv.indevs.in/Bollyone/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bollyone/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Astro Sunmusic",Astro Sunmusic
-https://smt.giptv.indevs.in/Sunmusic/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Sunmusic/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Thangathirai",Thangathirai
-https://smt.giptv.indevs.in/Thangathirai/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Thangathirai/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Vinmeen",Vinmeen
-https://smt.giptv.indevs.in/Vinmeen/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Vinmeen/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Vellithirai",Vellithirai
-https://smt.giptv.indevs.in/Vellithirai/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Vellithirai/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Astro LOL",Astro LOL
-https://smt.giptv.indevs.in/Astro_lol/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Astro_lol/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Al_Jazeera",Al_Jazeera
-https://smt.giptv.indevs.in/Aljazeera/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Aljazeera/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - CNN",CNN
-https://smt.giptv.indevs.in/Cnn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cnn/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - CNN backup",CNN backup
-https://smt.giptv.indevs.in/cnn_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cnn_twn/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - BBC World News",BBC World News
-https://smt.giptv.indevs.in/Bbcnews/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bbcnews/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - CNBC",CNBC
-https://smt.giptv.indevs.in/Cnbc/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cnbc/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Bloomberg TV",Bloomberg TV
-https://smt.giptv.indevs.in/Bloomberg/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bloomberg/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - CNA",CNA
-https://smt.giptv.indevs.in/cna/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cna/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - DW",DW
-https://smt.giptv.indevs.in/Dw/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Dw/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - France 24",France 24
-https://smt.giptv.indevs.in/France24/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=France24/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Eurosport",Eurosport
-https://smt.giptv.indevs.in/Eurosport/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Eurosport/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - Skynews",Skynews
-https://smt.giptv.indevs.in/Skynews/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Skynews/
 #EXTINF:-1 tvg-name="[B] 🇲🇾 馬來西亞 | Malaysia - NHK Premium",NHK Premium
-https://smt.giptv.indevs.in/NHKpremium/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=NHKpremium/
 #EXTINF:-1 tvg-name="[B] 🇹🇭 泰國 | Thailand - Channel 3 Thailand",Channel 3 Thailand
-https://smt.giptv.indevs.in/ch3_pat/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ch3_pat/
 #EXTINF:-1 tvg-name="[B] 🇹🇭 泰國 | Thailand - Channel 5 Thailand",Channel 5 Thailand
-https://smt.giptv.indevs.in/ch5_pat/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ch5_pat/
 #EXTINF:-1 tvg-name="[B] 🇹🇭 泰國 | Thailand - Channel 7 Thailand",Channel 7 Thailand
-https://smt.giptv.indevs.in/ch7_pat/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ch7_pat/
 #EXTINF:-1 tvg-name="[B] 🇹🇭 泰國 | Thailand - MCOT HD Thailand-1",MCOT HD Thailand-1
-https://smt.giptv.indevs.in/mcot_pat/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=mcot_pat/
 #EXTINF:-1 tvg-name="[B] 🇹🇭 泰國 | Thailand - PPTV Thailand1",PPTV Thailand1
-https://smt.giptv.indevs.in/pptv_pat/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=pptv_pat/
 #EXTINF:-1 tvg-name="[B] 🇹🇭 泰國 | Thailand - Thai Thai",Thai Thai
-https://smt.giptv.indevs.in/thaithai_pat/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=thaithai_pat/
 #EXTINF:-1 tvg-name="[B] 🇹🇭 泰國 | Thailand - Amarin",Amarin
-https://smt.giptv.indevs.in/amarin_pat/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=amarin_pat/
 #EXTINF:-1 tvg-name="[B] 🇹🇭 泰國 | Thailand - Ch 8",Ch 8
-https://smt.giptv.indevs.in/ch8_pat/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ch8_pat/
 #EXTINF:-1 tvg-name="[B] 🇹🇭 泰國 | Thailand - GmmOne",GmmOne
-https://smt.giptv.indevs.in/gmmone_pat/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=gmmone_pat/
 #EXTINF:-1 tvg-name="[B] 🇹🇭 泰國 | Thailand - Mono",Mono
-https://smt.giptv.indevs.in/mono_pat/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=mono_pat/
 #EXTINF:-1 tvg-name="[B] 🇹🇭 泰國 | Thailand - Thairath",Thairath
-https://smt.giptv.indevs.in/thairath_pat/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=thairath_pat/
 #EXTINF:-1 tvg-name="[B] 🇹🇭 泰國 | Thailand - tpbs",tpbs
-https://smt.giptv.indevs.in/tpbs_pat/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tpbs_pat/
 #EXTINF:-1 tvg-name="[B] 🇹🇭 泰國 | Thailand - Workpoint",Workpoint
-https://smt.giptv.indevs.in/workpoint_pat/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=workpoint_pat/
 #EXTINF:-1 tvg-name="[B] 🇹🇭 泰國 | Thailand - Gmm Channel",Gmm Channel
-https://smt.giptv.indevs.in/gmmchannel_pat/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=gmmchannel_pat/
 #EXTINF:-1 tvg-name="[B] 🇹🇭 泰國 | Thailand - Nation",Nation
-https://smt.giptv.indevs.in/nation_pat/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=nation_pat/
 #EXTINF:-1 tvg-name="[B] 🇹🇭 泰國 | Thailand - Tnn24",Tnn24
-https://smt.giptv.indevs.in/tnn24_pat/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tnn24_pat/
 #EXTINF:-1 tvg-name="[B] 🇹🇭 泰國 | Thailand - Nbt",Nbt
-https://smt.giptv.indevs.in/nbt_pat/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=nbt_pat/
 #EXTINF:-1 tvg-name="[B] 🇹🇭 泰國 | Thailand - New",New
-https://smt.giptv.indevs.in/new_pat/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=new_pat/
 #EXTINF:-1 tvg-name="[B] 🇹🇭 泰國 | Thailand - TPTV",TPTV
-https://smt.giptv.indevs.in/tptv_pat/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tptv_pat/
 #EXTINF:-1 tvg-name="[B] 🇹🇭 泰國 | Thailand - Test 1",Test 1
-https://smt.giptv.indevs.in/AAA1/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AAA1/
 #EXTINF:-1 tvg-name="[B] 🇹🇭 泰國 | Thailand - Test 2",Test 2
-https://smt.giptv.indevs.in/AAA2/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AAA2/
 #EXTINF:-1 tvg-name="[B] 🇹🇭 泰國 | Thailand - Test 3",Test 3
-https://smt.giptv.indevs.in/AAA3/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AAA3/
 #EXTINF:-1 tvg-name="[B] 🇹🇭 泰國 | Thailand - Test 4",Test 4
-https://smt.giptv.indevs.in/AAA4/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AAA4/
 #EXTINF:-1 tvg-name="[B] 🇹🇭 泰國 | Thailand - Test 5",Test 5
-https://smt.giptv.indevs.in/AAA5/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AAA5/
 #EXTINF:-1 tvg-name="[B] 🇻🇳 越南 | Vietnam - ANTV",ANTV
-https://smt.giptv.indevs.in/vtn_antv/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=vtn_antv/
 #EXTINF:-1 tvg-name="[B] 🇻🇳 越南 | Vietnam - VTV 1",VTV 1
-https://smt.giptv.indevs.in/vtn_vtv1/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=vtn_vtv1/
 #EXTINF:-1 tvg-name="[B] 🇻🇳 越南 | Vietnam - VTV 3",VTV 3
-https://smt.giptv.indevs.in/vtn_vtv3/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=vtn_vtv3/
 #EXTINF:-1 tvg-name="[B] 🇻🇳 越南 | Vietnam - VTV 4",VTV 4
-https://smt.giptv.indevs.in/vtn_vtv4/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=vtn_vtv4/
 #EXTINF:-1 tvg-name="[B] 🇻🇳 越南 | Vietnam - VTV 6",VTV 6
-https://smt.giptv.indevs.in/vtn_vtv6/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=vtn_vtv6/
 #EXTINF:-1 tvg-name="[B] 🇻🇳 越南 | Vietnam - HTV 7",HTV 7
-https://smt.giptv.indevs.in/vtn_htv7/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=vtn_htv7/
 #EXTINF:-1 tvg-name="[B] 🇻🇳 越南 | Vietnam - HTV 9",HTV 9
-https://smt.giptv.indevs.in/vtn_htv9/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=vtn_htv9/
 #EXTINF:-1 tvg-name="[B] 🇻🇳 越南 | Vietnam - THVL HD",THVL HD
-https://smt.giptv.indevs.in/vtn_thvl/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=vtn_thvl/
 #EXTINF:-1 tvg-name="[B] 🇻🇳 越南 | Vietnam - TBKTV",TBKTV
-https://smt.giptv.indevs.in/vtn_tbktv/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=vtn_tbktv/
 #EXTINF:-1 tvg-name="[B] 🇻🇳 越南 | Vietnam - BTV HD",BTV HD
-https://smt.giptv.indevs.in/vtn_btvhd/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=vtn_btvhd/
 #EXTINF:-1 tvg-name="[B] 🇻🇳 越南 | Vietnam - CTV HD",CTV HD
-https://smt.giptv.indevs.in/vtn_ctvhd/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=vtn_ctvhd/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - TVRi National",TVRi National
-https://smt.giptv.indevs.in/TVRI/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TVRI/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - RCTI",RCTI
-https://smt.giptv.indevs.in/Rcti/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rcti/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - Kompass TV",Kompass TV
-https://smt.giptv.indevs.in/Kompass/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Kompass/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - Berita Satu",Berita Satu
-https://smt.giptv.indevs.in/BeritaSatu_eko/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=BeritaSatu_eko/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - Indosiar HD",Indosiar HD
-https://smt.giptv.indevs.in/Indosiar/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Indosiar/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - Metro TV",Metro TV
-https://smt.giptv.indevs.in/metrotv_eko/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=metrotv_eko/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - SCTV",SCTV
-https://smt.giptv.indevs.in/SCTV/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=SCTV/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - AnTV",AnTV
-https://smt.giptv.indevs.in/Antv/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Antv/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - MNC TV",MNC TV
-https://smt.giptv.indevs.in/Mnctv/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Mnctv/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - Trans 7",Trans 7
-https://smt.giptv.indevs.in/Trans7_eko/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Trans7_eko/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - Transtv",Transtv
-https://smt.giptv.indevs.in/Transtv/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Transtv/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - JTV",JTV
-https://smt.giptv.indevs.in/JTV_eko/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=JTV_eko/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - Cinemax",Cinemax
-https://smt.giptv.indevs.in/Cinemax/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cinemax/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - Tvone",Tvone
-https://smt.giptv.indevs.in/Tvone/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tvone/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - TVMU",TVMU
-https://smt.giptv.indevs.in/TVMU_eko/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TVMU_eko/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - GTV",GTV
-https://smt.giptv.indevs.in/Gtv/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Gtv/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - RTV",RTV
-https://smt.giptv.indevs.in/Rtv/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rtv/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - Jak TV",Jak TV
-https://smt.giptv.indevs.in/JakTV/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=JakTV/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - iNews TV",iNews TV
-https://smt.giptv.indevs.in/Inewstv/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Inewstv/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - Daai TV",Daai TV
-https://smt.giptv.indevs.in/DaaiTV/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=DaaiTV/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - Net TV",Net TV
-https://smt.giptv.indevs.in/NetTV/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=NetTV/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - Animax",Animax
-https://smt.giptv.indevs.in/Animax/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Animax/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - EWTN",EWTN
-https://smt.giptv.indevs.in/Ewtn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Ewtn/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - AlQuran AlKareem",AlQuran AlKareem
-https://smt.giptv.indevs.in/Alkareem/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Alkareem/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - Tawaf TV",Tawaf TV
-https://smt.giptv.indevs.in/TawafTV/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TawafTV/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - Vision Prime",Vision Prime
-https://smt.giptv.indevs.in/VisionPrime/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=VisionPrime/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - Muslim TV",Muslim TV
-https://smt.giptv.indevs.in/MuslimTV/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=MuslimTV/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - Music TV",Music TV
-https://smt.giptv.indevs.in/MusicTV/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=MusicTV/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - Lifestyle&Fashion",Lifestyle&Fashion
-https://smt.giptv.indevs.in/Lifestyle/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Lifestyle/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - Entertain",Entertain
-https://smt.giptv.indevs.in/Entertain/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Entertain/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - Hits",Hits
-https://smt.giptv.indevs.in/Hits/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hits/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - Warner TV",Warner TV
-https://smt.giptv.indevs.in/WarnerTV/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=WarnerTV/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - Fight Sports",Fight Sports
-https://smt.giptv.indevs.in/Fs/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Fs/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - SCM",SCM
-https://smt.giptv.indevs.in/Weishimovie/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Weishimovie/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - Thrill",Thrill
-https://smt.giptv.indevs.in/Thrill/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Thrill/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - Hits Movie",Hits Movie
-https://smt.giptv.indevs.in/Hitsmovie/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hitsmovie/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - tvN Movie",tvN Movie
-https://smt.giptv.indevs.in/Tvnmovie/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tvnmovie/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - One",One
-https://smt.giptv.indevs.in/One/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=One/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - 天映頻道Celestial Movies",天映頻道Celestial Movies
-https://smt.giptv.indevs.in/Celestialindo/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Celestialindo/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - Rock Actions",Rock Actions
-https://smt.giptv.indevs.in/Rockaction/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rockaction/
 #EXTINF:-1 tvg-name="[B] 🇮🇩 印度尼西亞 | Indonesia - Rock Entertainment",Rock Entertainment
-https://smt.giptv.indevs.in/Rockentertain/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rockentertain/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - Sun TV HD",Sun TV HD
-https://smt.giptv.indevs.in/Suntv/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Suntv/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - Star Vijay",Star Vijay
-https://smt.giptv.indevs.in/Starvijay/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Starvijay/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - Colors Tamil",Colors Tamil
-https://smt.giptv.indevs.in/Colorstam/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Colorstam/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - Sun Music",Sun Music
-https://smt.giptv.indevs.in/Sunmusic/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Sunmusic/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - Astro Sunlife",Astro Sunlife
-https://smt.giptv.indevs.in/Sunlife/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Sunlife/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - Astro Vaanavil",Astro Vaanavil
-https://smt.giptv.indevs.in/Vaanavil/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Vaanavil/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - Zee Tamil",Zee Tamil
-https://smt.giptv.indevs.in/Zeetamil/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Zeetamil/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - Zee Business",Zee Business
-https://smt.giptv.indevs.in/Zeebusiness/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Zeebusiness/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - News 18 Tamil",News 18 Tamil
-https://smt.giptv.indevs.in/news18tamil_raj/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=news18tamil_raj/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - Adithya",Adithya
-https://smt.giptv.indevs.in/Adithya/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Adithya/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - Makkal TV",Makkal TV
-https://smt.giptv.indevs.in/Makkaltv/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Makkaltv/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - Zee Action",Zee Action
-https://smt.giptv.indevs.in/Zeeaction/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Zeeaction/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - Astro KTV",Astro KTV
-https://smt.giptv.indevs.in/Astroktv/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Astroktv/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - Zee TV HD",Zee TV HD
-https://smt.giptv.indevs.in/Zeetvhd/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Zeetvhd/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - Zee Cinema HD",Zee Cinema HD
-https://smt.giptv.indevs.in/Zeecinemahd/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Zeecinemahd/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - Color HD",Color HD
-https://smt.giptv.indevs.in/Colorhd/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Colorhd/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - Starplus HD",Starplus HD
-https://smt.giptv.indevs.in/Starplushd/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Starplushd/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - Picture HD",Picture HD
-https://smt.giptv.indevs.in/Npicture/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Npicture/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - Zee News",Zee News
-https://smt.giptv.indevs.in/Zeenews/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Zeenews/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - Asianet",Asianet
-https://smt.giptv.indevs.in/asianet_raj/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=asianet_raj/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - Asianet News",Asianet News
-https://smt.giptv.indevs.in/asianetnews_raj/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=asianetnews_raj/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - Discovery World Tamil",Discovery World Tamil
-https://smt.giptv.indevs.in/discoveryworldtam_raj/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=discoveryworldtam_raj/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - History Tamil",History Tamil
-https://smt.giptv.indevs.in/historytam_raj/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=historytam_raj/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - NatGeo Tamil",NatGeo Tamil
-https://smt.giptv.indevs.in/natgeotamil_raj/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=natgeotamil_raj/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - Natgeo Wild Tamil",Natgeo Wild Tamil
-https://smt.giptv.indevs.in/natgeowildtamil_raj/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=natgeowildtamil_raj/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - Discovery Kids Tamil",Discovery Kids Tamil
-https://smt.giptv.indevs.in/discoverykidtamil_raj/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=discoverykidtamil_raj/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - Sony Yay Tamil",Sony Yay Tamil
-https://smt.giptv.indevs.in/sonyyaytam_raj/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=sonyyaytam_raj/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - Sun TV India",Sun TV India
-https://smt.giptv.indevs.in/suntv_raj/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=suntv_raj/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - Starmaa HD",Starmaa HD
-https://smt.giptv.indevs.in/starmaa_raj/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=starmaa_raj/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - Starmaa Movies HD",Starmaa Movies HD
-https://smt.giptv.indevs.in/starmaamovies_raj/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=starmaamovies_raj/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - Vijay Super",Vijay Super
-https://smt.giptv.indevs.in/vijaysuper_raj/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=vijaysuper_raj/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - Bollyone",Bollyone
-https://smt.giptv.indevs.in/Bollyone/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bollyone/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - Astro Sunmusic",Astro Sunmusic
-https://smt.giptv.indevs.in/Sunmusic/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Sunmusic/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - Thangathirai",Thangathirai
-https://smt.giptv.indevs.in/Thangathirai/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Thangathirai/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - Vinmeen",Vinmeen
-https://smt.giptv.indevs.in/Vinmeen/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Vinmeen/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - Vellithirai",Vellithirai
-https://smt.giptv.indevs.in/Vellithirai/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Vellithirai/
 #EXTINF:-1 tvg-name="[B] 🇮🇳 印度 | India - Sony Pictures HD",Sony Pictures HD
-https://smt.giptv.indevs.in/sonypix/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=sonypix/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - BBC 1",BBC 1
-https://smt.giptv.indevs.in/bbc1_antik/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bbc1_antik/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - BBC 2",BBC 2
-https://smt.giptv.indevs.in/bbc2_antik/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bbc2_antik/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - CBBC",CBBC
-https://smt.giptv.indevs.in/cbbc_antik/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cbbc_antik/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - More4",More4
-https://smt.giptv.indevs.in/more4_antik/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=more4_antik/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - Freesports",Freesports
-https://smt.giptv.indevs.in/freesports_antik/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=freesports_antik/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - Pick TV",Pick TV
-https://smt.giptv.indevs.in/picktv_antik/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=picktv_antik/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - itv 1",itv 1
-https://smt.giptv.indevs.in/itv1_antik/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=itv1_antik/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - itv 2",itv 2
-https://smt.giptv.indevs.in/itv2_antik/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=itv2_antik/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - CGTN",CGTN
-https://smt.giptv.indevs.in/CGTN/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=CGTN/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - Euronews",Euronews
-https://smt.giptv.indevs.in/euronews_antik/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=euronews_antik/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - Channel 4",Channel 4
-https://smt.giptv.indevs.in/channel4_antik/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=channel4_antik/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - DW (Deutsch)",DW (Deutsch)
-https://smt.giptv.indevs.in/dw_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=dw_twn/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - NatGeo HD",NatGeo HD
-https://smt.giptv.indevs.in/Natgeo/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Natgeo/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - CBeebies",CBeebies
-https://smt.giptv.indevs.in/Cbeebies/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cbeebies/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - History",History
-https://smt.giptv.indevs.in/History/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=History/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - Kids TV",Kids TV
-https://smt.giptv.indevs.in/KidsTV/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=KidsTV/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - BBC Earth HD",BBC Earth HD
-https://smt.giptv.indevs.in/bbcearth_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bbcearth_twn/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - BBC Earth Lifestyle",BBC Earth Lifestyle
-https://smt.giptv.indevs.in/bbclifestyle_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bbclifestyle_twn/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - MTV Live",MTV Live
-https://smt.giptv.indevs.in/mtvhd_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=mtvhd_twn/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - Star Movies HD",Star Movies HD
-https://smt.giptv.indevs.in/starmovies_raj/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=starmovies_raj/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - NHK World",NHK World
-https://smt.giptv.indevs.in/nhkworld_japan/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=nhkworld_japan/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - Warner TV",Warner TV
-https://smt.giptv.indevs.in/WarnerTV/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=WarnerTV/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - Thrill",Thrill
-https://smt.giptv.indevs.in/Thrill/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Thrill/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - HGTV",HGTV
-https://smt.giptv.indevs.in/HGTV/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=HGTV/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - TLC",TLC
-https://smt.giptv.indevs.in/Tlc/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tlc/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - Axn HD",Axn HD
-https://smt.giptv.indevs.in/Axn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Axn/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - HBO HD",HBO HD
-https://smt.giptv.indevs.in/Hbo/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hbo/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - Hits Movie",Hits Movie
-https://smt.giptv.indevs.in/Hitsmovie/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hitsmovie/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - Nickelodeon",Nickelodeon
-https://smt.giptv.indevs.in/Nickelodeon/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Nickelodeon/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - Nick Jr",Nick Jr
-https://smt.giptv.indevs.in/Nickjr/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Nickjr/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - Al-Jazeera",Al-Jazeera
-https://smt.giptv.indevs.in/aljazeera_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=aljazeera_twn/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - Animal Planet (Eng)",Animal Planet (Eng)
-https://smt.giptv.indevs.in/AnimalPlanet/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AnimalPlanet/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - Bloomberg News",Bloomberg News
-https://smt.giptv.indevs.in/bloomberg_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bloomberg_twn/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - NatGeo Wild HD",NatGeo Wild HD
-https://smt.giptv.indevs.in/Natgeowild/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Natgeowild/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - BBC World News",BBC World News
-https://smt.giptv.indevs.in/bbcworldnews_antik/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bbcworldnews_antik/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - CNBC",CNBC
-https://smt.giptv.indevs.in/Cnbc/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cnbc/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - France 24",France 24
-https://smt.giptv.indevs.in/france24_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=france24_twn/
 #EXTINF:-1 tvg-name="[B] 🇬🇧 英國 | United Kingdom - Skynews",Skynews
-https://smt.giptv.indevs.in/skynews_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=skynews_twn/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - Astro PL 1",Astro PL 1
-https://smt.giptv.indevs.in/Assp1/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Assp1/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - Astro PL 1 (Back Up 1)",Astro PL 1 (Back Up 1)
-https://smt.giptv.indevs.in/go_assp1/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_assp1/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - Astro PL 1 (Back Up 2)",Astro PL 1 (Back Up 2)
-https://smt.giptv.indevs.in/go_assp1x/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_assp1x/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - Astro W-Sports",Astro W-Sports
-https://smt.giptv.indevs.in/go_assp5/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_assp5/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - Astro PL 2",Astro PL 2
-https://smt.giptv.indevs.in/go_assp2/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_assp2/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - WWE",WWE
-https://smt.giptv.indevs.in/Wwe/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Wwe/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - 博斯高球2 HD",博斯高球2 HD
-https://smt.giptv.indevs.in/bosigolf2_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bosigolf2_twn/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - 博斯网球 HD",博斯网球 HD
-https://smt.giptv.indevs.in/bositennis_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bositennis_twn/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - Fight Sports",Fight Sports
-https://smt.giptv.indevs.in/Fs/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Fs/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - NBA TV",NBA TV
-https://smt.giptv.indevs.in/Nba/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Nba/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - Arena",Arena
-https://smt.giptv.indevs.in/Arena/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Arena/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - Arena 2",Arena 2
-https://smt.giptv.indevs.in/Arena2/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Arena2/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - Arena Bola 1",Arena Bola 1
-https://smt.giptv.indevs.in/Bolaarena1/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bolaarena1/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - Arena Bola 2",Arena Bola 2
-https://smt.giptv.indevs.in/Bolaarena2/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bolaarena2/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - Astro Golf",Astro Golf
-https://smt.giptv.indevs.in/Agolf/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Agolf/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - RTM Sports HD",RTM Sports HD
-https://smt.giptv.indevs.in/Rtmsport/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rtmsport/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - Astro Football",Astro Football
-https://smt.giptv.indevs.in/go_assp4/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_assp4/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - Astro Football (Back Up 1)",Astro Football (Back Up 1)
-https://smt.giptv.indevs.in/Assp4/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Assp4/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - Astro Badminton",Astro Badminton
-https://smt.giptv.indevs.in/go_badminton1/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_badminton1/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - Astro Badminton 2",Astro Badminton 2
-https://smt.giptv.indevs.in/go_badminton2/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_badminton2/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - SPOTV 1 HD",SPOTV 1 HD
-https://smt.giptv.indevs.in/go_spotv/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_spotv/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - SPO TV 2",SPO TV 2
-https://smt.giptv.indevs.in/go_spotv2/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_spotv2/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - CCTV-5 體育",CCTV-5 體育
-https://smt.giptv.indevs.in/cctv5/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv5/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - CCTV-5+ 體育",CCTV-5+ 體育
-https://smt.giptv.indevs.in/cctv5plus/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv5plus/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - Supersports 2",Supersports 2
-https://smt.giptv.indevs.in/Assp2/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Assp2/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - Astro Grandstand",Astro Grandstand
-https://smt.giptv.indevs.in/go_assp3/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_assp3/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - Astro Cricket",Astro Cricket
-https://smt.giptv.indevs.in/Acricket/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Acricket/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - Tnt Sports 1",Tnt Sports 1
-https://smt.giptv.indevs.in/tntsport1/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tntsport1/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - Astro Grandstand (Back Up 1)",Astro Grandstand (Back Up 1)
-https://smt.giptv.indevs.in/Assp3/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Assp3/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - TNT Sports 2",TNT Sports 2
-https://smt.giptv.indevs.in/tntsport2/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tntsport2/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - TNT Sports 3",TNT Sports 3
-https://smt.giptv.indevs.in/tntsport3/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tntsport3/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - TNT Sports 4",TNT Sports 4
-https://smt.giptv.indevs.in/tntsport4/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tntsport4/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - Astro Sports Plus",Astro Sports Plus
-https://smt.giptv.indevs.in/go_sportsplus/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_sportsplus/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - Elta体育1台",Elta体育1台
-https://smt.giptv.indevs.in/eltasport1_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eltasport1_twn/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - Elta體育2台",Elta體育2台
-https://smt.giptv.indevs.in/eltasport2_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eltasport2_twn/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - Elta體育3台",Elta體育3台
-https://smt.giptv.indevs.in/eltasport3_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eltasport3_twn/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - Rugby Pass TV",Rugby Pass TV
-https://smt.giptv.indevs.in/Rugbypasstv/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rugbypasstv/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - Astro Beinsports 1",Astro Beinsports 1
-https://smt.giptv.indevs.in/Astrobein1/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Astrobein1/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - Astro Beinsports 2",Astro Beinsports 2
-https://smt.giptv.indevs.in/Astrobein2/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Astrobein2/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - Astro Beinsports 3",Astro Beinsports 3
-https://smt.giptv.indevs.in/Astrobein3/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Astrobein3/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - Skysports Cricket",Skysports Cricket
-https://smt.giptv.indevs.in/tiankongcricket/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tiankongcricket/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - Skysports EPL",Skysports EPL
-https://smt.giptv.indevs.in/tiankongepl/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tiankongepl/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - Skysports F1",Skysports F1
-https://smt.giptv.indevs.in/tiankongf1/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tiankongf1/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - Skysports Golf",Skysports Golf
-https://smt.giptv.indevs.in/tiankonggolf/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tiankonggolf/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - Skysports Main Event",Skysports Main Event
-https://smt.giptv.indevs.in/tiankongmain/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tiankongmain/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - Skysports Mix",Skysports Mix
-https://smt.giptv.indevs.in/tiankongmix/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tiankongmix/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - Skysports Racing",Skysports Racing
-https://smt.giptv.indevs.in/tiankongracing/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tiankongracing/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - DAZN 1",DAZN 1
-https://smt.giptv.indevs.in/dazn1_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=dazn1_twn/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - DAZN 2",DAZN 2
-https://smt.giptv.indevs.in/dazn2_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=dazn2_twn/
 #EXTINF:-1 tvg-name="[B] ⚽ 體育頻道 | Sports - Eurosport",Eurosport
-https://smt.giptv.indevs.in/Eurosport/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Eurosport/
 #EXTINF:-1 tvg-name="[B] 🎬 電影頻道 | Movies - CCTV-6 電影",CCTV-6 電影
-https://smt.giptv.indevs.in/cctv6/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv6/
 #EXTINF:-1 tvg-name="[B] 🎬 電影頻道 | Movies - HBO_HD",HBO_HD
-https://smt.giptv.indevs.in/hbohd_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hbohd_twn/
 #EXTINF:-1 tvg-name="[B] 🎬 電影頻道 | Movies - HBO_HITS",HBO_HITS
-https://smt.giptv.indevs.in/hbohits_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hbohits_twn/
 #EXTINF:-1 tvg-name="[B] 🎬 電影頻道 | Movies - HBO Signature Taiwan",HBO Signature Taiwan
-https://smt.giptv.indevs.in/hbosignature_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hbosignature_twn/
 #EXTINF:-1 tvg-name="[B] 🎬 電影頻道 | Movies - Hollywood Movies",Hollywood Movies
-https://smt.giptv.indevs.in/hollywoodmovies_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hollywoodmovies_twn/
 #EXTINF:-1 tvg-name="[B] 🎬 電影頻道 | Movies - AXN Taiwan",AXN Taiwan
-https://smt.giptv.indevs.in/axn_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=axn_twn/
 #EXTINF:-1 tvg-name="[B] 🎬 電影頻道 | Movies - CINEMAX",CINEMAX
-https://smt.giptv.indevs.in/cinemax_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cinemax_twn/
 #EXTINF:-1 tvg-name="[B] 🎬 電影頻道 | Movies - Cinemax",Cinemax
-https://smt.giptv.indevs.in/Cinemax/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cinemax/
 #EXTINF:-1 tvg-name="[B] 🎬 電影頻道 | Movies - 大爱2台",大爱2台
-https://smt.giptv.indevs.in/daai2_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=daai2_twn/
 #EXTINF:-1 tvg-name="[B] 🎬 電影頻道 | Movies - 东森电影 ETTV Movie",东森电影 ETTV Movie
-https://smt.giptv.indevs.in/ettvmovie/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvmovie/
 #EXTINF:-1 tvg-name="[B] 🎬 電影頻道 | Movies - 东森洋片 ETTV Western",东森洋片 ETTV Western
-https://smt.giptv.indevs.in/ettvwestern/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvwestern/
 #EXTINF:-1 tvg-name="[B] 🎬 電影頻道 | Movies - 龙华洋片 Lunghua Western",龙华洋片 Lunghua Western
-https://smt.giptv.indevs.in/lunghuawestern_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=lunghuawestern_twn/
 #EXTINF:-1 tvg-name="[B] 🎬 電影頻道 | Movies - Animax",Animax
-https://smt.giptv.indevs.in/Animax/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Animax/
 #EXTINF:-1 tvg-name="[B] 🎬 電影頻道 | Movies - 龙详时代",龙详时代
-https://smt.giptv.indevs.in/lungxiangtime_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=lungxiangtime_twn/
 #EXTINF:-1 tvg-name="[B] 🎬 電影頻道 | Movies - Movies Now HD",Movies Now HD
-https://smt.giptv.indevs.in/moviesnow_raj/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=moviesnow_raj/
 #EXTINF:-1 tvg-name="[B] 🎬 電影頻道 | Movies - Star Movies HD",Star Movies HD
-https://smt.giptv.indevs.in/starmovies_raj/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=starmovies_raj/
 #EXTINF:-1 tvg-name="[B] 🎬 電影頻道 | Movies - 卫视中文台 Star Movies Chinese",卫视中文台 Star Movies Chinese
-https://smt.giptv.indevs.in/weishichinese_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=weishichinese_twn/
 #EXTINF:-1 tvg-name="[B] 🎬 電影頻道 | Movies - Hits",Hits
-https://smt.giptv.indevs.in/Hits/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hits/
 #EXTINF:-1 tvg-name="[B] 🎬 電影頻道 | Movies - Warner TV",Warner TV
-https://smt.giptv.indevs.in/WarnerTV/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=WarnerTV/
 #EXTINF:-1 tvg-name="[B] 🎬 電影頻道 | Movies - 美亚电影",美亚电影
-https://smt.giptv.indevs.in/meiyamovie_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=meiyamovie_twn/
 #EXTINF:-1 tvg-name="[B] 🎬 電影頻道 | Movies - SCM",SCM
-https://smt.giptv.indevs.in/Weishimovie/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Weishimovie/
 #EXTINF:-1 tvg-name="[B] 🎬 電影頻道 | Movies - Thrill",Thrill
-https://smt.giptv.indevs.in/Thrill/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Thrill/
 #EXTINF:-1 tvg-name="[B] 🎬 電影頻道 | Movies - HBO Family",HBO Family
-https://smt.giptv.indevs.in/Hbofamily/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hbofamily/
 #EXTINF:-1 tvg-name="[B] 🎬 電影頻道 | Movies - Axn HD",Axn HD
-https://smt.giptv.indevs.in/Axn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Axn/
 #EXTINF:-1 tvg-name="[B] 🎬 電影頻道 | Movies - HBO HD",HBO HD
-https://smt.giptv.indevs.in/Hbo/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hbo/
 #EXTINF:-1 tvg-name="[B] 🎬 電影頻道 | Movies - HBO Signature",HBO Signature
-https://smt.giptv.indevs.in/Hbosignature/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hbosignature/
 #EXTINF:-1 tvg-name="[B] 🎬 電影頻道 | Movies - HBO Hits",HBO Hits
-https://smt.giptv.indevs.in/Hbohitshd/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hbohitshd/
 #EXTINF:-1 tvg-name="[B] 🎬 電影頻道 | Movies - Dreamworks",Dreamworks
-https://smt.giptv.indevs.in/Dreamworks/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Dreamworks/
 #EXTINF:-1 tvg-name="[B] 🎬 電影頻道 | Movies - Hits Movie",Hits Movie
-https://smt.giptv.indevs.in/Hitsmovie/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hitsmovie/
 #EXTINF:-1 tvg-name="[B] 🎬 電影頻道 | Movies - tvN Movie",tvN Movie
-https://smt.giptv.indevs.in/Tvnmovie/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tvnmovie/
 #EXTINF:-1 tvg-name="[B] 🎬 電影頻道 | Movies - Astrol Kplus",Astrol Kplus
-https://smt.giptv.indevs.in/Kplus/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Kplus/
 #EXTINF:-1 tvg-name="[B] 🎬 電影頻道 | Movies - One",One
-https://smt.giptv.indevs.in/One/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=One/
 #EXTINF:-1 tvg-name="[B] 🎬 電影頻道 | Movies - 天映頻道Celestial Movies",天映頻道Celestial Movies
-https://smt.giptv.indevs.in/Celestialindo/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Celestialindo/
 #EXTINF:-1 tvg-name="[B] 🎬 電影頻道 | Movies - Celestial Classic",Celestial Classic
-https://smt.giptv.indevs.in/Celestial2/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Celestial2/
 #EXTINF:-1 tvg-name="[B] 🎬 電影頻道 | Movies - Rock Actions",Rock Actions
-https://smt.giptv.indevs.in/Rockaction/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rockaction/
 #EXTINF:-1 tvg-name="[B] 🎬 電影頻道 | Movies - Rock Entertainment",Rock Entertainment
-https://smt.giptv.indevs.in/Rockentertain/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rockentertain/
 #EXTINF:-1 tvg-name="[B] 📜 紀錄頻道 | Documentary - CI",CI
-https://smt.giptv.indevs.in/ci_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ci_twn/
 #EXTINF:-1 tvg-name="[B] 📜 紀錄頻道 | Documentary - Asia Travel",Asia Travel
-https://smt.giptv.indevs.in/asiatravel_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=asiatravel_twn/
 #EXTINF:-1 tvg-name="[B] 📜 紀錄頻道 | Documentary - 亚洲美食",亚洲美食
-https://smt.giptv.indevs.in/afc_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=afc_twn/
 #EXTINF:-1 tvg-name="[B] 📜 紀錄頻道 | Documentary - NatGeo HD",NatGeo HD
-https://smt.giptv.indevs.in/Natgeo/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Natgeo/
 #EXTINF:-1 tvg-name="[B] 📜 紀錄頻道 | Documentary - Fashion TV",Fashion TV
-https://smt.giptv.indevs.in/fashiontv_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=fashiontv_twn/
 #EXTINF:-1 tvg-name="[B] 📜 紀錄頻道 | Documentary - History",History
-https://smt.giptv.indevs.in/History/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=History/
 #EXTINF:-1 tvg-name="[B] 📜 紀錄頻道 | Documentary - BBC Earth HD",BBC Earth HD
-https://smt.giptv.indevs.in/bbcearth_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bbcearth_twn/
 #EXTINF:-1 tvg-name="[B] 📜 紀錄頻道 | Documentary - BBC Earth Lifestyle",BBC Earth Lifestyle
-https://smt.giptv.indevs.in/bbclifestyle_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bbclifestyle_twn/
 #EXTINF:-1 tvg-name="[B] 📜 紀錄頻道 | Documentary - 亚洲旅游 TLC Asia",亚洲旅游 TLC Asia
-https://smt.giptv.indevs.in/tlc_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tlc_twn/
 #EXTINF:-1 tvg-name="[B] 📜 紀錄頻道 | Documentary - MTV Live",MTV Live
-https://smt.giptv.indevs.in/mtvhd_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=mtvhd_twn/
 #EXTINF:-1 tvg-name="[B] 📜 紀錄頻道 | Documentary - NatGeo_Wild HD",NatGeo_Wild HD
-https://smt.giptv.indevs.in/Natgeowild/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Natgeowild/
 #EXTINF:-1 tvg-name="[B] 📜 紀錄頻道 | Documentary - Animal_Planet",Animal_Planet
-https://smt.giptv.indevs.in/AnimalPlanet/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AnimalPlanet/
 #EXTINF:-1 tvg-name="[B] 📜 紀錄頻道 | Documentary - HGTV",HGTV
-https://smt.giptv.indevs.in/HGTV/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=HGTV/
 #EXTINF:-1 tvg-name="[B] 📜 紀錄頻道 | Documentary - TLC",TLC
-https://smt.giptv.indevs.in/Tlc/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tlc/
 #EXTINF:-1 tvg-name="[B] 📜 紀錄頻道 | Documentary - Foodnetwork Hd",Foodnetwork Hd
-https://smt.giptv.indevs.in/Foodnetwork/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Foodnetwork/
 #EXTINF:-1 tvg-name="[B] 📜 紀錄頻道 | Documentary - Asia Food Network",Asia Food Network
-https://smt.giptv.indevs.in/Afc/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Afc/
 #EXTINF:-1 tvg-name="[B] 📜 紀錄頻道 | Documentary - Animal Planet (Eng)",Animal Planet (Eng)
-https://smt.giptv.indevs.in/AnimalPlanet/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AnimalPlanet/
 #EXTINF:-1 tvg-name="[B] 📜 紀錄頻道 | Documentary - NatGeo Wild HD",NatGeo Wild HD
-https://smt.giptv.indevs.in/Natgeowild/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Natgeowild/
 #EXTINF:-1 tvg-name="[B] 📜 紀錄頻道 | Documentary - Discovery Asia",Discovery Asia
-https://smt.giptv.indevs.in/Discoveryasia/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Discoveryasia/
 #EXTINF:-1 tvg-name="[B] 📜 紀錄頻道 | Documentary - Dmax",Dmax
-https://smt.giptv.indevs.in/Dmax/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Dmax/
 #EXTINF:-1 tvg-name="[B] 📜 紀錄頻道 | Documentary - 探索频道",探索频道
-https://smt.giptv.indevs.in/discoverych_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=discoverych_twn/
 #EXTINF:-1 tvg-name="[B] 📰 新聞頻道 | News - ABC News",ABC News
-https://smt.giptv.indevs.in/abcnews_glo/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=abcnews_glo/
 #EXTINF:-1 tvg-name="[B] 📰 新聞頻道 | News - iNews 互動新聞台",iNews 互動新聞台
-https://smt.giptv.indevs.in/inews_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=inews_twn/
 #EXTINF:-1 tvg-name="[B] 📰 新聞頻道 | News - CBS HD",CBS HD
-https://smt.giptv.indevs.in/cbshd_glo/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cbshd_glo/
 #EXTINF:-1 tvg-name="[B] 📰 新聞頻道 | News - CBSN HD",CBSN HD
-https://smt.giptv.indevs.in/cbsn_glo/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cbsn_glo/
 #EXTINF:-1 tvg-name="[B] 📰 新聞頻道 | News - CCTV-13 新聞與頻道",CCTV-13 新聞與頻道
-https://smt.giptv.indevs.in/cctv13/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv13/
 #EXTINF:-1 tvg-name="[B] 📰 新聞頻道 | News - CGTN",CGTN
-https://smt.giptv.indevs.in/CGTN/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=CGTN/
 #EXTINF:-1 tvg-name="[B] 📰 新聞頻道 | News - DW (Deutsch)",DW (Deutsch)
-https://smt.giptv.indevs.in/dw_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=dw_twn/
 #EXTINF:-1 tvg-name="[B] 📰 新聞頻道 | News - Fox News",Fox News
-https://smt.giptv.indevs.in/foxnews_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=foxnews_twn/
 #EXTINF:-1 tvg-name="[B] 📰 新聞頻道 | News - NHK World",NHK World
-https://smt.giptv.indevs.in/nhkworld_japan/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=nhkworld_japan/
 #EXTINF:-1 tvg-name="[B] 📰 新聞頻道 | News - TVBS News 新聞台",TVBS News 新聞台
-https://smt.giptv.indevs.in/tvbs_n/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tvbs_n/
 #EXTINF:-1 tvg-name="[B] 📰 新聞頻道 | News - Al-Jazeera",Al-Jazeera
-https://smt.giptv.indevs.in/aljazeera_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=aljazeera_twn/
 #EXTINF:-1 tvg-name="[B] 📰 新聞頻道 | News - Bloomberg News",Bloomberg News
-https://smt.giptv.indevs.in/bloomberg_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bloomberg_twn/
 #EXTINF:-1 tvg-name="[B] 📰 新聞頻道 | News - 東森新聞 ETTV News",東森新聞 ETTV News
-https://smt.giptv.indevs.in/ettvnews/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvnews/
 #EXTINF:-1 tvg-name="[B] 📰 新聞頻道 | News - 東森財經新聞 ETTV Business",東森財經新聞 ETTV Business
-https://smt.giptv.indevs.in/ettvcaijing_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvcaijing_twn/
 #EXTINF:-1 tvg-name="[B] 📰 新聞頻道 | News - 中天新聞 CTI News",中天新聞 CTI News
-https://smt.giptv.indevs.in/ctinews/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctinews/
 #EXTINF:-1 tvg-name="[B] 📰 新聞頻道 | News - 非凡新聞台",非凡新聞台
-https://smt.giptv.indevs.in/feifannews_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=feifannews_twn/
 #EXTINF:-1 tvg-name="[B] 📰 新聞頻道 | News - 台視新聞台 TTV News",台視新聞台 TTV News
-https://smt.giptv.indevs.in/ttvnews_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ttvnews_twn/
 #EXTINF:-1 tvg-name="[B] 📰 新聞頻道 | News - 民視新聞台 FTV News",民視新聞台 FTV News
-https://smt.giptv.indevs.in/ftvnew_taiwan/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ftvnew_taiwan/
 #EXTINF:-1 tvg-name="[B] 📰 新聞頻道 | News - Al_Jazeera",Al_Jazeera
-https://smt.giptv.indevs.in/Aljazeera/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Aljazeera/
 #EXTINF:-1 tvg-name="[B] 📰 新聞頻道 | News - 寰宇新聞台",寰宇新聞台
-https://smt.giptv.indevs.in/huanyuxinwen_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=huanyuxinwen_twn/
 #EXTINF:-1 tvg-name="[B] 📰 新聞頻道 | News - 中視新聞台",中視新聞台
-https://smt.giptv.indevs.in/zhongshinews_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=zhongshinews_twn/
 #EXTINF:-1 tvg-name="[B] 📰 新聞頻道 | News - CNN",CNN
-https://smt.giptv.indevs.in/Cnn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cnn/
 #EXTINF:-1 tvg-name="[B] 📰 新聞頻道 | News - CNN backup",CNN backup
-https://smt.giptv.indevs.in/cnn_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cnn_twn/
 #EXTINF:-1 tvg-name="[B] 📰 新聞頻道 | News - BBC World News",BBC World News
-https://smt.giptv.indevs.in/Bbcnews/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bbcnews/
 #EXTINF:-1 tvg-name="[B] 📰 新聞頻道 | News - BBC World News",BBC World News
-https://smt.giptv.indevs.in/Bbcnews/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bbcnews/
 #EXTINF:-1 tvg-name="[B] 📰 新聞頻道 | News - CNBC",CNBC
-https://smt.giptv.indevs.in/Cnbc/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cnbc/
 #EXTINF:-1 tvg-name="[B] 📰 新聞頻道 | News - Bloomberg TV",Bloomberg TV
-https://smt.giptv.indevs.in/Bloomberg/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bloomberg/
 #EXTINF:-1 tvg-name="[B] 📰 新聞頻道 | News - CNA",CNA
-https://smt.giptv.indevs.in/cna/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cna/
 #EXTINF:-1 tvg-name="[B] 📰 新聞頻道 | News - DW",DW
-https://smt.giptv.indevs.in/Dw/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Dw/
 #EXTINF:-1 tvg-name="[B] 📰 新聞頻道 | News - France 24",France 24
-https://smt.giptv.indevs.in/france24_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=france24_twn/
 #EXTINF:-1 tvg-name="[B] 📰 新聞頻道 | News - France 24",France 24
-https://smt.giptv.indevs.in/France24/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=france24_twn/
 #EXTINF:-1 tvg-name="[B] 📰 新聞頻道 | News - Skynews",Skynews
-https://smt.giptv.indevs.in/Skynews/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Skynews/
 #EXTINF:-1 tvg-name="[B] 📰 新聞頻道 | News - Skynews",Skynews
-https://smt.giptv.indevs.in/skynews_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Skynews/
 #EXTINF:-1 tvg-name="[B] 📰 新聞頻道 | News - NHK Premium",NHK Premium
-https://smt.giptv.indevs.in/NHKpremium/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=NHKpremium/
 #EXTINF:-1 tvg-name="[B] 🧸 兒童頻道 | Kids - Baby TV Eng",Baby TV Eng
-https://smt.giptv.indevs.in/Ind_babytv/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Ind_babytv/
 #EXTINF:-1 tvg-name="[B] 🧸 兒童頻道 | Kids - CBeebies",CBeebies
-https://smt.giptv.indevs.in/Cbeebies/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cbeebies/
 #EXTINF:-1 tvg-name="[B] 🧸 兒童頻道 | Kids - Kids TV",Kids TV
-https://smt.giptv.indevs.in/KidsTV/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=KidsTV/
 #EXTINF:-1 tvg-name="[B] 🧸 兒童頻道 | Kids - Momo TV",Momo TV
-https://smt.giptv.indevs.in/momo1_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=momo1_twn/
 #EXTINF:-1 tvg-name="[B] 🧸 兒童頻道 | Kids - Animax",Animax
-https://smt.giptv.indevs.in/Animax/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Animax/
 #EXTINF:-1 tvg-name="[B] 🧸 兒童頻道 | Kids - Baby TV",Baby TV
-https://smt.giptv.indevs.in/babytv_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=babytv_twn/
 #EXTINF:-1 tvg-name="[B] 🧸 兒童頻道 | Kids - MiaoMi",MiaoMi
-https://smt.giptv.indevs.in/MiaoMi/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=MiaoMi/
 #EXTINF:-1 tvg-name="[B] 🧸 兒童頻道 | Kids - 靖天卡通台",靖天卡通台
-https://smt.giptv.indevs.in/jingtiancartoon_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=jingtiancartoon_twn/
 #EXTINF:-1 tvg-name="[B] 🧸 兒童頻道 | Kids - 东森幼幼 Yoyo TV",东森幼幼 Yoyo TV
-https://smt.giptv.indevs.in/yoyo_twn/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=yoyo_twn/
 #EXTINF:-1 tvg-name="[B] 🧸 兒童頻道 | Kids - Nickelodeon",Nickelodeon
-https://smt.giptv.indevs.in/Nickelodeon/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Nickelodeon/
 #EXTINF:-1 tvg-name="[B] 🧸 兒童頻道 | Kids - Nick Jr",Nick Jr
-https://smt.giptv.indevs.in/Nickjr/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Nickjr/
 #EXTINF:-1 tvg-name="[B] 🧸 兒童頻道 | Kids - Cartoon Network",Cartoon Network
-https://smt.giptv.indevs.in/Cn/playlist.m3u8
-#EXTINF:-1 tvg-name="[B] ♨️电影 - 周星星",周星星
-http://feilong123.vip/huya.php?raw=1&id=11342412
-#EXTINF:-1 tvg-name="[B] ♨️电影 - 成龙",成龙
-http://feilong123.vip/huya.php?raw=1&id=11342386
-#EXTINF:-1 tvg-name="[B] ♨️电影 - 林正英",林正英
-http://feilong123.vip/huya.php?raw=1&id=11342421
-#EXTINF:-1 tvg-name="[B] ♨️电影 - 李茶的姑妈",李茶的姑妈
-http://feilong123.vip/huya.php?raw=1&id=880261
-#EXTINF:-1 tvg-name="[B] ♨️电影 - 开心影视",开心影视
-https://gitee.com/baohe2025/bh/raw/master/kx.mp4
-#EXTINF:-1 tvg-name="[B] ♨️电影 - 王晶",王晶
-http://feilong123.vip/huya.php?raw=1&id=11602058
-#EXTINF:-1 tvg-name="[B] ♨️电影 - 贺岁档",贺岁档
-http://feilong123.vip/huya.php?raw=1&id=11601986
-#EXTINF:-1 tvg-name="[B] ♨️电影 - 春节喜剧",春节喜剧
-http://feilong123.vip/huya.php?raw=1&id=11352897
-#EXTINF:-1 tvg-name="[B] ♨️电影 - 速肌",速肌
-http://feilong123.vip/huya.php?raw=1&id=11279251
-#EXTINF:-1 tvg-name="[B] ♨️电影 - 刘德华",刘德华
-http://feilong123.vip/huya.php?raw=1&id=11342424
-#EXTINF:-1 tvg-name="[B] ♨️电影 - 丧尸来啦",丧尸来啦
-http://feilong123.vip/huya.php?raw=1&id=11342422
-#EXTINF:-1 tvg-name="[B] ♨️电影 - si神来了",si神来了
-http://feilong123.vip/huya.php?raw=1&id=11352903
-#EXTINF:-1 tvg-name="[B] ♨️电影 - 诺兰",诺兰
-http://feilong123.vip/huya.php?raw=1&id=30080257
-#EXTINF:-1 tvg-name="[B] ♨️电影 - 古天乐",古天乐
-http://feilong123.vip/huya.php?raw=1&id=29982675
-#EXTINF:-1 tvg-name="[B] ♨️电影 - 情人节",情人节
-http://feilong123.vip/huya.php?raw=1&id=11352915
-#EXTINF:-1 tvg-name="[B] ♨️电影 - 女神系列",女神系列
-http://feilong123.vip/huya.php?raw=1&id=11336571
-#EXTINF:-1 tvg-name="[B] ♨️电影 - 喜剧专场",喜剧专场
-http://feilong123.vip/huya.php?raw=1&id=11602044
-#EXTINF:-1 tvg-name="[B] ♨️电影 - Han国动作片",Han国动作片
-http://feilong123.vip/huya.php?raw=1&id=11352884
-#EXTINF:-1 tvg-name="[B] ♨️电影 - 香港贺岁片",香港贺岁片
-http://feilong123.vip/huya.php?raw=1&id=11601955
-#EXTINF:-1 tvg-name="[B] ♨️电影 - 红楼梦",红楼梦
-http://feilong123.vip/huya.php?raw=1&id=30080221
-#EXTINF:-1 tvg-name="[B] ♨️电影 - 许氏三杰",许氏三杰
-http://feilong123.vip/huya.php?raw=1&id=11602033
-#EXTINF:-1 tvg-name="[B] ♨️电影 - 玄幻剧场",玄幻剧场
-http://feilong123.vip/huya.php?raw=1&id=11342414
-#EXTINF:-1 tvg-name="[B] ♨️电影 - 曾江",曾江
-http://feilong123.vip/huya.php?raw=1&id=11601981
-#EXTINF:-1 tvg-name="[B] ♨️电影 - 动作电影",动作电影
-http://feilong123.vip/huya.php?raw=1&id=11602077
-#EXTINF:-1 tvg-name="[B] ♨️电影 - 国产悬疑",国产悬疑
-http://feilong123.vip/huya.php?raw=1&id=11342395
-#EXTINF:-1 tvg-name="[B] ♨️电影 - 尹正",尹正
-http://feilong123.vip/huya.php?raw=1&id=30080231
-#EXTINF:-1 tvg-name="[B] ♨️电影 - 首尔之春",首尔之春
-http://feilong123.vip/huya.php?raw=1&id=30080226
-#EXTINF:-1 tvg-name="[B] ♨️电影 - 港片追女仔",港片追女仔
-http://feilong123.vip/huya.php?raw=1&id=11602043
-#EXTINF:-1 tvg-name="[B] ♨️电影 - 孙红雷",孙红雷
-http://feilong123.vip/huya.php?raw=1&id=11352917
-#EXTINF:-1 tvg-name="[B] ♨️电影 - 合家欢",合家欢
-http://feilong123.vip/huya.php?raw=1&id=11352877
-#EXTINF:-1 tvg-name="[B] ♨️电影 - 学不会系列",学不会系列
-http://feilong123.vip/huya.php?raw=1&id=11352945
-#EXTINF:-1 tvg-name="[B] ♨️电影 - 误杀3",误杀3
-http://feilong123.vip/huya.php?raw=1&id=880219
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 曾小贤",曾小贤
-http://feilong123.vip/huya.php?raw=1&id=11336726
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 李云龙",李云龙
-http://feilong123.vip/huya.php?raw=1&id=30080238
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 超级交通站",超级交通站
-http://feilong123.vip/huya.php?raw=1&id=11342433
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 许三多",许三多
-http://feilong123.vip/huya.php?raw=1&id=11342430
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 父母爱情",父母爱情
-http://feilong123.vip/huya.php?raw=1&id=11602071
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 苏大强",苏大强
-http://feilong123.vip/huya.php?raw=1&id=21059594
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 情满四合院",情满四合院
-http://feilong123.vip/huya.php?raw=1&id=11342426
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 开心影视",开心影视
-https://gitee.com/baohe2025/bh/raw/master/kx.mp4
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 胡八一",胡八一
-http://feilong123.vip/huya.php?raw=1&id=11352871
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 搞笑一家人",搞笑一家人
-http://feilong123.vip/huya.php?raw=1&id=11342402
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 杨光的快乐生活",杨光的快乐生活
-http://feilong123.vip/huya.php?raw=1&id=11602085
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 狄仁杰",狄仁杰
-http://feilong123.vip/huya.php?raw=1&id=11342425
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 李淳罡",李淳罡
-http://feilong123.vip/huya.php?raw=1&id=11336592
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 范闲",范闲
-http://feilong123.vip/huya.php?raw=1&id=11352960
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 医馆笑传",医馆笑传
-http://feilong123.vip/huya.php?raw=1&id=11352891
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 小染坊",小染坊
-http://feilong123.vip/huya.php?raw=1&id=11602086
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 狄仁杰",狄仁杰
-http://feilong123.vip/huya.php?raw=1&id=11352958
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 春水盈盈",春水盈盈
-http://feilong123.vip/huya.php?raw=1&id=30080255
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 乡村爱情",乡村爱情
-http://feilong123.vip/huya.php?raw=1&id=11602088
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 在哪儿跌倒的还得在哪儿爬起来",在哪儿跌倒的还得在哪儿爬起来
-http://feilong123.vip/huya.php?raw=1&id=11602088
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 夏雪夏雨夏冰雹",夏雪夏雨夏冰雹
-http://feilong123.vip/huya.php?raw=1&id=11352872
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 扫黑风暴",扫黑风暴
-http://feilong123.vip/huya.php?raw=1&id=11342404
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 云南虫谷",云南虫谷
-http://feilong123.vip/huya.php?raw=1&id=11352910
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 三国演义",三国演义
-http://feilong123.vip/huya.php?raw=1&id=11602081
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 神雕侠侣",神雕侠侣
-http://feilong123.vip/huya.php?raw=1&id=11352964
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 鬼吹灯",鬼吹灯
-http://feilong123.vip/huya.php?raw=1&id=29465863
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 渗透",渗透
-http://feilong123.vip/huya.php?raw=1&id=30080244
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 抗日游击队",抗日游击队
-http://feilong123.vip/huya.php?raw=1&id=11352912
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 抗战英雄",抗战英雄
-http://feilong123.vip/huya.php?raw=1&id=11352936
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 炊事班的故事",炊事班的故事
-http://feilong123.vip/huya.php?raw=1&id=19524135
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 民兵葛二蛋",民兵葛二蛋
-http://feilong123.vip/huya.php?raw=1&id=11602072
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 你是我的荣耀",你是我的荣耀
-http://feilong123.vip/huya.php?raw=1&id=11352920
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 特种兵之火凤凰",特种兵之火凤凰
-http://feilong123.vip/huya.php?raw=1&id=29982636
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 我就问你这瓜保熟吗",我就问你这瓜保熟吗
-http://feilong123.vip/huya.php?raw=1&id=11601970
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 一代枭雄",一代枭雄
-http://feilong123.vip/huya.php?raw=1&id=11342398
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 白鹿原",白鹿原
-http://feilong123.vip/huya.php?raw=1&id=11342416
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 太极张三丰",太极张三丰
-http://feilong123.vip/huya.php?raw=1&id=26355770
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 勇敢的心",勇敢的心
-http://feilong123.vip/huya.php?raw=1&id=11602037
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 刑事侦缉档案",刑事侦缉档案
-http://feilong123.vip/huya.php?raw=1&id=29465856
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 漫长的季节",漫长的季节
-http://feilong123.vip/huya.php?raw=1&id=11342393
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 王漫妮",王漫妮
-http://feilong123.vip/huya.php?raw=1&id=21059609
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 汉武大帝",汉武大帝
-http://feilong123.vip/huya.php?raw=1&id=26355859
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 全职高手",全职高手
-http://feilong123.vip/huya.php?raw=1&id=11352901
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 风筝",风筝
-http://feilong123.vip/huya.php?raw=1&id=30080225
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 陀枪师姐",陀枪师姐
-http://feilong123.vip/huya.php?raw=1&id=29465855
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 还珠格格",还珠格格
-http://feilong123.vip/huya.php?raw=1&id=30080241
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 与凤行",与凤行
-http://feilong123.vip/huya.php?raw=1&id=26355866
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 湄公河大案",湄公河大案
-http://feilong123.vip/huya.php?raw=1&id=30080245
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 星汉灿烂",星汉灿烂
-http://feilong123.vip/huya.php?raw=1&id=11336591
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 洗冤录",洗冤录
-http://feilong123.vip/huya.php?raw=1&id=29465851
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 一起同过窗",一起同过窗
-http://feilong123.vip/huya.php?raw=1&id=30080228
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 盗墓笔记",盗墓笔记
-http://feilong123.vip/huya.php?raw=1&id=11352912
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 三体",三体
-http://feilong123.vip/huya.php?raw=1&id=11352954
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 亲爱的热爱的",亲爱的热爱的
-http://feilong123.vip/huya.php?raw=1&id=29982671
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 怒海潜沙",怒海潜沙
-http://feilong123.vip/huya.php?raw=1&id=11342415
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 画像师",画像师
-http://feilong123.vip/huya.php?raw=1&id=11601962
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 开端",开端
-http://feilong123.vip/huya.php?raw=1&id=11342397
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 良心医疗剧",良心医疗剧
-http://feilong123.vip/huya.php?raw=1&id=11352890
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 鬼吹灯",鬼吹灯
-http://feilong123.vip/huya.php?raw=1&id=11352883
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 大瓜",大瓜
-http://feilong123.vip/huya.php?raw=1&id=11342436
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 怒晴湘西",怒晴湘西
-http://feilong123.vip/huya.php?raw=1&id=11602075
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 打工姐妹花",打工姐妹花
-http://feilong123.vip/huya.php?raw=1&id=21059564
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 扫黄先锋",扫黄先锋
-http://feilong123.vip/huya.php?raw=1&id=29465855
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 红色经典",红色经典
-http://feilong123.vip/huya.php?raw=1&id=11602076
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 青岛往事",青岛往事
-http://feilong123.vip/huya.php?raw=1&id=11342434
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 创世纪",创世纪
-http://feilong123.vip/huya.php?raw=1&id=29465852
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 妙手仁心",妙手仁心
-http://feilong123.vip/huya.php?raw=1&id=29465853
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 特战荣耀",特战荣耀
-http://feilong123.vip/huya.php?raw=1&id=30080252
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 笑看风云",笑看风云
-http://feilong123.vip/huya.php?raw=1&id=29465858
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 包蛋超人",包蛋超人
-http://feilong123.vip/huya.php?raw=1&id=11342400
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 传闻中的陈芊芊",传闻中的陈芊芊
-http://feilong123.vip/huya.php?raw=1&id=21059608
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 双面胶",双面胶
-http://feilong123.vip/huya.php?raw=1&id=11352956
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 宝总与王小姐",宝总与王小姐
-http://feilong123.vip/huya.php?raw=1&id=21059580
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 国风动画",国风动画
-http://feilong123.vip/huya.php?raw=1&id=30080242
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 编辑部的故事",编辑部的故事
-http://feilong123.vip/huya.php?raw=1&id=21059591
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 外科风云",外科风云
-http://feilong123.vip/huya.php?raw=1&id=29982672
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 超级英雄",超级英雄
-http://feilong123.vip/huya.php?raw=1&id=29982666
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 有翡",有翡
-http://feilong123.vip/huya.php?raw=1&id=29982668
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 天天有喜",天天有喜
-http://feilong123.vip/huya.php?raw=1&id=26355849
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 梦中的那片海",梦中的那片海
-http://feilong123.vip/huya.php?raw=1&id=26355765
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 神探夏洛克",神探夏洛克
-http://feilong123.vip/huya.php?raw=1&id=26355792
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 星球大战",星球大战
-http://feilong123.vip/huya.php?raw=1&id=30080234
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 陆贞传奇",陆贞传奇
-http://feilong123.vip/huya.php?raw=1&id=29982670
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 王子变青蛙",王子变青蛙
-http://feilong123.vip/huya.php?raw=1&id=11601964
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 顾晓梦",顾晓梦
-http://feilong123.vip/huya.php?raw=1&id=21059605
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 草莽英雄",草莽英雄
-http://feilong123.vip/huya.php?raw=1&id=11602042
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 孙先生",孙先生
-http://feilong123.vip/huya.php?raw=1&id=26355821
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 斗罗大陆",斗罗大陆
-http://feilong123.vip/huya.php?raw=1&id=11352892
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 王艳",王艳
-http://feilong123.vip/huya.php?raw=1&id=11342420
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 星际迷航",星际迷航
-http://feilong123.vip/huya.php?raw=1&id=30080232
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 民调局异闻录",民调局异闻录
-http://feilong123.vip/huya.php?raw=1&id=26355820
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 瑶山",瑶山
-http://feilong123.vip/huya.php?raw=1&id=11342392
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 超异能族",超异能族
-http://feilong123.vip/huya.php?raw=1&id=21059586
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 无心法师",无心法师
-http://feilong123.vip/huya.php?raw=1&id=30080233
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 熊出没",熊出没
-http://feilong123.vip/huya.php?raw=1&id=11342438
-#EXTINF:-1 tvg-name="[B] ♨️剧集 - 启航",启航
-http://feilong123.vip/huya.php?raw=1&id=30080248
-#EXTINF:-1 tvg-name="[B] ♨️动画 - 童话经典·蜡笔小新欢乐多",童话经典·蜡笔小新欢乐多
-http://feilong123.vip/huya.php?raw=1&id=30362138
-#EXTINF:-1 tvg-name="[B] ♨️动画 - 柯南剧场版",柯南剧场版
-http://feilong123.vip/huya.php?raw=1&id=30080236
-#EXTINF:-1 tvg-name="[B] ♨️动画 - 黑子的篮球3",黑子的篮球3
-http://feilong123.vip/huya.php?raw=1&id=30080253
-#EXTINF:-1 tvg-name="[B] ♨️动画 - 迪迦奥特曼",迪迦奥特曼
-http://feilong123.vip/huya.php?raw=1&id=30080215
-#EXTINF:-1 tvg-name="[B] ♨️动画 - 仙逆",仙逆
-http://feilong123.vip/huya.php?raw=1&id=30080215
-#EXTINF:-1 tvg-name="[B] ♨️动画 - 不良人6",不良人6
-http://feilong123.vip/huya.php?raw=1&id=30080218
-#EXTINF:-1 tvg-name="[B] ♨️动画 - 全职猎人",全职猎人
-http://feilong123.vip/huya.php?raw=1&id=30080254
-#EXTINF:-1 tvg-name="[B] ♨️动画 - 黑子的篮球3",黑子的篮球3
-http://feilong123.vip/huya.php?raw=1&id=30080253
-#EXTINF:-1 tvg-name="[B] ♨️动画 - 天澜魔法高中",天澜魔法高中
-http://feilong123.vip/huya.php?raw=1&id=26355772
-#EXTINF:-1 tvg-name="[B] ♨️动画 - 迪士尼！超经典动画电影",迪士尼！超经典动画电影
-http://feilong123.vip/huya.php?raw=1&id=30080256
-#EXTINF:-1 tvg-name="[B] ♨️动画 - 民调局异闻录",民调局异闻录
-http://feilong123.vip/huya.php?raw=1&id=26355820
-#EXTINF:-1 tvg-name="[B] ♨️动画 - 地灵曲",地灵曲
-http://feilong123.vip/huya.php?raw=1&id=30080216
-#EXTINF:-1 tvg-name="[B] ♨️动画 - 武魂世界",武魂世界
-http://feilong123.vip/huya.php?raw=1&id=30357181
-#EXTINF:-1 tvg-name="[B] ♨️动画 - 网球王子",网球王子
-http://feilong123.vip/huya.php?raw=1&id=11352882
-#EXTINF:-1 tvg-name="[B] ♨️动画 - 国漫打戏天花板",国漫打戏天花板
-http://feilong123.vip/huya.php?raw=1&id=11352869
-#EXTINF:-1 tvg-name="[B] ♨️动画 - 成龍历险记",成龍历险记
-http://feilong123.vip/huya.php?raw=1&id=11352946
-#EXTINF:-1 tvg-name="[B] ♨️动画 - _blue胖",_blue胖
-http://feilong123.vip/huya.php?raw=1&id=11601963
-#EXTINF:-1 tvg-name="[B] ♨️动画 - 七龍珠改",七龍珠改
-http://feilong123.vip/huya.php?raw=1&id=11601966
-#EXTINF:-1 tvg-name="[B] ♨️动画 - 一念斩千魔",一念斩千魔
-http://feilong123.vip/huya.php?raw=1&id=21059592
-#EXTINF:-1 tvg-name="[B] ♨️动画 - 魔法少女",魔法少女
-http://feilong123.vip/huya.php?raw=1&id=21059587
-#EXTINF:-1 tvg-name="[B] ♨️动画 - 一人之上",一人之上
-http://feilong123.vip/huya.php?raw=1&id=11602065
-#EXTINF:-1 tvg-name="[B] ♨️动画 - 编辑部的故事",编辑部的故事
-http://feilong123.vip/huya.php?raw=1&id=21059591
-#EXTINF:-1 tvg-name="[B] ♨️动画 - 刘关张三活宝",刘关张三活宝
-http://feilong123.vip/huya.php?raw=1&id=29465871
-#EXTINF:-1 tvg-name="[B] ♨️动画 - 红娘妖狐",红娘妖狐
-http://feilong123.vip/huya.php?raw=1&id=11352967
-#EXTINF:-1 tvg-name="[B] ♨️动画 - 灵界侦探浦饭幽助",灵界侦探浦饭幽助
-http://feilong123.vip/huya.php?raw=1&id=11602034
-#EXTINF:-1 tvg-name="[B] ♨️动画 - 假面骑士龙骑",假面骑士龙骑
-http://feilong123.vip/huya.php?raw=1&id=11352918
-#EXTINF:-1 tvg-name="[B] ♨️综艺 - 易中天",易中天
-http://feilong123.vip/huya.php?raw=1&id=11602032
-#EXTINF:-1 tvg-name="[B] ♨️综艺 - 五哈",五哈
-http://feilong123.vip/huya.php?raw=1&id=30080247
-#EXTINF:-1 tvg-name="[B] ♨️综艺 - 维达人",维达人
-http://feilong123.vip/huya.php?raw=1&id=880219
-#EXTINF:-1 tvg-name="[B] ♨️综艺 - 水晶awa",水晶awa
-http://feilong123.vip/huya.php?raw=1&id=30080247
-#EXTINF:-1 tvg-name="[B] ♨️综艺 - 王纪超人",王纪超人
-http://feilong123.vip/huya.php?raw=1&id=21059551
-#EXTINF:-1 tvg-name="[B] ♨️综艺 - -若凌Provence-",-若凌Provence-
-http://feilong123.vip/huya.php?raw=1&id=11352955
-#EXTINF:-1 tvg-name="[B] ♨️综艺 - 脱口秀",脱口秀
-http://feilong123.vip/huya.php?raw=1&id=11352875
-#EXTINF:-1 tvg-name="[B] ♨️综艺 - 封神英雄",封神英雄
-http://feilong123.vip/huya.php?raw=1&id=30080246
-#EXTINF:-1 tvg-name="[B] ♨️综艺 - RM跑男",RM跑男
-http://feilong123.vip/huya.php?raw=1&id=11336725
-#EXTINF:-1 tvg-name="[B] ♨️综艺 - 青环2",青环2
-http://feilong123.vip/huya.php?raw=1&id=30080243
-#EXTINF:-1 tvg-name="[B] ♨️综艺 - 刘小光",刘小光
-http://feilong123.vip/huya.php?raw=1&id=11352938
-#EXTINF:-1 tvg-name="[B] ♨️综艺 - 脱口秀大会4",脱口秀大会4
-http://feilong123.vip/huya.php?raw=1&id=29465870
-#EXTINF:-1 tvg-name="[B] ♨️综艺 - 奔跑家族",奔跑家族
-http://feilong123.vip/huya.php?raw=1&id=29465869
-#EXTINF:-1 tvg-name="[B] ♨️综艺 - 宋小宝",宋小宝
-http://feilong123.vip/huya.php?raw=1&id=11352907
-#EXTINF:-1 tvg-name="[B] ♨️综艺 - 天赐5",天赐5
-http://feilong123.vip/huya.php?raw=1&id=30080249
-#EXTINF:-1 tvg-name="[B] ♨️综艺 - 于谦吴京何猷君",于谦吴京何猷君
-http://feilong123.vip/huya.php?raw=1&id=29982647
-#EXTINF:-1 tvg-name="[B] ♨️综艺 - offer1",offer1
-http://feilong123.vip/huya.php?raw=1&id=30080237
-#EXTINF:-1 tvg-name="[B] ♨️综艺 - 还我瓢瓢拳",还我瓢瓢拳
-http://feilong123.vip/huya.php?raw=1&id=21059578
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_星爷",电影_星爷
-http://feilong123.vip/huya.php?raw=1&id=11342412
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_英叔",电影_英叔
-http://feilong123.vip/huya.php?raw=1&id=11342421
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_发哥",电影_发哥
-http://feilong123.vip/huya.php?raw=1&id=11342387
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_成龙",电影_成龙
-http://feilong123.vip/huya.php?raw=1&id=11342386
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_王晶",电影_王晶
-http://feilong123.vip/huya.php?raw=1&id=11602058
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_沈腾",电影_沈腾
-http://feilong123.vip/huya.php?raw=1&id=11601968
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_黄渤",电影_黄渤
-http://feilong123.vip/huya.php?raw=1&id=11352876
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_强森",电影_强森
-http://feilong123.vip/huya.php?raw=1&id=21059581
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_漫威",电影_漫威
-http://feilong123.vip/huya.php?raw=1&id=11602034
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_宇宙",电影_宇宙
-http://feilong123.vip/huya.php?raw=1&id=11342428
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_怪兽",电影_怪兽
-http://feilong123.vip/huya.php?raw=1&id=21059577
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_武侠",电影_武侠
-http://feilong123.vip/huya.php?raw=1&id=11342427
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_警匪",电影_警匪
-http://feilong123.vip/huya.php?raw=1&id=11352886
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_罪犯",电影_罪犯
-http://feilong123.vip/huya.php?raw=1&id=11352962
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_枪战",电影_枪战
-http://feilong123.vip/huya.php?raw=1&id=21059579
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_赛车",电影_赛车
-http://feilong123.vip/huya.php?raw=1&id=11279247
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_推荐",电影_推荐
-http://feilong123.vip/huya.php?raw=1&id=11602041
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_热血",电影_热血
-http://feilong123.vip/huya.php?raw=1&id=11352934
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_盗墓",电影_盗墓
-http://feilong123.vip/huya.php?raw=1&id=21059552
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_贺岁",电影_贺岁
-http://feilong123.vip/huya.php?raw=1&id=11601971
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_玄幻",电影_玄幻
-http://feilong123.vip/huya.php?raw=1&id=11342414
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_谍战",电影_谍战
-http://feilong123.vip/huya.php?raw=1&id=21059585
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_喜剧",电影_喜剧
-http://feilong123.vip/huya.php?raw=1&id=11352877
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_港片",电影_港片
-http://feilong123.vip/huya.php?raw=1&id=11602043
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_国产",电影_国产
-http://feilong123.vip/huya.php?raw=1&id=11352973
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_周星星",电影_周星星
-http://feilong123.vip/huya.php?raw=1&id=11336587
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_李连杰",电影_李连杰
-http://feilong123.vip/huya.php?raw=1&id=11342390
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_洪金宝",电影_洪金宝
-http://feilong123.vip/huya.php?raw=1&id=11279251
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_梁家辉",电影_梁家辉
-http://feilong123.vip/huya.php?raw=1&id=11342429
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_许冠英",电影_许冠英
-http://feilong123.vip/huya.php?raw=1&id=11601972
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_刘德华",电影_刘德华
-http://feilong123.vip/huya.php?raw=1&id=11342424
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_斯坦森",电影_斯坦森
-http://feilong123.vip/huya.php?raw=1&id=21059588
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_八点档",电影_八点档
-http://feilong123.vip/huya.php?raw=1&id=880261
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_贺岁片",电影_贺岁片
-http://feilong123.vip/huya.php?raw=1&id=11601986
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_功夫片",电影_功夫片
-http://feilong123.vip/huya.php?raw=1&id=11352941
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_黑帮片",电影_黑帮片
-http://feilong123.vip/huya.php?raw=1&id=11336719
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_丧尸片",电影_丧尸片
-http://feilong123.vip/huya.php?raw=1&id=21059578
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_灾难片",电影_灾难片
-http://feilong123.vip/huya.php?raw=1&id=11602075
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_谍战片",电影_谍战片
-http://feilong123.vip/huya.php?raw=1&id=21059587
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_战争片",电影_战争片
-http://feilong123.vip/huya.php?raw=1&id=21059574
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_犯罪片",电影_犯罪片
-http://feilong123.vip/huya.php?raw=1&id=11352974
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_古装片",电影_古装片
-http://feilong123.vip/huya.php?raw=1&id=11336590
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_高分动作",电影_高分动作
-http://feilong123.vip/huya.php?raw=1&id=11352884
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_动作电影",电影_动作电影
-http://feilong123.vip/huya.php?raw=1&id=11602077
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_搞笑喜剧",电影_搞笑喜剧
-http://feilong123.vip/huya.php?raw=1&id=11342423
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_喜剧专场",电影_喜剧专场
-http://feilong123.vip/huya.php?raw=1&id=11602044
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_欢笑影院",电影_欢笑影院
-http://feilong123.vip/huya.php?raw=1&id=11352894
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_不挤影院",电影_不挤影院
-http://feilong123.vip/huya.php?raw=1&id=11352897
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_国产悬疑",电影_国产悬疑
-http://feilong123.vip/huya.php?raw=1&id=11342395
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_快意江湖",电影_快意江湖
-http://feilong123.vip/huya.php?raw=1&id=11342435
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_黑帮斗争",电影_黑帮斗争
-http://feilong123.vip/huya.php?raw=1&id=11342419
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_古墓系列",电影_古墓系列
-http://feilong123.vip/huya.php?raw=1&id=11352913
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_嫣然影厅",电影_嫣然影厅
-http://feilong123.vip/huya.php?raw=1&id=11601977
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_女神系列",电影_女神系列
-http://feilong123.vip/huya.php?raw=1&id=11336571
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_经典女神",电影_经典女神
-http://feilong123.vip/huya.php?raw=1&id=11352909
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_许氏三杰",电影_许氏三杰
-http://feilong123.vip/huya.php?raw=1&id=11602033
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_经典港片",电影_经典港片
-http://feilong123.vip/huya.php?raw=1&id=11352965
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_镖行天下",电影_镖行天下
-http://feilong123.vip/huya.php?raw=1&id=11352969
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_喜乐影院",电影_喜乐影院
-http://feilong123.vip/huya.php?raw=1&id=21059580
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_蘑菇影厅",电影_蘑菇影厅
-http://feilong123.vip/huya.php?raw=1&id=11601981
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_搞笑恐怖",电影_搞笑恐怖
-http://feilong123.vip/huya.php?raw=1&id=11601960
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_死神来了",电影_死神来了
-http://feilong123.vip/huya.php?raw=1&id=11352903
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 电影_怪兽系列",电影_怪兽系列
-http://feilong123.vip/huya.php?raw=1&id=21059554
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 搞笑_陈翔六点半",搞笑_陈翔六点半
-http://feilong123.vip/huya.php?raw=1&id=11274154
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 解说_电影狂人",解说_电影狂人
-http://feilong123.vip/huya.php?raw=1&id=18715610
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 解说_鹿哥电影",解说_鹿哥电影
-http://feilong123.vip/huya.php?raw=1&id=24396360
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 解说_斌哥漫说",解说_斌哥漫说
-http://feilong123.vip/huya.php?raw=1&id=18632116
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 解说_续哥说电影",解说_续哥说电影
-http://feilong123.vip/huya.php?raw=1&id=24396472
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 解说_小川侃电影",解说_小川侃电影
-http://feilong123.vip/huya.php?raw=1&id=15870999
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 解说_阿钙扒瞎",解说_阿钙扒瞎
-http://feilong123.vip/huya.php?raw=1&id=15978172
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 解说_阿良说剧",解说_阿良说剧
-http://feilong123.vip/huya.php?raw=1&id=20488841
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 解说_鱼丸电影",解说_鱼丸电影
-http://feilong123.vip/huya.php?raw=1&id=16615910
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 解说_阿斗说电影",解说_阿斗说电影
-http://feilong123.vip/huya.php?raw=1&id=13303478
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 解说_扁豆看电影",解说_扁豆看电影
-http://feilong123.vip/huya.php?raw=1&id=16028551
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 解说_乌贼说电影",解说_乌贼说电影
-http://feilong123.vip/huya.php?raw=1&id=16604522
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 解说_大象放映室",解说_大象放映室
-http://feilong123.vip/huya.php?raw=1&id=21277391
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 解说_科幻梦工场",解说_科幻梦工场
-http://feilong123.vip/huya.php?raw=1&id=15152155
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 解说_亮哥讲电影",解说_亮哥讲电影
-http://feilong123.vip/huya.php?raw=1&id=16144175
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 解说_越哥说电影",解说_越哥说电影
-http://feilong123.vip/huya.php?raw=1&id=15894162
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 解说_小冉看电影",解说_小冉看电影
-http://feilong123.vip/huya.php?raw=1&id=17341907
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 解说_虎妞说电影",解说_虎妞说电影
-http://feilong123.vip/huya.php?raw=1&id=20343144
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 解说_涵哥评电影",解说_涵哥评电影
-http://feilong123.vip/huya.php?raw=1&id=16865726
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 解说_老皮讲电影",解说_老皮讲电影
-http://feilong123.vip/huya.php?raw=1&id=16968572
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 解说_默爷侃电影",解说_默爷侃电影
-http://feilong123.vip/huya.php?raw=1&id=17204307
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 解说_冷君说电影",解说_冷君说电影
-http://feilong123.vip/huya.php?raw=1&id=16739452
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 解说_刘老师说电影",解说_刘老师说电影
-http://feilong123.vip/huya.php?raw=1&id=20289754
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 解说_恐怖电影解说",解说_恐怖电影解说
-http://feilong123.vip/huya.php?raw=1&id=16741179
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 剧集_老三国",剧集_老三国
-http://feilong123.vip/huya.php?raw=1&id=11602081
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 剧集_新三国",剧集_新三国
-http://feilong123.vip/huya.php?raw=1&id=11352944
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 剧集_纪晓岚",剧集_纪晓岚
-http://feilong123.vip/huya.php?raw=1&id=11342396
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 剧集_庆余年",剧集_庆余年
-http://feilong123.vip/huya.php?raw=1&id=11352960
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 剧集_雍正王朝",剧集_雍正王朝
-http://feilong123.vip/huya.php?raw=1&id=11342439
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 剧集_士兵突击",剧集_士兵突击
-http://feilong123.vip/huya.php?raw=1&id=11342430
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 剧集_爱情公寓",剧集_爱情公寓
-http://feilong123.vip/huya.php?raw=1&id=11336726
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 剧集_家有儿女",剧集_家有儿女
-http://feilong123.vip/huya.php?raw=1&id=11352872
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 剧集_武林外传",剧集_武林外传
-http://feilong123.vip/huya.php?raw=1&id=21059598
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 剧集_地下交通站",剧集_地下交通站
-http://feilong123.vip/huya.php?raw=1&id=11342433
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 剧集_邻里一家亲",剧集_邻里一家亲
-http://feilong123.vip/huya.php?raw=1&id=11342426
-#EXTINF:-1 tvg-name="[B] ♨️虎牙 - 搞笑_陈翔六点半",搞笑_陈翔六点半
-http://feilong123.vip/huya.php?raw=1&id=11274154
-#EXTINF:-1 tvg-name="[B] 电影🎬频道 - HOY国际财经台",HOY国际财经台
-https://cdn11.163189.xyz/163189/2c86601a7180416e
-#EXTINF:-1 tvg-name="[B] 电影🎬频道 - HOY剧集台",HOY剧集台
-https://cdn11.163189.xyz/163189/a94d3b1906890f40
-#EXTINF:-1 tvg-name="[B] 电影🎬频道 - HOY生活台",HOY生活台
-https://cdn11.163189.xyz/163189/97a58b41f2858adf
-#EXTINF:-1 tvg-name="[B] 电影🎬频道 - HOY怪谈台",HOY怪谈台
-https://cdn11.163189.xyz/163189/619486fefe584d65
-#EXTINF:-1 tvg-name="[B] 电影🎬频道 - HOY体育台",HOY体育台
-https://cdn11.163189.xyz/163189/ceadd90e759a6f19
-#EXTINF:-1 tvg-name="[B] 电影🎬频道 - CCTV1",CCTV1
-https://cdn13.178.indevs.in/163189/bea1d91d91364062
-#EXTINF:-1 tvg-name="[B] 电影🎬频道 - CCTV13",CCTV13
-https://cdn13.178.indevs.in/163189/790bc5f7f0f06879
-#EXTINF:-1 tvg-name="[B] 电影🎬频道 - 重温经典",重温经典
-https://cdn13.178.indevs.in/163189/21d79187db6e9793
-#EXTINF:-1 tvg-name="[B] 电影🎬频道 - 广州综合",广州综合
-https://cdn13.178.indevs.in/163189/b13471c5de99d1c7
-#EXTINF:-1 tvg-name="[B] 电影🎬频道 - 广州新闻",广州新闻
-https://cdn13.178.indevs.in/163189/609602b1e1048784
-#EXTINF:-1 tvg-name="[B] 电影🎬频道 - 民视影剧台",民视影剧台
-https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
-#EXTINF:-1 tvg-name="[B] 电影🎬频道 - 公视戏剧",公视戏剧
-https://cdn12.178.indevs.in/163189/2973b910e7719c08
-#EXTINF:-1 tvg-name="[B] 电影🎬频道 - 采昌影剧台",采昌影剧台
-https://cdn12.178.indevs.in/163189/0a6204ed0261460c
-#EXTINF:-1 tvg-name="[B] 电影🎬频道 - 靖天映画",靖天映画
-https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
-#EXTINF:-1 tvg-name="[B] 电影🎬频道 - 靖天戏剧台",靖天戏剧台
-https://cdn12.178.indevs.in/163189/177d541552f78003
-#EXTINF:-1 tvg-name="[B] 电影🎬频道 - 靖天电影台",靖天电影台
-https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
-#EXTINF:-1 tvg-name="[B] 电影🎬频道 - 靖洋戏剧台",靖洋戏剧台
-https://cdn12.178.indevs.in/163189/5c1cf6af04d96cb4
-#EXTINF:-1 tvg-name="[B] 电影🎬频道 - 影迷数位电影台",影迷数位电影台
-https://cdn12.178.indevs.in/163189/a643783ec587540e
-#EXTINF:-1 tvg-name="[B] 电影🎬频道 - amc电影台",amc电影台
-https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
-#EXTINF:-1 tvg-name="[B] 电影🎬频道 - CinemaWorld",CinemaWorld
-https://cdn12.178.indevs.in/163189/6086cfe7a9756110
-#EXTINF:-1 tvg-name="[B] 电影🎬频道 - My Cinema Europe",My Cinema Europe
-https://cdn12.178.indevs.in/163189/5bda99f1c049edef
-#EXTINF:-1 tvg-name="[B] 电影🎬频道 - 经典电影台",经典电影台
-https://cdn12.178.indevs.in/163189/61b8ea35ffce4630
-#EXTINF:-1 tvg-name="[B] 电影🎬频道 - CMusic",CMusic
-https://cdn12.178.indevs.in/163189/d396cb84b6c89889
-#EXTINF:-1 tvg-name="[B] 电影🎬频道 - DreamWorks梦工厂动画",DreamWorks梦工厂动画
-https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
-#EXTINF:-1 tvg-name="[B] 电影🎬频道 - 精选动漫台",精选动漫台
-https://cdn12.178.indevs.in/163189/e1d66f74bd2d4894
-#EXTINF:-1 tvg-name="[B] 电影🎬频道 - 金光布袋戏",金光布袋戏
-https://cdn12.178.indevs.in/163189/5479c245d9d580b5
-#EXTINF:-1 tvg-name="[B] 三网直播 - Astro酷哒哒",Astro酷哒哒
-https://o11.163189.xyz/stream/live/test/
-#EXTINF:-1 tvg-name="[B] 三网直播 - TNTSports3",TNTSports3
-http://iptv.4666888.xyz/iptv2A.php?id=3
-#EXTINF:-1 tvg-name="[B] 三网直播 - 鳳凰中文",鳳凰中文
-http://iptv.4666888.xyz/iptv2A.php?id=27
-#EXTINF:-1 tvg-name="[B] 三网直播 - TVB翡翠",TVB翡翠
-http://iptv.4666888.xyz/iptv2A.php?id=34
-#EXTINF:-1 tvg-name="[B] 三网直播 - TVB翡翠(馬來)",TVB翡翠(馬來)
-http://iptv.4666888.xyz/iptv2A.php?id=28
-#EXTINF:-1 tvg-name="[B] 三网直播 - TVB明珠",TVB明珠
-http://iptv.4666888.xyz/iptv2A.php?id=29
-#EXTINF:-1 tvg-name="[B] 三网直播 - TVBJ1",TVBJ1
-http://iptv.4666888.xyz/iptv2A.php?id=26
-#EXTINF:-1 tvg-name="[B] 三网直播 - TVB1",TVB1
-http://iptv.4666888.xyz/iptv2A.php?id=25
-#EXTINF:-1 tvg-name="[B] 三网直播 - TVB plus",TVB plus
-https://o11.163189.xyz/stream/tvb/tvbp/
-#EXTINF:-1 tvg-name="[B] 三网直播 - TVB星河",TVB星河
-http://r.jdshipin.com/Voac4
-#EXTINF:-1 tvg-name="[B] 三网直播 - ViuTV",ViuTV
-https://cdn.163189.xyz/163189/viu
-#EXTINF:-1 tvg-name="[B] 三网直播 - 千禧经典",千禧经典
-http://iptv.4666888.xyz/iptv2A.php?id=22
-#EXTINF:-1 tvg-name="[B] 三网直播 - HOY76",HOY76
-http://hls.168.us.kg/u/76/master.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - HOY77",HOY77
-http://iptv.4666888.xyz/iptv2A.php?id=35
-#EXTINF:-1 tvg-name="[B] 三网直播 - HOY78",HOY78
-http://iptv.4666888.xyz/iptv2A.php?id=31
-#EXTINF:-1 tvg-name="[B] 三网直播 - RHK31",RHK31
-http://iptv.4666888.xyz/iptv2A.php?id=23
-#EXTINF:-1 tvg-name="[B] 三网直播 - RHK32",RHK32
-http://cdn.163189.xyz/163189/rthk32
-#EXTINF:-1 tvg-name="[B] 三网直播 - TVB娱乐新闻",TVB娱乐新闻
-http://iptv.4666888.xyz/iptv2A.php?id=36
-#EXTINF:-1 tvg-name="[B] 三网直播 - MYTV黃金翡翠",MYTV黃金翡翠
-http://iptv.4666888.xyz/iptv2A.php?id=32
-#EXTINF:-1 tvg-name="[B] 三网直播 - TVB翡翠劇集",TVB翡翠劇集
-http://iptv.4666888.xyz/iptv2A.php?id=33
-#EXTINF:-1 tvg-name="[B] 三网直播 - 澳視澳門",澳視澳門
-http://iptv.4666888.xyz/iptv2A.php?id=41
-#EXTINF:-1 tvg-name="[B] 三网直播 - TVBS新聞",TVBS新聞
-http://iptv.4666888.xyz/iptv2A.php?id=43
-#EXTINF:-1 tvg-name="[B] 三网直播 - 非凡新闻",非凡新闻
-http://iptv.4666888.xyz/iptv2A.php?id=44
-#EXTINF:-1 tvg-name="[B] 三网直播 - 民视",民视
-http://iptv.4666888.xyz/iptv2A.php?id=55
-#EXTINF:-1 tvg-name="[B] 三网直播 - 华视",华视
-http://74.91.26.218:82/live/cts.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - 中视",中视
-http://74.91.26.218:82/live/ctv.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - 公视",公视
-http://74.91.26.218:82/live/pts.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - 台视",台视
-http://74.91.26.218:82/live/ttv.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - 華藝中文",華藝中文
-http://iptv.4666888.xyz/iptv2A.php?id=37
-#EXTINF:-1 tvg-name="[B] 三网直播 - 爱奇艺",爱奇艺
-http://iptv.4666888.xyz/iptv2A.php?id=21
-#EXTINF:-1 tvg-name="[B] 三网直播 - 靖洋戏剧",靖洋戏剧
-http://iptv.4666888.xyz/iptv2A.php?id=42
-#EXTINF:-1 tvg-name="[B] 三网直播 - 靖天电影",靖天电影
-http://iptv.4666888.xyz/iptv2A.php?id=56
-#EXTINF:-1 tvg-name="[B] 三网直播 - 邵氏武侠",邵氏武侠
-http://iptv.4666888.xyz/iptv2A.php?id=40
-#EXTINF:-1 tvg-name="[B] 三网直播 - 民視綜藝",民視綜藝
-http://iptv.4666888.xyz/iptv2A.php?id=46
-#EXTINF:-1 tvg-name="[B] 三网直播 - TVBS精采",TVBS精采
-http://iptv.4666888.xyz/iptv2A.php?id=47
-#EXTINF:-1 tvg-name="[B] 三网直播 - ROCK_Action",ROCK_Action
-http://iptv.4666888.xyz/iptv2A.php?id=50
-#EXTINF:-1 tvg-name="[B] 三网直播 - 台视综合",台视综合
-http://iptv.4666888.xyz/iptv2A.php?id=51
-#EXTINF:-1 tvg-name="[B] 三网直播 - 八度空间",八度空间
-http://iptv.4666888.xyz/iptv2A.php?id=52
-#EXTINF:-1 tvg-name="[B] 三网直播 - 民视影剧",民视影剧
-http://iptv.4666888.xyz/iptv2A.php?id=53
-#EXTINF:-1 tvg-name="[B] 三网直播 - Now新闻",Now新闻
-http://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-name="[B] 三网直播 - Now财经",Now财经
-http://hls.168.us.kg/u/333/master.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - Now直播",Now直播
-https://stream1.freetv.fun/20a385a5c465c7bbffb60b3309e265829208c3fbf4e3fd0eedbca1776b2c8f23.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - Now体育",Now体育
-http://rihou.cc:555/tv/[Mt]Now体育
-#EXTINF:-1 tvg-name="[B] 三网直播 - 无线新闻",无线新闻
-http://74.91.26.218:82/live/inews.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - TVB星河",TVB星河
-https://o11.163189.xyz/stream/live/tvbxh/
-#EXTINF:-1 tvg-name="[B] 三网直播 - TVB明珠",TVB明珠
-https://mytv.cdn.loc.cc/o12.php?id=mzt
-#EXTINF:-1 tvg-name="[B] 三网直播 - TVB Plus",TVB Plus
-https://o11.163189.xyz/stream/tvb/tvbp/
-#EXTINF:-1 tvg-name="[B] 三网直播 - TVB Plus",TVB Plus
-http://74.91.26.218:82/live/j2.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - TVBS新闻台",TVBS新闻台
-http://rihou.cc:555/tv/[FY]tvbS新闻
-#EXTINF:-1 tvg-name="[B] 三网直播 - 千禧经典台",千禧经典台
-https://o11.163189.xyz/stream/live/tvbc/
-#EXTINF:-1 tvg-name="[B] 三网直播 - 翡翠台",翡翠台
-https://o11.163189.xyz/stream/tvb/fct4k/
-#EXTINF:-1 tvg-name="[B] 三网直播 - 华丽翡翠台",华丽翡翠台
-https://o11.163189.xyz/stream/live/hlt/
-#EXTINF:-1 tvg-name="[B] 三网直播 - 唐NTD",唐NTD
-https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - iQIYI",iQIYI
-https://o11.163189.xyz/stream/live/iqiyi/
-#EXTINF:-1 tvg-name="[B] 三网直播 - Astro AEC",Astro AEC
-https://o11.163189.xyz/stream/live/aec/
-#EXTINF:-1 tvg-name="[B] 三网直播 - Astro AOD",Astro AOD
-https://o11.163189.xyz/stream/live/aod/
-#EXTINF:-1 tvg-name="[B] 三网直播 - ASTV亚洲卫视",ASTV亚洲卫视
-https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - 星空卫视",星空卫视
-http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - 星空音乐",星空音乐
-http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - 凤凰中文",凤凰中文
-http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="[B] 三网直播 - 凤凰资讯",凤凰资讯
-https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
-#EXTINF:-1 tvg-name="[B] 三网直播 - 龙华电影",龙华电影
-https://cdn8.163189.xyz/163189/lhdy
-#EXTINF:-1 tvg-name="[B] 三网直播 - 龙华戏剧",龙华戏剧
-https://cdn8.163189.xyz/163189/lhxj
-#EXTINF:-1 tvg-name="[B] 三网直播 - 龙华日韩",龙华日韩
-https://cdn8.163189.xyz/163189/lhrh
-#EXTINF:-1 tvg-name="[B] 三网直播 - 龙华偶像",龙华偶像
-https://cdn8.163189.xyz/163189/lhox
-#EXTINF:-1 tvg-name="[B] 三网直播 - 龙华经典",龙华经典
-https://cdn8.163189.xyz/163189/lhjd
-#EXTINF:-1 tvg-name="[B] 三网直播 - 民视新闻",民视新闻
-http://74.91.26.218:82/live/ftvnews.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - 寰宇新聞",寰宇新聞
-https://stream1.freetv.fun/05d08ea65b8b2d697984abf19f4545c698308338fdf8aaeac86784ab6e6ef8b0.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - 台视新闻",台视新闻
-http://74.91.26.218:82/live/ttvnews.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - 中视新闻",中视新闻
-http://74.91.26.218:82/live/ctvnews.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - 华视新闻",华视新闻
-http://74.91.26.218:82/live/ctsnews.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - 中天新闻",中天新闻
-https://stream1.freetv.fun/1b67bc523c86ffa05707cd3f9471cfe1ced1c17d0537471788e00679a1d6cde3.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - 镜新闻",镜新闻
-https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - 民视台湾台",民视台湾台
-http://74.91.26.218:82/live/ftvtw.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - 民视第一台",民视第一台
-http://74.91.26.218:82/live/ftvdy.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - 公视台语台",公视台语台
-http://74.91.26.218:82/live/ptsty.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - 中视菁采台",中视菁采台
-http://74.91.26.218:82/live/ctvjc.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - 中视经典",中视经典
-http://74.91.26.218:82/live/ctvjd.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - 台视财经",台视财经
-http://74.91.26.218:82/live/ttvcj.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - 华视教育体育文化",华视教育体育文化
-http://74.91.26.218:82/live/ctsjy.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - GOODTV好消息",GOODTV好消息
-http://165.154.226.214:50007/of-litv-ftv16/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="[B] 三网直播 - GOOD2",GOOD2
-http://165.154.226.214:50007/of-litv-ftv17/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="[B] 三网直播 - 天映经典",天映经典
-https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
-#EXTINF:-1 tvg-name="[B] 三网直播 - 邵氏电影",邵氏电影
-http://feilong123.vip/409990236/tv.php?id=ssdy
-#EXTINF:-1 tvg-name="[B] 三网直播 - 邵氏武侠",邵氏武侠
-http://feilong123.vip/409990236/tv.php?id=sswx
-#EXTINF:-1 tvg-name="[B] 三网直播 - 邵氏动作",邵氏动作
-http://feilong123.vip/409990236/tv.php?id=ssdz
-#EXTINF:-1 tvg-name="[B] 三网直播 - 邵氏喜剧",邵氏喜剧
-http://feilong123.vip/409990236/tv.php?id=ssxj
-#EXTINF:-1 tvg-name="[B] 三网直播 - NOW新闻台",NOW新闻台
-http://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-name="[B] 三网直播 - VIUTV",VIUTV
-https://cdn.163189.xyz/163189/viu
-#EXTINF:-1 tvg-name="[B] 三网直播 - 台视新闻",台视新闻
-http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - 民视新闻",民视新闻
-http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - TVBS",TVBS
-http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - 凤凰电影",凤凰电影
-http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - 翡翠台",翡翠台
-https://cdn6.163189.xyz/163189/fct4k
-#EXTINF:-1 tvg-name="[B] 三网直播 - 翡翠台",翡翠台
-https://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 tvg-name="[B] 三网直播 - 明珠台",明珠台
-https://mytv.cdn.loc.cc/o12.php?id=mzt
-#EXTINF:-1 tvg-name="[B] 三网直播 - 亚洲卫视",亚洲卫视
-https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - GOODTV",GOODTV
-http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - GOODTV",GOODTV
-https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - GOOD2",GOOD2
-http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - GOOD2",GOOD2
-https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - 人间卫视",人间卫视
-http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - 人间卫视",人间卫视
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - 人间卫视",人间卫视
-http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - 人间卫视",人间卫视
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - 澳门体育",澳门体育
-http://cdn6.163189.xyz/163189/amty
-#EXTINF:-1 tvg-name="[B] 三网直播 - 澳门综艺",澳门综艺
-http://cdn6.163189.xyz/163189/amzy
-#EXTINF:-1 tvg-name="[B] 三网直播 - CH5",CH5
-http://cdn6.163189.xyz/163189/ch5
-#EXTINF:-1 tvg-name="[B] 三网直播 - CH8",CH8
-http://cdn6.163189.xyz/163189/ch8
-#EXTINF:-1 tvg-name="[B] 三网直播 - CHU",CHU
-http://cdn6.163189.xyz/163189/chu
-#EXTINF:-1 tvg-name="[B] 三网直播 - Channel 5",Channel 5
-http://cdn6.163189.xyz/163189/ch5
-#EXTINF:-1 tvg-name="[B] 三网直播 - Channel 8",Channel 8
-http://cdn6.163189.xyz/163189/ch8
-#EXTINF:-1 tvg-name="[B] 三网直播 - Channel U",Channel U
-http://cdn6.163189.xyz/163189/chu
-#EXTINF:-1 tvg-name="[B] 三网直播 - POPC",POPC
-http://tl.061833.xyz/tl/popc
-#EXTINF:-1 tvg-name="[B] 三网直播 - 重温经典",重温经典
-http://8.138.7.223/tv/cwjd.php
-#EXTINF:-1 tvg-name="[B] 三网直播 - 八度空间",八度空间
-http://cdn6.163189.xyz/163189/8tv
-#EXTINF:-1 tvg-name="[B] 三网直播 - 唐人卫视",唐人卫视
-https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - 唯心电视",唯心电视
-http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - 中旺电视",中旺电视
-http://38.64.72.148:80/hls/modn/list/4010/chunklist1.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - 生命电影",生命电影
-http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - 耀才财经台",耀才财经台
-https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - 香港卫视",香港卫视
-https://stream1.freetv.fun/6130c4439e91813125415b749209467f8da4f3d09d09ac80d7848321fc5e709e.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - 凤凰电影",凤凰电影
-http://39.107.120.164:8080/live/diyp_fhdy.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - 面包台",面包台
-https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-#EXTINF:-1 tvg-name="[B] 三网直播 - 香港卫视",香港卫视
-http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cn/
