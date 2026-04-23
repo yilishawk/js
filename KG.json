@@ -1,0 +1,244 @@
+{
+  // === 1. 基礎與請求頭 ===
+  "site_name": "凱哥終極全能站",
+  "site_url": "https://www.qkw1.com",
+  "host": "https://www.qkw1.com",
+  "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+  "headers": {
+    "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "Referer": "https://www.qkw1.com/"
+  },
+// 🚀 補強：圖片專用請求頭 (部分殼子支持全局圖片請求頭)
+  "pic_header": {
+    "User-Agent": "{ua}",
+    "Referer": "{host}/"
+  },
+  
+  // 對應 homeContent (首頁分類標籤)
+  "classes": [
+    {"type_name": "電影", "type_id": "1"},
+    {"type_name": "連續劇", "type_id": "2"},
+    {"type_name": "綜藝", "type_id": "3"},
+    {"type_name": "動漫", "type_id": "4"}
+  ],
+
+  // === 2. 分類頁 (Category) ===
+  // 🚀 遺漏補全：cate_page_1 用於處理第一頁特殊 URL
+  "cate_page_1": "{host}/vodshow/{tid}-----------.html",
+  "cate_url": "{host}/vodshow/{tid}-{area}-{by}-{class}-{lang}-{letter}---{pg}---{year}.html",
+  "cate_item": "div.block.transition-opacity",
+  "cate_id": "a@href",
+  "cate_name": "h3.text-text-primary",
+  "cate_pic": "img@data-src",
+  "cate_remarks": "span.absolute",
+
+  // === 3. 詳情頁 (Detail) ===
+  // 🚀 遺漏補全：Key 必須與 Java 中的 optString("dt_xxx") 完全一致
+  "dt_name": "h1.text-text-primary",
+  "dt_pic": "div.aspect-poster img@src",
+  "dt_remarks": "span.text-yellow-500",
+  "dt_actor": "span.actor",
+  "dt_director": "span.director",
+  "dt_content": "p.line-clamp-2",
+  // 播放列表定位
+  "dt_from": "h2.text-base",
+  "dt_list": "div.grid.grid-cols-6.gap-2",
+  "dt_list_name": "a",
+  "dt_list_url": "a@href",
+
+  // === 4. 搜索頁 (Search) ===
+  // 🚀 遺漏補全：Java 代碼強制要求 sc_ 前綴
+  "search_url": "{host}/qkwsearch/-------------.html?wd={wd}&submit=",
+  "sc_item": "div.block.transition-opacity",
+  "sc_id": "a@href",
+  "sc_name": "h3",
+  "sc_pic": "img@data-src",
+  "sc_remarks": "span.absolute",
+
+  // === 5. 解析與播放 (Play) ===
+  "play": {
+    "parse": 0,
+    "steps": [
+      {
+        "step": 1,
+        "name": "提取 JS 變量",
+        "method": "extract",
+        "scope": "var player_aaaa=&&</script>",
+        "vars": {
+          "p_url": "url\":\"&&\"",
+          "p_from": "from\":\"&&\"",
+          "p_next": "next\":\"&&\"",
+          "p_id": "id\":\"&&\""
+        }
+      },
+      {
+        "step": 2,
+        "name": "API 請求",
+        "method": "get",
+        "url": "{host}/api/v1/play?url={p_url}&from={p_from}&id={p_id}",
+        "headers": {
+          "User-Agent": "{ua}",
+          "Referer": "{host}/",
+          "X-Requested-With": "XMLHttpRequest"
+        },
+        "vars": {
+          "final_video_url": "json:url"
+        }
+      }
+    ],
+    // 🚀 遺漏補全：這就是最終返回給 Java replaceStepVars 的模板
+    "final_output": "{\"parse\":0,\"url\":\"{final_video_url}\",\"header\":{\"User-Agent\":\"{ua}\",\"Referer\":\"{host}/\"}}"
+  },
+// 🚀 補強：parse: 1 (嗅探) 時的完整請求頭 (通常用於 Java catch 塊調用)
+    "error_output": "{\"parse\":1,\"url\":\"{play_id}\",\"header\":{\"User-Agent\":\"{ua}\",\"Referer\":\"{host}/\",\"Cookie\":\"your_cookie_here\"}}"},
+
+  // === 6. 篩選數據 (Filter) ===
+  "filter": {
+    "1": [
+      {
+        "key": "year",
+        "name": "年份",
+        "value": [
+          {"n": "全部", "v": ""},
+          {"n": "2026", "v": "2026"},
+          {"n": "2025", "v": "2025"}
+        ]
+      }
+    ]
+  }
+}
+
+============================================================
+       凱哥全能影視規則引擎 (KaiGe Spider Engine) 
+             終極開發與使用手冊 (2026版)
+============================================================
+
+【1. 核心設計理念】
+本引擎融合了 CSS 選擇器、字符串精準截取、動態變量拼接與模糊定位技術。
+旨在通過一份 JSON 配置文件，實現從網頁嗅探到多級 API 解析，最終直連播放的全流程。
+
+------------------------------------------------------------
+【2. 四大核心語法功能與舉例】
+------------------------------------------------------------
+
+(1) CSS 定位 (Jsoup 模式)
+    語法：標籤名.類名 或 #ID 或 [屬性名]
+    功能：精準提取 HTML 標籤內的文本或屬性。
+    舉例：
+        "cate_item": "div.mi_cont ul li"  // 找到列表中的每一項
+        "dt_name": "h1.article-title && text" // 提取標題標籤內的純文字
+
+(2) 萬能截取 (&& 模式)
+    語法：左邊字符串 && 右邊字符串
+    功能：在任意文本中截取兩者中間的內容，忽略 HTML 結構限制。
+    舉例：
+        "p_url": "url\":\"&&\"" 
+        // 原始文本：..."url":"https://abc.com/1.m3u8"...
+        // 截取結果：https://abc.com/1.m3u8
+
+(3) 加號拼接 (+ 模式)
+    語法：'常量字符串' + {變量名}
+    功能：動態構建請求地址。Java 底層會對 {} 內的變量自動進行 URL 編碼。
+    舉例：
+        "url": "'https://api.com/jx?url=' + {p_url} + '&token=123'"
+        // 如果 {p_url} 是 http://a.com
+        // 最終生成：https://api.com/jx?url=http%3A%2F%2Fa.com&token=123
+
+(4) 星號模糊定位 (* 模式)
+    語法：起點關鍵字 * 終點標識 && 截取內容
+    功能：無視中間變動的代碼，強行定位到目標位置。
+    舉例：
+        "p_data": "var player_* = && </script>"
+        // 無論網頁源碼是 player_aaaa 還是 player_data，都能準確定位到這塊代碼進行截取。
+
+------------------------------------------------------------
+【3. 完整 JSON 模板實例 (以映射全看影視為例)】
+------------------------------------------------------------
+{
+  "key": "KaiGe_Example",
+  "name": "凱哥全能適配規則",
+  "type": 3,
+  "parse": 0,
+  "host": "https://www.xxx.com",
+  "ua": "PC_UA",
+
+  // 分類與列表
+  "cate_url": "{host}/{tid}/page/{pg}.html",
+  "cate_item": "div.vod_list li",
+  "cate_id": "a && href",
+  "cate_name": "a && title",
+
+  // 詳情頁精準定位
+  "detail": {
+    "year": "span:contains(年份) * && [text]",
+    "actor": "span:contains(主演) * && [text]",
+    "list_scope": ".playlist && </ul>"
+  },
+
+  // 核心解析流 (Steps 模式)
+  "play": {
+    "steps": [
+      {
+        "step": 1,
+        "name": "嗅探參數",
+        "method": "extract",
+        "vars": {
+          "p_url": "var player_* \"url\":\"&&\"",
+          "p_data": "play_data\":\"&&\"",
+          "p_next": "link_next\":\"&&\""
+        }
+      },
+      {
+        "step": 2,
+        "name": "獲取密鑰",
+        "method": "http_get",
+        "url": "'https://api.jx.com/index.php?url=' + {p_url} + '&next=' + {host} + {p_next}",
+        "vars": {
+          "v_key": "vkey=&&\"",
+          "v_time": "time=&&\""
+        }
+      },
+      {
+        "step": 3,
+        "name": "換取播放鏈接",
+        "method": "http_post",
+        "url": "https://api.jx.com/admin/mizhi_json.php",
+        "headers": "User-Agent$PC_UA#Referer${step2_url}#X-Requested-With$XMLHttpRequest",
+        "body": "'url=' + {p_url} + '&time=' + {v_time} + '&vkey=' + {v_key}",
+        "vars": {
+          "final_url": "json:url"
+        }
+      }
+    ]
+  },
+
+  // 播放器 Header 注入
+  "play_headers": {
+    "User-Agent": "PC_UA",
+    "Referer": "{host}",
+    "Origin": "{host}"
+  }
+}
+
+------------------------------------------------------------
+【4. Java 執行引擎開發規範】
+------------------------------------------------------------
+1. 變量池 (Variable Pool)：
+   - 每一級 Step 提取的變量必須存入 Map，生命週期持續到播放結束。
+2. 拼接邏輯：
+   - 檢測到 + 號時，區分單引號內容與 {} 內容。
+   - {} 內容取出後必須強制執行 URLEncoder.encode(val, "UTF-8")。
+3. 請求頭解析：
+   - 字符串 "Key$Value#Key2$Value2" 需先按 # 分割，再按 $ 分割存入 RequestProperty。
+4. 最終輸出：
+   - 拿到直連後，必須連同 play_headers 一併交給播放器，防止 403 錯誤。
+
+============================================================
+                凱哥出品 · 必屬精品
+============================================================【補充：默認缺省邏輯】
+為了簡化書寫，當定位符後方未跟隨 && 指令時，插件按以下默認邏輯處理：
+- 標題/備註類標籤 (a, span, p, h): 默認提取 [純文本]。
+  例子："cate_name": "h3.dytit a" 等同於 "h3.dytit a && text"
+- 圖片類標籤 (img): 默認優先提取 [data-original]，其次 [src]。
+  例子："cate_pic": "img.thumb" 等同於 "img.thumb && src"
+- 鏈接類屬性: 提取 ID 時，仍建議明確寫出 && href 以免歧義。
