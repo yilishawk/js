@@ -13,6 +13,13 @@
     "User-Agent": "{ua}",
     "Referer": "{host}/"
   },
+  "play": {
+    "play_headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "Referer": "https://www.bttwo.org/",
+      "Origin": "https://www.bttwo.org"
+    }
+  },//Java内置请求头不对时在这里修改
   
   // 對應 homeContent (首頁分類標籤)
   "classes": [
