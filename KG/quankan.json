@@ -48,10 +48,15 @@
         "name": "第二步：請求中轉頁獲取密鑰",
         "method": "get",
         "url": "https://zyz-omtcqq-com-oss-cn-hangzhou-shanghai-yys-valipl-vip-cp11.xmsu8.top/index.php?url={p_url}&type={p_from}&next={p_next}&data={p_data}",
+        "headers": {
+          "Referer": "https://www.qkw1.com/",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+          "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+        },
         "vars": {
-          "v_url": "\"url\":\"&&\"",
-          "v_time": "\"time\":\"&&\"",
-          "v_vkey": "\"vkey\":\"&&\""
+          "v_url": "var config*url\":\"&&\"",
+          "v_time": "time\":\"&&\"",
+          "v_vkey": "vkey\":\"&&\""
         }
       },
       {
@@ -60,7 +65,7 @@
         "url": "https://zyz-omtcqq-com-oss-cn-hangzhou-shanghai-yys-valipl-vip-cp11.xmsu8.top/admin/mizhi_json.php",
         "body": "url={v_url}&time={v_time}&key=&vkey={v_vkey}",
         "headers": {
-          "Referer": "{step2_url}",
+          "origin": "https://zyz-omtcqq-com-oss-cn-hangzhou-shanghai-yys-valipl-vip-cp11.xmsu8.top",
           "X-Requested-With": "XMLHttpRequest",
           "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
         },
