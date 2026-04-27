@@ -40,7 +40,7 @@
         "vars": {
           "p_url": "var player*url\":\"&&\"",
           "p_from": "from\":\"&&\"",
-          "p_next": "www.qkw1.com + link_next\":\"&&\"",
+          "p_next": "//www.qkw1.com + link_next\":\"&&\"",
           "p_data": "play_data\":\"&&\""
         }
       },
