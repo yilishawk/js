@@ -28,9 +28,9 @@
   "dt_list": "ul.stui-content__playlist.clearfix",
 "dt_list_name": "a",
 "dt_list_url": "a@href",
-  "dt_content": "div.stui-content__desc",
+  "dt_content": "q.desc.hidden-xs",
   "dt_actor": "p.data:contains(主演)&&text",
-  "dt_director": "p.data:contains(導演)&&text",
+  "dt_director": "p.data:contains(导演)&&text",
 
   "play": {
     "steps": [
