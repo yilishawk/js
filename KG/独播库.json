@@ -1,0 +1,47 @@
+{
+  "host": "https://www.dbku.tv",
+  "site_url": "https://www.dbku.tv",
+  "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+  "classes": [
+    {"type_name": "陸劇", "type_id": "13"},
+    {"type_name": "電影", "type_id": "1"},
+    {"type_name": "綜藝", "type_id": "3"},
+    {"type_name": "動漫", "type_id": "4"},
+    {"type_name": "日韓劇", "type_id": "15"},
+    {"type_name": "短劇", "type_id": "21"}
+  ],
+  "cate_url": "https://www.dbku.tv/vodshow/{tid}--------{pg}---.html",
+  "cate_item": "ul.myui-vodlist li",
+  "cate_id": "a.myui-vodlist__thumb@href",
+  "cate_name": "a.myui-vodlist__thumb@title",
+  "cate_pic": "a.myui-vodlist__thumb@data-original",
+  "cate_remarks": "span.pic-text",
+
+  "dt_name": ".myui-content__detail h1.title&&text",
+  "dt_pic": ".myui-content__thumb img@data-original",
+  "dt_actor": ".myui-content__detail p.data:contains(主演) a&&text",
+  "dt_director": ".myui-content__detail p.data:contains(导演) a&&text",
+  "dt_content": "span.sketch.content&&text",
+  "dt_from": "h3.title:contains(视频列表)",
+  "dt_list": ".tab-content.myui-panel_bd ul.myui-content__list",
+  "dt_list_name": "a",
+  "dt_list_url": "a@href",
+"play": {
+  "play_headers": {
+    "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "Origin": "https://www.dbku.tv"
+  },
+  "steps": [
+    {
+      "name": "提取並解碼",
+      "method": "get",
+      "url": "{play_id}",
+      "vars": {
+        // 🚀 凱哥神技：提取規則 + 指令鏈
+        // 注意：指令前後的空格是為了匹配你 Java 裡的 split(" > ")
+        "final_url": "var player*url\":\"&&\" > [base64] > [url_decode]"
+      }
+    }
+  ]
+}
+}

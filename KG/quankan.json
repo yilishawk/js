@@ -1,0 +1,77 @@
+{
+  "host": "https://www.qkw1.com",
+  "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+  "classes": [
+    {"type_name": "國產劇", "type_id": "guochan"},
+    {"type_name": "港台", "type_id": "gangtai"},
+    {"type_name": "電影", "type_id": "1"},
+    {"type_name": "綜藝", "type_id": "3"},
+    {"type_name": "動漫", "type_id": "4"}
+  ],
+  "cate_url": "https://www.qkw1.com/qkwshow/{tid}--------{pg}---.html",
+  "cate_item": "ul.stui-vodlist.clearfix li",
+  "cate_id": "a.lazyload@href",
+  "cate_name": "a.lazyload@title",
+  "cate_pic": "a.lazyload@data-original",
+  "cate_remarks": "span.pic-text",
+  
+  "search_url": "https://www.qkw1.com/qkwsearch/-------------.html?wd={wd}&submit=",
+  "sc_item": "li.stui-vodlist__item",
+  "sc_id": "a.stui-vodlist__thumb@href",
+  "sc_name": "a.stui-vodlist__thumb@title",
+  "sc_pic": "a.stui-vodlist__thumb@data-original",
+  "sc_remarks": ".pic-text",
+
+  "dt_name": ".title&&text",
+  "dt_pic": ".stui-content__thumb img&&data-original",
+  "dt_from": "div.stui-pannel__head.clearfix h3.title:contains(源)",
+  "dt_list": "ul.stui-content__playlist.clearfix",
+"dt_list_name": "a",
+"dt_list_url": "a@href",
+  "dt_content": "div.stui-content__desc",
+  "dt_actor": "p.data:contains(主演)&&text",
+  "dt_director": "p.data:contains(導演)&&text",
+
+  "play": {
+    "steps": [
+      {
+        "name": "第一步：獲取網頁中的播放器數據",
+        "method": "extract",
+        "vars": {
+          "p_url": "var player*url\":\"&&\"",
+          "p_from": "from\":\"&&\"",
+          "p_next": "www.qkw1.com + link_next\":\"&&\"",
+          "p_data": "play_data\":\"&&\""
+        }
+      },
+      {
+        "name": "第二步：請求中轉頁獲取密鑰",
+        "method": "get",
+        "url": "https://zyz-omtcqq-com-oss-cn-hangzhou-shanghai-yys-valipl-vip-cp11.xmsu8.top/index.php?url={p_url}&type={p_from}&next={p_next}&data={p_data}",
+        "vars": {
+          "v_url": "\"url\":\"&&\"",
+          "v_time": "\"time\":\"&&\"",
+          "v_vkey": "\"vkey\":\"&&\""
+        }
+      },
+      {
+        "name": "第三步：POST 請求獲取真實地址",
+        "method": "http_post",
+        "url": "https://zyz-omtcqq-com-oss-cn-hangzhou-shanghai-yys-valipl-vip-cp11.xmsu8.top/admin/mizhi_json.php",
+        "body": "url={v_url}&time={v_time}&key=&vkey={v_vkey}",
+        "headers": {
+          "Referer": "{step2_url}",
+          "X-Requested-With": "XMLHttpRequest",
+          "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+        },
+        "vars": {
+          "final_url": "json:url"
+        }
+      }
+    ]
+  },
+  "final_output": "{final_url}",
+  "play_headers": {
+    "User-Agent": "{PC_UA}"
+  }
+}

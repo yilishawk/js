@@ -1,0 +1,96 @@
+{
+  "site_name": "兩個BT",
+  "host": "https://www.bttwo.org",
+  "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+  "parse": 1,
+  
+  "classes": [
+    {"type_name": "國產劇", "type_id": "2"},
+    {"type_name": "電影", "type_id": "1"},
+    {"type_name": "美劇", "type_id": "meijutt"},
+    {"type_name": "韓劇", "type_id": "hanjun"},
+    {"type_name": "動漫", "type_id": "dm"}
+  ],
+  "cate_url": "https://www.bttwo.org/filter?classify={tid}&page={pg}",
+  "search_url": "https://www.bttwo.org/xsssearch?q={wd}",
+
+  // --- 分類頁定位 (Category) ---
+  "cate_item": "div.block.transition-opacity",
+  "cate_id": "a@href",
+  "cate_name": "h3.text-text-primary",
+  "cate_pic": "img@data-src",
+  "cate_remarks": "span.absolute",
+
+  // --- 搜索頁定位 (Search) ---
+  // 搜索頁可能出現的標籤差異進行獨立定義
+  "sc_item": "div.search_list ul li", 
+  "sc_id": "h3.dytit a[href], a:first-of-type[href]",
+  "sc_name": "h3.dytit a, img[alt]",
+  "sc_pic": "img.thumb[data-original]",
+  "sc_remarks": "div.jidi span",
+
+  // --- 詳情頁定位 (Detail) ---
+  "dt_name": "div.mi_cont h1",
+  "dt_pic": "div.dyimg img[src]",
+  "dt_type": "div.vod_info li:contains(類型) a",
+  "dt_year": "div.vod_info li:contains(年份) a",
+  "dt_area": "div.vod_info li:contains(地區) a",
+  "dt_actor": "div.vod_info li:contains(主演) a",
+  "dt_director": "div.vod_info li:contains(導演) a",
+  "dt_content": "div.yp_context",
+
+  // --- 播放線路與列表 ---
+  "dt_from": "h2.text-base",
+  "dt_list": "div.grid.grid-cols-6.gap-2",
+  "dt_list_name":"a span",
+  "dt_list_url":"a@href",
+    "play": {
+    "steps": [
+      {
+        "name": "第一步：獲取網頁中的播放器數據",
+        "method": "extract",
+        "vars": {
+          "p_url": "var player_aaaa=*url\":\"&&\"",
+          "p_from": "var player_aaaa=*from\":\"&&\"",
+          "p_next": "var player_aaaa=*link_next\":\"&&\"",
+          "p_data": "var player_aaaa=*play_data\":\"&&\""
+        }
+      },
+      {
+        "name": "第二步：請求中轉頁獲取密鑰",
+        "method": "get",
+        "url": "https://zyz-omtcqq-com-oss-cn-hangzhou-shanghai-yys-valipl-vip-cp11.xmsu8.top/index.php?url={p_url}&type={p_from}&next={p_next}&data={p_data}",
+        "vars": {
+          "v_url": "\"url\":*\"&&\"",
+          "v_time": "\"time\":*\"&&\"",
+          "v_vkey": "\"vkey\":*\"&&\""
+        }
+      },
+      {
+        "name": "第三步：POST 請求獲取真實地址",
+        "method": "http_post",
+        "url": "https://zyz-omtcqq-com-oss-cn-hangzhou-shanghai-yys-valipl-vip-cp11.xmsu8.top/admin/mizhi_json.php",
+        "body": "url={v_url}&time={v_time}&key=&vkey={v_vkey}",
+        "headers": {
+          "Referer": "{step2_url}",
+          "X-Requested-With": "XMLHttpRequest",
+          "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+        },
+        "vars": {
+          "final_url": "json:url"
+        }
+      }
+    ]
+  },
+    "play_sniff_filter": [
+    "m3u8",
+    "mp4",
+    "index.m3u8",
+    ".flv",
+    "p2p",
+    "api.php",
+    "get_metadata"
+  ],
+  "quickSearch": "1",
+   "final_output": "{\"parse\":1,\"url\":\"{final_url}\",\"header\":{\"User-Agent\":\"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36\",\"Origin\":\"https://www.bttwo.org/\"}}"
+}
