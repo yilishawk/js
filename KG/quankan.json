@@ -38,10 +38,10 @@
         "name": "第一步：獲取網頁中的播放器數據",
         "method": "extract",
         "vars": {
-          "p_url": "var player*url\":\"&&\"",
-          "p_from": "from\":\"&&\"",
-          "p_next": "//www.qkw1.com + link_next\":\"&&\"",
-          "p_data": "play_data\":\"&&\""
+          "p_url": "var player > \"url\":\" && \"",
+          "p_from": "from\":\" && \"",
+          "p_next": "\"//www.qkw1.com\" + link_next\":\" && \"",
+          "p_data": "play_data\":\" && \""
         }
       },
       {
@@ -54,9 +54,9 @@
           "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
         },
         "vars": {
-          "v_url": "var config*url\":\"&&\"",
-          "v_time": "time\":\"&&\"",
-          "v_vkey": "vkey\":\"&&\""
+"v_url": "var config > \"url\": \" && \"",
+    "v_time": "var config > \"time\": \" && \"",
+    "v_key": "var config > \"vkey\": \" && \""
         }
       },
       {
