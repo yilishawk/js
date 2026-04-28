@@ -61,7 +61,7 @@
       },
       {
         "name": "第三步：POST 請求獲取真實地址",
-        "method": "http_post",
+        "method": "post",
         "url": "https://zyz-omtcqq-com-oss-cn-hangzhou-shanghai-yys-valipl-vip-cp11.xmsu8.top/admin/mizhi_json.php",
         "body": "url={v_url}&time={v_time}&key=&vkey={v_vkey}",
         "headers": {
