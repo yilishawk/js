@@ -79,7 +79,7 @@
     "accept-language": "zh-CN,zh;q\u003d0.9,en-US;q\u003d0.8,en;q\u003d0.7"
         },
         "vars": {
-          "final_url": "\"url\": \" && \""
+          "final_url": "json_url\": \" && \""
         }
       }
     ]
