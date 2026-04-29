@@ -39,7 +39,7 @@
       "vars": {
         // 🚀 凱哥神技：提取規則 + 指令鏈
         // 注意：指令前後的空格是為了匹配你 Java 裡的 split(" > ")
-        "final_url": "var player*url\":\"&&\" > [base64] > [url_decode]"
+        "final_url": "var player*url\":\"&&\">[base64]>[url_decode]"
       }
     }
   ]
