@@ -91,6 +91,7 @@
         }
       }
     ],
+
     // 🚀 遺漏補全：這就是最終返回給 Java replaceStepVars 的模板
     "final_output": "{\"parse\":0,\"url\":\"{final_video_url}\",\"header\":{\"User-Agent\":\"{ua}\",\"Referer\":\"{host}/\"}}"
   },
@@ -112,6 +113,14 @@
     ]
   }
 }
+      "search_url": "https://www.qkw1.com/index.php/ajax/suggest",
+      "search_method": "POST",
+      "search_body": "mid=1&wd={wd}", 
+
+      // --- 分類規則 (GET 範例) ---
+      "cate_url": "https://www.qkw1.com/index.php/vod/type/id/{cateId}/page/{pg}.html",
+      "cate_method": "GET",
+      "cate_body": "",
 ================================================
     凱哥標準規則引擎 KaiGeEngine 2.1 使用說明
 ================================================
