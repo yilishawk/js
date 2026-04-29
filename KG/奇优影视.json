@@ -1,0 +1,68 @@
+{
+  "host": "http://www.qiyoudy4.com/",
+  "site_url": "http://www.qiyoudy4.com/",
+  "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+  "classes": [
+    {"type_name": "电视剧", "type_id": "2"},
+    {"type_name": "電影", "type_id": "1"},
+    {"type_name": "綜藝", "type_id": "4"},
+    {"type_name": "動漫", "type_id": "3"}
+  ],
+  "cate_url": "http://www.qiyoudy4.com/list/{tid}_{pg}.html",
+  "cate_item": "div.stui-vodlist__box",
+  //"cate_id": "a.myui-vodlist__thumb@href",
+ // "cate_name": "a.myui-vodlist__thumb@title",
+ // "cate_pic": "a.myui-vodlist__thumb@data-original",
+  //"cate_remarks": "span.pic-text",
+      "search_url": "http://www.qiyoudy4.com/search.php",
+      "search_method": "POST",
+      "search_body": "searchword={wd}", ,
+  "sc_item": "li.activeclearfix",
+  "dt_from": "ul.nav.nav-tabs li",
+  "dt_list": ".stui-content__playlist.clearfix li",
+  "dt_list_name": "a",
+  "dt_list_url": "a@href",
+  "play": {
+    "steps": [
+      {
+        "step": 1,
+        "name": "ram",
+        "method": "get",
+        "url": "{play_id}",
+        "vars": {
+          "enc_url": "<iframe*src=\"&&\""
+        }
+      },
+      {
+        "step": 2,
+        "name": "Sign",
+        "method": "get",
+        "url": "'enc_url",
+"headers": {
+    "Referer": "http://www.qiyoudy4.com/",
+    "user-agent": "Mozilla/5.0 (Linux; Android 12; Redmi K30 5G Build/SKQ1.211006.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4664.104 Mobile Safari/537.36"
+        },
+        "vars": {
+          "v_Url": "const Url = \"&&\"",
+          "v_Sign": "const Sign = \"&&\"",
+           "v_From": "const From =  \"&&\""
+        }
+        },
+      {
+        "step": 3,
+        "name": "huoqu",
+        "method": "get",
+        "url": "'http://meizi.yongfan99.com/player/api.php?url={v_Url}&sign={v_Sign}&t={v_From}",
+"headers": {
+    "accept": "application/json, text/javascript, */*; q\u003d0.01",
+    "x-requested-with": "XMLHttpRequest",
+    "user-agent": "Mozilla/5.0 (Linux; Android 12; Redmi K30 5G Build/SKQ1.211006.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4664.104 Mobile Safari/537.36"
+        },
+        "vars": {
+          "final_url": "url\":\"&&\""
+        }
+        }
+    ]
+  },
+  "final_output": "{final_url}"
+}
