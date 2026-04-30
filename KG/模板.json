@@ -113,14 +113,17 @@
     ]
   }
 }
-      "search_url": "https://www.qkw1.com/index.php/ajax/suggest",
-      "search_method": "POST",
-      "search_body": "mid=1&wd={wd}", 
-
-      // --- 分類規則 (GET 範例) ---
-      "cate_url": "https://www.qkw1.com/index.php/vod/type/id/{cateId}/page/{pg}.html",
-      "cate_method": "GET",
-      "cate_body": "",
+"search_url": "/search.php",
+"search_method": "POST",
+"search_body": "searchword={wd}"
+. 分類配置：
+"cate_url": "/list.php?tid={tid}&page={pg}",
+"cate_method": "POST",
+"cate_body": "id={tid}&p={pg}"
+詳情配置 (如果需要)：
+"detail_method": "POST",
+"detail_body": "id={id}"
+"detail_url": "/index.php/vod/detail/id/{id}.html",
 ================================================
     凱哥標準規則引擎 KaiGeEngine 2.1 使用說明
 ================================================
