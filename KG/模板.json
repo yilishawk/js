@@ -124,6 +124,7 @@
 "detail_method": "POST",
 "detail_body": "id={id}"
 "detail_url": "/index.php/vod/detail/id/{id}.html",。搜索为json时需要添加ID链接补全
+"cate_page_1":"第一页链接"//第一页无页码
 ================================================
     凱哥標準規則引擎 KaiGeEngine 2.1 使用說明
 ================================================
