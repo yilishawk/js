@@ -146,14 +146,21 @@
     - 用途：設置全局過濾規則或自動補全。
     - 範例：提取規則 ;; [full] ;; [包含:m3u8]
 
-
+[替换：http>https] → 把 http 替换成 https
+[排序:1>3>5>8] 
 二、 內建工具指令 (Directives)
 ------------------------------------------------
 1.  [base64]     : Base64解碼，處理 AHR0c... 類的加密字符串。
 2.  [url_decode] : URL解碼，將 %3A%2F%2F 等編碼轉回標點符號。
 3.  [reg:正則]   : 高級正則提取，如 [reg:url="(.*?)"] 提取引號內容。
 
+字段加不加原因vars 里的值✅ 加 json:url  ✅ 加 json：URL从返回JSON取字段值cate_item✅ 加 json:list  ✅ 加 json：list标识走JSON数组模式cate_list_path❌ 不加直接写路径 data.listjx_list❌ 不加直接写路径 data.jiexiDataListjx_title❌ 不加直接写字段名 playerCodejx_parse❌ 不加直接写字段名 url
 
+
+	"jx": "http://app.hktvyb.cc/api.php/Appfox/config",
+                "jx_list": "data.jiexiDataList",
+                "jx_title": "playerCode",
+                "jx_parse": "url",
 三、 淨化與過濾工具 (Filters)
 ------------------------------------------------
 1.  [包含:關鍵詞] : 白名單過濾。結果必須包含此詞，否則丟棄。
