@@ -1,5 +1,6 @@
 台湾,#genre#
 中天新聞FHD,rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2
+中天新聞FHD,rtmp://home.aceimage.cn/live/xiangjiaoge-ztxw
 非凡新聞HD,rtmp://f13h.mine.nu/sat/tv581
 MOMO综合台,rtmp://f13h.mine.nu:1935/sat/tv761
 MOMO综合台,rtmp://f13h.mine.nu/sat/tv761
