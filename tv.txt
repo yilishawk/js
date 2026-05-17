@@ -1,3 +1,8 @@
+卫视,#genre#
+河南卫视,https://t.freetv.fun/live/he-nan-wei-shi.m3u8
+河北卫视,https://t.freetv.fun/live/he-bei-wei-shi.m3u8
+陝西卫视,https://t.freetv.fun/live/shan-xi-wei-shi.m3u8
+
 台湾,#genre#
 中天新聞FHD,rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2
 中天新聞FHD,rtmp://home.aceimage.cn/live/xiangjiaoge-ztxw
@@ -14,4 +19,7 @@ MOMO综合台,rtmp://f13h.mine.nu/sat/tv761
 纬来體育,rtmp://f13h.mine.nu:1935/sat/tv721
 纬来體育,rtmp://f13h.mine.nu/sat/tv721
 華视,rtmp://f13h.mine.nu/sat/tv111
+
+湖南,#genre#
+湖南娛樂,https://t.freetv.fun/live/hu-nan-yu-le.m3u8
 
