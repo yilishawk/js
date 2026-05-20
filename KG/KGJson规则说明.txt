@@ -1,0 +1,338 @@
+"pic_host": "https://img.03yy.live"
+||支持轮询
+发布页
+"index_url": "https://www.03yy.pub",
+"index_rule": "a.btn-enter@href"//可以不填也可指定
+{
+  "站名": "XPath 学习示例站",
+  "主页列表": "xpath://div[@class='fed-list-info']", 
+  
+  "分类规则": {
+    "列表节点": "xpath://ul[contains(@class,'vodlist')]/li",
+    "标题": "xpath:.//h4/a/text()",
+    "图片": "xpath:.//a/@data-original",
+    "备注": "xpath:.//span[@class='pic-text']/text()",
+    "链接": "xpath:.//h4/a/@href ;; [full]"
+  },
+
+  "详情规则": {
+    "导演": "xpath://span[contains(text(),'导演')]/following-sibling::a[1]/text()",
+    "主演": "xpath://span[contains(text(),'主演')]/parent::li/a/text()",
+    "简介": "xpath://div[contains(@class,'fed-part-adds')]//p/text()",
+    "播放列表": "xpath://ul[contains(@class,'fed-part-rows')]/li/a"
+  },
+
+  "搜索规则": {
+    "列表": "xpath://dl[@class='fed-deta-info']",
+    "名称": "xpath:.//dd/h1/a/text()"
+  }
+}
+
+=====================================================
+      Jsoup 高级选择器与伪类实战手册 (开发必备)
+=====================================================
+
+本手册涵盖了 Jsoup 中比基础 select("a") 更强大的高级用法，
+特别适合处理 HTML 结构混乱、无特定 Class 或动态干扰的网页。
+
+-----------------------------------------------------
+一、 内容感知：基于“文字内容”定位 (Jsoup 独有增强)
+-----------------------------------------------------
+
+1. :contains(text) —— 模糊匹配文本
+   例：doc.select("a:contains(下一页)")
+   作用：选中所有包含“下一页”文字的链接，不管它前后是否有其他文字。
+
+2. :containsOwn(text) —— 精确匹配直接文本
+   例：doc.select("span:containsOwn(导演)")
+   作用：只查找当前标签直接包含的文字，不包含子标签里的文字。防止误伤父容器。
+
+3. :matches(regex) —— 正则表达式匹配文本
+   例：doc.select("div:matches(\\d{4}-\\d{2}-\\d{2})")
+   作用：选中内容符合日期格式（如 2024-05-12）的 div。
+
+4. :matchesOwn(regex) —— 针对直接文本的正则匹配
+   例：doc.select("li:matchesOwn(^\\d+$)")
+   作用：选中内容全是数字的列表项（常用于集数选择器）。
+
+-----------------------------------------------------
+二、 结构过滤：排除干扰与逻辑判断
+-----------------------------------------------------
+
+5. :not(selector) —— 排除法
+   例：doc.select("div.item:not(.ad):not(.hidden)")
+   作用：选中 item，但过滤掉含有 ad 或 hidden 类的标签。
+
+6. :has(selector) —— 父随子变 (最实用)
+   例：doc.select("div.box:has(img[src*=baidu])")
+   作用：选中包含“来源是百度图片”的那个 box 容器。
+   场景：过滤掉那些没有图片或图片地址失效的视频块。
+
+7. :empty —— 选中空标签
+   例：doc.select("div:empty")
+   作用：清理网页中那些没有内容、纯占位的干扰 div。
+
+-----------------------------------------------------
+三、 位置关系：精准命中第 N 个元素
+-----------------------------------------------------
+
+8. :nth-child(n) —— 选中第几个
+   例：doc.select("ul > li:nth-child(3)")
+   作用：选中第 3 个 li。
+   注意：n 可以是 odd（奇数）、even（偶数）或 3n+1 等公式。
+
+9. :nth-last-child(n) —— 倒数定位
+   例：doc.select("li:nth-last-child(-n+2)")
+   作用：选中最后 2 个列表项（常用于剔除页脚或免责声明）。
+
+10. :first-child / :last-child —— 首尾选中
+    例：doc.select("div.play-list a:first-child")
+    作用：直接选中第一个播放地址。
+
+-----------------------------------------------------
+四、 兄弟选择器：处理无特征标签
+-----------------------------------------------------
+
+11. 相邻兄弟 (+)
+    例：doc.select("b:contains(主演) + span")
+    作用：选中紧跟在“主演”这两个字后面的 span 标签。
+
+12. 后续所有兄弟 (~)
+    例：doc.select("dt:contains(播放源) ~ dd")
+    作用：选中标题“播放源”之后的所有内容块。
+
+-----------------------------------------------------
+五、 属性高级匹配：处理动态 URL
+-----------------------------------------------------
+
+13. [attr^=value] —— 匹配开头
+    例：doc.select("a[href^=/vod/detail]")
+    作用：只取站内详情页链接。
+
+14. [attr$=value] —— 匹配结尾
+    例：doc.select("img[src$=.webp]")
+    作用：只取 webp 格式的高清图。
+
+15. [attr*=value] —— 匹配包含
+    例：doc.select("div[onclick*=player]")
+    作用：选中带有播放器脚本触发事件的 div。
+
+-----------------------------------------------------
+六、 综合实战案例
+-----------------------------------------------------
+
+场景：抓取一个 row 下面，不是广告、且包含“4K”字样的视频链接。
+代码：doc.select("div.row > div.video:not(.ad):has(span:contains(4K)) a")
+
+-----------------------------------------------------
+开发提示：
+1. 组合使用：伪类可以无限叠加，如 .item:not(.ad):nth-child(2)。
+2. 性能：带标签名的选择器（div.item）比纯类名（.item）解析更快。
+3. 调试：建议先在 Java 环境中使用 Elements.size() 确认选中的数量。
+=====================================================
+
+============================
+KG Spider JSON 规则完整模板
+=============================
+
+=============================
+一、基础站点信息
+=============================
+{
+  "site_name": "示例视频站",          // 站点名称
+  "site_url": "https://www.example.com", // 主域名，必须带协议
+  "host": "https://www.example.com",      // host，可用于替换 {host}
+  "ua": "Mozilla/5.0 ... Chrome/120.0",   // 默认 User-Agent，可覆盖
+  "headers": {                            // 默认请求头
+    "Accept-Language": "zh-CN,zh;q=0.9",
+    "Referer": "https://www.example.com/"
+  }
+}
+
+=============================
+二、主页分类配置
+=============================
+{
+  "home_url": "/",                   // 首页 URL
+  "home_parse": "div.module-item",  // CSS选择器抓分类
+  "classes": [                       // 分类列表
+    {"type_name": "电影", "type_id": "1"},
+    {"type_name": "电视剧", "type_id": "2"}
+  ],
+  "filters": {                       // 分类筛选字段
+    "area": ["大陆", "香港", "台湾", "美国", "日本"],
+    "year": ["2026", "2025", "2024", "2023"],
+    "by": ["最新", "最热"],
+    "lang": ["国语", "粤语", "日语", "英语"]
+  }
+}
+
+=============================
+三、分类内容配置
+=============================
+{
+  "cate_url": "/category/{tid}/page/{pg}",  // URL模板
+  "cate_page_1": "/category/{tid}/",        // 首页特殊 URL
+  "cate_method": "get",                      // get / post
+  "cate_body": "",                           // POST body，可空
+  "cate_item": ".vodlist_item",             // 列表元素 CSS 选择器
+  "cate_id": "a@href",                       // id 选择器规则
+  "cate_name": "a",                          // 名称选择器
+  "cate_pic": "img@data-src",                // 图片选择器
+  "cate_remarks": ".tag"                     // 备注选择器
+}
+
+=============================
+四、搜索配置
+=============================
+{
+  "search_url": "/search?wd={wd}",          // GET模板
+  "search_body": "",                         // POST body 可空
+  "search_method": "get"                     // get / post
+}
+
+=============================
+五、详情页配置
+=============================
+{
+  "detail_method": "get",                    // GET / POST
+  "detail_body": "",                         // POST body 可空
+  "detail_url": "/vod/{id}",                 // URL模板
+  "dt_name": "h1.title",                     // 标题 CSS
+  "dt_pic": ".vod-pic img@data-src",        // 封面 CSS
+  "dt_remarks": ".vod-tag",                  // 备注 CSS
+  "dt_actor": ".vod_actor",                  // 演员 CSS
+  "dt_director": ".vod_director",            // 导演 CSS
+  "dt_content": ".vod_content",              // 简介 CSS
+  "dt_list": ".playlist a",                  // 播放列表选择器
+  "dt_list_name": "",                        // 播放名称规则，可空
+  "dt_list_url": "@href",                    // 播放链接规则
+  "dt_from": ".tab-item",                    // 播放线路选择器
+  "dt_from_name": ""                         // 线路名称规则
+}
+
+=============================
+六、播放解析配置（play.steps）
+=============================
+{
+  "play": {
+    "steps": [
+      {
+        "url": "{play_id}",                  // 第一步请求 URL
+        "method": "get",                     // 请求方法
+        "body": "",                          // POST body
+        "vars": {                            // 变量提取规则，可用 KaiGeEngine DSL
+          "final_url": "json:url",           // DSL 示例：从 JSON 中提取 url
+          "m3u8_url": "[reg:<regex>] > [url_decode]"
+        },
+        "headers": {                         // 请求头，可引用 {host}, {ua}, {final_url}
+          "User-Agent": "{ua}",
+          "Referer": "{host}"
+        }
+      }
+    ],
+    "play_headers": {                        // 最终播放请求头
+      "User-Agent": "{ua}",
+      "Referer": "{host}"
+    }
+  }
+}
+
+=============================
+七、KaiGeEngine DSL 使用说明
+=============================
+DSL 功能（用于 play.steps.vars / 详情 / 分类 JSON 提取）：
+
+1. JSON 提取
+   - "json:data.list[0].url" → JSON路径解析
+   - 支持数组索引和嵌套
+
+2. Base64 / URL / MD5 / AES
+   - "[base64]" → base64 解码
+   - "[url_decode]" → URL 解码
+   - "[md5]" → MD5 加密
+   - "[sha1]" → SHA1 加密
+   - "[aes_cbc:key,iv]" → AES CBC PKCS7 解密
+   - "[aes_ecb:key]" → AES ECB PKCS7 解密
+
+3. 正则
+   - "[reg:<正则>]" → 提取第一个捕获组
+
+4. 组合管道
+   - "json:data.list[0].url > [base64] > [url_decode]" → 按顺序处理
+
+5. include / exclude
+   - ";; [包含:关键字]" → 包含过滤
+   - ";; [排除:关键字]" → 排除过滤
+
+6. 变量
+   - "${host}" → 站点 host
+   - "${time}" → 当前时间戳秒
+   - "${time13}" → 当前时间戳毫秒
+   - "${input}" → 上一步内容
+
+7. 拼接
+   - "https://www.example.com/" + "${input}" → 拼接字符串
+
+=============================
+八、KaiGeSmart 使用说明
+=============================
+1. parseList(Element)
+   - HTML 元素解析为标准 JSON
+   - 输出字段：vod_id, vod_name, vod_pic, vod_remarks
+
+2. parseDetail(html)
+   - 解析详情页
+   - 输出字段：
+     - vod_id, vod_name, vod_pic, vod_remarks
+     - vod_actor, vod_director, vod_content
+     - vod_play_from, vod_play_url
+
+=============================
+九、KaiGeNet 使用说明
+=============================
+1. smartRequest(siteUrl, method, url, body, headers)
+   - 自动处理：
+     - Cookie
+     - UA
+     - Referer
+     - 5s盾 / Cloudflare / 重试
+   - GET / POST 自动选择
+   - headers 可传自定义
+
+2. URL 自动补全：
+   - "/" → host + "/"
+   - "//" → https://
+
+=============================
+十、使用示例
+=============================
+KG spider = new KG();
+spider.init(context, jsonRuleString);
+
+// 首页分类
+String homeJson = spider.homeContent(true);
+
+// 分类
+HashMap<String,String> extra = new HashMap<>();
+extra.put("area", "大陆");
+extra.put("year", "2025");
+String cateJson = spider.categoryContent("1","1",false, extra);
+
+// 搜索
+String searchJson = spider.searchContent("关键字", true);
+
+// 详情
+List<String> ids = Arrays.asList("详情页ID");
+String detailJson = spider.detailContent(ids);
+
+// 播放
+String playerJson = spider.playerContent("flag","播放ID", null);
+
+=============================
+备注：
+=============================
+- 所有 JSON 字段均可根据站点实际情况修改
+- KaiGeEngine DSL 可用于 play.steps.vars, 分类列表, 详情页解析
+- varPool 在 Spider 内可随时存储并引用变量
+- JSON 模板可直接保存为 .txt 或 .json 文件
