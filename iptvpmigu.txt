@@ -246,8 +246,6 @@ http://106.52.165.247:1234/713589837
 http://106.52.165.247:1234/959986618
 #EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/200/202509251348_1758698362959_H32_1080.webp" group-title="其他",环球旅游
 http://106.52.165.247:1234/958475356
-#EXTINF:-1 tvg-id="梨园频道" tvg-name="梨园频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/344/202604101045_1774936529944_H32_1080.webp" group-title="其他",梨园频道
-http://106.52.165.247:1234/961930369
 #EXTINF:-1 tvg-id="国际米兰VS那不勒斯" tvg-name="意甲 国际米兰VS那不勒斯 全场回放（刘腾、贺宇） 23:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-昨天09-06",意甲 国际米兰VS那不勒斯 全场回放（刘腾、贺宇） 23:45
 http://106.52.165.247:1234/967328660
 #EXTINF:-1 tvg-id="帕纳斯爆肝TKO霍克杀进排名" tvg-name="UFC格斗之夜 帕纳斯爆肝TKO霍克杀进排名 主赛（郑文祺、张波） 23:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/1000000002391064d391.png" group-title="体育-昨天09-06",UFC格斗之夜 帕纳斯爆肝TKO霍克杀进排名 主赛（郑文祺、张波） 23:55
@@ -440,6 +438,12 @@ http://106.52.165.247:1234/967361525
 http://106.52.165.247:1234/967364183
 #EXTINF:-1 tvg-id="瓦伦西亚VS巴塞罗那" tvg-name="西甲 瓦伦西亚VS巴塞罗那 全场回放（梁祥宇、王宇） 22:00" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-昨天09-06",西甲 瓦伦西亚VS巴塞罗那 全场回放（梁祥宇、王宇） 22:00
 http://106.52.165.247:1234/967364987
+#EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 2026美国网球公开赛青少年男单第1轮回放：阿尔法诺0-2亚历山德雷斯库（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 2026美国网球公开赛青少年男单第1轮回放：阿尔法诺0-2亚历山德雷斯库（赛场原声） 23:00
+http://106.52.165.247:1234/967402061
+#EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 2026美国网球公开赛青少年男单第1轮回放：切班2-0樱井义浩（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 2026美国网球公开赛青少年男单第1轮回放：切班2-0樱井义浩（赛场原声） 23:00
+http://106.52.165.247:1234/967399161
+#EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 2026美国网球公开赛青少年女单第1轮回放：高达2-0埃格尔斯巴赫（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 2026美国网球公开赛青少年女单第1轮回放：高达2-0埃格尔斯巴赫（赛场原声） 23:00
+http://106.52.165.247:1234/967398665
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【男单1/8决赛】保罗0-3阿尔卡拉斯（单文强） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【男单1/8决赛】保罗0-3阿尔卡拉斯（单文强） 23:00
 http://106.52.165.247:1234/967374118
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【男单1/8决赛】梅德维德夫0-3蒂亚福（鸿昆） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【男单1/8决赛】梅德维德夫0-3蒂亚福（鸿昆） 23:00
@@ -640,46 +644,36 @@ http://106.52.165.247:1234/967376070
 http://106.52.165.247:1234/967377903
 #EXTINF:-1 tvg-id="佩古拉VS科斯蒂亚" tvg-name="美国网球公开赛 佩古拉VS科斯蒂亚 全场回放 04:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天09-07",美国网球公开赛 佩古拉VS科斯蒂亚 全场回放 04:30
 http://106.52.165.247:1234/967378108
-#EXTINF:-1 tvg-id="世界跆拳道大奖赛韩国茂朱站第三日" tvg-name="世界跆拳道大奖赛 世界跆拳道大奖赛韩国茂朱站第三日 解说 15:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/2/100000001476106697fd.png" group-title="体育-今天09-07",世界跆拳道大奖赛 世界跆拳道大奖赛韩国茂朱站第三日 解说 15:55
-http://106.52.165.247:1234/967199619
-#EXTINF:-1 tvg-id="丁俊晖VS迈克尔·霍尔特" tvg-name="斯诺克 丁俊晖VS迈克尔·霍尔特 解说 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天09-07",斯诺克 丁俊晖VS迈克尔·霍尔特 解说 17:00
-http://106.52.165.247:1234/967387843
-#EXTINF:-1 tvg-id="丁俊晖VS迈克尔·霍尔特" tvg-name="斯诺克 丁俊晖VS迈克尔·霍尔特 现场原声 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天09-07",斯诺克 丁俊晖VS迈克尔·霍尔特 现场原声 17:00
-http://106.52.165.247:1234/967297665
-#EXTINF:-1 tvg-id="丁俊晖VS迈克尔·霍尔特" tvg-name="斯诺克 丁俊晖VS迈克尔·霍尔特 同播2号桌 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天09-07",斯诺克 丁俊晖VS迈克尔·霍尔特 同播2号桌 17:00
-http://106.52.165.247:1234/967297673
-#EXTINF:-1 tvg-id="斯佳辉VS罗比·威廉姆斯" tvg-name="斯诺克 斯佳辉VS罗比·威廉姆斯 乔迁 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天09-07",斯诺克 斯佳辉VS罗比·威廉姆斯 乔迁 17:00
-http://106.52.165.247:1234/967387926
-#EXTINF:-1 tvg-id="斯佳辉VS罗比·威廉姆斯" tvg-name="斯诺克 斯佳辉VS罗比·威廉姆斯 现场原声 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天09-07",斯诺克 斯佳辉VS罗比·威廉姆斯 现场原声 17:00
-http://106.52.165.247:1234/967297673
-#EXTINF:-1 tvg-id="比利时VS澳大利亚" tvg-name="女篮世界杯 比利时VS澳大利亚 连睿 周鹏 17:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天09-07",女篮世界杯 比利时VS澳大利亚 连睿 周鹏 17:20
-http://106.52.165.247:1234/967223267
-#EXTINF:-1 tvg-id="比利时VS澳大利亚" tvg-name="女篮世界杯 比利时VS澳大利亚 赛场原声 17:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天09-07",女篮世界杯 比利时VS澳大利亚 赛场原声 17:20
-http://106.52.165.247:1234/967199574
-#EXTINF:-1 tvg-id="比利时VS澳大利亚" tvg-name="女篮世界杯 比利时VS澳大利亚 英文解说 17:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天09-07",女篮世界杯 比利时VS澳大利亚 英文解说 17:20
-http://106.52.165.247:1234/967221848
-#EXTINF:-1 tvg-id="波多黎各VS土耳其" tvg-name="女篮世界杯 波多黎各VS土耳其 赛场原声 17:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天09-07",女篮世界杯 波多黎各VS土耳其 赛场原声 17:20
-http://106.52.165.247:1234/967199579
-#EXTINF:-1 tvg-id="波多黎各VS土耳其" tvg-name="女篮世界杯 波多黎各VS土耳其 英文解说 17:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天09-07",女篮世界杯 波多黎各VS土耳其 英文解说 17:20
-http://106.52.165.247:1234/967221856
-#EXTINF:-1 tvg-id="NBA精彩重播：掘金vs湖人" tvg-name="NBA经典赛事 NBA精彩重播：掘金vs湖人 杨健 曾令旭 马健 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-今天09-07",NBA经典赛事 NBA精彩重播：掘金vs湖人 杨健 曾令旭 马健 18:00
-http://106.52.165.247:1234/966323867
-#EXTINF:-1 tvg-id="朱子恒、程靖淇、马特带您前瞻" tvg-name="WTT 朱子恒、程靖淇、马特带您前瞻 朱子恒 程靖淇 马特 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天09-07",WTT 朱子恒、程靖淇、马特带您前瞻 朱子恒 程靖淇 马特 19:00
-http://106.52.165.247:1234/967159096
-#EXTINF:-1 tvg-id="张安达、袁思俊出战" tvg-name="斯诺克 张安达、袁思俊出战 陶哲铭 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天09-07",斯诺克 张安达、袁思俊出战 陶哲铭 20:00
-http://106.52.165.247:1234/967387933
-#EXTINF:-1 tvg-id="张安达、袁思俊出战" tvg-name="斯诺克 张安达、袁思俊出战 涂子轩 21:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天09-07",斯诺克 张安达、袁思俊出战 涂子轩 21:00
-http://106.52.165.247:1234/967388473
-#EXTINF:-1 tvg-id="张安达、袁思俊出战" tvg-name="斯诺克 张安达、袁思俊出战 1号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天09-07",斯诺克 张安达、袁思俊出战 1号桌 20:00
+#EXTINF:-1 tvg-id="世界跆拳道大奖赛韩国茂朱站第三日" tvg-name="世界跆拳道大奖赛 世界跆拳道大奖赛韩国茂朱站第三日 2026世界跆拳道大奖赛韩国茂朱站Day3全场回放（官方解说） 15:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/2/100000001476106697fd.png" group-title="体育-今天09-07",世界跆拳道大奖赛 世界跆拳道大奖赛韩国茂朱站第三日 2026世界跆拳道大奖赛韩国茂朱站Day3全场回放（官方解说） 15:55
+http://106.52.165.247:1234/967402308
+#EXTINF:-1 tvg-id="丁俊晖VS迈克尔·霍尔特" tvg-name="斯诺克 丁俊晖VS迈克尔·霍尔特 2026斯诺克英格兰公开赛第一轮Day1下午场回放：丁俊晖4-3迈克尔·霍尔特（秦正） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天09-07",斯诺克 丁俊晖VS迈克尔·霍尔特 2026斯诺克英格兰公开赛第一轮Day1下午场回放：丁俊晖4-3迈克尔·霍尔特（秦正） 17:00
+http://106.52.165.247:1234/967402345
+#EXTINF:-1 tvg-id="丁俊晖VS迈克尔·霍尔特" tvg-name="斯诺克 丁俊晖VS迈克尔·霍尔特 2026斯诺克英格兰公开赛第一轮Day1下午场回放：丁俊晖4-3迈克尔·霍尔特（赛场原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天09-07",斯诺克 丁俊晖VS迈克尔·霍尔特 2026斯诺克英格兰公开赛第一轮Day1下午场回放：丁俊晖4-3迈克尔·霍尔特（赛场原声） 17:00
+http://106.52.165.247:1234/967403001
+#EXTINF:-1 tvg-id="斯佳辉VS罗比·威廉姆斯" tvg-name="斯诺克 斯佳辉VS罗比·威廉姆斯 2026斯诺克英格兰公开赛第一轮Day1下午场回放：斯佳辉1-4罗比·威廉姆斯（乔迁） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天09-07",斯诺克 斯佳辉VS罗比·威廉姆斯 2026斯诺克英格兰公开赛第一轮Day1下午场回放：斯佳辉1-4罗比·威廉姆斯（乔迁） 17:00
+http://106.52.165.247:1234/967401338
+#EXTINF:-1 tvg-id="斯佳辉VS罗比·威廉姆斯" tvg-name="斯诺克 斯佳辉VS罗比·威廉姆斯 26/27赛季斯诺克英格兰公开赛第一轮Day1下午场回放：斯佳辉1-4罗比·威廉姆斯（赛场原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天09-07",斯诺克 斯佳辉VS罗比·威廉姆斯 26/27赛季斯诺克英格兰公开赛第一轮Day1下午场回放：斯佳辉1-4罗比·威廉姆斯（赛场原声） 17:00
+http://106.52.165.247:1234/967401794
+#EXTINF:-1 tvg-id="比利时VS澳大利亚" tvg-name="女篮世界杯 比利时VS澳大利亚 全场回放（连睿、周鹏） 17:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天09-07",女篮世界杯 比利时VS澳大利亚 全场回放（连睿、周鹏） 17:20
+http://106.52.165.247:1234/967401709
+#EXTINF:-1 tvg-id="比利时VS澳大利亚" tvg-name="女篮世界杯 比利时VS澳大利亚 全场回放（赛场原声） 17:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天09-07",女篮世界杯 比利时VS澳大利亚 全场回放（赛场原声） 17:20
+http://106.52.165.247:1234/967402511
+#EXTINF:-1 tvg-id="比利时VS澳大利亚" tvg-name="女篮世界杯 比利时VS澳大利亚 全场回放（英文解说） 17:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天09-07",女篮世界杯 比利时VS澳大利亚 全场回放（英文解说） 17:20
+http://106.52.165.247:1234/967402414
+#EXTINF:-1 tvg-id="波多黎各VS土耳其" tvg-name="女篮世界杯 波多黎各VS土耳其 全场回放（英文解说） 17:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天09-07",女篮世界杯 波多黎各VS土耳其 全场回放（英文解说） 17:20
+http://106.52.165.247:1234/967402502
+#EXTINF:-1 tvg-id="波多黎各VS土耳其" tvg-name="女篮世界杯 波多黎各VS土耳其 全场回放（赛场原声） 17:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天09-07",女篮世界杯 波多黎各VS土耳其 全场回放（赛场原声） 17:20
+http://106.52.165.247:1234/967402518
+#EXTINF:-1 tvg-id="NBA精彩重播：掘金vs湖人" tvg-name="NBA经典赛事 NBA精彩重播：掘金vs湖人 全场回放（杨健、曾令旭、马健、佳依） 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-今天09-07",NBA经典赛事 NBA精彩重播：掘金vs湖人 全场回放（杨健、曾令旭、马健、佳依） 18:00
+http://106.52.165.247:1234/963632295
+#EXTINF:-1 tvg-id="朱子恒、程靖淇、马特解析国乒签位" tvg-name="WTT 朱子恒、程靖淇、马特解析国乒签位 全场回放（朱子恒、程靖淇、马特） 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天09-07",WTT 朱子恒、程靖淇、马特解析国乒签位 全场回放（朱子恒、程靖淇、马特） 19:00
+http://106.52.165.247:1234/967402986
+#EXTINF:-1 tvg-id="囧哥出战 张安达、袁思俊晋级" tvg-name="斯诺克 囧哥出战 张安达、袁思俊晋级 1号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天09-07",斯诺克 囧哥出战 张安达、袁思俊晋级 1号桌 20:00
 http://106.52.165.247:1234/967297716
-#EXTINF:-1 tvg-id="张安达、袁思俊出战" tvg-name="斯诺克 张安达、袁思俊出战 2号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天09-07",斯诺克 张安达、袁思俊出战 2号桌 20:00
+#EXTINF:-1 tvg-id="囧哥出战 张安达、袁思俊晋级" tvg-name="斯诺克 囧哥出战 张安达、袁思俊晋级 2号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天09-07",斯诺克 囧哥出战 张安达、袁思俊晋级 2号桌 20:00
 http://106.52.165.247:1234/967297753
-#EXTINF:-1 tvg-id="张安达、袁思俊出战" tvg-name="斯诺克 张安达、袁思俊出战 3号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天09-07",斯诺克 张安达、袁思俊出战 3号桌 20:00
-http://106.52.165.247:1234/967297762
-#EXTINF:-1 tvg-id="张安达、袁思俊出战" tvg-name="斯诺克 张安达、袁思俊出战 4号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天09-07",斯诺克 张安达、袁思俊出战 4号桌 20:00
+#EXTINF:-1 tvg-id="囧哥出战 张安达、袁思俊晋级" tvg-name="斯诺克 囧哥出战 张安达、袁思俊晋级 4号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天09-07",斯诺克 囧哥出战 张安达、袁思俊晋级 4号桌 20:00
 http://106.52.165.247:1234/967297775
-#EXTINF:-1 tvg-id="《早安美网》第八期" tvg-name="美国网球公开赛 《早安美网》第八期 《早安美网》 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天09-07",美国网球公开赛 《早安美网》第八期 《早安美网》 20:00
-http://106.52.165.247:1234/967052149
 #EXTINF:-1 tvg-id="匈牙利VS韩国" tvg-name="女篮世界杯 匈牙利VS韩国 刘圳展 20:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天09-07",女篮世界杯 匈牙利VS韩国 刘圳展 20:20
 http://106.52.165.247:1234/967223371
 #EXTINF:-1 tvg-id="匈牙利VS韩国" tvg-name="女篮世界杯 匈牙利VS韩国 赛场原声 20:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天09-07",女篮世界杯 匈牙利VS韩国 赛场原声 20:20
@@ -692,10 +686,14 @@ http://106.52.165.247:1234/967223503
 http://106.52.165.247:1234/967199597
 #EXTINF:-1 tvg-id="尼日利亚VS法国" tvg-name="女篮世界杯 尼日利亚VS法国 英文解说 20:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天09-07",女篮世界杯 尼日利亚VS法国 英文解说 20:20
 http://106.52.165.247:1234/967221871
-#EXTINF:-1 tvg-id="米拉冲八强 高芙、约维奇上演美国德比" tvg-name="美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 阿瑟・阿什球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天09-07",美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 阿瑟・阿什球场 23:00
-http://106.52.165.247:1234/967048202
+#EXTINF:-1 tvg-id="米拉冲八强 高芙、约维奇上演美国德比" tvg-name="美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 斯瓦泰克 VS 郑钦文 22:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天09-07",美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 斯瓦泰克 VS 郑钦文 22:30
+http://106.52.165.247:1234/967398566
+#EXTINF:-1 tvg-id="米拉冲八强 高芙、约维奇上演美国德比" tvg-name="美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 安德列娃 vs 波塔波娃 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天09-07",美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 安德列娃 vs 波塔波娃 23:00
+http://106.52.165.247:1234/967398712
 #EXTINF:-1 tvg-id="米拉冲八强 高芙、约维奇上演美国德比" tvg-name="美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 阿姆斯特朗球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天09-07",美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 阿姆斯特朗球场 23:00
 http://106.52.165.247:1234/967048232
+#EXTINF:-1 tvg-id="米拉冲八强 高芙、约维奇上演美国德比" tvg-name="美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 路易斯・阿姆斯特朗球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天09-07",美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 路易斯・阿姆斯特朗球场 23:00
+http://106.52.165.247:1234/967398482
 #EXTINF:-1 tvg-id="米拉冲八强 高芙、约维奇上演美国德比" tvg-name="美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 大看台球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天09-07",美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 大看台球场 23:00
 http://106.52.165.247:1234/967048251
 #EXTINF:-1 tvg-id="米拉冲八强 高芙、约维奇上演美国德比" tvg-name="美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 17号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天09-07",美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 17号球场 23:00
@@ -728,6 +726,10 @@ http://106.52.165.247:1234/967049138
 http://106.52.165.247:1234/967048156
 #EXTINF:-1 tvg-id="米拉冲八强 高芙、约维奇上演美国德比" tvg-name="美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 英文解说 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天09-07",美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 英文解说 23:00
 http://106.52.165.247:1234/967048178
+#EXTINF:-1 tvg-id="斯瓦泰克VS郑钦文" tvg-name="美国网球公开赛 斯瓦泰克VS郑钦文 詹俊 胡力涛 22:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天09-07",美国网球公开赛 斯瓦泰克VS郑钦文 詹俊 胡力涛 22:30
+http://106.52.165.247:1234/967398566
+#EXTINF:-1 tvg-id="斯瓦泰克VS郑钦文" tvg-name="美国网球公开赛 斯瓦泰克VS郑钦文 赛场原声 23:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天09-07",美国网球公开赛 斯瓦泰克VS郑钦文 赛场原声 23:30
+http://106.52.165.247:1234/967398609
 #EXTINF:-1 tvg-id="日本VS西班牙" tvg-name="女篮世界杯 日本VS西班牙 邵化谦 季孟年 23:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天09-07",女篮世界杯 日本VS西班牙 邵化谦 季孟年 23:40
 http://106.52.165.247:1234/967223618
 #EXTINF:-1 tvg-id="日本VS西班牙" tvg-name="女篮世界杯 日本VS西班牙 赛场原声 23:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天09-07",女篮世界杯 日本VS西班牙 赛场原声 23:40
@@ -760,6 +762,10 @@ http://106.52.165.247:1234/967297866
 http://106.52.165.247:1234/967298694
 #EXTINF:-1 tvg-id="赵心童出战 周跃龙PK穆迪" tvg-name="斯诺克 赵心童出战 周跃龙PK穆迪 4号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天09-08",斯诺克 赵心童出战 周跃龙PK穆迪 4号桌 02:00
 http://106.52.165.247:1234/967297880
+#EXTINF:-1 tvg-id="大坂直美VS莱巴金娜" tvg-name="美国网球公开赛 大坂直美VS莱巴金娜 单文强 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-明天09-08",美国网球公开赛 大坂直美VS莱巴金娜 单文强 02:30
+http://106.52.165.247:1234/967398791
+#EXTINF:-1 tvg-id="大坂直美VS莱巴金娜" tvg-name="美国网球公开赛 大坂直美VS莱巴金娜 赛场原声 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-明天09-08",美国网球公开赛 大坂直美VS莱巴金娜 赛场原声 02:30
+http://106.52.165.247:1234/967398714
 #EXTINF:-1 tvg-id="乌迪内斯VS拉齐奥" tvg-name="意甲 乌迪内斯VS拉齐奥 张昊泽 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-明天09-08",意甲 乌迪内斯VS拉齐奥 张昊泽 02:30
 http://106.52.165.247:1234/967213646
 #EXTINF:-1 tvg-id="乌迪内斯VS拉齐奥" tvg-name="意甲 乌迪内斯VS拉齐奥 赛场原声 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-明天09-08",意甲 乌迪内斯VS拉齐奥 赛场原声 02:30
@@ -794,15 +800,15 @@ http://106.52.165.247:1234/967155868
 http://106.52.165.247:1234/967155795
 #EXTINF:-1 tvg-id="陈熠冲开门红 陈垣宇PK阿萨尔" tvg-name="WTT 陈熠冲开门红 陈垣宇PK阿萨尔 英文解说 11:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天09-08",WTT 陈熠冲开门红 陈垣宇PK阿萨尔 英文解说 11:00
 http://106.52.165.247:1234/967155820
-#EXTINF:-1 tvg-id="男女单打资格赛第一轮" tvg-name="WTT 男女单打资格赛第一轮 凌维康 徐铭辰 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天09-08",WTT 男女单打资格赛第一轮 凌维康 徐铭辰 14:00
+#EXTINF:-1 tvg-id="孟凡博冲开门红 张旋PK佩特科娃" tvg-name="WTT 孟凡博冲开门红 张旋PK佩特科娃 凌维康 徐铭辰 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天09-08",WTT 孟凡博冲开门红 张旋PK佩特科娃 凌维康 徐铭辰 14:00
 http://106.52.165.247:1234/967161220
-#EXTINF:-1 tvg-id="男女单打资格赛第一轮" tvg-name="WTT 男女单打资格赛第一轮 1号桌 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天09-08",WTT 男女单打资格赛第一轮 1号桌 14:00
+#EXTINF:-1 tvg-id="孟凡博冲开门红 张旋PK佩特科娃" tvg-name="WTT 孟凡博冲开门红 张旋PK佩特科娃 1号桌 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天09-08",WTT 孟凡博冲开门红 张旋PK佩特科娃 1号桌 14:00
 http://106.52.165.247:1234/967161129
-#EXTINF:-1 tvg-id="男女单打资格赛第一轮" tvg-name="WTT 男女单打资格赛第一轮 2号桌 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天09-08",WTT 男女单打资格赛第一轮 2号桌 14:00
+#EXTINF:-1 tvg-id="孟凡博冲开门红 张旋PK佩特科娃" tvg-name="WTT 孟凡博冲开门红 张旋PK佩特科娃 2号桌 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天09-08",WTT 孟凡博冲开门红 张旋PK佩特科娃 2号桌 14:00
 http://106.52.165.247:1234/967161177
-#EXTINF:-1 tvg-id="男女单打资格赛第一轮" tvg-name="WTT 男女单打资格赛第一轮 3号桌 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天09-08",WTT 男女单打资格赛第一轮 3号桌 14:00
+#EXTINF:-1 tvg-id="孟凡博冲开门红 张旋PK佩特科娃" tvg-name="WTT 孟凡博冲开门红 张旋PK佩特科娃 3号桌 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天09-08",WTT 孟凡博冲开门红 张旋PK佩特科娃 3号桌 14:00
 http://106.52.165.247:1234/967161189
-#EXTINF:-1 tvg-id="男女单打资格赛第一轮" tvg-name="WTT 男女单打资格赛第一轮 4号桌 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天09-08",WTT 男女单打资格赛第一轮 4号桌 14:00
+#EXTINF:-1 tvg-id="孟凡博冲开门红 张旋PK佩特科娃" tvg-name="WTT 孟凡博冲开门红 张旋PK佩特科娃 4号桌 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天09-08",WTT 孟凡博冲开门红 张旋PK佩特科娃 4号桌 14:00
 http://106.52.165.247:1234/967161201
 #EXTINF:-1 tvg-id="肖国栋、王信伯出战" tvg-name="斯诺克 肖国栋、王信伯出战 1号桌 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天09-08",斯诺克 肖国栋、王信伯出战 1号桌 17:00
 http://106.52.165.247:1234/967297895
@@ -832,15 +838,15 @@ http://106.52.165.247:1234/967297937
 http://106.52.165.247:1234/967297951
 #EXTINF:-1 tvg-id="吴宜泽、庞俊旭出战 老马、雷佩凡接台" tvg-name="斯诺克 吴宜泽、庞俊旭出战 老马、雷佩凡接台 4号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天09-08",斯诺克 吴宜泽、庞俊旭出战 老马、雷佩凡接台 4号桌 20:00
 http://106.52.165.247:1234/967297966
-#EXTINF:-1 tvg-id="男女单打资格赛第二轮" tvg-name="WTT 男女单打资格赛第二轮 凌维康 刘馨蕊 20:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天09-08",WTT 男女单打资格赛第二轮 凌维康 刘馨蕊 20:25
+#EXTINF:-1 tvg-id="男女单打资格赛小组赛" tvg-name="WTT 男女单打资格赛小组赛 凌维康 刘馨蕊 20:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天09-08",WTT 男女单打资格赛小组赛 凌维康 刘馨蕊 20:25
 http://106.52.165.247:1234/967161339
-#EXTINF:-1 tvg-id="男女单打资格赛第二轮" tvg-name="WTT 男女单打资格赛第二轮 1号桌 20:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天09-08",WTT 男女单打资格赛第二轮 1号桌 20:25
+#EXTINF:-1 tvg-id="男女单打资格赛小组赛" tvg-name="WTT 男女单打资格赛小组赛 1号桌 20:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天09-08",WTT 男女单打资格赛小组赛 1号桌 20:25
 http://106.52.165.247:1234/967161242
-#EXTINF:-1 tvg-id="男女单打资格赛第二轮" tvg-name="WTT 男女单打资格赛第二轮 2号桌 20:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天09-08",WTT 男女单打资格赛第二轮 2号桌 20:25
+#EXTINF:-1 tvg-id="男女单打资格赛小组赛" tvg-name="WTT 男女单打资格赛小组赛 2号桌 20:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天09-08",WTT 男女单打资格赛小组赛 2号桌 20:25
 http://106.52.165.247:1234/967161263
-#EXTINF:-1 tvg-id="男女单打资格赛第二轮" tvg-name="WTT 男女单打资格赛第二轮 3号桌 20:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天09-08",WTT 男女单打资格赛第二轮 3号桌 20:25
+#EXTINF:-1 tvg-id="男女单打资格赛小组赛" tvg-name="WTT 男女单打资格赛小组赛 3号桌 20:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天09-08",WTT 男女单打资格赛小组赛 3号桌 20:25
 http://106.52.165.247:1234/967161279
-#EXTINF:-1 tvg-id="男女单打资格赛第二轮" tvg-name="WTT 男女单打资格赛第二轮 4号桌 20:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天09-08",WTT 男女单打资格赛第二轮 4号桌 20:25
+#EXTINF:-1 tvg-id="男女单打资格赛小组赛" tvg-name="WTT 男女单打资格赛小组赛 4号桌 20:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天09-08",WTT 男女单打资格赛小组赛 4号桌 20:25
 http://106.52.165.247:1234/967161316
 #EXTINF:-1 tvg-id="男女单打1/4决赛" tvg-name="美国网球公开赛 男女单打1/4决赛 阿瑟・阿什球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-明天09-08",美国网球公开赛 男女单打1/4决赛 阿瑟・阿什球场 23:00
 http://106.52.165.247:1234/967049022
@@ -1126,8 +1132,6 @@ http://112.227.85.93:1234/713589837
 http://112.227.85.93:1234/959986618
 #EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/200/202509251348_1758698362959_H32_1080.webp" group-title="纪实",环球旅游
 http://112.227.85.93:1234/958475356
-#EXTINF:-1 tvg-id="梨园频道" tvg-name="梨园频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/344/202604101045_1774936529944_H32_1080.webp" group-title="纪实",梨园频道
-http://112.227.85.93:1234/961930369
 #EXTINF:-1 tvg-id="国际米兰VS那不勒斯" tvg-name="国际米兰VS那不勒斯" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-昨天",意甲 国际米兰VS那不勒斯 全场回放（刘腾、贺宇） 23:45
 http://112.227.85.93:1234/967328660
 #EXTINF:-1 tvg-id="帕纳斯爆肝TKO霍克杀进排名" tvg-name="帕纳斯爆肝TKO霍克杀进排名" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/1000000002391064d391.png" group-title="体育-昨天",UFC格斗之夜 帕纳斯爆肝TKO霍克杀进排名 主赛（郑文祺、张波） 23:55
@@ -1176,6 +1180,10 @@ http://112.227.85.93:1234/967342703
 http://112.227.85.93:1234/967343742
 #EXTINF:-1 tvg-id="东北100跑山赛" tvg-name="东北100跑山赛" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/3/10000000153510667a2e.png" group-title="体育-昨天",凯乐石松花湖东北100跑山赛 东北100跑山赛 2026凯乐石松花湖东北100跑山赛Day3全场回放（官方解说） 08:00
 http://112.227.85.93:1234/967344188
+#EXTINF:-1 tvg-id="undefined" tvg-name="undefined" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/10/7/100000001233106a7b6e.png" group-title="体育-昨天",咪咕体育日报 undefined 一球制胜！曼城力克考文垂，豪取联赛三连胜 08:00
+http://112.227.85.93:1234/967338007
+#EXTINF:-1 tvg-id="undefined" tvg-name="undefined" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/10/7/100000001233106a7b6e.png" group-title="体育-昨天",咪咕体育日报 undefined 圆梦登顶！冯彬投出赛季最佳，斩获钻石联赛年度总冠军 08:00
+http://112.227.85.93:1234/967338185
 #EXTINF:-1 tvg-id="斯塔罗杜布采娃VS莱巴金娜" tvg-name="斯塔罗杜布采娃VS莱巴金娜" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 斯塔罗杜布采娃VS莱巴金娜 【回放】斯塔罗杜布采娃0-2莱巴金娜（单文强） 05:00
 http://112.227.85.93:1234/967342263
 #EXTINF:-1 tvg-id="斯塔罗杜布采娃VS莱巴金娜" tvg-name="斯塔罗杜布采娃VS莱巴金娜" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 斯塔罗杜布采娃VS莱巴金娜 【回放】斯塔罗杜布采娃0-2莱巴金娜（赛场原声） 05:00
@@ -1236,7 +1244,7 @@ http://112.227.85.93:1234/967351539
 http://112.227.85.93:1234/967350503
 #EXTINF:-1 tvg-id="NBA精彩重播：勇士vs火箭" tvg-name="NBA精彩重播：勇士vs火箭" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-昨天",NBA经典赛事 NBA精彩重播：勇士vs火箭 全场回放（姜帆、马健、闫宇峰、小七） 18:00
 http://112.227.85.93:1234/963438610
-#EXTINF:-1 tvg-id="厦门海豚3-0深圳蓝袜" tvg-name="厦门海豚3-0深圳蓝袜" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001517106f3b81.png" group-title="体育-昨天",CPB中国棒球城市联赛 厦门海豚3-0深圳蓝袜 2026赛季CPB中国棒球城市联赛深圳赛区全场回放：厦门海豚3-0深圳蓝袜（官方解说） 18:30
+#EXTINF:-1 tvg-id="厦门海豚3-0深圳蓝袜" tvg-name="厦门海豚3-0深圳蓝袜" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001517106f3b81.png" group-title="体育-昨天",CPB中国棒球城市联赛 厦门海豚3-0深圳蓝袜 【全场回放】厦门海豚3-0深圳蓝袜（官方解说） 18:30
 http://112.227.85.93:1234/967356442
 #EXTINF:-1 tvg-id="重庆铜梁龙VS上海申花" tvg-name="重庆铜梁龙VS上海申花" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="体育-昨天",中超 重庆铜梁龙VS上海申花 全场回放（娄一晨、刘越、姚安妮） 18:55
 http://112.227.85.93:1234/967356349
@@ -1320,10 +1328,12 @@ http://112.227.85.93:1234/967361525
 http://112.227.85.93:1234/967364183
 #EXTINF:-1 tvg-id="瓦伦西亚VS巴塞罗那" tvg-name="瓦伦西亚VS巴塞罗那" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-昨天",西甲 瓦伦西亚VS巴塞罗那 全场回放（梁祥宇、王宇） 22:00
 http://112.227.85.93:1234/967364987
-#EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 2026美国网球公开赛正赛Day8阿瑟・阿什球场全场回放（AI同声传译） 23:00
-http://112.227.85.93:1234/967388964
-#EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 2026美国网球公开赛青少年男单第1轮回放：帕加尼2-0巴埃纳（赛场原声） 23:00
-http://112.227.85.93:1234/967386903
+#EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 2026美国网球公开赛青少年男单第1轮回放：阿尔法诺0-2亚历山德雷斯库（赛场原声） 23:00
+http://112.227.85.93:1234/967402061
+#EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 2026美国网球公开赛青少年男单第1轮回放：切班2-0樱井义浩（赛场原声） 23:00
+http://112.227.85.93:1234/967399161
+#EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 2026美国网球公开赛青少年女单第1轮回放：高达2-0埃格尔斯巴赫（赛场原声） 23:00
+http://112.227.85.93:1234/967398665
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【男单1/8决赛】保罗0-3阿尔卡拉斯（单文强） 23:00
 http://112.227.85.93:1234/967374118
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【男单1/8决赛】梅德维德夫0-3蒂亚福（鸿昆） 23:00
@@ -1392,6 +1402,8 @@ http://112.227.85.93:1234/967365727
 http://112.227.85.93:1234/967372406
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年男单第1轮】伊达拉加1-2加利诺（赛场原声） 23:00
 http://112.227.85.93:1234/967374508
+#EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年男单第1轮】多伊格2-0达维多夫（赛场原声） 23:00
+http://112.227.85.93:1234/967396577
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【男单第1轮】德阿莫林1-2本杰明（赛场原声） 23:00
 http://112.227.85.93:1234/967378056
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年男单第1轮】赖扎赫1-2雷迪（赛场原声） 23:00
@@ -1416,6 +1428,8 @@ http://112.227.85.93:1234/967379101
 http://112.227.85.93:1234/967385706
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年男单第1轮】科扎德0-2贝尔曼（赛场原声） 23:00
 http://112.227.85.93:1234/967385604
+#EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年男单第1轮】帕加尼2-0巴埃纳（赛场原声） 23:00
+http://112.227.85.93:1234/967386903
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年男单第1轮】拉甘1-2马塞拉尼（赛场原声） 23:00
 http://112.227.85.93:1234/967371340
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年男单第1轮】孔杜里2-0库西（赛场原声） 23:00
@@ -1458,12 +1472,16 @@ http://112.227.85.93:1234/967374562
 http://112.227.85.93:1234/967385408
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年女单第1轮】黑泽利特2-0贝维兹（赛场原声） 23:00
 http://112.227.85.93:1234/967370957
+#EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年女单第1轮】皮斯托拉2-1皮尔歇尔（赛场原声） 23:00
+http://112.227.85.93:1234/967392297
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年女单第1轮】阿拉迈0-2K·皮耶尼奇科娃（赛场原声） 23:00
 http://112.227.85.93:1234/967364508
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【全场回放】阿姆斯特朗球场球场（AI同声传译）（一） 23:00
 http://112.227.85.93:1234/967381565
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【全场回放】阿姆斯特朗球场球场（AI同声传译）（二） 23:00
 http://112.227.85.93:1234/967381097
+#EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【全场回放】阿瑟・阿什球场（AI同声传译） 23:00
+http://112.227.85.93:1234/967388964
 #EXTINF:-1 tvg-id="昂热VS雷恩" tvg-name="昂热VS雷恩" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-昨天",法甲 昂热VS雷恩 全场回放（邵煊） 23:00
 http://112.227.85.93:1234/967368453
 #EXTINF:-1 tvg-id="阿森纳VS切尔西" tvg-name="阿森纳VS切尔西" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-昨天",英超 阿森纳VS切尔西 全场回放（詹俊、张路、郭小仙儿） 23:15
@@ -1516,62 +1534,54 @@ http://112.227.85.93:1234/967376070
 http://112.227.85.93:1234/967377903
 #EXTINF:-1 tvg-id="佩古拉VS科斯蒂亚" tvg-name="佩古拉VS科斯蒂亚" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 佩古拉VS科斯蒂亚 全场回放 04:30
 http://112.227.85.93:1234/967378108
-#EXTINF:-1 tvg-id="新西兰队0-3中国队" tvg-name="新西兰队0-3中国队" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/3/1000000015341066cc3b.png" group-title="体育-今天",亚洲男排锦标赛 新西兰队0-3中国队 CCTV5 12:30
-http://112.227.85.93:1234/967385619
-#EXTINF:-1 tvg-id="世界跆拳道大奖赛韩国茂朱站第三日" tvg-name="世界跆拳道大奖赛韩国茂朱站第三日" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/2/100000001476106697fd.png" group-title="体育-今天",世界跆拳道大奖赛 世界跆拳道大奖赛韩国茂朱站第三日 解说 15:55
-http://112.227.85.93:1234/967199619
-#EXTINF:-1 tvg-id="丁俊晖VS迈克尔·霍尔特" tvg-name="丁俊晖VS迈克尔·霍尔特" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 丁俊晖VS迈克尔·霍尔特 秦正 17:00
-http://112.227.85.93:1234/967387843
-#EXTINF:-1 tvg-id="丁俊晖VS迈克尔·霍尔特" tvg-name="丁俊晖VS迈克尔·霍尔特" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 丁俊晖VS迈克尔·霍尔特 赛场原声 17:00
-http://112.227.85.93:1234/967297665
-#EXTINF:-1 tvg-id="斯佳辉VS罗比·威廉姆斯" tvg-name="斯佳辉VS罗比·威廉姆斯" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 斯佳辉VS罗比·威廉姆斯 乔迁 17:00
-http://112.227.85.93:1234/967387926
-#EXTINF:-1 tvg-id="斯佳辉VS罗比·威廉姆斯" tvg-name="斯佳辉VS罗比·威廉姆斯" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 斯佳辉VS罗比·威廉姆斯 斯佳辉VS罗比·威廉姆斯 17:00
-http://112.227.85.93:1234/967297673
-#EXTINF:-1 tvg-id="比利时VS澳大利亚" tvg-name="比利时VS澳大利亚" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天",女篮世界杯 比利时VS澳大利亚 连睿 周鹏 17:20
-http://112.227.85.93:1234/967223267
-#EXTINF:-1 tvg-id="比利时VS澳大利亚" tvg-name="比利时VS澳大利亚" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天",女篮世界杯 比利时VS澳大利亚 赛场原声 17:20
-http://112.227.85.93:1234/967199574
-#EXTINF:-1 tvg-id="比利时VS澳大利亚" tvg-name="比利时VS澳大利亚" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天",女篮世界杯 比利时VS澳大利亚 英文解说 17:20
-http://112.227.85.93:1234/967221848
-#EXTINF:-1 tvg-id="波多黎各VS土耳其" tvg-name="波多黎各VS土耳其" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天",女篮世界杯 波多黎各VS土耳其 赛场原声 17:20
-http://112.227.85.93:1234/967199579
-#EXTINF:-1 tvg-id="波多黎各VS土耳其" tvg-name="波多黎各VS土耳其" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天",女篮世界杯 波多黎各VS土耳其 英文解说 17:20
-http://112.227.85.93:1234/967221856
-#EXTINF:-1 tvg-id="NBA精彩重播：掘金vs湖人" tvg-name="NBA精彩重播：掘金vs湖人" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-今天",NBA经典赛事 NBA精彩重播：掘金vs湖人 杨健 曾令旭 马健 18:00
-http://112.227.85.93:1234/966323867
-#EXTINF:-1 tvg-id="朱子恒、程靖淇、马特带您前瞻" tvg-name="朱子恒、程靖淇、马特带您前瞻" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 朱子恒、程靖淇、马特带您前瞻 朱子恒 程靖淇 马特 19:00
-http://112.227.85.93:1234/967159096
-#EXTINF:-1 tvg-id="常冰玉、张安达、袁思俊出战" tvg-name="常冰玉、张安达、袁思俊出战" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 常冰玉、张安达、袁思俊出战 陶哲铭 20:00
-http://112.227.85.93:1234/967387933
-#EXTINF:-1 tvg-id="常冰玉、张安达、袁思俊出战" tvg-name="常冰玉、张安达、袁思俊出战" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 常冰玉、张安达、袁思俊出战 涂子轩 21:00
-http://112.227.85.93:1234/967388473
-#EXTINF:-1 tvg-id="常冰玉、张安达、袁思俊出战" tvg-name="常冰玉、张安达、袁思俊出战" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 常冰玉、张安达、袁思俊出战 1号桌 20:00
+#EXTINF:-1 tvg-id="undefined" tvg-name="undefined" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/10/7/100000001233106a7b6e.png" group-title="体育-今天",咪咕体育日报 undefined 巴萨火力全开，五球大胜瓦伦西亚，豪取联赛四连胜 08:00
+http://112.227.85.93:1234/967376337
+#EXTINF:-1 tvg-id="undefined" tvg-name="undefined" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/10/7/100000001233106a7b6e.png" group-title="体育-今天",咪咕体育日报 undefined F1意大利大奖赛，安东内利低位逆袭夺魁，勒克莱尔撞墙退赛 08:00
+http://112.227.85.93:1234/967376377
+#EXTINF:-1 tvg-id="undefined" tvg-name="undefined" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/10/7/100000001233106a7b6e.png" group-title="体育-今天",咪咕体育日报 undefined 女篮世界杯小组赛，中国女篮加时翻盘，逆转捷克拿下生死战 08:00
+http://112.227.85.93:1234/967376470
+#EXTINF:-1 tvg-id="undefined" tvg-name="undefined" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/10/7/100000001233106a7b6e.png" group-title="体育-今天",咪咕体育日报 undefined 羽毛球大师赛落幕，国羽斩获1冠2亚，多项纪录就此诞生 08:00
+http://112.227.85.93:1234/967376436
+#EXTINF:-1 tvg-id="undefined" tvg-name="undefined" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/10/7/100000001233106a7b6e.png" group-title="体育-今天",咪咕体育日报 undefined 钻石联赛总决赛，严子怡逆境逆转摘金，成为最年轻女子总冠军 08:00
+http://112.227.85.93:1234/967376427
+#EXTINF:-1 tvg-id="世界跆拳道大奖赛韩国茂朱站第三日" tvg-name="世界跆拳道大奖赛韩国茂朱站第三日" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/2/100000001476106697fd.png" group-title="体育-今天",世界跆拳道大奖赛 世界跆拳道大奖赛韩国茂朱站第三日 2026世界跆拳道大奖赛韩国茂朱站Day3全场回放（官方解说） 15:55
+http://112.227.85.93:1234/967402308
+#EXTINF:-1 tvg-id="丁俊晖VS迈克尔·霍尔特" tvg-name="丁俊晖VS迈克尔·霍尔特" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 丁俊晖VS迈克尔·霍尔特 2026斯诺克英格兰公开赛第一轮Day1下午场回放：丁俊晖4-3迈克尔·霍尔特（秦正） 17:00
+http://112.227.85.93:1234/967402345
+#EXTINF:-1 tvg-id="丁俊晖VS迈克尔·霍尔特" tvg-name="丁俊晖VS迈克尔·霍尔特" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 丁俊晖VS迈克尔·霍尔特 2026斯诺克英格兰公开赛第一轮Day1下午场回放：丁俊晖4-3迈克尔·霍尔特（赛场原声） 17:00
+http://112.227.85.93:1234/967403001
+#EXTINF:-1 tvg-id="斯佳辉VS罗比·威廉姆斯" tvg-name="斯佳辉VS罗比·威廉姆斯" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 斯佳辉VS罗比·威廉姆斯 2026斯诺克英格兰公开赛第一轮Day1下午场回放：斯佳辉1-4罗比·威廉姆斯（乔迁） 17:00
+http://112.227.85.93:1234/967401338
+#EXTINF:-1 tvg-id="斯佳辉VS罗比·威廉姆斯" tvg-name="斯佳辉VS罗比·威廉姆斯" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 斯佳辉VS罗比·威廉姆斯 26/27赛季斯诺克英格兰公开赛第一轮Day1下午场回放：斯佳辉1-4罗比·威廉姆斯（赛场原声） 17:00
+http://112.227.85.93:1234/967401794
+#EXTINF:-1 tvg-id="比利时VS澳大利亚" tvg-name="比利时VS澳大利亚" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天",女篮世界杯 比利时VS澳大利亚 全场回放（连睿、周鹏） 17:20
+http://112.227.85.93:1234/967401709
+#EXTINF:-1 tvg-id="比利时VS澳大利亚" tvg-name="比利时VS澳大利亚" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天",女篮世界杯 比利时VS澳大利亚 全场回放（赛场原声） 17:20
+http://112.227.85.93:1234/967402511
+#EXTINF:-1 tvg-id="比利时VS澳大利亚" tvg-name="比利时VS澳大利亚" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天",女篮世界杯 比利时VS澳大利亚 全场回放（英文解说） 17:20
+http://112.227.85.93:1234/967402414
+#EXTINF:-1 tvg-id="波多黎各VS土耳其" tvg-name="波多黎各VS土耳其" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天",女篮世界杯 波多黎各VS土耳其 全场回放（英文解说） 17:20
+http://112.227.85.93:1234/967402502
+#EXTINF:-1 tvg-id="波多黎各VS土耳其" tvg-name="波多黎各VS土耳其" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天",女篮世界杯 波多黎各VS土耳其 全场回放（赛场原声） 17:20
+http://112.227.85.93:1234/967402518
+#EXTINF:-1 tvg-id="NBA精彩重播：掘金vs湖人" tvg-name="NBA精彩重播：掘金vs湖人" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-今天",NBA经典赛事 NBA精彩重播：掘金vs湖人 全场回放（杨健、曾令旭、马健、佳依） 18:00
+http://112.227.85.93:1234/963632295
+#EXTINF:-1 tvg-id="朱子恒、程靖淇、马特解析国乒签位" tvg-name="朱子恒、程靖淇、马特解析国乒签位" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 朱子恒、程靖淇、马特解析国乒签位 全场回放（朱子恒、程靖淇、马特） 19:00
+http://112.227.85.93:1234/967402986
+#EXTINF:-1 tvg-id="囧哥出战 张安达、袁思俊晋级" tvg-name="囧哥出战 张安达、袁思俊晋级" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 囧哥出战 张安达、袁思俊晋级 1号桌 20:00
 http://112.227.85.93:1234/967297716
-#EXTINF:-1 tvg-id="常冰玉、张安达、袁思俊出战" tvg-name="常冰玉、张安达、袁思俊出战" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 常冰玉、张安达、袁思俊出战 2号桌 20:00
+#EXTINF:-1 tvg-id="囧哥出战 张安达、袁思俊晋级" tvg-name="囧哥出战 张安达、袁思俊晋级" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 囧哥出战 张安达、袁思俊晋级 2号桌 20:00
 http://112.227.85.93:1234/967297753
-#EXTINF:-1 tvg-id="常冰玉、张安达、袁思俊出战" tvg-name="常冰玉、张安达、袁思俊出战" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 常冰玉、张安达、袁思俊出战 3号桌 20:00
-http://112.227.85.93:1234/967297762
-#EXTINF:-1 tvg-id="常冰玉、张安达、袁思俊出战" tvg-name="常冰玉、张安达、袁思俊出战" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 常冰玉、张安达、袁思俊出战 4号桌 20:00
+#EXTINF:-1 tvg-id="囧哥出战 张安达、袁思俊晋级" tvg-name="囧哥出战 张安达、袁思俊晋级" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 囧哥出战 张安达、袁思俊晋级 4号桌 20:00
 http://112.227.85.93:1234/967297775
-#EXTINF:-1 tvg-id="《早安美网》第八期" tvg-name="《早安美网》第八期" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 《早安美网》第八期 《早安美网》 20:00
-http://112.227.85.93:1234/967052149
-#EXTINF:-1 tvg-id="匈牙利VS韩国" tvg-name="匈牙利VS韩国" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天",女篮世界杯 匈牙利VS韩国 刘圳展 20:20
-http://112.227.85.93:1234/967223371
-#EXTINF:-1 tvg-id="匈牙利VS韩国" tvg-name="匈牙利VS韩国" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天",女篮世界杯 匈牙利VS韩国 赛场原声 20:20
-http://112.227.85.93:1234/967199592
-#EXTINF:-1 tvg-id="匈牙利VS韩国" tvg-name="匈牙利VS韩国" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天",女篮世界杯 匈牙利VS韩国 英文解说 20:20
-http://112.227.85.93:1234/967221865
-#EXTINF:-1 tvg-id="尼日利亚VS法国" tvg-name="尼日利亚VS法国" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天",女篮世界杯 尼日利亚VS法国 蔡凯臣 20:20
-http://112.227.85.93:1234/967223503
-#EXTINF:-1 tvg-id="尼日利亚VS法国" tvg-name="尼日利亚VS法国" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天",女篮世界杯 尼日利亚VS法国 赛场原声 20:20
-http://112.227.85.93:1234/967199597
-#EXTINF:-1 tvg-id="尼日利亚VS法国" tvg-name="尼日利亚VS法国" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天",女篮世界杯 尼日利亚VS法国 英文解说 20:20
-http://112.227.85.93:1234/967221871
-#EXTINF:-1 tvg-id="米拉冲八强 高芙、约维奇上演美国德比" tvg-name="米拉冲八强 高芙、约维奇上演美国德比" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 阿瑟・阿什球场 23:00
-http://112.227.85.93:1234/967048202
+#EXTINF:-1 tvg-id="米拉冲八强 高芙、约维奇上演美国德比" tvg-name="米拉冲八强 高芙、约维奇上演美国德比" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 斯瓦泰克 VS 郑钦文 22:30
+http://112.227.85.93:1234/967398566
+#EXTINF:-1 tvg-id="米拉冲八强 高芙、约维奇上演美国德比" tvg-name="米拉冲八强 高芙、约维奇上演美国德比" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 安德列娃 vs 波塔波娃 23:00
+http://112.227.85.93:1234/967398712
 #EXTINF:-1 tvg-id="米拉冲八强 高芙、约维奇上演美国德比" tvg-name="米拉冲八强 高芙、约维奇上演美国德比" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 阿姆斯特朗球场 23:00
 http://112.227.85.93:1234/967048232
+#EXTINF:-1 tvg-id="米拉冲八强 高芙、约维奇上演美国德比" tvg-name="米拉冲八强 高芙、约维奇上演美国德比" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 路易斯・阿姆斯特朗球场 23:00
+http://112.227.85.93:1234/967398482
 #EXTINF:-1 tvg-id="米拉冲八强 高芙、约维奇上演美国德比" tvg-name="米拉冲八强 高芙、约维奇上演美国德比" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 大看台球场 23:00
 http://112.227.85.93:1234/967048251
 #EXTINF:-1 tvg-id="米拉冲八强 高芙、约维奇上演美国德比" tvg-name="米拉冲八强 高芙、约维奇上演美国德比" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 17号球场 23:00
@@ -1604,6 +1614,10 @@ http://112.227.85.93:1234/967049138
 http://112.227.85.93:1234/967048156
 #EXTINF:-1 tvg-id="米拉冲八强 高芙、约维奇上演美国德比" tvg-name="米拉冲八强 高芙、约维奇上演美国德比" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 英文解说 23:00
 http://112.227.85.93:1234/967048178
+#EXTINF:-1 tvg-id="斯瓦泰克VS郑钦文" tvg-name="斯瓦泰克VS郑钦文" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 斯瓦泰克VS郑钦文 詹俊 胡力涛 22:30
+http://112.227.85.93:1234/967398566
+#EXTINF:-1 tvg-id="斯瓦泰克VS郑钦文" tvg-name="斯瓦泰克VS郑钦文" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 斯瓦泰克VS郑钦文 赛场原声 23:30
+http://112.227.85.93:1234/967398609
 #EXTINF:-1 tvg-id="日本VS西班牙" tvg-name="日本VS西班牙" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天",女篮世界杯 日本VS西班牙 邵化谦 季孟年 23:40
 http://112.227.85.93:1234/967223618
 #EXTINF:-1 tvg-id="日本VS西班牙" tvg-name="日本VS西班牙" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天",女篮世界杯 日本VS西班牙 赛场原声 23:40
@@ -1636,6 +1650,10 @@ http://112.227.85.93:1234/967297866
 http://112.227.85.93:1234/967298694
 #EXTINF:-1 tvg-id="赵心童出战 周跃龙PK穆迪" tvg-name="赵心童出战 周跃龙PK穆迪" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 赵心童出战 周跃龙PK穆迪 4号桌 02:00
 http://112.227.85.93:1234/967297880
+#EXTINF:-1 tvg-id="大坂直美VS莱巴金娜" tvg-name="大坂直美VS莱巴金娜" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-明天",美国网球公开赛 大坂直美VS莱巴金娜 单文强 02:30
+http://112.227.85.93:1234/967398791
+#EXTINF:-1 tvg-id="大坂直美VS莱巴金娜" tvg-name="大坂直美VS莱巴金娜" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-明天",美国网球公开赛 大坂直美VS莱巴金娜 赛场原声 02:30
+http://112.227.85.93:1234/967398714
 #EXTINF:-1 tvg-id="乌迪内斯VS拉齐奥" tvg-name="乌迪内斯VS拉齐奥" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-明天",意甲 乌迪内斯VS拉齐奥 张昊泽 02:30
 http://112.227.85.93:1234/967213646
 #EXTINF:-1 tvg-id="乌迪内斯VS拉齐奥" tvg-name="乌迪内斯VS拉齐奥" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-明天",意甲 乌迪内斯VS拉齐奥 赛场原声 02:30
@@ -1670,15 +1688,15 @@ http://112.227.85.93:1234/967155868
 http://112.227.85.93:1234/967155795
 #EXTINF:-1 tvg-id="陈熠冲开门红 陈垣宇PK阿萨尔" tvg-name="陈熠冲开门红 陈垣宇PK阿萨尔" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 陈熠冲开门红 陈垣宇PK阿萨尔 英文解说 11:00
 http://112.227.85.93:1234/967155820
-#EXTINF:-1 tvg-id="男女单打资格赛第一轮" tvg-name="男女单打资格赛第一轮" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 男女单打资格赛第一轮 凌维康 徐铭辰 14:00
+#EXTINF:-1 tvg-id="张旋冲开门红 孟凡博PK伊尔马兹" tvg-name="张旋冲开门红 孟凡博PK伊尔马兹" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 张旋冲开门红 孟凡博PK伊尔马兹 凌维康 徐铭辰 14:00
 http://112.227.85.93:1234/967161220
-#EXTINF:-1 tvg-id="男女单打资格赛第一轮" tvg-name="男女单打资格赛第一轮" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 男女单打资格赛第一轮 1号桌 14:00
+#EXTINF:-1 tvg-id="张旋冲开门红 孟凡博PK伊尔马兹" tvg-name="张旋冲开门红 孟凡博PK伊尔马兹" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 张旋冲开门红 孟凡博PK伊尔马兹 1号桌 14:00
 http://112.227.85.93:1234/967161129
-#EXTINF:-1 tvg-id="男女单打资格赛第一轮" tvg-name="男女单打资格赛第一轮" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 男女单打资格赛第一轮 2号桌 14:00
+#EXTINF:-1 tvg-id="张旋冲开门红 孟凡博PK伊尔马兹" tvg-name="张旋冲开门红 孟凡博PK伊尔马兹" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 张旋冲开门红 孟凡博PK伊尔马兹 2号桌 14:00
 http://112.227.85.93:1234/967161177
-#EXTINF:-1 tvg-id="男女单打资格赛第一轮" tvg-name="男女单打资格赛第一轮" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 男女单打资格赛第一轮 3号桌 14:00
+#EXTINF:-1 tvg-id="张旋冲开门红 孟凡博PK伊尔马兹" tvg-name="张旋冲开门红 孟凡博PK伊尔马兹" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 张旋冲开门红 孟凡博PK伊尔马兹 3号桌 14:00
 http://112.227.85.93:1234/967161189
-#EXTINF:-1 tvg-id="男女单打资格赛第一轮" tvg-name="男女单打资格赛第一轮" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 男女单打资格赛第一轮 4号桌 14:00
+#EXTINF:-1 tvg-id="张旋冲开门红 孟凡博PK伊尔马兹" tvg-name="张旋冲开门红 孟凡博PK伊尔马兹" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 张旋冲开门红 孟凡博PK伊尔马兹 4号桌 14:00
 http://112.227.85.93:1234/967161201
 #EXTINF:-1 tvg-id="肖国栋、王信伯出战" tvg-name="肖国栋、王信伯出战" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 肖国栋、王信伯出战 1号桌 17:00
 http://112.227.85.93:1234/967297895
@@ -1708,15 +1726,15 @@ http://112.227.85.93:1234/967297937
 http://112.227.85.93:1234/967297951
 #EXTINF:-1 tvg-id="吴宜泽、庞俊旭出战 老马、雷佩凡接台" tvg-name="吴宜泽、庞俊旭出战 老马、雷佩凡接台" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 吴宜泽、庞俊旭出战 老马、雷佩凡接台 4号桌 20:00
 http://112.227.85.93:1234/967297966
-#EXTINF:-1 tvg-id="男女单打资格赛第二轮" tvg-name="男女单打资格赛第二轮" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 男女单打资格赛第二轮 凌维康 刘馨蕊 20:25
+#EXTINF:-1 tvg-id="男女单打资格赛小组赛" tvg-name="男女单打资格赛小组赛" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 男女单打资格赛小组赛 凌维康 刘馨蕊 20:25
 http://112.227.85.93:1234/967161339
-#EXTINF:-1 tvg-id="男女单打资格赛第二轮" tvg-name="男女单打资格赛第二轮" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 男女单打资格赛第二轮 1号桌 20:25
+#EXTINF:-1 tvg-id="男女单打资格赛小组赛" tvg-name="男女单打资格赛小组赛" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 男女单打资格赛小组赛 1号桌 20:25
 http://112.227.85.93:1234/967161242
-#EXTINF:-1 tvg-id="男女单打资格赛第二轮" tvg-name="男女单打资格赛第二轮" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 男女单打资格赛第二轮 2号桌 20:25
+#EXTINF:-1 tvg-id="男女单打资格赛小组赛" tvg-name="男女单打资格赛小组赛" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 男女单打资格赛小组赛 2号桌 20:25
 http://112.227.85.93:1234/967161263
-#EXTINF:-1 tvg-id="男女单打资格赛第二轮" tvg-name="男女单打资格赛第二轮" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 男女单打资格赛第二轮 3号桌 20:25
+#EXTINF:-1 tvg-id="男女单打资格赛小组赛" tvg-name="男女单打资格赛小组赛" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 男女单打资格赛小组赛 3号桌 20:25
 http://112.227.85.93:1234/967161279
-#EXTINF:-1 tvg-id="男女单打资格赛第二轮" tvg-name="男女单打资格赛第二轮" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 男女单打资格赛第二轮 4号桌 20:25
+#EXTINF:-1 tvg-id="男女单打资格赛小组赛" tvg-name="男女单打资格赛小组赛" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 男女单打资格赛小组赛 4号桌 20:25
 http://112.227.85.93:1234/967161316
 #EXTINF:-1 tvg-id="男女单打1/4决赛" tvg-name="男女单打1/4决赛" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-明天",美国网球公开赛 男女单打1/4决赛 阿瑟・阿什球场 23:00
 http://112.227.85.93:1234/967049022
@@ -2196,6 +2214,12 @@ http://110.81.121.34:7788/967361525
 http://110.81.121.34:7788/967364183
 #EXTINF:-1 tvg-id="瓦伦西亚VS巴塞罗那" tvg-name="西甲 瓦伦西亚VS巴塞罗那 全场回放（梁祥宇、王宇） 22:00" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-昨天",西甲 瓦伦西亚VS巴塞罗那 全场回放（梁祥宇、王宇） 22:00
 http://110.81.121.34:7788/967364987
+#EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 2026美国网球公开赛青少年男单第1轮回放：阿尔法诺0-2亚历山德雷斯库（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 2026美国网球公开赛青少年男单第1轮回放：阿尔法诺0-2亚历山德雷斯库（赛场原声） 23:00
+http://110.81.121.34:7788/967402061
+#EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 2026美国网球公开赛青少年男单第1轮回放：切班2-0樱井义浩（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 2026美国网球公开赛青少年男单第1轮回放：切班2-0樱井义浩（赛场原声） 23:00
+http://110.81.121.34:7788/967399161
+#EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 2026美国网球公开赛青少年女单第1轮回放：高达2-0埃格尔斯巴赫（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 2026美国网球公开赛青少年女单第1轮回放：高达2-0埃格尔斯巴赫（赛场原声） 23:00
+http://110.81.121.34:7788/967398665
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【男单1/8决赛】保罗0-3阿尔卡拉斯（单文强） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【男单1/8决赛】保罗0-3阿尔卡拉斯（单文强） 23:00
 http://110.81.121.34:7788/967374118
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【男单1/8决赛】梅德维德夫0-3蒂亚福（鸿昆） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【男单1/8决赛】梅德维德夫0-3蒂亚福（鸿昆） 23:00
@@ -2396,62 +2420,50 @@ http://110.81.121.34:7788/967376070
 http://110.81.121.34:7788/967377903
 #EXTINF:-1 tvg-id="佩古拉VS科斯蒂亚" tvg-name="美国网球公开赛 佩古拉VS科斯蒂亚 全场回放 04:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 佩古拉VS科斯蒂亚 全场回放 04:30
 http://110.81.121.34:7788/967378108
-#EXTINF:-1 tvg-id="世界跆拳道大奖赛韩国茂朱站第三日" tvg-name="世界跆拳道大奖赛 世界跆拳道大奖赛韩国茂朱站第三日 解说 15:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/2/100000001476106697fd.png" group-title="体育-今天",世界跆拳道大奖赛 世界跆拳道大奖赛韩国茂朱站第三日 解说 15:55
-http://110.81.121.34:7788/967199619
-#EXTINF:-1 tvg-id="丁俊晖VS迈克尔·霍尔特" tvg-name="斯诺克 丁俊晖VS迈克尔·霍尔特 解说 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 丁俊晖VS迈克尔·霍尔特 解说 17:00
-http://110.81.121.34:7788/967387843
-#EXTINF:-1 tvg-id="丁俊晖VS迈克尔·霍尔特" tvg-name="斯诺克 丁俊晖VS迈克尔·霍尔特 现场原声 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 丁俊晖VS迈克尔·霍尔特 现场原声 17:00
-http://110.81.121.34:7788/967297665
-#EXTINF:-1 tvg-id="丁俊晖VS迈克尔·霍尔特" tvg-name="斯诺克 丁俊晖VS迈克尔·霍尔特 同播2号桌 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 丁俊晖VS迈克尔·霍尔特 同播2号桌 17:00
-http://110.81.121.34:7788/967297673
-#EXTINF:-1 tvg-id="斯佳辉VS罗比·威廉姆斯" tvg-name="斯诺克 斯佳辉VS罗比·威廉姆斯 乔迁 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 斯佳辉VS罗比·威廉姆斯 乔迁 17:00
-http://110.81.121.34:7788/967387926
-#EXTINF:-1 tvg-id="斯佳辉VS罗比·威廉姆斯" tvg-name="斯诺克 斯佳辉VS罗比·威廉姆斯 现场原声 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 斯佳辉VS罗比·威廉姆斯 现场原声 17:00
-http://110.81.121.34:7788/967297673
-#EXTINF:-1 tvg-id="比利时VS澳大利亚" tvg-name="女篮世界杯 比利时VS澳大利亚 连睿 周鹏 17:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天",女篮世界杯 比利时VS澳大利亚 连睿 周鹏 17:20
-http://110.81.121.34:7788/967223267
-#EXTINF:-1 tvg-id="比利时VS澳大利亚" tvg-name="女篮世界杯 比利时VS澳大利亚 赛场原声 17:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天",女篮世界杯 比利时VS澳大利亚 赛场原声 17:20
-http://110.81.121.34:7788/967199574
-#EXTINF:-1 tvg-id="比利时VS澳大利亚" tvg-name="女篮世界杯 比利时VS澳大利亚 英文解说 17:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天",女篮世界杯 比利时VS澳大利亚 英文解说 17:20
-http://110.81.121.34:7788/967221848
-#EXTINF:-1 tvg-id="波多黎各VS土耳其" tvg-name="女篮世界杯 波多黎各VS土耳其 赛场原声 17:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天",女篮世界杯 波多黎各VS土耳其 赛场原声 17:20
-http://110.81.121.34:7788/967199579
-#EXTINF:-1 tvg-id="波多黎各VS土耳其" tvg-name="女篮世界杯 波多黎各VS土耳其 英文解说 17:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天",女篮世界杯 波多黎各VS土耳其 英文解说 17:20
-http://110.81.121.34:7788/967221856
-#EXTINF:-1 tvg-id="NBA精彩重播：掘金vs湖人" tvg-name="NBA经典赛事 NBA精彩重播：掘金vs湖人 杨健 曾令旭 马健 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-今天",NBA经典赛事 NBA精彩重播：掘金vs湖人 杨健 曾令旭 马健 18:00
-http://110.81.121.34:7788/966323867
-#EXTINF:-1 tvg-id="朱子恒、程靖淇、马特带您前瞻" tvg-name="WTT 朱子恒、程靖淇、马特带您前瞻 朱子恒 程靖淇 马特 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 朱子恒、程靖淇、马特带您前瞻 朱子恒 程靖淇 马特 19:00
-http://110.81.121.34:7788/967159096
-#EXTINF:-1 tvg-id="张安达、袁思俊出战" tvg-name="斯诺克 张安达、袁思俊出战 陶哲铭 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 张安达、袁思俊出战 陶哲铭 20:00
-http://110.81.121.34:7788/967387933
-#EXTINF:-1 tvg-id="张安达、袁思俊出战" tvg-name="斯诺克 张安达、袁思俊出战 涂子轩 21:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 张安达、袁思俊出战 涂子轩 21:00
-http://110.81.121.34:7788/967388473
-#EXTINF:-1 tvg-id="张安达、袁思俊出战" tvg-name="斯诺克 张安达、袁思俊出战 1号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 张安达、袁思俊出战 1号桌 20:00
+#EXTINF:-1 tvg-id="世界跆拳道大奖赛韩国茂朱站第三日" tvg-name="世界跆拳道大奖赛 世界跆拳道大奖赛韩国茂朱站第三日 2026世界跆拳道大奖赛韩国茂朱站Day3全场回放（官方解说） 15:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/2/100000001476106697fd.png" group-title="体育-今天",世界跆拳道大奖赛 世界跆拳道大奖赛韩国茂朱站第三日 2026世界跆拳道大奖赛韩国茂朱站Day3全场回放（官方解说） 15:55
+http://110.81.121.34:7788/967402308
+#EXTINF:-1 tvg-id="丁俊晖VS迈克尔·霍尔特" tvg-name="斯诺克 丁俊晖VS迈克尔·霍尔特 2026斯诺克英格兰公开赛第一轮Day1下午场回放：丁俊晖4-3迈克尔·霍尔特（秦正） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 丁俊晖VS迈克尔·霍尔特 2026斯诺克英格兰公开赛第一轮Day1下午场回放：丁俊晖4-3迈克尔·霍尔特（秦正） 17:00
+http://110.81.121.34:7788/967402345
+#EXTINF:-1 tvg-id="丁俊晖VS迈克尔·霍尔特" tvg-name="斯诺克 丁俊晖VS迈克尔·霍尔特 2026斯诺克英格兰公开赛第一轮Day1下午场回放：丁俊晖4-3迈克尔·霍尔特（赛场原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 丁俊晖VS迈克尔·霍尔特 2026斯诺克英格兰公开赛第一轮Day1下午场回放：丁俊晖4-3迈克尔·霍尔特（赛场原声） 17:00
+http://110.81.121.34:7788/967403001
+#EXTINF:-1 tvg-id="斯佳辉VS罗比·威廉姆斯" tvg-name="斯诺克 斯佳辉VS罗比·威廉姆斯 2026斯诺克英格兰公开赛第一轮Day1下午场回放：斯佳辉1-4罗比·威廉姆斯（乔迁） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 斯佳辉VS罗比·威廉姆斯 2026斯诺克英格兰公开赛第一轮Day1下午场回放：斯佳辉1-4罗比·威廉姆斯（乔迁） 17:00
+http://110.81.121.34:7788/967401338
+#EXTINF:-1 tvg-id="斯佳辉VS罗比·威廉姆斯" tvg-name="斯诺克 斯佳辉VS罗比·威廉姆斯 26/27赛季斯诺克英格兰公开赛第一轮Day1下午场回放：斯佳辉1-4罗比·威廉姆斯（赛场原声） 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 斯佳辉VS罗比·威廉姆斯 26/27赛季斯诺克英格兰公开赛第一轮Day1下午场回放：斯佳辉1-4罗比·威廉姆斯（赛场原声） 17:00
+http://110.81.121.34:7788/967401794
+#EXTINF:-1 tvg-id="比利时VS澳大利亚" tvg-name="女篮世界杯 比利时VS澳大利亚 全场回放（连睿、周鹏） 17:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天",女篮世界杯 比利时VS澳大利亚 全场回放（连睿、周鹏） 17:20
+http://110.81.121.34:7788/967401709
+#EXTINF:-1 tvg-id="比利时VS澳大利亚" tvg-name="女篮世界杯 比利时VS澳大利亚 全场回放（赛场原声） 17:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天",女篮世界杯 比利时VS澳大利亚 全场回放（赛场原声） 17:20
+http://110.81.121.34:7788/967402511
+#EXTINF:-1 tvg-id="比利时VS澳大利亚" tvg-name="女篮世界杯 比利时VS澳大利亚 全场回放（英文解说） 17:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天",女篮世界杯 比利时VS澳大利亚 全场回放（英文解说） 17:20
+http://110.81.121.34:7788/967402414
+#EXTINF:-1 tvg-id="波多黎各VS土耳其" tvg-name="女篮世界杯 波多黎各VS土耳其 全场回放（英文解说） 17:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天",女篮世界杯 波多黎各VS土耳其 全场回放（英文解说） 17:20
+http://110.81.121.34:7788/967402502
+#EXTINF:-1 tvg-id="波多黎各VS土耳其" tvg-name="女篮世界杯 波多黎各VS土耳其 全场回放（赛场原声） 17:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天",女篮世界杯 波多黎各VS土耳其 全场回放（赛场原声） 17:20
+http://110.81.121.34:7788/967402518
+#EXTINF:-1 tvg-id="NBA精彩重播：掘金vs湖人" tvg-name="NBA经典赛事 NBA精彩重播：掘金vs湖人 全场回放（杨健、曾令旭、马健、佳依） 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-今天",NBA经典赛事 NBA精彩重播：掘金vs湖人 全场回放（杨健、曾令旭、马健、佳依） 18:00
+http://110.81.121.34:7788/963632295
+#EXTINF:-1 tvg-id="朱子恒、程靖淇、马特解析国乒签位" tvg-name="WTT 朱子恒、程靖淇、马特解析国乒签位 全场回放（朱子恒、程靖淇、马特） 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天",WTT 朱子恒、程靖淇、马特解析国乒签位 全场回放（朱子恒、程靖淇、马特） 19:00
+http://110.81.121.34:7788/967402986
+#EXTINF:-1 tvg-id="囧哥出战 张安达、袁思俊晋级" tvg-name="斯诺克 囧哥出战 张安达、袁思俊晋级 1号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 囧哥出战 张安达、袁思俊晋级 1号桌 20:00
 http://110.81.121.34:7788/967297716
-#EXTINF:-1 tvg-id="张安达、袁思俊出战" tvg-name="斯诺克 张安达、袁思俊出战 2号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 张安达、袁思俊出战 2号桌 20:00
+#EXTINF:-1 tvg-id="囧哥出战 张安达、袁思俊晋级" tvg-name="斯诺克 囧哥出战 张安达、袁思俊晋级 2号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 囧哥出战 张安达、袁思俊晋级 2号桌 20:00
 http://110.81.121.34:7788/967297753
-#EXTINF:-1 tvg-id="张安达、袁思俊出战" tvg-name="斯诺克 张安达、袁思俊出战 3号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 张安达、袁思俊出战 3号桌 20:00
-http://110.81.121.34:7788/967297762
-#EXTINF:-1 tvg-id="张安达、袁思俊出战" tvg-name="斯诺克 张安达、袁思俊出战 4号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 张安达、袁思俊出战 4号桌 20:00
+#EXTINF:-1 tvg-id="囧哥出战 张安达、袁思俊晋级" tvg-name="斯诺克 囧哥出战 张安达、袁思俊晋级 4号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天",斯诺克 囧哥出战 张安达、袁思俊晋级 4号桌 20:00
 http://110.81.121.34:7788/967297775
-#EXTINF:-1 tvg-id="《早安美网》第八期" tvg-name="美国网球公开赛 《早安美网》第八期 《早安美网》 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 《早安美网》第八期 《早安美网》 20:00
-http://110.81.121.34:7788/967052149
 #EXTINF:-1 tvg-id="匈牙利VS韩国" tvg-name="女篮世界杯 匈牙利VS韩国 刘圳展 20:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天",女篮世界杯 匈牙利VS韩国 刘圳展 20:20
 http://110.81.121.34:7788/967223371
 #EXTINF:-1 tvg-id="匈牙利VS韩国" tvg-name="女篮世界杯 匈牙利VS韩国 赛场原声 20:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天",女篮世界杯 匈牙利VS韩国 赛场原声 20:20
 http://110.81.121.34:7788/967199592
 #EXTINF:-1 tvg-id="匈牙利VS韩国" tvg-name="女篮世界杯 匈牙利VS韩国 英文解说 20:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天",女篮世界杯 匈牙利VS韩国 英文解说 20:20
 http://110.81.121.34:7788/967221865
-#EXTINF:-1 tvg-id="尼日利亚VS法国" tvg-name="女篮世界杯 尼日利亚VS法国 蔡凯臣 20:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天",女篮世界杯 尼日利亚VS法国 蔡凯臣 20:20
-http://110.81.121.34:7788/967223503
-#EXTINF:-1 tvg-id="尼日利亚VS法国" tvg-name="女篮世界杯 尼日利亚VS法国 赛场原声 20:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天",女篮世界杯 尼日利亚VS法国 赛场原声 20:20
-http://110.81.121.34:7788/967199597
-#EXTINF:-1 tvg-id="尼日利亚VS法国" tvg-name="女篮世界杯 尼日利亚VS法国 英文解说 20:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天",女篮世界杯 尼日利亚VS法国 英文解说 20:20
-http://110.81.121.34:7788/967221871
-#EXTINF:-1 tvg-id="米拉冲八强 高芙、约维奇上演美国德比" tvg-name="美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 阿瑟・阿什球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 阿瑟・阿什球场 23:00
-http://110.81.121.34:7788/967048202
+#EXTINF:-1 tvg-id="米拉冲八强 高芙、约维奇上演美国德比" tvg-name="美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 斯瓦泰克 VS 郑钦文 22:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 斯瓦泰克 VS 郑钦文 22:30
+http://110.81.121.34:7788/967398566
+#EXTINF:-1 tvg-id="米拉冲八强 高芙、约维奇上演美国德比" tvg-name="美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 安德列娃 vs 波塔波娃 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 安德列娃 vs 波塔波娃 23:00
+http://110.81.121.34:7788/967398712
 #EXTINF:-1 tvg-id="米拉冲八强 高芙、约维奇上演美国德比" tvg-name="美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 阿姆斯特朗球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 阿姆斯特朗球场 23:00
 http://110.81.121.34:7788/967048232
+#EXTINF:-1 tvg-id="米拉冲八强 高芙、约维奇上演美国德比" tvg-name="美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 路易斯・阿姆斯特朗球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 路易斯・阿姆斯特朗球场 23:00
+http://110.81.121.34:7788/967398482
 #EXTINF:-1 tvg-id="米拉冲八强 高芙、约维奇上演美国德比" tvg-name="美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 大看台球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 大看台球场 23:00
 http://110.81.121.34:7788/967048251
 #EXTINF:-1 tvg-id="米拉冲八强 高芙、约维奇上演美国德比" tvg-name="美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 17号球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 17号球场 23:00
@@ -2484,8 +2496,10 @@ http://110.81.121.34:7788/967049138
 http://110.81.121.34:7788/967048156
 #EXTINF:-1 tvg-id="米拉冲八强 高芙、约维奇上演美国德比" tvg-name="美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 英文解说 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 英文解说 23:00
 http://110.81.121.34:7788/967048178
-#EXTINF:-1 tvg-id="米拉冲八强 高芙、约维奇上演美国德比" tvg-name="美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 阿瑟・阿什球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 阿瑟・阿什球场 23:00
-http://110.81.121.34:7788/967398456
+#EXTINF:-1 tvg-id="斯瓦泰克VS郑钦文" tvg-name="美国网球公开赛 斯瓦泰克VS郑钦文 詹俊 胡力涛 22:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 斯瓦泰克VS郑钦文 詹俊 胡力涛 22:30
+http://110.81.121.34:7788/967398566
+#EXTINF:-1 tvg-id="斯瓦泰克VS郑钦文" tvg-name="美国网球公开赛 斯瓦泰克VS郑钦文 赛场原声 23:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天",美国网球公开赛 斯瓦泰克VS郑钦文 赛场原声 23:30
+http://110.81.121.34:7788/967398609
 #EXTINF:-1 tvg-id="日本VS西班牙" tvg-name="女篮世界杯 日本VS西班牙 邵化谦 季孟年 23:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天",女篮世界杯 日本VS西班牙 邵化谦 季孟年 23:40
 http://110.81.121.34:7788/967223618
 #EXTINF:-1 tvg-id="日本VS西班牙" tvg-name="女篮世界杯 日本VS西班牙 赛场原声 23:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天",女篮世界杯 日本VS西班牙 赛场原声 23:40
@@ -2518,6 +2532,10 @@ http://110.81.121.34:7788/967297866
 http://110.81.121.34:7788/967298694
 #EXTINF:-1 tvg-id="赵心童出战 周跃龙PK穆迪" tvg-name="斯诺克 赵心童出战 周跃龙PK穆迪 4号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 赵心童出战 周跃龙PK穆迪 4号桌 02:00
 http://110.81.121.34:7788/967297880
+#EXTINF:-1 tvg-id="大坂直美VS莱巴金娜" tvg-name="美国网球公开赛 大坂直美VS莱巴金娜 单文强 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-明天",美国网球公开赛 大坂直美VS莱巴金娜 单文强 02:30
+http://110.81.121.34:7788/967398791
+#EXTINF:-1 tvg-id="大坂直美VS莱巴金娜" tvg-name="美国网球公开赛 大坂直美VS莱巴金娜 赛场原声 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-明天",美国网球公开赛 大坂直美VS莱巴金娜 赛场原声 02:30
+http://110.81.121.34:7788/967398714
 #EXTINF:-1 tvg-id="乌迪内斯VS拉齐奥" tvg-name="意甲 乌迪内斯VS拉齐奥 张昊泽 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-明天",意甲 乌迪内斯VS拉齐奥 张昊泽 02:30
 http://110.81.121.34:7788/967213646
 #EXTINF:-1 tvg-id="乌迪内斯VS拉齐奥" tvg-name="意甲 乌迪内斯VS拉齐奥 赛场原声 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-明天",意甲 乌迪内斯VS拉齐奥 赛场原声 02:30
@@ -2552,15 +2570,15 @@ http://110.81.121.34:7788/967155868
 http://110.81.121.34:7788/967155795
 #EXTINF:-1 tvg-id="陈熠冲开门红 陈垣宇PK阿萨尔" tvg-name="WTT 陈熠冲开门红 陈垣宇PK阿萨尔 英文解说 11:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 陈熠冲开门红 陈垣宇PK阿萨尔 英文解说 11:00
 http://110.81.121.34:7788/967155820
-#EXTINF:-1 tvg-id="男女单打资格赛第一轮" tvg-name="WTT 男女单打资格赛第一轮 凌维康 徐铭辰 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 男女单打资格赛第一轮 凌维康 徐铭辰 14:00
+#EXTINF:-1 tvg-id="孟凡博冲开门红 张旋PK佩特科娃" tvg-name="WTT 孟凡博冲开门红 张旋PK佩特科娃 凌维康 徐铭辰 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 孟凡博冲开门红 张旋PK佩特科娃 凌维康 徐铭辰 14:00
 http://110.81.121.34:7788/967161220
-#EXTINF:-1 tvg-id="男女单打资格赛第一轮" tvg-name="WTT 男女单打资格赛第一轮 1号桌 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 男女单打资格赛第一轮 1号桌 14:00
+#EXTINF:-1 tvg-id="孟凡博冲开门红 张旋PK佩特科娃" tvg-name="WTT 孟凡博冲开门红 张旋PK佩特科娃 1号桌 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 孟凡博冲开门红 张旋PK佩特科娃 1号桌 14:00
 http://110.81.121.34:7788/967161129
-#EXTINF:-1 tvg-id="男女单打资格赛第一轮" tvg-name="WTT 男女单打资格赛第一轮 2号桌 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 男女单打资格赛第一轮 2号桌 14:00
+#EXTINF:-1 tvg-id="孟凡博冲开门红 张旋PK佩特科娃" tvg-name="WTT 孟凡博冲开门红 张旋PK佩特科娃 2号桌 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 孟凡博冲开门红 张旋PK佩特科娃 2号桌 14:00
 http://110.81.121.34:7788/967161177
-#EXTINF:-1 tvg-id="男女单打资格赛第一轮" tvg-name="WTT 男女单打资格赛第一轮 3号桌 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 男女单打资格赛第一轮 3号桌 14:00
+#EXTINF:-1 tvg-id="孟凡博冲开门红 张旋PK佩特科娃" tvg-name="WTT 孟凡博冲开门红 张旋PK佩特科娃 3号桌 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 孟凡博冲开门红 张旋PK佩特科娃 3号桌 14:00
 http://110.81.121.34:7788/967161189
-#EXTINF:-1 tvg-id="男女单打资格赛第一轮" tvg-name="WTT 男女单打资格赛第一轮 4号桌 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 男女单打资格赛第一轮 4号桌 14:00
+#EXTINF:-1 tvg-id="孟凡博冲开门红 张旋PK佩特科娃" tvg-name="WTT 孟凡博冲开门红 张旋PK佩特科娃 4号桌 14:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 孟凡博冲开门红 张旋PK佩特科娃 4号桌 14:00
 http://110.81.121.34:7788/967161201
 #EXTINF:-1 tvg-id="肖国栋、王信伯出战" tvg-name="斯诺克 肖国栋、王信伯出战 1号桌 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 肖国栋、王信伯出战 1号桌 17:00
 http://110.81.121.34:7788/967297895
@@ -2590,15 +2608,15 @@ http://110.81.121.34:7788/967297937
 http://110.81.121.34:7788/967297951
 #EXTINF:-1 tvg-id="吴宜泽、庞俊旭出战 老马、雷佩凡接台" tvg-name="斯诺克 吴宜泽、庞俊旭出战 老马、雷佩凡接台 4号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天",斯诺克 吴宜泽、庞俊旭出战 老马、雷佩凡接台 4号桌 20:00
 http://110.81.121.34:7788/967297966
-#EXTINF:-1 tvg-id="男女单打资格赛第二轮" tvg-name="WTT 男女单打资格赛第二轮 凌维康 刘馨蕊 20:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 男女单打资格赛第二轮 凌维康 刘馨蕊 20:25
+#EXTINF:-1 tvg-id="男女单打资格赛小组赛" tvg-name="WTT 男女单打资格赛小组赛 凌维康 刘馨蕊 20:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 男女单打资格赛小组赛 凌维康 刘馨蕊 20:25
 http://110.81.121.34:7788/967161339
-#EXTINF:-1 tvg-id="男女单打资格赛第二轮" tvg-name="WTT 男女单打资格赛第二轮 1号桌 20:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 男女单打资格赛第二轮 1号桌 20:25
+#EXTINF:-1 tvg-id="男女单打资格赛小组赛" tvg-name="WTT 男女单打资格赛小组赛 1号桌 20:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 男女单打资格赛小组赛 1号桌 20:25
 http://110.81.121.34:7788/967161242
-#EXTINF:-1 tvg-id="男女单打资格赛第二轮" tvg-name="WTT 男女单打资格赛第二轮 2号桌 20:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 男女单打资格赛第二轮 2号桌 20:25
+#EXTINF:-1 tvg-id="男女单打资格赛小组赛" tvg-name="WTT 男女单打资格赛小组赛 2号桌 20:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 男女单打资格赛小组赛 2号桌 20:25
 http://110.81.121.34:7788/967161263
-#EXTINF:-1 tvg-id="男女单打资格赛第二轮" tvg-name="WTT 男女单打资格赛第二轮 3号桌 20:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 男女单打资格赛第二轮 3号桌 20:25
+#EXTINF:-1 tvg-id="男女单打资格赛小组赛" tvg-name="WTT 男女单打资格赛小组赛 3号桌 20:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 男女单打资格赛小组赛 3号桌 20:25
 http://110.81.121.34:7788/967161279
-#EXTINF:-1 tvg-id="男女单打资格赛第二轮" tvg-name="WTT 男女单打资格赛第二轮 4号桌 20:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 男女单打资格赛第二轮 4号桌 20:25
+#EXTINF:-1 tvg-id="男女单打资格赛小组赛" tvg-name="WTT 男女单打资格赛小组赛 4号桌 20:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-明天",WTT 男女单打资格赛小组赛 4号桌 20:25
 http://110.81.121.34:7788/967161316
 #EXTINF:-1 tvg-id="男女单打1/4决赛" tvg-name="美国网球公开赛 男女单打1/4决赛 阿瑟・阿什球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-明天",美国网球公开赛 男女单打1/4决赛 阿瑟・阿什球场 23:00
 http://110.81.121.34:7788/967049022
@@ -2994,7 +3012,7 @@ http://116.168.24.120:2000/967351539
 http://116.168.24.120:2000/967350503
 #EXTINF:-1 tvg-id="NBA精彩重播：勇士vs火箭" tvg-name="NBA经典赛事 NBA精彩重播：勇士vs火箭 全场回放（姜帆、马健、闫宇峰、小七） 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-昨天09-06",NBA经典赛事 NBA精彩重播：勇士vs火箭 全场回放（姜帆、马健、闫宇峰、小七） 18:00
 http://116.168.24.120:2000/963438610
-#EXTINF:-1 tvg-id="厦门海豚3-0深圳蓝袜" tvg-name="CPB中国棒球城市联赛 厦门海豚3-0深圳蓝袜 2026赛季CPB中国棒球城市联赛深圳赛区全场回放：厦门海豚3-0深圳蓝袜（官方解说） 18:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001517106f3b81.png" group-title="体育-昨天09-06",CPB中国棒球城市联赛 厦门海豚3-0深圳蓝袜 2026赛季CPB中国棒球城市联赛深圳赛区全场回放：厦门海豚3-0深圳蓝袜（官方解说） 18:30
+#EXTINF:-1 tvg-id="厦门海豚3-0深圳蓝袜" tvg-name="CPB中国棒球城市联赛 厦门海豚3-0深圳蓝袜 【全场回放】厦门海豚3-0深圳蓝袜（官方解说） 18:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001517106f3b81.png" group-title="体育-昨天09-06",CPB中国棒球城市联赛 厦门海豚3-0深圳蓝袜 【全场回放】厦门海豚3-0深圳蓝袜（官方解说） 18:30
 http://116.168.24.120:2000/967356442
 #EXTINF:-1 tvg-id="重庆铜梁龙VS上海申花" tvg-name="中超 重庆铜梁龙VS上海申花 全场回放（娄一晨、刘越、姚安妮） 18:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="体育-昨天09-06",中超 重庆铜梁龙VS上海申花 全场回放（娄一晨、刘越、姚安妮） 18:55
 http://116.168.24.120:2000/967356349
@@ -3078,20 +3096,32 @@ http://116.168.24.120:2000/967361525
 http://116.168.24.120:2000/967364183
 #EXTINF:-1 tvg-id="瓦伦西亚VS巴塞罗那" tvg-name="西甲 瓦伦西亚VS巴塞罗那 全场回放（梁祥宇、王宇） 22:00" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-昨天09-06",西甲 瓦伦西亚VS巴塞罗那 全场回放（梁祥宇、王宇） 22:00
 http://116.168.24.120:2000/967364987
+#EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 2026美国网球公开赛青少年男单第1轮回放：切班2-0樱井义浩（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 2026美国网球公开赛青少年男单第1轮回放：切班2-0樱井义浩（赛场原声） 23:00
+http://116.168.24.120:2000/967399161
+#EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 2026美国网球公开赛青少年女单第1轮回放：高达2-0埃格尔斯巴赫（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 2026美国网球公开赛青少年女单第1轮回放：高达2-0埃格尔斯巴赫（赛场原声） 23:00
+http://116.168.24.120:2000/967398665
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【男单1/8决赛】保罗0-3阿尔卡拉斯（单文强） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【男单1/8决赛】保罗0-3阿尔卡拉斯（单文强） 23:00
 http://116.168.24.120:2000/967374118
+#EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【男单1/8决赛】梅德维德夫0-3蒂亚福（鸿昆） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【男单1/8决赛】梅德维德夫0-3蒂亚福（鸿昆） 23:00
+http://116.168.24.120:2000/967376070
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【女单1/8决赛】萨巴伦卡2-0汤森德（李宁） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【女单1/8决赛】萨巴伦卡2-0汤森德（李宁） 23:00
 http://116.168.24.120:2000/967366302
+#EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【女单1/8决赛】佩古拉2-0科斯蒂亚（乔迁） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【女单1/8决赛】佩古拉2-0科斯蒂亚（乔迁） 23:00
+http://116.168.24.120:2000/967377903
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【女单1/8决赛】卡林斯卡娅0-2纳瓦罗（李宁） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【女单1/8决赛】卡林斯卡娅0-2纳瓦罗（李宁） 23:00
 http://116.168.24.120:2000/967384337
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【女单1/8决赛】科斯秋克1-2诺斯科娃（鸿昆） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【女单1/8决赛】科斯秋克1-2诺斯科娃（鸿昆） 23:00
 http://116.168.24.120:2000/967373473
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【男单1/8决赛】保罗0-3阿尔卡拉斯（赛场原声）（50帧原画） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【男单1/8决赛】保罗0-3阿尔卡拉斯（赛场原声）（50帧原画） 23:00
 http://116.168.24.120:2000/967374153
+#EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【男单1/8决赛】梅德维德夫0-3蒂亚福（赛场原声）（50帧原画） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【男单1/8决赛】梅德维德夫0-3蒂亚福（赛场原声）（50帧原画） 23:00
+http://116.168.24.120:2000/967375880
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【男单1/8决赛】米克尔森3-0埃切韦里（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【男单1/8决赛】米克尔森3-0埃切韦里（赛场原声） 23:00
 http://116.168.24.120:2000/967377171
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【女单1/8决赛】萨巴伦卡2-0汤森德（赛场原声）（50帧原画） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【女单1/8决赛】萨巴伦卡2-0汤森德（赛场原声）（50帧原画） 23:00
 http://116.168.24.120:2000/967366300
+#EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【女单1/8决赛】佩古拉2-0科斯蒂亚（赛场原声）（50帧原画） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【女单1/8决赛】佩古拉2-0科斯蒂亚（赛场原声）（50帧原画） 23:00
+http://116.168.24.120:2000/967378108
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【女单1/8决赛】科斯秋克1-2诺斯科娃（赛场原声）（50帧原画） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【女单1/8决赛】科斯秋克1-2诺斯科娃（赛场原声）（50帧原画） 23:00
 http://116.168.24.120:2000/967370758
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【女单1/8决赛】卡林斯卡娅0-2纳瓦罗（赛场原声）（50帧原画） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【女单1/8决赛】卡林斯卡娅0-2纳瓦罗（赛场原声）（50帧原画） 23:00
@@ -3122,6 +3152,8 @@ http://116.168.24.120:2000/967372890
 http://116.168.24.120:2000/967375556
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【女双第2轮】韦尔戈/科帕奇1-2詹皓晴/乔因特（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【女双第2轮】韦尔戈/科帕奇1-2詹皓晴/乔因特（赛场原声） 23:00
 http://116.168.24.120:2000/967376913
+#EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【女双第2轮】L·基切诺克/N·基切诺克1-2加藤未唯/吴芳娴（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【女双第2轮】L·基切诺克/N·基切诺克1-2加藤未唯/吴芳娴（赛场原声） 23:00
+http://116.168.24.120:2000/967386411
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【女双第2轮】谢淑薇/奥斯塔彭科2-0布兹科瓦/托尔莫（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【女双第2轮】谢淑薇/奥斯塔彭科2-0布兹科瓦/托尔莫（赛场原声） 23:00
 http://116.168.24.120:2000/967373611
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年男单第1轮】约万诺夫斯基1-2布兰德（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年男单第1轮】约万诺夫斯基1-2布兰德（赛场原声） 23:00
@@ -3136,6 +3168,8 @@ http://116.168.24.120:2000/967365727
 http://116.168.24.120:2000/967372406
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年男单第1轮】伊达拉加1-2加利诺（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年男单第1轮】伊达拉加1-2加利诺（赛场原声） 23:00
 http://116.168.24.120:2000/967374508
+#EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年男单第1轮】多伊格2-0达维多夫（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年男单第1轮】多伊格2-0达维多夫（赛场原声） 23:00
+http://116.168.24.120:2000/967396577
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【男单第1轮】德阿莫林1-2本杰明（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【男单第1轮】德阿莫林1-2本杰明（赛场原声） 23:00
 http://116.168.24.120:2000/967378056
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年男单第1轮】赖扎赫1-2雷迪（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年男单第1轮】赖扎赫1-2雷迪（赛场原声） 23:00
@@ -3144,6 +3178,10 @@ http://116.168.24.120:2000/967375018
 http://116.168.24.120:2000/967375632
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年男单第1轮】渡边刊太2-0盖恩斯（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年男单第1轮】渡边刊太2-0盖恩斯（赛场原声） 23:00
 http://116.168.24.120:2000/967377801
+#EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年男单第1轮】雅德1-1沃恩（退赛）（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年男单第1轮】雅德1-1沃恩（退赛）（赛场原声） 23:00
+http://116.168.24.120:2000/967386049
+#EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年女单第1轮】孙心然2-0阿莉萨（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年女单第1轮】孙心然2-0阿莉萨（赛场原声） 23:00
+http://116.168.24.120:2000/967385988
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年男单第1轮】陈冠守1-2奥贡萨金（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年男单第1轮】陈冠守1-2奥贡萨金（赛场原声） 23:00
 http://116.168.24.120:2000/967378212
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年男单第1轮】米格尔2-1马拉克（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年男单第1轮】米格尔2-1马拉克（赛场原声） 23:00
@@ -3156,6 +3194,8 @@ http://116.168.24.120:2000/967379101
 http://116.168.24.120:2000/967385706
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年男单第1轮】科扎德0-2贝尔曼（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年男单第1轮】科扎德0-2贝尔曼（赛场原声） 23:00
 http://116.168.24.120:2000/967385604
+#EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年男单第1轮】帕加尼2-0巴埃纳（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年男单第1轮】帕加尼2-0巴埃纳（赛场原声） 23:00
+http://116.168.24.120:2000/967386903
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年男单第1轮】拉甘1-2马塞拉尼（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年男单第1轮】拉甘1-2马塞拉尼（赛场原声） 23:00
 http://116.168.24.120:2000/967371340
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年男单第1轮】孔杜里2-0库西（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年男单第1轮】孔杜里2-0库西（赛场原声） 23:00
@@ -3198,12 +3238,16 @@ http://116.168.24.120:2000/967374562
 http://116.168.24.120:2000/967385408
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年女单第1轮】黑泽利特2-0贝维兹（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年女单第1轮】黑泽利特2-0贝维兹（赛场原声） 23:00
 http://116.168.24.120:2000/967370957
+#EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年女单第1轮】皮斯托拉2-1皮尔歇尔（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年女单第1轮】皮斯托拉2-1皮尔歇尔（赛场原声） 23:00
+http://116.168.24.120:2000/967392297
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年女单第1轮】阿拉迈0-2K·皮耶尼奇科娃（赛场原声） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【青少年女单第1轮】阿拉迈0-2K·皮耶尼奇科娃（赛场原声） 23:00
 http://116.168.24.120:2000/967364508
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【全场回放】阿姆斯特朗球场球场（AI同声传译）（一） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【全场回放】阿姆斯特朗球场球场（AI同声传译）（一） 23:00
 http://116.168.24.120:2000/967381565
 #EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【全场回放】阿姆斯特朗球场球场（AI同声传译）（二） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【全场回放】阿姆斯特朗球场球场（AI同声传译）（二） 23:00
 http://116.168.24.120:2000/967381097
+#EXTINF:-1 tvg-id="阿尔卡拉斯、萨巴伦卡晋级八强" tvg-name="美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【全场回放】阿瑟・阿什球场（AI同声传译） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-昨天09-06",美国网球公开赛 阿尔卡拉斯、萨巴伦卡晋级八强 【全场回放】阿瑟・阿什球场（AI同声传译） 23:00
+http://116.168.24.120:2000/967388964
 #EXTINF:-1 tvg-id="昂热VS雷恩" tvg-name="法甲 昂热VS雷恩 全场回放（邵煊） 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png" group-title="体育-昨天09-06",法甲 昂热VS雷恩 全场回放（邵煊） 23:00
 http://116.168.24.120:2000/967368453
 #EXTINF:-1 tvg-id="阿森纳VS切尔西" tvg-name="英超 阿森纳VS切尔西 全场回放（詹俊、张路、郭小仙儿） 23:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-昨天09-06",英超 阿森纳VS切尔西 全场回放（詹俊、张路、郭小仙儿） 23:15
@@ -3216,8 +3260,6 @@ http://116.168.24.120:2000/967367597
 http://116.168.24.120:2000/967369124
 #EXTINF:-1 tvg-id="阿森纳VS切尔西" tvg-name="英超 阿森纳VS切尔西 全场回放（娄一晨、刘越） 23:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-昨天09-06",英超 阿森纳VS切尔西 全场回放（娄一晨、刘越） 23:15
 http://116.168.24.120:2000/967369170
-#EXTINF:-1 tvg-id="阿森纳VS切尔西" tvg-name="英超 阿森纳VS切尔西 全场回放 23:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="体育-昨天09-06",英超 阿森纳VS切尔西 全场回放 23:15
-http://116.168.24.120:2000/967370981
 #EXTINF:-1 tvg-id="法兰克福VS奥格斯堡" tvg-name="德甲 法兰克福VS奥格斯堡 全场回放（赵宇） 23:15" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="体育-昨天09-06",德甲 法兰克福VS奥格斯堡 全场回放（赵宇） 23:15
 http://116.168.24.120:2000/967368153
 #EXTINF:-1 tvg-id="波多黎各VS比利时" tvg-name="女篮世界杯 波多黎各VS比利时 全场回放（张泽欣） 23:35" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-昨天09-06",女篮世界杯 波多黎各VS比利时 全场回放（张泽欣） 23:35
@@ -3258,13 +3300,17 @@ http://116.168.24.120:2000/967376070
 http://116.168.24.120:2000/967377903
 #EXTINF:-1 tvg-id="佩古拉VS科斯蒂亚" tvg-name="美国网球公开赛 佩古拉VS科斯蒂亚 全场回放 04:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天09-07",美国网球公开赛 佩古拉VS科斯蒂亚 全场回放 04:30
 http://116.168.24.120:2000/967378108
-#EXTINF:-1 tvg-id="新西兰队vs中国队" tvg-name="亚洲男排锦标赛 新西兰队vs中国队 CCTV5 12:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/3/1000000015341066cc3b.png" group-title="体育-今天09-07",亚洲男排锦标赛 新西兰队vs中国队 CCTV5 12:30
-http://116.168.24.120:2000/967385619
 #EXTINF:-1 tvg-id="世界跆拳道大奖赛韩国茂朱站第三日" tvg-name="世界跆拳道大奖赛 世界跆拳道大奖赛韩国茂朱站第三日 解说 15:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/6/2/100000001476106697fd.png" group-title="体育-今天09-07",世界跆拳道大奖赛 世界跆拳道大奖赛韩国茂朱站第三日 解说 15:55
 http://116.168.24.120:2000/967199619
-#EXTINF:-1 tvg-id="丁俊晖VS迈克尔·霍尔特" tvg-name="斯诺克 丁俊晖VS迈克尔·霍尔特 赛场原声 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天09-07",斯诺克 丁俊晖VS迈克尔·霍尔特 赛场原声 17:00
+#EXTINF:-1 tvg-id="丁俊晖VS迈克尔·霍尔特" tvg-name="斯诺克 丁俊晖VS迈克尔·霍尔特 解说 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天09-07",斯诺克 丁俊晖VS迈克尔·霍尔特 解说 17:00
+http://116.168.24.120:2000/967387843
+#EXTINF:-1 tvg-id="丁俊晖VS迈克尔·霍尔特" tvg-name="斯诺克 丁俊晖VS迈克尔·霍尔特 现场原声 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天09-07",斯诺克 丁俊晖VS迈克尔·霍尔特 现场原声 17:00
 http://116.168.24.120:2000/967297665
-#EXTINF:-1 tvg-id="斯佳辉VS罗比·威廉姆斯" tvg-name="斯诺克 斯佳辉VS罗比·威廉姆斯 斯佳辉VS罗比·威廉姆斯 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天09-07",斯诺克 斯佳辉VS罗比·威廉姆斯 斯佳辉VS罗比·威廉姆斯 17:00
+#EXTINF:-1 tvg-id="丁俊晖VS迈克尔·霍尔特" tvg-name="斯诺克 丁俊晖VS迈克尔·霍尔特 同播2号桌 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天09-07",斯诺克 丁俊晖VS迈克尔·霍尔特 同播2号桌 17:00
+http://116.168.24.120:2000/967297673
+#EXTINF:-1 tvg-id="斯佳辉VS罗比·威廉姆斯" tvg-name="斯诺克 斯佳辉VS罗比·威廉姆斯 乔迁 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天09-07",斯诺克 斯佳辉VS罗比·威廉姆斯 乔迁 17:00
+http://116.168.24.120:2000/967387926
+#EXTINF:-1 tvg-id="斯佳辉VS罗比·威廉姆斯" tvg-name="斯诺克 斯佳辉VS罗比·威廉姆斯 现场原声 17:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天09-07",斯诺克 斯佳辉VS罗比·威廉姆斯 现场原声 17:00
 http://116.168.24.120:2000/967297673
 #EXTINF:-1 tvg-id="比利时VS澳大利亚" tvg-name="女篮世界杯 比利时VS澳大利亚 连睿 周鹏 17:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天09-07",女篮世界杯 比利时VS澳大利亚 连睿 周鹏 17:20
 http://116.168.24.120:2000/967223267
@@ -3272,21 +3318,23 @@ http://116.168.24.120:2000/967223267
 http://116.168.24.120:2000/967199574
 #EXTINF:-1 tvg-id="比利时VS澳大利亚" tvg-name="女篮世界杯 比利时VS澳大利亚 英文解说 17:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天09-07",女篮世界杯 比利时VS澳大利亚 英文解说 17:20
 http://116.168.24.120:2000/967221848
-#EXTINF:-1 tvg-id="波多黎各VS土耳其" tvg-name="女篮世界杯 波多黎各VS土耳其 赛场原声 17:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天09-07",女篮世界杯 波多黎各VS土耳其 赛场原声 17:20
-http://116.168.24.120:2000/967199579
 #EXTINF:-1 tvg-id="波多黎各VS土耳其" tvg-name="女篮世界杯 波多黎各VS土耳其 英文解说 17:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天09-07",女篮世界杯 波多黎各VS土耳其 英文解说 17:20
 http://116.168.24.120:2000/967221856
+#EXTINF:-1 tvg-id="波多黎各VS土耳其" tvg-name="女篮世界杯 波多黎各VS土耳其 赛场原声 17:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天09-07",女篮世界杯 波多黎各VS土耳其 赛场原声 17:20
+http://116.168.24.120:2000/967199579
 #EXTINF:-1 tvg-id="NBA精彩重播：掘金vs湖人" tvg-name="NBA经典赛事 NBA精彩重播：掘金vs湖人 杨健 曾令旭 马健 18:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="体育-今天09-07",NBA经典赛事 NBA精彩重播：掘金vs湖人 杨健 曾令旭 马健 18:00
 http://116.168.24.120:2000/966323867
 #EXTINF:-1 tvg-id="朱子恒、程靖淇、马特带您前瞻" tvg-name="WTT 朱子恒、程靖淇、马特带您前瞻 朱子恒 程靖淇 马特 19:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" group-title="体育-今天09-07",WTT 朱子恒、程靖淇、马特带您前瞻 朱子恒 程靖淇 马特 19:00
 http://116.168.24.120:2000/967159096
-#EXTINF:-1 tvg-id="常冰玉、张安达、袁思俊出战" tvg-name="斯诺克 常冰玉、张安达、袁思俊出战 1号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天09-07",斯诺克 常冰玉、张安达、袁思俊出战 1号桌 20:00
+#EXTINF:-1 tvg-id="张安达、袁思俊出战" tvg-name="斯诺克 张安达、袁思俊出战 陶哲铭 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天09-07",斯诺克 张安达、袁思俊出战 陶哲铭 20:00
+http://116.168.24.120:2000/967387933
+#EXTINF:-1 tvg-id="张安达、袁思俊出战" tvg-name="斯诺克 张安达、袁思俊出战 1号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天09-07",斯诺克 张安达、袁思俊出战 1号桌 20:00
 http://116.168.24.120:2000/967297716
-#EXTINF:-1 tvg-id="常冰玉、张安达、袁思俊出战" tvg-name="斯诺克 常冰玉、张安达、袁思俊出战 2号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天09-07",斯诺克 常冰玉、张安达、袁思俊出战 2号桌 20:00
+#EXTINF:-1 tvg-id="张安达、袁思俊出战" tvg-name="斯诺克 张安达、袁思俊出战 2号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天09-07",斯诺克 张安达、袁思俊出战 2号桌 20:00
 http://116.168.24.120:2000/967297753
-#EXTINF:-1 tvg-id="常冰玉、张安达、袁思俊出战" tvg-name="斯诺克 常冰玉、张安达、袁思俊出战 3号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天09-07",斯诺克 常冰玉、张安达、袁思俊出战 3号桌 20:00
+#EXTINF:-1 tvg-id="张安达、袁思俊出战" tvg-name="斯诺克 张安达、袁思俊出战 3号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天09-07",斯诺克 张安达、袁思俊出战 3号桌 20:00
 http://116.168.24.120:2000/967297762
-#EXTINF:-1 tvg-id="常冰玉、张安达、袁思俊出战" tvg-name="斯诺克 常冰玉、张安达、袁思俊出战 4号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天09-07",斯诺克 常冰玉、张安达、袁思俊出战 4号桌 20:00
+#EXTINF:-1 tvg-id="张安达、袁思俊出战" tvg-name="斯诺克 张安达、袁思俊出战 4号桌 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-今天09-07",斯诺克 张安达、袁思俊出战 4号桌 20:00
 http://116.168.24.120:2000/967297775
 #EXTINF:-1 tvg-id="《早安美网》第八期" tvg-name="美国网球公开赛 《早安美网》第八期 《早安美网》 20:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天09-07",美国网球公开赛 《早安美网》第八期 《早安美网》 20:00
 http://116.168.24.120:2000/967052149
@@ -3302,7 +3350,7 @@ http://116.168.24.120:2000/967223503
 http://116.168.24.120:2000/967199597
 #EXTINF:-1 tvg-id="尼日利亚VS法国" tvg-name="女篮世界杯 尼日利亚VS法国 英文解说 20:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天09-07",女篮世界杯 尼日利亚VS法国 英文解说 20:20
 http://116.168.24.120:2000/967221871
-#EXTINF:-1 tvg-id="米拉冲八强 高芙、约维奇上演美国德比" tvg-name="美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 阿瑟・阿什球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天09-07",美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 阿瑟・阿什球场 23:00
+#EXTINF:-1 tvg-id="米拉冲八强 高芙、约维奇上演美国德比" tvg-name="美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 阿瑟・阿什球场 23:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天09-07",美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 阿瑟・阿什球场 23:30
 http://116.168.24.120:2000/967048202
 #EXTINF:-1 tvg-id="米拉冲八强 高芙、约维奇上演美国德比" tvg-name="美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 阿姆斯特朗球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天09-07",美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 阿姆斯特朗球场 23:00
 http://116.168.24.120:2000/967048232
@@ -3338,6 +3386,24 @@ http://116.168.24.120:2000/967049138
 http://116.168.24.120:2000/967048156
 #EXTINF:-1 tvg-id="米拉冲八强 高芙、约维奇上演美国德比" tvg-name="美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 英文解说 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天09-07",美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 英文解说 23:00
 http://116.168.24.120:2000/967048178
+#EXTINF:-1 tvg-id="米拉冲八强 高芙、约维奇上演美国德比" tvg-name="美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 阿瑟・阿什球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天09-07",美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 阿瑟・阿什球场 23:00
+http://116.168.24.120:2000/967398456
+#EXTINF:-1 tvg-id="米拉冲八强 高芙、约维奇上演美国德比" tvg-name="美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 路易斯・阿姆斯特朗球场 23:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天09-07",美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 路易斯・阿姆斯特朗球场 23:00
+http://116.168.24.120:2000/967398482
+#EXTINF:-1 tvg-id="米拉冲八强 高芙、约维奇上演美国德比" tvg-name="美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 宋光振 00:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天09-07",美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 宋光振 00:30
+http://116.168.24.120:2000/967398682
+#EXTINF:-1 tvg-id="米拉冲八强 高芙、约维奇上演美国德比" tvg-name="美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 李宁 07:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天09-07",美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 李宁 07:00
+http://116.168.24.120:2000/967398703
+#EXTINF:-1 tvg-id="米拉冲八强 高芙、约维奇上演美国德比" tvg-name="美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 李宁 08:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天09-07",美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 李宁 08:30
+http://116.168.24.120:2000/967398707
+#EXTINF:-1 tvg-id="米拉冲八强 高芙、约维奇上演美国德比" tvg-name="美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 郭丰庆 01:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天09-07",美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 郭丰庆 01:00
+http://116.168.24.120:2000/967398698
+#EXTINF:-1 tvg-id="米拉冲八强 高芙、约维奇上演美国德比" tvg-name="美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 房朕 04:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天09-07",美国网球公开赛 米拉冲八强 高芙、约维奇上演美国德比 房朕 04:00
+http://116.168.24.120:2000/967398722
+#EXTINF:-1 tvg-id="斯瓦泰克VS郑钦文" tvg-name="美国网球公开赛 斯瓦泰克VS郑钦文 詹俊 胡力涛 22:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天09-07",美国网球公开赛 斯瓦泰克VS郑钦文 詹俊 胡力涛 22:30
+http://116.168.24.120:2000/967398566
+#EXTINF:-1 tvg-id="斯瓦泰克VS郑钦文" tvg-name="美国网球公开赛 斯瓦泰克VS郑钦文 赛场原声 23:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-今天09-07",美国网球公开赛 斯瓦泰克VS郑钦文 赛场原声 23:30
+http://116.168.24.120:2000/967398609
 #EXTINF:-1 tvg-id="日本VS西班牙" tvg-name="女篮世界杯 日本VS西班牙 邵化谦 季孟年 23:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天09-07",女篮世界杯 日本VS西班牙 邵化谦 季孟年 23:40
 http://116.168.24.120:2000/967223618
 #EXTINF:-1 tvg-id="日本VS西班牙" tvg-name="女篮世界杯 日本VS西班牙 赛场原声 23:40" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png" group-title="体育-今天09-07",女篮世界杯 日本VS西班牙 赛场原声 23:40
@@ -3358,6 +3424,10 @@ http://116.168.24.120:2000/967213661
 http://116.168.24.120:2000/967213659
 #EXTINF:-1 tvg-id="赫塔菲VS塞尔塔" tvg-name="西甲 赫塔菲VS塞尔塔 赛场原声 00:45" tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png" group-title="体育-明天09-08",西甲 赫塔菲VS塞尔塔 赛场原声 00:45
 http://116.168.24.120:2000/967213648
+#EXTINF:-1 tvg-id="赵心童出战 周跃龙PK穆迪" tvg-name="斯诺克 赵心童出战 周跃龙PK穆迪 朱峰立 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天09-08",斯诺克 赵心童出战 周跃龙PK穆迪 朱峰立 02:00
+http://116.168.24.120:2000/967388701
+#EXTINF:-1 tvg-id="赵心童出战 周跃龙PK穆迪" tvg-name="斯诺克 赵心童出战 周跃龙PK穆迪 杨江浩 03:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天09-08",斯诺克 赵心童出战 周跃龙PK穆迪 杨江浩 03:00
+http://116.168.24.120:2000/967388851
 #EXTINF:-1 tvg-id="赵心童出战 周跃龙PK穆迪" tvg-name="斯诺克 赵心童出战 周跃龙PK穆迪 1号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天09-08",斯诺克 赵心童出战 周跃龙PK穆迪 1号桌 02:00
 http://116.168.24.120:2000/967297848
 #EXTINF:-1 tvg-id="赵心童出战 周跃龙PK穆迪" tvg-name="斯诺克 赵心童出战 周跃龙PK穆迪 2号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天09-08",斯诺克 赵心童出战 周跃龙PK穆迪 2号桌 02:00
@@ -3366,6 +3436,10 @@ http://116.168.24.120:2000/967297866
 http://116.168.24.120:2000/967298694
 #EXTINF:-1 tvg-id="赵心童出战 周跃龙PK穆迪" tvg-name="斯诺克 赵心童出战 周跃龙PK穆迪 4号桌 02:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="体育-明天09-08",斯诺克 赵心童出战 周跃龙PK穆迪 4号桌 02:00
 http://116.168.24.120:2000/967297880
+#EXTINF:-1 tvg-id="大坂直美VS莱巴金娜" tvg-name="美国网球公开赛 大坂直美VS莱巴金娜 赛场原声 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-明天09-08",美国网球公开赛 大坂直美VS莱巴金娜 赛场原声 02:30
+http://116.168.24.120:2000/967398714
+#EXTINF:-1 tvg-id="大坂直美VS莱巴金娜" tvg-name="美国网球公开赛 大坂直美VS莱巴金娜 单文强 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg" group-title="体育-明天09-08",美国网球公开赛 大坂直美VS莱巴金娜 单文强 02:30
+http://116.168.24.120:2000/967398791
 #EXTINF:-1 tvg-id="乌迪内斯VS拉齐奥" tvg-name="意甲 乌迪内斯VS拉齐奥 张昊泽 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-明天09-08",意甲 乌迪内斯VS拉齐奥 张昊泽 02:30
 http://116.168.24.120:2000/967213646
 #EXTINF:-1 tvg-id="乌迪内斯VS拉齐奥" tvg-name="意甲 乌迪内斯VS拉齐奥 赛场原声 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="体育-明天09-08",意甲 乌迪内斯VS拉齐奥 赛场原声 02:30
