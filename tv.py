@@ -1,33 +1,69 @@
-import re, requests, time
+import re
+import time
+import logging
 from collections import defaultdict, OrderedDict
 from concurrent.futures import ThreadPoolExecutor
+import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
+
+# --- 日志配置 ---
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+    datefmt="%H:%M:%S"
+)
 
 # --- 配置区 ---
 URL = "https://t.freetv.fun/m3u/playlist.txt"
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
 BLACKLIST = {"https://stream1.freetv.fun/tang-he-yi-tao-1.m3u8"}
-MAX_WORKERS = 50  
-TIMEOUT = 3       
+MAX_WORKERS = 50
+TIMEOUT = 3
 # 仅对以下最常看的分组进行深度测速排序
 SPEED_TEST_GROUPS = ["央视,#genre#", "卫视,#genre#", "香港,#genre#"]
 OUTPUT_FILE = "tv.txt"
 
+
 def ts(t):
-    rep = {"臺":"台","衛":"卫","視":"视","頻":"频","廣":"广","東":"东","鳳":"凤","凰":"凰","資":"资","訊":"讯","綜":"综","藝":"艺","劇":"剧","無線":"无线","翡翠":"翡翠","緯來":"纬来"}
-    for a,b in rep.items(): t = t.replace(a,b)
+    rep = {
+        "臺": "台", "衛": "卫", "視": "视", "頻": "频", "廣": "广",
+        "東": "东", "鳳": "凤", "凰": "凰", "資": "资", "訊": "讯",
+        "綜": "综", "藝": "艺", "劇": "剧", "無線": "无线", "翡翠": "翡翠", "緯來": "纬来"
+    }
+    for a, b in rep.items():
+        t = t.replace(a, b)
     return t.strip()
+
+
+def get_robust_session():
+    """创建一个带有重试机制的 requests Session，应对 GitHub 运行环境中较慢的网络连接"""
+    session = requests.Session()
+    retries = Retry(
+        total=3,                # 最多重试 3 次
+        backoff_factor=2,       # 重试等待间隔时间（按指数递增）
+        status_forcelist=[500, 502, 503, 504]
+    )
+    adapter = HTTPAdapter(max_retries=retries)
+    session.mount("http://", adapter)
+    session.mount("https://", adapter)
+    return session
+
 
 class LiveStreamCrawler:
     def __init__(self):
         self.finalGroups = OrderedDict()
+        self.session = get_robust_session()
         self.fetch_and_process()
 
     def cleanTitle(self, title):
         title = re.sub(r'CCTV-?1\(RTHK33\)', 'CCTV1', title, flags=re.I)
         patterns = [r'\(backup\)', r'\(h26\d\)', r'\(备用\)', r'\(备\)', r'\[.*?\]', r'#\d+']
-        for p in patterns: title = re.sub(p, '', title, flags=re.I)
+        for p in patterns:
+            title = re.sub(p, '', title, flags=re.I)
         title = ts(title)
-        if title.upper().startswith("CCTV"): title = title.replace("-", "").replace(" ", "")
+        if title.upper().startswith("CCTV"):
+            title = title.replace("-", "").replace(" ", "")
         return title.strip()
 
     def is_all_abc(self, title):
@@ -45,13 +81,17 @@ class LiveStreamCrawler:
             return int(m.group(1)) if m else 99
         # 2. 香港组：凤凰优先
         if "香港" in group_name:
-            if "凤凰" in t or "鳳凰" in t: return 1
+            if "凤凰" in t or "鳳凰" in t:
+                return 1
             return 10
-        # 3. 台湾组：虽然不测速，但这里保留权重用于基础排序
+        # 3. 台湾组：保留权重用于基础排序
         if "台湾" in group_name:
-            if "新闻" in t or "新聞" in t: return 1
-            if "综合" in t or "綜合" in t: return 2
-            if "娱乐" in t or "娛樂" in t or "综艺" in t: return 3
+            if "新闻" in t or "新聞" in t:
+                return 1
+            if "综合" in t or "綜合" in t:
+                return 2
+            if "娱乐" in t or "娛樂" in t or "综艺" in t:
+                return 3
             return 10
         return 100
 
@@ -59,7 +99,7 @@ class LiveStreamCrawler:
         """重点组 1MB 深度测速"""
         try:
             start_time = time.time()
-            with requests.get(item['url'], headers=HEADERS, timeout=TIMEOUT, stream=True) as r:
+            with self.session.get(item['url'], headers=HEADERS, timeout=TIMEOUT, stream=True) as r:
                 if r.status_code == 200:
                     ttfb = time.time() - start_time
                     downloaded = 0
@@ -72,60 +112,82 @@ class LiveStreamCrawler:
                     speed = (downloaded / 1024 / 1024) / (duration + 0.001)
                     score = ttfb * 0.3 + (1 / (speed + 0.1)) * 0.7
                     return {**item, "score": score, "weight": self.get_weight(item['title'], group_name)}
-        except: pass
+        except Exception:
+            pass
         return None
 
     def fetch_and_process(self):
+        logging.info(f"开始抓取远程播放列表: {URL}")
+        logging.info("网络较慢时可能需要等待几秒到数十秒，请稍候...")
+        
         try:
-            r = requests.get(URL, headers=HEADERS, timeout=15)
+            # 延长 timeout 至 30 秒以应对慢速网络
+            r = self.session.get(URL, headers=HEADERS, timeout=30)
             lines = r.text.splitlines()
+            logging.info(f"拉取成功！共获取到 {len(lines)} 行数据。")
         except Exception as e:
-            print(f"Fetch failed: {e}"); return
+            logging.error(f"播放列表抓取失败: {e}")
+            return
 
         parsed_data = defaultdict(list)
         current_group = ""
         for line in lines:
             line = line.strip()
-            if not line or line.startswith("#EXT"): continue
+            if not line or line.startswith("#EXT"):
+                continue
             if "#genre#" in line:
-                current_group = line; continue
+                current_group = line
+                continue
             if current_group and "," in line:
                 parts = line.split(",", 1)
                 title, url = parts[0].strip(), parts[1].strip()
-                if url in BLACKLIST: continue
+                if url in BLACKLIST:
+                    continue
                 parsed_data[current_group].append({"title": self.cleanTitle(title), "url": url})
 
         # --- 1. 分组与 ABC 过滤 ---
-        # 核心组
+        logging.info("正在分类处理频道数据及筛选...")
         self.finalGroups["央视,#genre#"] = [i for g in parsed_data.values() for i in g if i['title'].upper().startswith("CCTV")]
         mainland = parsed_data.get("中國大陸,#genre#", [])
         self.finalGroups["卫视,#genre#"] = [i for i in mainland if "卫视" in i['title'] and not i['title'].upper().startswith("CCTV")]
-        
-        # 香港 & 台湾 (均应用 ABC 过滤)
+
         self.finalGroups["香港,#genre#"] = [i for i in parsed_data.get("香港,#genre#", []) if not self.is_all_abc(i['title'])]
         self.finalGroups["台湾,#genre#"] = [i for i in parsed_data.get("台灣,#genre#", []) if not self.is_all_abc(i['title'])]
 
         # --- 2. 测速排序 (仅针对重点组) ---
         for g_name in list(self.finalGroups.keys()):
             channels = self.finalGroups[g_name]
+            total_count = len(channels)
+
             if g_name in SPEED_TEST_GROUPS:
-                # 重点组执行深度测速
+                logging.info(f"开始对 [{g_name.replace(',#genre#', '')}] 进行深度并发测速，共 {total_count} 个频道...")
+                start_t = time.time()
                 with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
                     results = list(executor.map(lambda x: self.check_speed(x, g_name), channels))
+                
                 valid = sorted([r for r in results if r], key=lambda x: (x['weight'], x['score']))
-                for v in valid: v.pop('score', None); v.pop('weight', None)
+                for v in valid:
+                    v.pop('score', None)
+                    v.pop('weight', None)
+                
                 self.finalGroups[g_name] = valid
+                logging.info(f"[{g_name.replace(',#genre#', '')}] 测速完成，耗时 {time.time()-start_t:.1f}s，有效可用频道: {len(valid)}/{total_count}")
             else:
-                # 台湾组：不测速，但按关键词权重进行简单排序
+                logging.info(f"跳过 [{g_name.replace(',#genre#', '')}] 测速，执行规则权重排序 (共 {total_count} 个频道)")
                 self.finalGroups[g_name] = sorted(channels, key=lambda x: self.get_weight(x['title'], g_name))
 
         # --- 3. 提取省份组 (不测速) ---
+        logging.info("提取省份频道组...")
         exclude_titles = set(i['title'] for i in self.finalGroups["央视,#genre#"] + self.finalGroups["卫视,#genre#"])
-        province_map = {"北京":["北京"],"上海":["上海"],"广东":["广东","广州","深圳"],"浙江":["浙江","杭州","宁波"],"江苏":["江苏","南京","苏州"],"湖南":["湖南","长沙"]}
+        province_map = {
+            "北京": ["北京"], "上海": ["上海"], "广东": ["广东", "广州", "深圳"],
+            "浙江": ["浙江", "杭州", "宁波"], "江苏": ["江苏", "南京", "苏州"], "湖南": ["湖南", "长沙"]
+        }
         for p, keys in province_map.items():
             p_list = []
             for i in mainland:
-                if i['title'] in exclude_titles or i['title'].upper().startswith("CCTV"): continue
+                if i['title'] in exclude_titles or i['title'].upper().startswith("CCTV"):
+                    continue
                 if any(k in i['title'] for k in keys):
                     p_list.append(i)
             if p_list:
@@ -134,9 +196,11 @@ class LiveStreamCrawler:
         self.output_result()
 
     def output_result(self):
+        total_channels = 0
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             for g, chans in self.finalGroups.items():
-                if not chans: continue
+                if not chans:
+                    continue
                 f.write(f"{g}\n")
                 seen = set()
                 for ch in chans:
@@ -144,7 +208,11 @@ class LiveStreamCrawler:
                     if line not in seen:
                         f.write(line + "\n")
                         seen.add(line)
+                        total_channels += 1
                 f.write("\n")
+        
+        logging.info(f"生成结果完成！已写入 {OUTPUT_FILE}，包含 {len(self.finalGroups)} 个分组，共 {total_channels} 个有效频道。")
+
 
 if __name__ == "__main__":
     LiveStreamCrawler()
