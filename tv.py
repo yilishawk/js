@@ -1,11 +1,22 @@
 import re
+import time
+import requests
 from collections import defaultdict, OrderedDict
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 # --- 配置区 ---
-URL = "https://t.freetv.fun/m3u/playlist.txt"
+# 包含源地址以及常用的加速镜像节点，按顺序自动切换尝试
+URLS = [
+    "https://t.freetv.fun/m3u/playlist.txt",
+    "https://ghfast.top/https://t.freetv.fun/m3u/playlist.txt",
+    "https://mirror.ghproxy.com/https://t.freetv.fun/m3u/playlist.txt",
+]
+
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
 BLACKLIST = {"https://stream1.freetv.fun/tang-he-yi-tao-1.m3u8"}
 OUTPUT_FILE = "tv.txt"
+
 
 def ts(t):
     rep = {
@@ -17,9 +28,25 @@ def ts(t):
         t = t.replace(a, b)
     return t.strip()
 
+
+def get_robust_session():
+    """配置具有重试能力的 requests Session"""
+    session = requests.Session()
+    retries = Retry(
+        total=3,                # 单个 URL 最多重试 3 次
+        backoff_factor=1,       # 失败后等待 1s, 2s, 4s 再试
+        status_forcelist=[500, 502, 503, 504]
+    )
+    adapter = HTTPAdapter(max_retries=retries)
+    session.mount("http://", adapter)
+    session.mount("https://", adapter)
+    return session
+
+
 class LiveStreamCrawler:
     def __init__(self):
         self.finalGroups = OrderedDict()
+        self.session = get_robust_session()
         self.fetch_and_process()
 
     def cleanTitle(self, title):
@@ -61,13 +88,21 @@ class LiveStreamCrawler:
             return 10
         return 100
 
+    def fetch_playlist(self):
+        """耐心尝试多条线路拉取，给慢速网络留足时间"""
+        for url in URLS:
+            try:
+                # 延长超时时间至 30 秒，耐心等待慢速响应
+                r = self.session.get(url, headers=HEADERS, timeout=30)
+                if r.status_code == 200 and len(r.text.strip()) > 0:
+                    return r.text.splitlines()
+            except Exception:
+                continue
+        
+        raise RuntimeError("所有链接均尝试失败，未能获取到有效数据！")
+
     def fetch_and_process(self):
-        import requests
-        try:
-            r = requests.get(URL, headers=HEADERS, timeout=15)
-            lines = r.text.splitlines()
-        except Exception:
-            return
+        lines = self.fetch_playlist()
 
         parsed_data = defaultdict(list)
         current_group = ""
@@ -93,7 +128,7 @@ class LiveStreamCrawler:
         self.finalGroups["香港,#genre#"] = [i for i in parsed_data.get("香港,#genre#", []) if not self.is_all_abc(i['title'])]
         self.finalGroups["台湾,#genre#"] = [i for i in parsed_data.get("台灣,#genre#", []) if not self.is_all_abc(i['title'])]
 
-        # --- 2. 静态权重排序 (无测速) ---
+        # --- 2. 静态权重排序 ---
         for g_name in list(self.finalGroups.keys()):
             channels = self.finalGroups[g_name]
             self.finalGroups[g_name] = sorted(channels, key=lambda x: self.get_weight(x['title'], g_name))
@@ -129,6 +164,7 @@ class LiveStreamCrawler:
                         f.write(line + "\n")
                         seen.add(line)
                 f.write("\n")
+
 
 if __name__ == "__main__":
     LiveStreamCrawler()
