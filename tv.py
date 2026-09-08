@@ -1,21 +1,11 @@
 import re
-import time
 from collections import defaultdict, OrderedDict
-from concurrent.futures import ThreadPoolExecutor
-import requests
-from requests.adapters import HTTPAdapter
-from urllib3.util.retry import Retry
 
 # --- 配置区 ---
 URL = "https://t.freetv.fun/m3u/playlist.txt"
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
 BLACKLIST = {"https://stream1.freetv.fun/tang-he-yi-tao-1.m3u8"}
-MAX_WORKERS = 50
-TIMEOUT = 3
-# 仅对以下最常看的分组进行深度测速排序
-SPEED_TEST_GROUPS = ["央视,#genre#", "卫视,#genre#", "香港,#genre#"]
 OUTPUT_FILE = "tv.txt"
-
 
 def ts(t):
     rep = {
@@ -27,25 +17,9 @@ def ts(t):
         t = t.replace(a, b)
     return t.strip()
 
-
-def get_robust_session():
-    """带有自动重试机制的 Session，应对网络较慢的情况"""
-    session = requests.Session()
-    retries = Retry(
-        total=3,
-        backoff_factor=2,
-        status_forcelist=[500, 502, 503, 504]
-    )
-    adapter = HTTPAdapter(max_retries=retries)
-    session.mount("http://", adapter)
-    session.mount("https://", adapter)
-    return session
-
-
 class LiveStreamCrawler:
     def __init__(self):
         self.finalGroups = OrderedDict()
-        self.session = get_robust_session()
         self.fetch_and_process()
 
     def cleanTitle(self, title):
@@ -76,41 +50,21 @@ class LiveStreamCrawler:
             if "凤凰" in t or "鳳凰" in t:
                 return 1
             return 10
-        # 3. 台湾组：保留权重用于基础排序
+        # 3. 台湾组
         if "台湾" in group_name:
             if "新闻" in t or "新聞" in t:
                 return 1
             if "综合" in t or "綜合" in t:
                 return 2
-            if "娱乐" in t or "娛樂" in t or "综艺" in t:
+            if "娱乐" in t or "檔案" in t or "综艺" in t:
                 return 3
             return 10
         return 100
 
-    def check_speed(self, item, group_name):
-        """重点组 1MB 深度测速"""
-        try:
-            start_time = time.time()
-            with self.session.get(item['url'], headers=HEADERS, timeout=TIMEOUT, stream=True) as r:
-                if r.status_code == 200:
-                    ttfb = time.time() - start_time
-                    downloaded = 0
-                    test_start = time.time()
-                    for chunk in r.iter_content(chunk_size=1024 * 64):
-                        downloaded += len(chunk)
-                        if downloaded >= 1024 * 1024 or (time.time() - test_start) > 1.5:
-                            break
-                    duration = time.time() - test_start
-                    speed = (downloaded / 1024 / 1024) / (duration + 0.001)
-                    score = ttfb * 0.3 + (1 / (speed + 0.1)) * 0.7
-                    return {**item, "score": score, "weight": self.get_weight(item['title'], group_name)}
-        except Exception:
-            pass
-        return None
-
     def fetch_and_process(self):
+        import requests
         try:
-            r = self.session.get(URL, headers=HEADERS, timeout=30)
+            r = requests.get(URL, headers=HEADERS, timeout=15)
             lines = r.text.splitlines()
         except Exception:
             return
@@ -139,23 +93,12 @@ class LiveStreamCrawler:
         self.finalGroups["香港,#genre#"] = [i for i in parsed_data.get("香港,#genre#", []) if not self.is_all_abc(i['title'])]
         self.finalGroups["台湾,#genre#"] = [i for i in parsed_data.get("台灣,#genre#", []) if not self.is_all_abc(i['title'])]
 
-        # --- 2. 测速排序 (仅针对重点组) ---
+        # --- 2. 静态权重排序 (无测速) ---
         for g_name in list(self.finalGroups.keys()):
             channels = self.finalGroups[g_name]
-            if g_name in SPEED_TEST_GROUPS:
-                with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-                    results = list(executor.map(lambda x: self.check_speed(x, g_name), channels))
-                
-                valid = sorted([r for r in results if r], key=lambda x: (x['weight'], x['score']))
-                for v in valid:
-                    v.pop('score', None)
-                    v.pop('weight', None)
-                
-                self.finalGroups[g_name] = valid
-            else:
-                self.finalGroups[g_name] = sorted(channels, key=lambda x: self.get_weight(x['title'], g_name))
+            self.finalGroups[g_name] = sorted(channels, key=lambda x: self.get_weight(x['title'], g_name))
 
-        # --- 3. 提取省份组 (不测速) ---
+        # --- 3. 提取省份组 ---
         exclude_titles = set(i['title'] for i in self.finalGroups["央视,#genre#"] + self.finalGroups["卫视,#genre#"])
         province_map = {
             "北京": ["北京"], "上海": ["上海"], "广东": ["广东", "广州", "深圳"],
@@ -186,7 +129,6 @@ class LiveStreamCrawler:
                         f.write(line + "\n")
                         seen.add(line)
                 f.write("\n")
-
 
 if __name__ == "__main__":
     LiveStreamCrawler()
