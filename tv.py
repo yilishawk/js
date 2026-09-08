@@ -3,7 +3,7 @@ from collections import defaultdict, OrderedDict
 from concurrent.futures import ThreadPoolExecutor
 
 # --- 配置区 ---
-URL = "https://freetv.fun/test_channels_new.txt"
+URL = "https://t.freetv.fun/m3u/playlist.txt"
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
 BLACKLIST = {"https://stream1.freetv.fun/tang-he-yi-tao-1.m3u8"}
 MAX_WORKERS = 50  
