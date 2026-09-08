@@ -1,18 +1,10 @@
 import re
 import time
-import logging
 from collections import defaultdict, OrderedDict
 from concurrent.futures import ThreadPoolExecutor
 import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
-
-# --- 日志配置 ---
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s [%(levelname)s] %(message)s",
-    datefmt="%H:%M:%S"
-)
 
 # --- 配置区 ---
 URL = "https://t.freetv.fun/m3u/playlist.txt"
@@ -37,11 +29,11 @@ def ts(t):
 
 
 def get_robust_session():
-    """创建一个带有重试机制的 requests Session，应对 GitHub 运行环境中较慢的网络连接"""
+    """带有自动重试机制的 Session，应对网络较慢的情况"""
     session = requests.Session()
     retries = Retry(
-        total=3,                # 最多重试 3 次
-        backoff_factor=2,       # 重试等待间隔时间（按指数递增）
+        total=3,
+        backoff_factor=2,
         status_forcelist=[500, 502, 503, 504]
     )
     adapter = HTTPAdapter(max_retries=retries)
@@ -117,16 +109,10 @@ class LiveStreamCrawler:
         return None
 
     def fetch_and_process(self):
-        logging.info(f"开始抓取远程播放列表: {URL}")
-        logging.info("网络较慢时可能需要等待几秒到数十秒，请稍候...")
-        
         try:
-            # 延长 timeout 至 30 秒以应对慢速网络
             r = self.session.get(URL, headers=HEADERS, timeout=30)
             lines = r.text.splitlines()
-            logging.info(f"拉取成功！共获取到 {len(lines)} 行数据。")
-        except Exception as e:
-            logging.error(f"播放列表抓取失败: {e}")
+        except Exception:
             return
 
         parsed_data = defaultdict(list)
@@ -146,7 +132,6 @@ class LiveStreamCrawler:
                 parsed_data[current_group].append({"title": self.cleanTitle(title), "url": url})
 
         # --- 1. 分组与 ABC 过滤 ---
-        logging.info("正在分类处理频道数据及筛选...")
         self.finalGroups["央视,#genre#"] = [i for g in parsed_data.values() for i in g if i['title'].upper().startswith("CCTV")]
         mainland = parsed_data.get("中國大陸,#genre#", [])
         self.finalGroups["卫视,#genre#"] = [i for i in mainland if "卫视" in i['title'] and not i['title'].upper().startswith("CCTV")]
@@ -157,11 +142,7 @@ class LiveStreamCrawler:
         # --- 2. 测速排序 (仅针对重点组) ---
         for g_name in list(self.finalGroups.keys()):
             channels = self.finalGroups[g_name]
-            total_count = len(channels)
-
             if g_name in SPEED_TEST_GROUPS:
-                logging.info(f"开始对 [{g_name.replace(',#genre#', '')}] 进行深度并发测速，共 {total_count} 个频道...")
-                start_t = time.time()
                 with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
                     results = list(executor.map(lambda x: self.check_speed(x, g_name), channels))
                 
@@ -171,13 +152,10 @@ class LiveStreamCrawler:
                     v.pop('weight', None)
                 
                 self.finalGroups[g_name] = valid
-                logging.info(f"[{g_name.replace(',#genre#', '')}] 测速完成，耗时 {time.time()-start_t:.1f}s，有效可用频道: {len(valid)}/{total_count}")
             else:
-                logging.info(f"跳过 [{g_name.replace(',#genre#', '')}] 测速，执行规则权重排序 (共 {total_count} 个频道)")
                 self.finalGroups[g_name] = sorted(channels, key=lambda x: self.get_weight(x['title'], g_name))
 
         # --- 3. 提取省份组 (不测速) ---
-        logging.info("提取省份频道组...")
         exclude_titles = set(i['title'] for i in self.finalGroups["央视,#genre#"] + self.finalGroups["卫视,#genre#"])
         province_map = {
             "北京": ["北京"], "上海": ["上海"], "广东": ["广东", "广州", "深圳"],
@@ -196,7 +174,6 @@ class LiveStreamCrawler:
         self.output_result()
 
     def output_result(self):
-        total_channels = 0
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             for g, chans in self.finalGroups.items():
                 if not chans:
@@ -208,10 +185,7 @@ class LiveStreamCrawler:
                     if line not in seen:
                         f.write(line + "\n")
                         seen.add(line)
-                        total_channels += 1
                 f.write("\n")
-        
-        logging.info(f"生成结果完成！已写入 {OUTPUT_FILE}，包含 {len(self.finalGroups)} 个分组，共 {total_channels} 个有效频道。")
 
 
 if __name__ == "__main__":
