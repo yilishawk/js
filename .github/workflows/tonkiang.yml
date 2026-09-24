@@ -1,4 +1,4 @@
-name: 自动定时更新IPTV源
+name: tonkiang更新IPTV源
 
 on:
   schedule:
