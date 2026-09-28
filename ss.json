@@ -9,6 +9,15 @@
       "quickSearch": 1,
       "filterable": 1
     },
+	            {
+      "key": "Avdb",
+      "name": "Avdb",
+      "type": 3,
+      "api": "csp_Avdb",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 	                  {
       "key": "Xszav2",
       "name": "Xszav2",
