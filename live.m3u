@@ -1,99 +1,99 @@
 #EXTM3U
 #EXTINF:-1 group-title="央视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2201/057/821/202204010054_1626677671392_H32_1080.webp",CCTV1综合
-http://124.90.140.215:1234/608807420
+http://120.4.126.1:1234/608807420
 #EXTINF:-1 group-title="央视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/346/945/202205311432_1626678578843_H32_1080.webp",CCTV2财经
-http://124.90.140.215:1234/631780532
+http://120.4.126.1:1234/631780532
 #EXTINF:-1 group-title="央视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/864/202204010055_1626679244629_H32_1080.webp",CCTV3综艺
-http://124.90.140.215:1234/624878271
+http://120.4.126.1:1234/624878271
 #EXTINF:-1 group-title="央视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/346/947/202204010054_1626679413842_H32_1080.webp",CCTV4中文国际
-http://124.90.140.215:1234/631780421
+http://120.4.126.1:1234/631780421
 #EXTINF:-1 group-title="央视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/516/171/202204010048_1626679603804_H32_1080.webp",CCTV5体育
-http://124.90.140.215:1234/641886683
+http://120.4.126.1:1234/641886683
 #EXTINF:-1 group-title="央视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/516/288/202204010048_1626679712843_H32_1080.webp",CCTV5+体育赛事
-http://124.90.140.215:1234/641886773
+http://120.4.126.1:1234/641886773
 #EXTINF:-1 group-title="央视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/872/202204010054_1626679914432_H32_1080.webp",CCTV6电影
-http://124.90.140.215:1234/624878396
+http://120.4.126.1:1234/624878396
 #EXTINF:-1 group-title="央视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/622/202204010054_1626680119210_H32_1080.webp",CCTV7国防军事
-http://124.90.140.215:1234/673168121
+http://120.4.126.1:1234/673168121
 #EXTINF:-1 group-title="央视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/868/202204010049_1626677150014_H32_1080.webp",CCTV8电视剧
-http://124.90.140.215:1234/624878356
+http://120.4.126.1:1234/624878356
 #EXTINF:-1 group-title="央视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/624/202204010054_1626677545059_H32_1080.webp",CCTV9纪录
-http://124.90.140.215:1234/673168140
+http://120.4.126.1:1234/673168140
 #EXTINF:-1 group-title="央视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/874/202204010054_1626677767922_H32_1080.webp",CCTV10科教
-http://124.90.140.215:1234/624878405
+http://120.4.126.1:1234/624878405
 #EXTINF:-1 group-title="央视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/988/610/202204010054_1626677922732_H32_1080.webp",CCTV11戏曲
-http://124.90.140.215:1234/667987558
+http://120.4.126.1:1234/667987558
 #EXTINF:-1 group-title="央视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/627/202204010053_1626678108629_H32_1080.webp",CCTV12社会与法
-http://124.90.140.215:1234/673168185
+http://120.4.126.1:1234/673168185
 #EXTINF:-1 group-title="央视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2202/208/864/202204010051_2202208864_H32_1080.webp",CCTV13新闻
-http://124.90.140.215:1234/608807423
+http://120.4.126.1:1234/608807423
 #EXTINF:-1 group-title="央视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/875/202204010054_1626678147073_H32_1080.webp",CCTV14少儿
-http://124.90.140.215:1234/624878440
+http://120.4.126.1:1234/624878440
 #EXTINF:-1 group-title="央视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/628/202204010054_1626678245130_H32_1080.webp",CCTV15音乐
-http://124.90.140.215:1234/673168223
+http://120.4.126.1:1234/673168223
 #EXTINF:-1 group-title="央视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/631/202204010052_1626678428060_H32_1080.webp",CCTV17农业农村
-http://124.90.140.215:1234/673168256
+http://120.4.126.1:1234/673168256
 #EXTINF:-1 group-title="央视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/315/202204010055_1626831010992_H32_1080.webp",CCTV4欧洲
-http://124.90.140.215:1234/608807419
+http://120.4.126.1:1234/608807419
 #EXTINF:-1 group-title="央视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/344/202204010055_1626830746239_H32_1080.webp",CCTV4美洲
-http://124.90.140.215:1234/608807416
+http://120.4.126.1:1234/608807416
 #EXTINF:-1 group-title="央视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/356/202502251602_1740470541608_H32_1080.webp",CGTN外语纪录
-http://124.90.140.215:1234/609006487
+http://120.4.126.1:1234/609006487
 #EXTINF:-1 group-title="央视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/303/202502251557_1740470230464_H32_1080.webp",CGTN阿拉伯语
-http://124.90.140.215:1234/609154345
+http://120.4.126.1:1234/609154345
 #EXTINF:-1 group-title="央视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/337/202502251600_1740470437874_H32_1080.webp",CGTN西班牙语
-http://124.90.140.215:1234/609006450
+http://120.4.126.1:1234/609006450
 #EXTINF:-1 group-title="央视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/324/202502251559_1740470371334_H32_1080.webp",CGTN法语
-http://124.90.140.215:1234/609006476
+http://120.4.126.1:1234/609006476
 #EXTINF:-1 group-title="央视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/332/202502251558_1740470314603_H32_1080.webp",CGTN俄语
-http://124.90.140.215:1234/609006446
+http://120.4.126.1:1234/609006446
 #EXTINF:-1 group-title="央视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/002/202405081702_1715158648861_H32_1080.webp",老故事
-http://124.90.140.215:1234/884121956
+http://120.4.126.1:1234/884121956
 #EXTINF:-1 group-title="央视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/893/202405081702_1715158828498_H32_1080.webp",发现之旅
-http://124.90.140.215:1234/624878970
+http://120.4.126.1:1234/624878970
 #EXTINF:-1 group-title="央视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/019/355/202405081702_1715158115119_H32_1080.webp",中学生
-http://124.90.140.215:1234/708869532
+http://120.4.126.1:1234/708869532
 #EXTINF:-1 group-title="央视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2202/196/407/202204010052_1642124778350_H32_1080.webp",CGTN
-http://124.90.140.215:1234/609017205
+http://120.4.126.1:1234/609017205
 #EXTINF:-1 group-title="卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/185/202508040856_5100043384_H32_1080.webp",东方卫视
-http://124.90.140.215:1234/651632648
+http://120.4.126.1:1234/651632648
 #EXTINF:-1 group-title="卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/199/408/202104022140_5100156802_H32_1080.webp",江苏卫视
-http://124.90.140.215:1234/623899368
+http://120.4.126.1:1234/623899368
 #EXTINF:-1 group-title="卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2202/428/795/202107191524_2202428795_H32_1080.webp",广东卫视
-http://124.90.140.215:1234/608831231
+http://120.4.126.1:1234/608831231
 #EXTINF:-1 group-title="卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/306/202512091630_1765269008692_H32_1080.webp",北京卫视
-http://124.90.140.215:1234/630287636
+http://120.4.126.1:1234/630287636
 #EXTINF:-1 group-title="卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/198/202509221600_5101043014_H32_1080.webp",辽宁卫视
-http://124.90.140.215:1234/630291707
+http://120.4.126.1:1234/630291707
 #EXTINF:-1 group-title="卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/316/202512310003_1766556161260_H32_1080.webp",河北卫视
-http://124.90.140.215:1234/962042070
+http://120.4.126.1:1234/962042070
 #EXTINF:-1 group-title="卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/021/492/202303201551_1658134104486_H32_1080.webp",江西卫视
-http://124.90.140.215:1234/783847495
+http://120.4.126.1:1234/783847495
 #EXTINF:-1 group-title="卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/021/585/202304031400_1679994692427_H32_1080.webp",河南卫视
-http://124.90.140.215:1234/790187291
+http://120.4.126.1:1234/790187291
 #EXTINF:-1 group-title="卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/020/475/202207191732_1658131370190_H32_1080.webp",陕西卫视
-http://124.90.140.215:1234/738910838
+http://120.4.126.1:1234/738910838
 #EXTINF:-1 group-title="卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/322/852/202304081513_1677570739176_H32_1080.webp",大湾区卫视
-http://124.90.140.215:1234/608917627
+http://120.4.126.1:1234/608917627
 #EXTINF:-1 group-title="卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/163/202501231715_1658138615859_H32_1080.webp",湖北卫视
-http://124.90.140.215:1234/947472496
+http://120.4.126.1:1234/947472496
 #EXTINF:-1 group-title="卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/164/202501231715_1658138733016_H32_1080.webp",吉林卫视
-http://124.90.140.215:1234/947472500
+http://120.4.126.1:1234/947472500
 #EXTINF:-1 group-title="卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/166/202501231715_1658138545016_H32_1080.webp",青海卫视
-http://124.90.140.215:1234/947472506
+http://120.4.126.1:1234/947472506
 #EXTINF:-1 group-title="卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/182/202507151427_1744624877917_H32_1080.webp",东南卫视
-http://124.90.140.215:1234/849116810
+http://120.4.126.1:1234/849116810
 #EXTINF:-1 group-title="卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/165/202501231715_1658138869802_H32_1080.webp",海南卫视
-http://124.90.140.215:1234/947472502
+http://120.4.126.1:1234/947472502
 #EXTINF:-1 group-title="卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/183/202507151427_1690875420570_H32_1080.webp",海峡卫视
-http://124.90.140.215:1234/849119120
+http://120.4.126.1:1234/849119120
 #EXTINF:-1 group-title="卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/186/202508051621_1754370274934_H32_1080.webp",中国农林卫视
-http://124.90.140.215:1234/956904896
+http://120.4.126.1:1234/956904896
 #EXTINF:-1 group-title="卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/192/202508061552_1754385902654_H32_1080.webp",兵团卫视
-http://124.90.140.215:1234/956923145
+http://120.4.126.1:1234/956923145
 #EXTINF:-1 group-title="卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/262/202510241641_1658131953051_H32_1080.webp",宁夏卫视
-http://124.90.140.215:1234/738910535
+http://120.4.126.1:1234/738910535
 #EXTINF:-1 group-title="卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/305/202512021827_1658131240998_H32_1080.webp",重庆卫视
-http://124.90.140.215:1234/738910914
+http://120.4.126.1:1234/738910914
 #EXTINF:-1 group-title="卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/307/202512081329_1764320715088_H32_1080.webp",三沙卫视
-http://124.90.140.215:1234/961023778
+http://120.4.126.1:1234/961023778
